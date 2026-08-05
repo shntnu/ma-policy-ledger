@@ -57,7 +57,7 @@ OVERRIDES: dict[str, tuple[str, str, str]] = {
     "H1283": ("include", "IN-TEXT", "public higher-ed student information protection"),
     "H4266": ("include", "IN-TEXT", "same title as H1283, later filing"),
     "S844": ("include", "IN-TEXT", "companion of H1283"),
-    "H1455": ("include", "IN-TITLE", "consent requirement for tracking electronic devices"),
+    "H1455": ("include", "IN-TITLE", "tolling data privacy; text is verbatim S209 despite the title"),
     "H1519": ("include", "IN-TEXT", "carrier disclosure of location data for missing persons"),
     "H1572": ("include", "IN-TITLE", "motor vehicle tracking device consent"),
     "H1809": ("include", "IN-TITLE", "motor vehicle electronic tracking prohibition"),
@@ -80,7 +80,12 @@ OVERRIDES: dict[str, tuple[str, str, str]] = {
     "H1728": ("include", "IN-TITLE", "facial recognition commission recommendations"),
     "H4359": ("include", "IN-TITLE", "facial recognition; same subject as H1728"),
     "S927": ("include", "IN-TITLE", "facial recognition companion"),
-    "H4832": ("include", "IN-TEXT", "civil rights and technology: surveillance/location warrant provisions"),
+    # H4832 was provisionally included on its surveillance/location-warrant
+    # text; full reading plus its official history (new draft of S2483, H1488
+    # and H4103, all robotic-device/drone bills) shows a robotic-device
+    # regime with no personal-data handling rule, so it is out per the
+    # physical-surveillance boundary.
+    "H4832": ("exclude", "EX-ADJACENT", "robotic-device regulation; no personal-data handling rule"),
     "H3431": ("include", "IN-TEXT", "ALPR data regulation (retention, access, GPS coordinates)"),
     "S1557": ("include", "IN-TEXT", "police drone data minimization; biometric analysis ban"),
     # --- excludes: false positives of the term net

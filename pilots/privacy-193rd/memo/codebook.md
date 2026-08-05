@@ -1,7 +1,40 @@
 # Codebook: consumer data privacy, 193rd General Court (2023-2024)
 
-Status: draft, census stage.
-Later stages (atomization, linking, fate classification) will extend this file.
+Status: draft, atomization stage.
+Later stages (linking, fate classification) will extend this file.
+
+## Atomization rules (Goal 2)
+
+A proposition is the smallest change in law that could stand alone: it could
+be enacted by itself as a coherent, self-contained policy.
+Operational tests, applied in order:
+
+1. SEVERABILITY: if the provision were struck from the bill, would the rest
+   still function? If striking it breaks other provisions, it is part of a
+   larger proposition.
+2. STANDALONE SENSE: could a one-sentence description of the provision be
+   understood as a policy on its own ("data brokers must register with the
+   AG annually")? Definitions, effective dates, severability clauses, and
+   appropriations that merely fund another provision fail this test and
+   attach to the substantive proposition they serve.
+3. GRAIN LIMIT: enforcement provisions (penalties, AG authority, private
+   rights of action) are separate propositions only when the bill treats
+   them separately or when companion bills differ on exactly that point;
+   otherwise they attach to the duty they enforce.
+
+Propositions are identified across bills, not within one bill: two bills
+proposing the same smallest change carry the same proposition ID.
+Whether two provisions are "the same" proposition: same legal mechanism
+aimed at the same target (not merely the same goal).
+A stricter and a weaker version of the same mechanism are the same
+proposition (the difference is recorded on the bill-proposition edge);
+a different mechanism for the same goal is a different proposition.
+
+IDs are `P-NNN` (persistent, never reused; retired IDs stay retired).
+The proposition table is hand-authored analysis stored as data in
+`scripts/atoms.py`, compiled and validated by `scripts/06_compile_atoms.py`;
+every bill-proposition assignment cites the section(s) of the bill text
+that ground it.
 
 ## Domain definition
 
