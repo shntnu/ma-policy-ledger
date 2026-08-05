@@ -67,6 +67,13 @@ BROAD_TERMS = {
     "telecommunications": r"\btelecommunications\b",
     "consumer_protection": r"\bconsumer protection\b",
     "artificial_intelligence": r"artificial intelligence|algorithm",
+    # Added after a vocabulary audit of all 10,156 titles: domain-adjacent
+    # topics whose relevance can only be settled from bill text.
+    "plate_reader": r"license plate reader",
+    "drones": r"\bdrone|unmanned (aerial|aircraft)",
+    "credit_reporting": r"credit report",
+    "right_to_repair": r"right to repair|mechanical data|motor vehicle data",
+    "deepfake": r"deep ?fake",
 }
 
 COMMITTEE_NET = ["J33"]

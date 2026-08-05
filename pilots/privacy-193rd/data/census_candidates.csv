@@ -152,7 +152,7 @@ S971,SD1269,An Act relative to the malicious doxing of personal information,no,B
 ,HD4683,A communication from the Executive Office of Public Safety and Security (see item 8900-0001 of Chapter 28 of the Acts of 2023) submitting the second quarterly data report of the Massachusetts Department of Correction for fiscal year 2023,no,Executive Office of Public Safety and Security,,data,,
 ,HD4693,A communication from the Executive Office of Public Safety and Security (see item 8900-0001 of Section 2 of Chapter 28 of the Acts of 2023) submitting the fourth quarter data report of the Department of Correction for calendar year 2022,no,Executive Office of Public Safety and Security,,data,,
 ,SD2861,Communication from the Department of Correction (pursuant to item 8900-0001 of Section 2 of Chapter 126 of the Acts of 2022) submitting its quarterly corrections data report for the fourth quarter of calendar year 2022,no,Department of Correction,,data,,
-,HD4699,An Act relating to access to motor vehicle data by the owner or designee of a motor vehicle,no,Daniel J. Hunt,,data,,
+,HD4699,An Act relating to access to motor vehicle data by the owner or designee of a motor vehicle,no,Daniel J. Hunt,,data;right_to_repair,,
 ,SD2872,EOPSS 2021 Electronic Control Weapons Report,no,Executive Office of Public Safety and Security,,electronic,,
 ,HD4703,A communication from the Executive Office of Public Safety and Security (see Section 2 of Chapter 170 of the Acts of 2004) submitting its annual report examining data reported by Massachusetts law enforcement agencies with approved electronic control weapons training programs for calendar year 2021,no,Executive Office of Public Safety and Security,,data;electronic,,
 ,HD4726,"A statement of available resources and expenditures - statutory basis - and additional information regarding the House of Representatives for the Fiscal Year ended June 30, 2021",no,CliftonAllenLarson LLP,,information,,
@@ -222,12 +222,14 @@ H1212,HD2354,An Act relative to determination of need of new technology,no,Megha
 H1222,HD3260,An Act to ensure uniform and transparent reporting of medical debt data,no,John J. Mahoney,,data,,https://malegislature.gov/Bills/193/H1222
 H1238,HD2828,An Act to improve patient care through integrated electronic health records,no,Daniel J. Ryan,,electronic,,https://malegislature.gov/Bills/193/H1238
 H1283,HD3629,An Act protecting public higher education student information,no,Michael J. Moran,,information,,https://malegislature.gov/Bills/193/H1283
+H1308,HD3851,An Act relative to the use of credit reporting in housing,no,Manny Cruz,,credit_reporting,,https://malegislature.gov/Bills/193/H1308
 H1338,HD1939,An Act relative to electronic meetings and voting in condominiums,no,Kevin G. Honan,,electronic,,https://malegislature.gov/Bills/193/H1338
 H1349,HD2259,An Act improving municipal access to general existing housing data,no,Kate Lipper-Garabedian,,data,,https://malegislature.gov/Bills/193/H1349
 H1394,HD1243,An Act relative to law enforcement access to prescription monitoring data,no,F. Jay Barrows,,data,,https://malegislature.gov/Bills/193/H1394
 H1405,HD1618,An Act relative to uniform real property electronic recordings,no,Daniel Cahill,,electronic,,https://malegislature.gov/Bills/193/H1405
 H1422,HD3344,An Act relative to Trial Court data collection,no,Tackey Chan,,data,,https://malegislature.gov/Bills/193/H1422
 H1433,HD135,An Act relative to the free flow of information,no,Josh S. Cutler,,information,,https://malegislature.gov/Bills/193/H1433
+H1488,HD3717,An Act relative to unmanned aerial vehicles,no,Michael J. Finn,,drones,,https://malegislature.gov/Bills/193/H1488
 H1490,HD3137,An Act relative to authorizing electronic signatures for criminal complaints,no,Carole A. Fiola,,electronic,,https://malegislature.gov/Bills/193/H1490
 H1519,HD1368,An Act relative to locating missing persons via mobile data  (Kelsey's Bill),no,Colleen M. Garry,,data,,https://malegislature.gov/Bills/193/H1519
 H1522,HD219,An Act relative to the Uniform Electronic Legal Material Act,no,Carmine Lawrence Gentile,,electronic,,https://malegislature.gov/Bills/193/H1522
@@ -273,7 +275,7 @@ H2814,HD3719,An Act relative to smart gun technology tax incentive program,no,Ca
 H2821,HD1507,An Act to establish a digital advertising revenue commission,no,Richard M. Haggerty,,digital,,https://malegislature.gov/Bills/193/H2821
 H2828,HD3230,An Act establishing a tax for online advertising,no,Russell E. Holmes,,online,,https://malegislature.gov/Bills/193/H2828
 H2847,HD1717,An Act relative to exempting small businesses from the telecommunications tax,no,"Bradley H. Jones, Jr.",,telecommunications,,https://malegislature.gov/Bills/193/H2847
-H290,HD3509,An Act relative to the right to repair motor vehicle data law,no,Michael J. Finn,,data,,https://malegislature.gov/Bills/193/H290
+H290,HD3509,An Act relative to the right to repair motor vehicle data law,no,Michael J. Finn,,data;right_to_repair,,https://malegislature.gov/Bills/193/H290
 H2930,HD1683,An Act establishing a tax for online advertising,no,David M. Rogers,,online,,https://malegislature.gov/Bills/193/H2930
 H2966,HD3144,An Act establishing a tax on local revenues from digital advertising,no,Erika Uyterhoeven,,digital,,https://malegislature.gov/Bills/193/H2966
 H2972,HD662,An Act relative to preserving information content of historic resources with community preservation funds,no,David T. Vieira,,information,,https://malegislature.gov/Bills/193/H2972
@@ -286,17 +288,21 @@ H319,HD94,An Act to clarify the Consumer Protection Act,no,Christopher Hendricks
 H3191,HD1575,An Act encouraging advanced leak repair technology and renewable thermal energy infrastructure,no,Joan Meschino,,technology,,https://malegislature.gov/Bills/193/H3191
 H3217,HD2804,An Act relative to consumer access to residential energy information,no,Jeffrey N. Roy,,information,,https://malegislature.gov/Bills/193/H3217
 H3239,HD3425,An Act empowering library access to electronic books and digital audiobooks,no,Ruth B. Balser,,electronic;digital,,https://malegislature.gov/Bills/193/H3239
+H3256,HD1075,"An Act regulating the flight of unmanned aircraft/drones in the airspace over all early, elementary and secondary education facilities in the Commonwealth",no,Bruce J. Ayers,,drones,,https://malegislature.gov/Bills/193/H3256
 H3278,HD154,An Act relative to electronic license plates,no,Daniel Cahill,,electronic,,https://malegislature.gov/Bills/193/H3278
-H329,HD557,An Act relative to disclosure notice in the right to repair motor vehicle data law,no,Steven S. Howitt,,data,,https://malegislature.gov/Bills/193/H329
+H329,HD557,An Act relative to disclosure notice in the right to repair motor vehicle data law,no,Steven S. Howitt,,data;right_to_repair,,https://malegislature.gov/Bills/193/H329
 H3309,HD1616,An Act establishing an auction or online transfer for low number registration plates in the Registry of Motor Vehicles,no,Ann-Margaret Ferrante,,online,,https://malegislature.gov/Bills/193/H3309
+H3325,HD3517,An Act relative to the safe operation of drones in the Commonwealth,no,Jessica Ann Giannino,,drones,,https://malegislature.gov/Bills/193/H3325
 H3358,HD179,An Act relative to airplane noise data collection and Good Neighbor Policy,no,Sally P. Kerans,,data,,https://malegislature.gov/Bills/193/H3358
 H3372,HD3081,An Act relative to third party delivery data reporting,no,Jay D. Livingstone,,data,,https://malegislature.gov/Bills/193/H3372
+H3429,HD595,An Act relative to unmanned aerial systems,no,William M. Straus,,drones,,https://malegislature.gov/Bills/193/H3429
+H3431,HD425,An Act relative to license plate readers,no,William M. Straus,,plate_reader,,https://malegislature.gov/Bills/193/H3431
 H3445,HD3181,An Act relative to automobile technology,no,William M. Straus,,technology,,https://malegislature.gov/Bills/193/H3445
 H3469,HD2920,An Act relative to electronic toll payments,no,Tommy Vitolo,,electronic,,https://malegislature.gov/Bills/193/H3469
 H351,HD2217,An Act relative to consumer protection on online automobile franchise transactions,no,Jack Patrick Lewis,,online;consumer_protection,,https://malegislature.gov/Bills/193/H351
 H3561,HD1688,An Act relative to posting information about the National Human Trafficking Resource Center hotline,no,Tackey Chan,,information,,https://malegislature.gov/Bills/193/H3561
 H3585,HD1241,An Act relative to telehealth and digital equity for patients,no,Vanna Howard,,digital,,https://malegislature.gov/Bills/193/H3585
-H360,HD3826,An Act relative to digital right to repair,no,Adrian C. Madaro,,digital,,https://malegislature.gov/Bills/193/H360
+H360,HD3826,An Act relative to digital right to repair,no,Adrian C. Madaro,,digital;right_to_repair,,https://malegislature.gov/Bills/193/H360
 H3700,HD3029,An Act relative to consumer protection and private utility lines and poles,no,Dylan A. Fernandes,,consumer_protection,,https://malegislature.gov/Bills/193/H3700
 H3763,HD2876,An Act relative to healthcare proxy information,no,Sally P. Kerans,,information,,https://malegislature.gov/Bills/193/H3763
 H3780,HD3439,"An Act related to the resiliency, public safety and quality of broadband in Massachusetts",no,Kip A. Diggs,,,J33,https://malegislature.gov/Bills/193/H3780
@@ -325,7 +331,7 @@ H4347,HD4887,Extension Order - Consumer Protection and Professional Licensure,no
 H4348,HD4888,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4348
 H4349,HD4889,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4349
 H4378,HD4905,"Extension Order - Telecommunications, Utilities and Energy",no,Jeffrey N. Roy,,telecommunications,,https://malegislature.gov/Bills/193/H4378
-H4406,,An Act establishing a task force on the use of deepfake and digital content forgery,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",,digital,J33,https://malegislature.gov/Bills/193/H4406
+H4406,,An Act establishing a task force on the use of deepfake and digital content forgery,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",,digital;deepfake,J33,https://malegislature.gov/Bills/193/H4406
 H4411,,"An Act relating to patient cost, benefit and coverage information, choice, and price transparency",no,Joint Committee on Financial Services,,information,,https://malegislature.gov/Bills/193/H4411
 H4421,,An Act establishing an education-to-career data center,no,Joint Committee on Education,,data,,https://malegislature.gov/Bills/193/H4421
 H4456,HD4863,An Act relative to financial technology services,no,Mark J. Cusack,,technology,,https://malegislature.gov/Bills/193/H4456
@@ -361,7 +367,7 @@ H69,HD2256,An Act establishing a special commission on blockchain and cryptocurr
 H70,HD3962,An Act providing for consumer protection in a digital economy,no,Kate Lipper-Garabedian,,digital;consumer_protection,J33,https://malegislature.gov/Bills/193/H70
 H704,HD193,An Act relative to honest online political advertisement disclosure and election interference,no,David Henry Argosky LeBoeuf,,online,,https://malegislature.gov/Bills/193/H704
 H71,HD3960,An Act creating a pilot program to explore digital innovation in government,no,Kate Lipper-Garabedian,,digital,J33,https://malegislature.gov/Bills/193/H71
-H72,HD2298,An Act to protect against deep fakes used to facilitate criminal or torturous conduct,no,Jay D. Livingstone,,,J33,https://malegislature.gov/Bills/193/H72
+H72,HD2298,An Act to protect against deep fakes used to facilitate criminal or torturous conduct,no,Jay D. Livingstone,,deepfake,J33,https://malegislature.gov/Bills/193/H72
 H728,HD2073,An Act relative to public information requests,no,Marcus S. Vaughn,,information,,https://malegislature.gov/Bills/193/H728
 H74,HD215,An Act to modernize funding for community media programming,no,Joan Meschino,,,J33,https://malegislature.gov/Bills/193/H74
 H75,HD464,An Act creating the Massachusetts digital equity broadband adoption program,no,Frank A. Moran,,digital,J33,https://malegislature.gov/Bills/193/H75
@@ -383,14 +389,16 @@ S1106,SD881,An Act specifying an electronic system to ensure that sales of certa
 S1111,SD1328,An Act relative to civil asset forfeiture transparency and data reporting,no,Rebecca L. Rausch,,data,,https://malegislature.gov/Bills/193/S1111
 S1115,SD2280,An Act to protect the free flow of information in Massachusetts,no,Rebecca L. Rausch,,information,,https://malegislature.gov/Bills/193/S1115
 S1137,SD953,An Act relative to legal advertisements in online-only newspapers,no,John C. Velis,,online,,https://malegislature.gov/Bills/193/S1137
+S1144,SD1542,An Act regulating the use of credit reports by employers,no,Michael J. Barrett,,credit_reporting,,https://malegislature.gov/Bills/193/S1144
 S1187,SD954,An Act to make data on workforce development outcomes public and accessible,no,Patricia D. Jehlen,,data,,https://malegislature.gov/Bills/193/S1187
 S1378,SD2205,An Act regarding death certificates online,no,Anne M. Gobi,,online,,https://malegislature.gov/Bills/193/S1378
 S1386,SD1887,An Act relative to the determination of need of new technology,no,John F. Keenan,,technology,,https://malegislature.gov/Bills/193/S1386
-S142,SD793,An Act relative to digital right to repair,no,Michael D. Brady,,digital,,https://malegislature.gov/Bills/193/S142
+S142,SD793,An Act relative to digital right to repair,no,Michael D. Brady,,digital;right_to_repair,,https://malegislature.gov/Bills/193/S142
 S1433,SD2060,An Act relative to stroke data reporting,no,Michael O. Moore,,data,,https://malegislature.gov/Bills/193/S1433
 S1470,SD621,An Act relative to personal health information portability and accessibility,no,Bruce E. Tarr,,information,,https://malegislature.gov/Bills/193/S1470
 S1492,SD659,An Act relative to crime gun data reporting and analysis,no,Cynthia Stone Creem,,data,,https://malegislature.gov/Bills/193/S1492
 S150,SD619,An Act relative to consumer protection on online automobile franchise transactions,no,Brendan P. Crighton,,online;consumer_protection,,https://malegislature.gov/Bills/193/S150
+S1557,SD1513,An Act relative to the use of unmanned aerial systems,no,Michael O. Moore,,drones,,https://malegislature.gov/Bills/193/S1557
 S156,SD227,An Act relative to the safe use of electronic devices by children,no,Julian Cyr,,electronic,,https://malegislature.gov/Bills/193/S156
 S1567,SD1901,Resolve establishing a special commission to study technology to monitor and protect individuals in law enforcement custody,no,Michael O. Moore,,technology,,https://malegislature.gov/Bills/193/S1567
 S170,SD1791,An Act establishing an online lottery,no,Paul R. Feeney,,online,,https://malegislature.gov/Bills/193/S170
@@ -405,8 +413,9 @@ S2188,SD69,An Act modernizing library access to electronic books and digital aud
 S2210,SD464,An Act relative to increasing operational safety for keyless ignition technology in motor vehicles,no,Brendan P. Crighton,,technology,,https://malegislature.gov/Bills/193/S2210
 S2235,SD2289,An Act to remediate and reopen the visitor information center on I-95 in Northern Bristol County for traveler safety and convenience and to promote regional tourism and economic development,no,Paul R. Feeney,,information,,https://malegislature.gov/Bills/193/S2235
 S2261,SD1159,An Act relative to online driver education,no,Joan B. Lovely,,online,,https://malegislature.gov/Bills/193/S2261
+S2308,SD2304,An Act relative to unmanned aerial vehicles in the Commonwealth,no,John C. Velis,,drones,,https://malegislature.gov/Bills/193/S2308
 S2367,SD2241,An Act relative to third party delivery data reporting,no,Brendan P. Crighton,,data,,https://malegislature.gov/Bills/193/S2367
-S2478,,An Act relative to digital right to repair,no,Joint Committee on Consumer Protection and Professional Licensure,,digital,,https://malegislature.gov/Bills/193/S2478
+S2478,,An Act relative to digital right to repair,no,Joint Committee on Consumer Protection and Professional Licensure,,digital;right_to_repair,,https://malegislature.gov/Bills/193/S2478
 S26,SD805,An Act relative to the modernization of state agency information technology systems,no,Brendan P. Crighton,,information;technology,J33,https://malegislature.gov/Bills/193/S26
 S2620,SD3002,"Telecommunications, Utilities, and Energy - Extension Order",no,Michael J. Barrett,,telecommunications,,https://malegislature.gov/Bills/193/S2620
 S2630,,"Order relative to authorizing the joint committee on Consumer Protection and Professional Licensure, to make an investigation and study of certain current Senate documents relative to consumer protection and professional licensure matters",no,Joint Committee on Consumer Protection and Professional Licensure,,consumer_protection,,https://malegislature.gov/Bills/193/S2630
@@ -415,7 +424,7 @@ S2666,,An Act establishing an education-to-career data center,no,Joint Committee
 S27,SD1217,"An Act to protect private electronic communication, browsing and other activity",no,James B. Eldridge,,electronic,J33,https://malegislature.gov/Bills/193/S27
 S2718,SD3146,"Telecommunications, Utilities and Energy - Extension Order",no,Michael J. Barrett,,telecommunications,,https://malegislature.gov/Bills/193/S2718
 S2719,,"Order relative to authorizing the joint committee on Telecommunications, Utilities and Energy to make an investigation and study of certain current Senate documents relative to matters of telecommunications, utilities and energy.",no,"Joint Committee on Telecommunications, Utilities and Energy",,telecommunications,,https://malegislature.gov/Bills/193/S2719
-S2730,SD2932,An Act relative to deceptive and fraudulent deepfakes in election communications,no,Barry R. Finegold,,,J33,https://malegislature.gov/Bills/193/S2730
+S2730,SD2932,An Act relative to deceptive and fraudulent deepfakes in election communications,no,Barry R. Finegold,,deepfake,J33,https://malegislature.gov/Bills/193/S2730
 S275,SD1703,An Act relative to licensed care and financial resource information for parents of newborns,no,Paul R. Feeney,,information,,https://malegislature.gov/Bills/193/S275
 S2771,,An Act to modernize funding for community media programming,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",,,J33,https://malegislature.gov/Bills/193/S2771
 S28,SD2028,An Act to ensure a free and open internet in the commonwealth,no,James B. Eldridge,,internet,J33,https://malegislature.gov/Bills/193/S28
@@ -450,6 +459,7 @@ S81,SD1146,An Act requiring licensure for use of graduated electronic decelerato
 S844,SD343,An Act protecting public higher education student information,no,Jacob R. Oliveira,,information,,https://malegislature.gov/Bills/193/S844
 S865,SD1742,An Act improving municipal access to general existing housing data,no,Sal N. DiDomenico,,data,,https://malegislature.gov/Bills/193/S865
 S87,SD190,An Act providing for coordinated data and assistance to address family homelessness,no,Adam Gomez,,data,,https://malegislature.gov/Bills/193/S87
+S877,SD588,An Act relative to the use of credit reporting in housing,no,Adam Gomez,,credit_reporting,,https://malegislature.gov/Bills/193/S877
 S900,SD1534,An Act relative to electronic meetings and voting in condominiums,no,Rebecca L. Rausch,,electronic,,https://malegislature.gov/Bills/193/S900
 S930,SD802,An Act relative to access to a decedent's electronic mail accounts,no,Cynthia Stone Creem,,electronic,,https://malegislature.gov/Bills/193/S930
 S931,SD815,An Act improving juvenile justice data collection,no,Cynthia Stone Creem,,data,,https://malegislature.gov/Bills/193/S931

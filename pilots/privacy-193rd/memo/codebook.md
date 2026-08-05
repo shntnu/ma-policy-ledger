@@ -23,15 +23,38 @@ Included subdomains:
 - children's and students' online data and social media data practices
 - browsing, search, and telematics data
 - data security and breach notification obligations
-- interception of wire and electronic communications when the object is
-  personal communications content (the modern wiretap boundary)
+- government acquisition of personal data held by commercial parties
+  (location shield acts, warrant standards for stored communications and
+  browsing data, carrier location disclosure)
 - privacy of images of a person (nonconsensual image distribution) ONLY when
   the mechanism is a data-handling rule; criminal harassment provisions
   without a data-handling rule are excluded
-- government surveillance of individuals through commercial data or
-  technology (for example, purchase of location data, ALPR databases)
+- government surveillance of individuals through data-generating technology
+  (facial recognition, ALPR data, police drone data rules)
+- restrictions on disclosure of personal information held in government
+  records (911 recordings, lottery winners, victim compensation records,
+  firearm licensee information)
 
 Excluded, with the boundary rationale:
+
+- wiretap/interception statutes (c.272 s.99 amendments, warrant length,
+  recording defenses): real-time interception authority is treated as
+  criminal procedure, a separate domain.
+  The line drawn: access to STORED commercial data about a person is IN
+  (location shield, H1653/S27); authority to INTERCEPT communications in
+  real time is OUT.
+  Excluded bills: H73, H1722, H1786, S1075, S1093, S1128, S1141.
+- forensic DNA (database expansion, familial search, DNA exceptions to
+  limitation periods): criminal-procedure use of biometric material, not
+  data-handling rules for consumers
+- consumer reporting regulation (credit reports in housing or employment):
+  consumer-finance domain; the mechanism is anti-discrimination or credit
+  regulation, not data privacy (mortgage trigger-lead bills stay IN because
+  their mechanism is the sale of application data)
+- right-to-repair telematics: expands data ACCESS for repair-market
+  competition rather than protecting personal data
+- physical or visual privacy without a data-handling rule (video
+  surveillance of neighbors, drone peeping offenses, nursing-home dignity)
 
 - pure cybersecurity of state systems with no individual-rights provision
   (infrastructure hardening, IT funding)
@@ -85,3 +108,15 @@ census checkpoint. Reason codes:
   domain definition above (with subcategory noted)
 - `EX-NOBILL`: docket-book-only entry that never received a bill number;
   counted separately, text unavailable through the bill API
+- `EX-PROCEDURAL`: committee extension orders and statutory annual reports
+  (for example the district attorneys' wiretap reports), which are filings
+  but not proposed legislation
+
+After the first pass, a vocabulary audit of all 10,156 titles added five
+speculative term groups (license plate reader, drone/unmanned, credit
+report, right to repair, deepfake) to the broad net so their relevance could
+be settled from bill text rather than assumption; the resulting decisions
+are recorded in `scripts/04_inclusion.py` OVERRIDES with per-bill notes.
+Every override entry names its reason code and a one-line justification;
+the auto rule handled the unambiguous cases (38 includes, all strong-term,
+and the no-evidence excludes).
