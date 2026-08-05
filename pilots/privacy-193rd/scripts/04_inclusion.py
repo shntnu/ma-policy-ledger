@@ -199,6 +199,15 @@ ADDITIONS = {
     "H3003": ("An Act ensuring equitable representation in the Commonwealth", "IN-ENACTED-FEEDBACK", "agency demographic-data collection with PII confidentiality"),
     # SFI personal-info withholding: enacted (expanded) as 2024 c.248 s.27
     "H2991": ("An Act relative to access to statements of financial interest", "IN-ENACTED-FEEDBACK", "SFI home-address withholding; enacted version broader"),
+    # Enacted origin vehicles of in-domain provisions (chapter OriginBill
+    # records; third-pass review finding 2). Budget outside-sections are
+    # census units per the brief; the vehicle carries them.
+    "H58": ("An Act making appropriations for fiscal year 2023 (supplemental)", "IN-ENACTED-VEHICLE", "enacted as 2023 c.2; carries the notary provision (s.33)"),
+    "H4040": ("An Act making appropriations for fiscal year 2024 (GAA)", "IN-ENACTED-VEHICLE", "enacted as 2023 c.28; carries the demographic-data standard (s.7)"),
+    "H4977": ("An Act relative to the Affordable Homes Act", "IN-ENACTED-VEHICLE", "enacted as 2024 c.150; carries eviction sealing (ss.28,52)"),
+    "H5077": ("An Act making appropriations for fiscal year 2024 (supplemental-closeout)", "IN-ENACTED-VEHICLE", "enacted as 2024 c.248; carries the SFI withholding expansion (s.27)"),
+    "H4799": ("An Act making appropriations for fiscal year 2024 (closeout supplemental)", "IN-ENACTED-VEHICLE", "enacted as 2024 c.206; carries the TNC trip-data regime (s.15)"),
+    "S2884": ("An Act relative to bus lane enforcement", "IN-ENACTED-VEHICLE", "enacted as 2024 c.363; bus-camera data rules (found by the widened enacted-side scan)"),
 }
 
 

@@ -4818,5 +4818,1175 @@
     "bill": "H2732"
    }
   ]
+ },
+ "H58": {
+  "actions": [
+   {
+    "Date": "2023-03-01T00:00:00",
+    "Branch": "House",
+    "Action": "H57, published as amended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-01T00:00:00",
+    "Branch": "House",
+    "Action": "Passed to be engrossed - 153 YEAS to 0 NAYS (See YEA and NAY No. 11)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-02T11:04:23.8066667",
+    "Branch": "Senate",
+    "Action": "Read; and referred to the committee on Senate Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-06T00:00:00",
+    "Branch": "Senate",
+    "Action": "Committee recommended ought to pass with an amendment, inserting in place thereof the text of S23",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-06T00:00:00",
+    "Branch": "Senate",
+    "Action": "Order relative to subject matter adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-06T00:00:00",
+    "Branch": "Senate",
+    "Action": "Placed in the Orders of the Day for Thursday, March 9, 2023",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-09T14:44:14.8166667",
+    "Branch": "Senate",
+    "Action": "Read second",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-09T00:00:00",
+    "Branch": "Senate",
+    "Action": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S23, amended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-09T00:00:00",
+    "Branch": "Senate",
+    "Action": "Ordered to a third reading ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-09T00:00:00",
+    "Branch": "Senate",
+    "Action": "Read third",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-09T00:00:00",
+    "Branch": "Senate",
+    "Action": "Reprinted as amended, see S24",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-09T00:00:00",
+    "Branch": "Senate",
+    "Action": "Passed to be engrossed -see Roll Call #14 (Yeas 40 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-23T00:00:00",
+    "Branch": "House",
+    "Action": "House concurred in the Senate amendment with a further amendment, see text of H3548",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-23T00:00:00",
+    "Branch": "Senate",
+    "Action": "Rules suspended  ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-23T00:00:00",
+    "Branch": "Senate",
+    "Action": "Senate concurred in the further House amendment ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-23T14:20:14.76",
+    "Branch": "House",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-23T13:08:08.4433333",
+    "Branch": "Senate",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-23T00:00:00",
+    "Branch": "House",
+    "Action": "Enacted - 153 YEAS to 0 NAYS (See YEA and NAY No. 13)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-23T00:00:00",
+    "Branch": "Senate",
+    "Action": "Enacted -see Roll Call #15 (Yeas 39 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-29T16:00:00",
+    "Branch": "Executive",
+    "Action": "Signed by the Governor, Chapter 2 of the Acts of 2023",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 192,
+    "bill": "H4911"
+   },
+   {
+    "general_court": 192,
+    "bill": "H5394"
+   },
+   {
+    "general_court": 193,
+    "bill": "H3545"
+   },
+   {
+    "general_court": 193,
+    "bill": "H47"
+   },
+   {
+    "general_court": 193,
+    "bill": "H3548"
+   }
+  ]
+ },
+ "H4040": {
+  "actions": [
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "House",
+    "Action": "Reported from the committee of conference",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "House",
+    "Action": "Reported on a part of H3901",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "House",
+    "Action": "Referred to the committee on House Steering, Policy and Scheduling",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "House",
+    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting, the question being on acceptance",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "House",
+    "Action": "Committee of conference report accepted - 156 YEAS to 2 NAYS (See YEA and NAY No. 30)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "Senate",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "Senate",
+    "Action": "Committee of conference report accepted, in concurrence -see Roll Call #60 (Yeas 39 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T15:18:42.3533333",
+    "Branch": "House",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T12:00:00",
+    "Branch": "Senate",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "House",
+    "Action": "Motion to suspend Rule 40 rejected - 25 YEAS to 132 NAYS (See YEA and NAY No. 31)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "House",
+    "Action": "Enacted - 156 YEAS to 2 NAYS (See YEA and NAY No. 32)\r\n",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T00:00:00",
+    "Branch": "Senate",
+    "Action": "Enacted and laid before the Governor -see Roll Call #61 (Yeas 39 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-08-09T11:17:00",
+    "Branch": "Executive",
+    "Action": "Signed (in part) by the Governor, Chapter 28 of the Acts of 2023",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-08-10T00:00:00",
+    "Branch": "House",
+    "Action": "Governor returned to the House with vetoes and amendments to certain sections",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-08-10T00:00:00",
+    "Branch": "House",
+    "Action": "For message, see H4055",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-08-10T00:00:00",
+    "Branch": "House",
+    "Action": "For actions on the section returned with recommendations of amendments, see H4050 for sections 8 and 101",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-08-10T00:00:00",
+    "Branch": "House",
+    "Action": "For actions on the section returned with recommendations of amendments, see H4051 for section 15",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-08-10T00:00:00",
+    "Branch": "House",
+    "Action": "For actions on the section returned with recommendations of amendments, see H4052 for sections 50, 85 and 111",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-08-10T00:00:00",
+    "Branch": "House",
+    "Action": "For actions on the section returned with recommendations of amendments, see H4053 for section 57",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-08-10T00:00:00",
+    "Branch": "House",
+    "Action": "For actions on the section returned with recommendations of amendments, see H4054 for section 87",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "The following items and sections severally reported from committee on House Ways and Means recommending, in each instance, that the action of the General Court stand; and the items and sections severally were referred to the committee on House Steering, Policy and Scheduling",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Committee reported, in each instance, that the matter be scheduled for consideration; and Rule 7A suspended, in each instance ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 1231-1000 passed over veto - 156 YEAS to 0 NAYS (See YEA and NAY in Supplement, No. 34)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 1231-1000 passed over veto -see Roll Call #64 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 3000-1042 passed over veto - 155 YEAS to 1 NAYS (See YEA and NAY in Supplement, No. 35)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 3000-1042 passed over veto -see Roll Call #66 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 3000-5000 passed over veto - 156 YEAS to 0 NAYS (See YEA and NAY in Supplement, No. 36)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 3000-5000 passed over veto -see Roll Call #67 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 3000-7052 passed over veto - 131 YEAS to 24 NAYS (See YEA and NAY in Supplement, No. 37)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 3000-7052 passed over veto -see Roll Call #68 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 4405-2000 passed over veto - 151 YEAS to 2 NAYS (See YEA and NAY in Supplement, No. 38)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 4405-2000 passed over veto -see Roll Call #69 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 4513-1027 passed over veto - 154 YEAS to 0 NAYS (See YEA and NAY in Supplement, No. 39)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 4513-1027 passed over veto -see Roll Call #72 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 4590-0915 passed over veto - 129 YEAS to 25 NAYS (See YEA and NAY in Supplement, No. 40)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 4590-0915 passed over veto -see Roll Call #73 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 4590-0925 passed over veto - 154 YEAS to 0 NAYS (See YEA and NAY in Supplement, No. 41)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 4590-0925 passed over veto -see Roll Call #74 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7003-1206 passed over veto - 130 YEAS to 24 NAYS (See YEA and NAY in Supplement, No. 42)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7003-1206 passed over veto -see Roll Call #78 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7004-0104 passed over veto - 153 YEAS to 0 NAYS (See YEA and NAY in Supplement, No. 43)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7004-0104 passed over veto -see Roll Call #80 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7004-3036 passed over veto - 129 YEAS to 25 NAYS (See YEA and NAY in Supplement, No. 44)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7004-3036 passed over veto -see Roll Call #81 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7006-0011 passed over veto - 154 YEAS to 0 NAYS (See YEA and NAY in Supplement, No. 45)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7006-0011 passed over veto -see Roll Call #82 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7006-0071 passed over veto - 129 YEAS to 25 NAYS (See YEA and NAY in Supplement, No. 46)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7006-0071 passed over veto -see Roll Call #83 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7007-0150 passed over veto - 154 YEAS to 0 NAYS (See YEA and NAY in Supplement, No. 47)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7007-0150 passed over veto -see Roll Call #84 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7035-0035 passed over veto - 151 YEAS to 3 NAYS (See YEA and NAY in Supplement, No. 48)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7035-0035 passed over veto -see Roll Call #85 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 8000-0655 passed over veto - 130 YEAS to 25 NAYS (See YEA and NAY in Supplement, No. 49)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 8000-0655 passed over veto -see Roll Call #86 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 8000-1127 passed over veto - 130 YEAS to 24 NAYS (See YEA and NAY in Supplement, No. 50)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 8000-1127 passed over veto -see Roll Call #87 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 1595-0115 passed over veto - 151 YEAS to 3 NAYS (See YEA and NAY in Supplement, No. 51)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 1595-0115 passed over veto -see Roll Call #65 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 4510-0811 passed over veto - 154 YEAS to 0 NAYS (See YEA and NAY in Supplement, No. 52)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 4510-0811 passed over veto -see Roll Call #70 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 4512-2022 passed over veto - 152 YEAS to 2 NAYS (See YEA and NAY in Supplement, No. 53)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 4512-2022 passed over veto -see Roll Call #71 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 4800-0200 passed over veto - 154 YEAS to 0 NAYS (See YEA and NAY in Supplement, No. 54)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 4800-0200 passed over veto -see Roll Call #75 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7002-2022 passed over veto - 129 YEAS to 25 NAYS (See YEA and NAY in Supplement, No. 55)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7002-2022 passed over veto -see Roll Call #77 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7002-0025 passed over veto - 129 YEAS to 25 NAYS (See YEA and NAY in Supplement, No. 56)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7002-0025 passed over veto -see Roll Call #76 (Yeas 37 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T00:00:00",
+    "Branch": "House",
+    "Action": "Item 7004-0102 passed over veto - 130 YEAS to 24 NAYS (See YEA and NAY in Supplement, No. 57)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-05T00:00:00",
+    "Branch": "Senate",
+    "Action": "Item 7004-0102 passed over veto -see Roll Call #79 (Yeas 38 to Nays 0)",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H1"
+   },
+   {
+    "general_court": 193,
+    "bill": "H3900"
+   },
+   {
+    "general_court": 193,
+    "bill": "H3901"
+   },
+   {
+    "general_court": 194,
+    "bill": "H610"
+   },
+   {
+    "general_court": 194,
+    "bill": "H714"
+   }
+  ]
+ },
+ "H4977": {
+  "actions": [
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "House",
+    "Action": "Reported from the committee of conference",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "House",
+    "Action": "Reported on H4726",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "House",
+    "Action": "Referred to the committee on House Steering, Policy and Scheduling",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "House",
+    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting, the question being on acceptance",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "House",
+    "Action": "Committee of conference report accepted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "Senate",
+    "Action": "Rules suspended ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "Senate",
+    "Action": "Committee of conference report accepted, in concurrence ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T08:59:54.9833333",
+    "Branch": "House",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "Senate",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "House",
+    "Action": "Enacted - 128 YEAS to 24 NAYS (See YEA and NAY No. 199)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "Senate",
+    "Action": "Enacted -see Roll Call #249 (Yeas 37 to Nays 2)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-01T00:00:00",
+    "Branch": "Senate",
+    "Action": "Laid before the Governor ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-06T11:09:00",
+    "Branch": "Executive",
+    "Action": "Signed by the Governor, Chapter 150 of the Acts of 2024",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H4707"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4726"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4138"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1551"
+   },
+   {
+    "general_court": 194,
+    "bill": "H101"
+   }
+  ]
+ },
+ "H5077": {
+  "actions": [
+   {
+    "Date": "2024-10-17T00:00:00",
+    "Branch": "House",
+    "Action": "Reported by the committee on House Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-17T00:00:00",
+    "Branch": "House",
+    "Action": "Reported on a part of H5049",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-17T00:00:00",
+    "Branch": "House",
+    "Action": "Committee recommended ought to pass and referred to the committee on House Steering, Policy and Scheduling",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-17T00:00:00",
+    "Branch": "House",
+    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-17T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-17T00:00:00",
+    "Branch": "House",
+    "Action": "Read second and ordered to a third reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-17T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-17T00:00:00",
+    "Branch": "House",
+    "Action": "Read second, ordered to a third reading, rules suspended, read third and passed to be engrossed",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-17T11:05:46.0466667",
+    "Branch": "Senate",
+    "Action": "Read; and referred to the committee on Senate Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-24T14:33:26.76",
+    "Branch": "Senate",
+    "Action": "Committee recommended ought to pass with an amendment striking out all after the enacting clause and inserting in place thereof the text of S2968",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-24T14:33:26.76",
+    "Branch": "Senate",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Read second ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S2968",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Reprinted as amended, see S2974",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Ordered to a third reading ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Read third and passed to be engrossd",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-02T00:00:00",
+    "Branch": "House",
+    "Action": "Referred to the committee on Bills in the Third Reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-02T00:00:00",
+    "Branch": "House",
+    "Action": "House concurred in the Senate amendment with a further amendment, see text of House document numbered 5132",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-02T00:00:00",
+    "Branch": "Senate",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-02T00:00:00",
+    "Branch": "Senate",
+    "Action": "Senate concurred in the House further amendment ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-02T12:55:38.3366667",
+    "Branch": "House",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-02T11:11:39.08",
+    "Branch": "Senate",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-02T00:00:00",
+    "Branch": "House",
+    "Action": "Enacted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-02T11:11:39.08",
+    "Branch": "Senate",
+    "Action": "Enacted and laid before the Governor",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-04T12:26:00",
+    "Branch": "Executive",
+    "Action": "Signed by the Governor, Chapter 248 of the Acts of 2024",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H5049"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4496"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4034"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4790"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4844"
+   }
+  ]
+ },
+ "H4799": {
+  "actions": [
+   {
+    "Date": "2024-06-26T00:00:00",
+    "Branch": "House",
+    "Action": "H4790, published as amended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-26T00:00:00",
+    "Branch": "House",
+    "Action": "Passed to be engrossed - 153 YEAS to 1 NAYS (See YEA and NAY No. 126)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-27T10:08:20.8833333",
+    "Branch": "Senate",
+    "Action": "Read; and referred to the committee on Senate Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Committee recommended ought to pass with an amendment, inserting in place thereof the text of S2888",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Order relative to subject matter adopted ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Placed in the Orders of the Day for Wednesday, July 24, 2024",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Read second",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:09:05.6433333",
+    "Branch": "Senate",
+    "Action": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S2888",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Ordered to a third reading ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Read third ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Reprinted as amended, see S2891",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Passed to be engrossed -see Roll Call #219 (Yeas 38 to Nays 1)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-12T00:00:00",
+    "Branch": "House",
+    "Action": "Referred to the committee on Bills in the Thid Reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-12T00:00:00",
+    "Branch": "House",
+    "Action": "House concurred in the Senate amendment with a further amendment, see text of House document numbered 5050",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-12T00:00:00",
+    "Branch": "Senate",
+    "Action": "Rules suspended ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-12T00:00:00",
+    "Branch": "Senate",
+    "Action": "Senate concurred in the further House amendment ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-12T12:58:25.33",
+    "Branch": "House",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-12T11:07:05.0033333",
+    "Branch": "Senate",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-12T00:00:00",
+    "Branch": "House",
+    "Action": "Enacted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-12T11:07:05.0033333",
+    "Branch": "Senate",
+    "Action": "Enacted and laid before the Governor",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-16T16:32:00",
+    "Branch": "Executive",
+    "Action": "Signed by the Governor, Chapter 206 of the Acts of 2024",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H4496"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4790"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4844"
+   },
+   {
+    "general_court": 193,
+    "bill": "H5049"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4034"
+   }
+  ]
+ },
+ "S2884": {
+  "actions": [
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Reported from the committee on Senate Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Reported on a part of S2600",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Bill reported favorably by committee",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Read second, ordered to a third reading, read third and passed to be engrossed",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T00:00:00",
+    "Branch": "House",
+    "Action": "Read; and referred to the committee on House Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "House",
+    "Action": "Committee recommended ought to pass with an amendment and referred to the committee on House Steering, Policy and Scheduling",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "House",
+    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment (H5154) pending",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "House",
+    "Action": "Read second, amended (as recommended by the committee on House Ways and Means)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "House",
+    "Action": "Ordered to a third reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "House",
+    "Action": "Read third and passed to be engrossed ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T13:06:06.58",
+    "Branch": "Senate",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T13:06:06.58",
+    "Branch": "Senate",
+    "Action": "Senate concurred in the House amendment ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T00:00:00",
+    "Branch": "House",
+    "Action": "Enacted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T21:53:33.2133333",
+    "Branch": "Senate",
+    "Action": "Enacted and laid before the Governor",
+    "IsStricken": false
+   },
+   {
+    "Date": "2025-01-08T13:30:00",
+    "Branch": "Executive",
+    "Action": "Signed by the Governor, Chapter 363 of the Acts of 2024",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S1748"
+   },
+   {
+    "general_court": 194,
+    "bill": "S2861"
+   },
+   {
+    "general_court": 186,
+    "bill": "S976"
+   },
+   {
+    "general_court": 188,
+    "bill": "H3077"
+   },
+   {
+    "general_court": 188,
+    "bill": "S1721"
+   }
+  ]
  }
 }

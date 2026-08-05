@@ -200,7 +200,7 @@ KINSHIPS = [
      "for duration of a maximum of twenty-four months from the time of collection",
      "permanently erase or destroy ... not later than 120 days following the date on which the tolling data was created",
      f"{K}/family-driver-commercial.md"),
-    ("P-246", "P-124", "Sale bans: consumer health data vs location information",
+    ("P-246", "P-284", "Sale bans: consumer health data vs location information",
      "It shall be unlawful for a Regulated Entity to sell Consumer Health Data.",
      "sell, rent, trade, or lease location information to third parties",
      f"{K}/family-health-govrecords.md; {K}/family-location.md"),
@@ -217,7 +217,7 @@ KINSHIPS = [
 # Judgment calls and anomalies for the same review queue.
 FLAGS = [
     ("S2539", "P-101", "Borderline in-domain: insurance/contract protection for breach reporting (SECTION 17).", "memo/atomization/family-biometric-breach.md"),
-    ("S2539", "P-267", "Boundary call: delegated AI-training-data consent rulemaking atomized per the codebook AI carve-in (added after external review).", "memo/atomization/family-biometric-breach.md"),
+    ("S2539", "P-287;P-288;P-289", "Boundary call: delegated AI-training-data rulemaking mandates atomized per the codebook AI carve-in.", "memo/atomization/family-biometric-breach.md"),
     ("H1455", "", "Title says 'tracking of certain electronic devices' but official text is verbatim S209 (tolling data). Census include stands on the text.", "memo/atomization/family-driver-commercial.md"),
     ("H3217", "", "Reclassified to exclude under the symmetric program-incident rule (was a marginal include); successor H4502 verified not to carry its privacy clauses.", "memo/codebook.md"),
     ("S1368", "P-260", "Marginal census include: physical-adjacent confidentiality mechanism.", "memo/codebook.md"),
@@ -330,6 +330,22 @@ def main() -> None:
         w = csv.DictWriter(f, fieldnames=["study_order", "terminal_actions", "reported_out", "url"])
         w.writeheader()
         w.writerows(study_rows)
+
+    # Absorption links: dead standalone carriers -> the enacted vehicle that
+    # carried their proposition into law (third-pass review finding 2).
+    # (standalone, vehicle, prop, confidence, note)
+    ABSORPTIONS = [
+        ("H1525", "H58", "P-291", "verified-text-comparison", "identical use/sale restriction, 2023 c.2 s.33"),
+        ("S943", "H58", "P-291", "verified-text-comparison", "identical use/sale restriction, 2023 c.2 s.33"),
+        ("H3003", "H4040", "P-297;P-298", "verified-text-comparison", "same mechanism enacted at 2023 c.28 s.7"),
+        ("H1690", "H4977", "P-295;P-296", "verified-text-comparison", "HOMES regime enacted at 2024 c.150 ss.28,52"),
+        ("S956", "H4977", "P-295;P-296", "verified-text-comparison", "HOMES regime enacted at 2024 c.150 ss.28,52"),
+        ("H4356", "H4977", "P-295;P-296", "verified-text-comparison", "HOMES redraft regime enacted at 2024 c.150 ss.28,52"),
+        ("H2991", "H5077", "P-294", "inferred-needs-review", "enacted 2024 c.248 s.27 is a broader variant of H2991's home-address mechanism"),
+    ]
+    for sb, veh, prop, conf, note in ABSORPTIONS:
+        add(sb, veh, "absorbed_into_vehicle", conf, f"{prop}: {note}",
+            f"https://malegislature.gov/Bills/193/{veh}")
 
     for pa, pb, why, ex_a, ex_b, src in KINSHIPS:
         add(pa, pb, "proposition_kinship", "inferred-needs-review", why, src)

@@ -43,7 +43,8 @@ H1653,P-135,c.276 s.1C,identical companion,verified-text-identical,https://maleg
 H1653,P-136,c.276 s.1D; s.2A1/2(b),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H1653
 H1653,P-137,c.276 s.1E,identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H1653
 H1653,P-138,"SECTIONS 4-5 (c.78 s.7, s.7A)",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H1653
-H1690,P-290,new c.239 s.16; c.93 s.52 CRA amendment,identical companion; CRA duties attach per grain rule,verified-text-identical,https://malegislature.gov/Bills/193/H1690
+H1690,P-295,"new c.239 s.16(a)-(h),(j)-(k)",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H1690
+H1690,P-296,new c.239 s.16(i); c.93 s.52 amendment,identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H1690
 H1707,P-226,SECTIONS 1-2 (c.214 s.3C),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H1707
 H1728,P-171,"c.6 s.220(b),(l)",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H1728
 H1728,P-172,c.6 s.220(c),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H1728
@@ -65,8 +66,9 @@ H281,P-096,SECTION 1 (breach definition),"weaker: identity-theft/fraud risk only
 H281,P-097,SECTION 3,weak/legacy variant; permits security-freeze fees,inferred-analytic,https://malegislature.gov/Bills/193/H281
 H281,P-099,SECTION 2,H281 only,sole-carrier,https://malegislature.gov/Bills/193/H281
 H281,P-100,SECTION 1,H281 only,sole-carrier,https://malegislature.gov/Bills/193/H281
-H2991,P-294,sole section (SFI home-address restriction),"weaker than enacted 2024 c.248 s.27, which adds email/phone/family",sole-carrier,https://malegislature.gov/Bills/193/H2991
-H3003,P-292,sole section (c.6A demographic data),enacted as 2023 c.28 s.7 with implementation dates,sole-carrier,https://malegislature.gov/Bills/193/H3003
+H2991,P-294,sole section (SFI home-address restriction),"weaker than enacted 2024 c.248 s.27, which adds email/phone/family",inferred-analytic,https://malegislature.gov/Bills/193/H2991
+H3003,P-297,sole section (demographic collection categories),enacted as 2023 c.28 s.7,inferred-analytic,https://malegislature.gov/Bills/193/H3003
+H3003,P-298,"sole section (PII confidentiality, aggregate publication)",enacted as 2023 c.28 s.7,inferred-analytic,https://malegislature.gov/Bills/193/H3003
 H3179,P-068,c.93 s.115 para.1,identical first paragraph to S218,verified-text-near-identical,https://malegislature.gov/Bills/193/H3179
 H3179,P-069,c.93 s.115 para.2,H3179-only addition,sole-carrier,https://malegislature.gov/Bills/193/H3179
 H326,P-224,c.93 s.116(f),,sole-carrier,https://malegislature.gov/Bills/193/H326
@@ -136,6 +138,8 @@ H395,P-236,Sec.5(A),,sole-carrier,https://malegislature.gov/Bills/193/H395
 H395,P-237,Sec.6,,sole-carrier,https://malegislature.gov/Bills/193/H395
 H395,P-238,Sec.7,,sole-carrier,https://malegislature.gov/Bills/193/H395
 H395,P-239,Sec.8,,sole-carrier,https://malegislature.gov/Bills/193/H395
+H4040,P-297,2023 c.28 s.7 (new c.6A s.109),enacted vehicle (FY24 GAA),inferred-analytic,https://malegislature.gov/Bills/193/H4040
+H4040,P-298,2023 c.28 s.7 (new c.6A s.109),enacted vehicle (FY24 GAA),inferred-analytic,https://malegislature.gov/Bills/193/H4040
 H4115,P-266,SECTION 6 (c.265 s.43A(b) rewrite),Judiciary redraft; no digitization coverage,verified-official-lineage,https://malegislature.gov/Bills/193/H4115
 H4115,P-280,SECTION 6 (c.265 s.43A(b)(5)),,verified-official-lineage,https://malegislature.gov/Bills/193/H4115
 H4241,P-266,engrossed text of H4115 SECTION 6 lineage (API text empty; see c.118 s.6),House-engrossed vehicle,verified-official-lineage,https://malegislature.gov/Bills/193/H4241
@@ -144,7 +148,8 @@ H4266,P-153,new c.66 s.22,redraft: H1283 text plus agency carve-out only,verifie
 H4323,P-251,c.6A s.18G(b),"redraft: public-records-exemption mechanism, broader access list, $1,000 fine",verified-official-lineage,https://malegislature.gov/Bills/193/H4323
 H4323,P-252,c.6A s.18G(c),weaker public access: PII redactable,verified-official-lineage,https://malegislature.gov/Bills/193/H4323
 H4323,P-253,c.6A s.18G(a),H4323 only,sole-carrier,https://malegislature.gov/Bills/193/H4323
-H4356,P-290,new c.239 s.16; c.93 s.52 CRA amendment,Judiciary redraft of H1690/S956,verified-official-lineage,https://malegislature.gov/Bills/193/H4356
+H4356,P-295,"new c.239 s.16(a)-(h),(j)-(k)",Judiciary redraft of H1690/S956,verified-official-lineage,https://malegislature.gov/Bills/193/H4356
+H4356,P-296,new c.239 s.16(i); c.93 s.52 amendment,Judiciary redraft of H1690/S956,verified-official-lineage,https://malegislature.gov/Bills/193/H4356
 H4359,P-171,"c.6 s.220(b),(l)",redraft; unchanged,verified-official-lineage,https://malegislature.gov/Bills/193/H4359
 H4359,P-172,c.6 s.220(c),"redraft; broader: investigate and verify, state police may assist",verified-official-lineage,https://malegislature.gov/Bills/193/H4359
 H4359,P-173,c.6 s.220(d),redraft; adds RMV-assist purpose; documentation duty narrowed to FBI requests,verified-official-lineage,https://malegislature.gov/Bills/193/H4359
@@ -196,6 +201,8 @@ H4632,P-284,c.93N s.2(e)(3),retroactive application,verified-text-identical,http
 H4632,P-285,c.93N s.2(e)(5),retroactive application,verified-text-identical,https://malegislature.gov/Bills/193/H4632
 H4744,P-266,2024 c.118 s.6 (c.265 s.43A(b)),ENACTED; conference text adds 'digitization'; (c) repeat-offender penalty attaches,verified-official-lineage,https://malegislature.gov/Bills/193/H4744
 H4744,P-280,2024 c.118 s.6 (c.265 s.43A(b)(5)),ENACTED,verified-official-lineage,https://malegislature.gov/Bills/193/H4744
+H4799,P-303,2024 c.206 s.15 (c.159A1/2 s.12(a)-(c)),"enacted vehicle (FY24 closeout supplemental); outside section, no filed antecedent",sole-carrier,https://malegislature.gov/Bills/193/H4799
+H4799,P-304,2024 c.206 s.15 (c.159A1/2 s.12(d)-(e)),"enacted vehicle (FY24 closeout supplemental); outside section, no filed antecedent",sole-carrier,https://malegislature.gov/Bills/193/H4799
 H4844,P-121,"c.93M ss.1,2(a); s.4(iii) consent rulemaking; bill SECTIONS 2-3",narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action),inferred-analytic,https://malegislature.gov/Bills/193/H4844
 H4844,P-122,c.93M s.4(ii),narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action); rulemaking variant (AG to set targeted-ad limits),inferred-analytic,https://malegislature.gov/Bills/193/H4844
 H4844,P-125,c.93M s.2(c),narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action),inferred-analytic,https://malegislature.gov/Bills/193/H4844
@@ -207,6 +214,9 @@ H4844,P-283,c.93M s.2(b)(iv),narrowed to reproductive/gender-affirming-care loca
 H4844,P-284,c.93M s.2(b)(iii),narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action); adds 'gift' to the sale ban,inferred-analytic,https://malegislature.gov/Bills/193/H4844
 H4844,P-285,c.93M s.2(b)(v),narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action),inferred-analytic,https://malegislature.gov/Bills/193/H4844
 H4844,P-286,c.93M s.4(vi),H4844 only,sole-carrier,https://malegislature.gov/Bills/193/H4844
+H4977,P-295,2024 c.150 s.52 (new c.239 s.16),enacted vehicle (Affordable Homes Act),inferred-analytic,https://malegislature.gov/Bills/193/H4977
+H4977,P-296,"2024 c.150 ss.28,52 (c.93 s.52(a)(7); c.239 s.16(i))",enacted vehicle (Affordable Homes Act),inferred-analytic,https://malegislature.gov/Bills/193/H4977
+H5077,P-294,2024 c.248 s.27 (c.268B s.3),enacted vehicle (December 2024 supplemental),inferred-analytic,https://malegislature.gov/Bills/193/H5077
 H530,P-154,"c.7E ss.1,2(a)-(d),3(a)-(b),(f),4",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H530
 H530,P-155,c.7E s.3(c)-(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H530
 H530,P-156,c.7E s.2(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H530
@@ -224,6 +234,7 @@ H532,P-149,c.71 s.34L(c),identical companion,verified-text-identical,https://mal
 H532,P-150,c.71 s.34L(d),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H532
 H532,P-151,c.71 s.34L(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H532
 H532,P-152,c.71 s.34L(f),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H532
+H58,P-291,2023 c.2 s.33 (new c.222 s.29),enacted vehicle (FY23 supplemental budget),inferred-analytic,https://malegislature.gov/Bills/193/H58
 H60,P-031,c.93M s.5,identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H60
 H60,P-032,c.93M s.6,identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H60
 H60,P-033,c.93M s.7,identical companion; 10-year archive for large holders,verified-text-identical,https://malegislature.gov/Bills/193/H60
@@ -468,6 +479,10 @@ S280,P-149,c.71 s.34L(c),identical companion,verified-text-identical,https://mal
 S280,P-150,c.71 s.34L(d),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S280
 S280,P-151,c.71 s.34L(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S280
 S280,P-152,c.71 s.34L(f),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S280
+S2884,P-299,SECTION 1 (c.4 s.7 cl.26(w)); c.90K s.5(b),enacted as 2024 c.363,sole-carrier,https://malegislature.gov/Bills/193/S2884
+S2884,P-300,c.90K s.5(a),enacted as 2024 c.363,sole-carrier,https://malegislature.gov/Bills/193/S2884
+S2884,P-301,c.90K s.5(c),enacted as 2024 c.363,sole-carrier,https://malegislature.gov/Bills/193/S2884
+S2884,P-302,c.90K s.5(d),enacted as 2024 c.363,sole-carrier,https://malegislature.gov/Bills/193/S2884
 S30,P-091,"SECTIONS 1,4(i)(E)",identical companion of H76,verified-text-identical,https://malegislature.gov/Bills/193/S30
 S30,P-092,SECTION 4(i)(F),identical companion of H76,verified-text-identical,https://malegislature.gov/Bills/193/S30
 S30,P-093,"SECTIONS 3,4(i)(B),(C),(G)-(J),5",identical companion of H76,verified-text-identical,https://malegislature.gov/Bills/193/S30
@@ -491,5 +506,6 @@ S927,P-177,"c.6 s.220(i),(j)",identical companion,verified-text-identical,https:
 S927,P-178,c.6 s.220(k),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S927
 S938,P-255,c.258C s.15 (sole section),,sole-carrier,https://malegislature.gov/Bills/193/S938
 S943,P-291,new c.222 s.29 (within the notary-modernization act),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S943
-S956,P-290,new c.239 s.16; c.93 s.52 CRA amendment,identical companion; CRA duties attach per grain rule,verified-text-identical,https://malegislature.gov/Bills/193/S956
+S956,P-295,"new c.239 s.16(a)-(h),(j)-(k)",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S956
+S956,P-296,new c.239 s.16(i); c.93 s.52 amendment,identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S956
 S971,P-226,SECTIONS 1-2 (c.214 s.3C),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S971

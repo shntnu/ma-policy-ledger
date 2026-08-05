@@ -218,7 +218,15 @@ P-286,location-govt-disclosure-notice-rulemaking,location,Directs AG regulations
 P-287,ai-training-data-security-rulemaking,comprehensive,Directs regulations requiring security measures for individuals' data used in AI training,1
 P-288,ai-training-data-consent-rulemaking,comprehensive,"Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training",1
 P-289,ai-training-data-deletion-rulemaking,comprehensive,Directs regulations requiring deletion or de-identification of AI training data when no longer needed,1
-P-290,eviction-record-sealing,govt-records,"Petition-based sealing of eviction court records with tiered waiting periods; sealed records nondisclosable, with consumer-reporting-agency removal duties attached",3
-P-291,notary-personal-info-use-restriction,commercial,"Notaries may not use, sell, or transfer identifying personal information acquired in a notarial act except for enumerated purposes",2
-P-292,agency-demographic-data-standard,govt-data,"Government agencies collecting race/ethnicity data must use separate self-identified categories, keep personal identifying information confidential, and publish only aggregated data",1
-P-294,sfi-personal-info-withholding,govt-records,"Ethics commission must withhold filers' personal contact information (home address; enacted version adds email, phone, family member identity) from public statements of financial interests",1
+P-291,notary-personal-info-use-restriction,commercial,"Notaries may not use, sell, or transfer identifying personal information acquired in a notarial act except for enumerated purposes",3
+P-294,sfi-personal-info-withholding,govt-records,"Ethics commission must withhold filers' personal contact information (home address; enacted version adds email, phone, family member identity) from public statements of financial interests",2
+P-295,eviction-record-sealing-regime,govt-records,Petition-based sealing of eviction court records with tiered waiting periods; sealed records closed to public inspection with limited re-access purposes,4
+P-296,sealed-eviction-cra-duties,commercial,Consumer reporting agencies may not disclose or use sealed eviction records and must remove them within 30 days of sealing,4
+P-297,demographic-data-collection-standard,govt-data,"Government agencies collecting race/ethnicity data must use separate, voluntarily self-identified categories",2
+P-298,demographic-pii-confidentiality,govt-data,Personal identifying information in agency demographic data is confidential; only aggregated data preventing identification may be published,2
+P-299,bus-camera-records-exemption,surveillance-tech,Bus-camera photographs and personal identifying information exempt from the public records law,1
+P-300,bus-camera-litigation-limits,surveillance-tech,Bus-camera evidence not discoverable or admissible outside enforcement proceedings absent a court order with materiality findings,1
+P-301,bus-camera-occupant-id-ban,surveillance-tech,Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue,1
+P-302,bus-camera-vendor-confidentiality,surveillance-tech,"Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing",1
+P-303,tnc-trip-data-reporting-mandate,location,"TNCs must report trip-level data monthly, including continuous 60-second in-ride geolocation, driver identifier, and vehicle plate, to the DPU division",1
+P-304,tnc-trip-data-confidentiality,location,Reported TNC trip data is not a public record; sharing only de-identified under confidentiality agreements with listed agencies; breach triggers destruction and notification,1

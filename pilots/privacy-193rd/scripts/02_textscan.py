@@ -22,7 +22,9 @@ API = "https://malegislature.gov/api"
 # Text-level domain terms: tighter than the title net, aimed at consumer data
 # privacy specifically.
 TEXT_TERMS = {
-    "personal_information": r"personal(ly identifiable)? (information|data)",
+    # widened 2026-08-05 (third-pass review finding 1): the original pattern
+    # missed "personal identifying information" (e.g. 2024 c.363)
+    "personal_information": r"personal(?:ly)?(?: identif(?:iable|ying))? (?:information|data)|identif(?:iable|ying) personal information",
     "consumer_privacy": r"consumer['s]{0,2}\s+(data\s+)?privacy|privacy of consumers",
     "data_privacy": r"data privacy|information privacy|privacy protection",
     "data_broker": r"data broker",

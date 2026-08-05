@@ -275,14 +275,29 @@ PROPS = {
     "P-287": ("ai-training-data-security-rulemaking", "comprehensive", "Directs regulations requiring security measures for individuals' data used in AI training"),
     "P-288": ("ai-training-data-consent-rulemaking", "comprehensive", "Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training"),
     "P-289": ("ai-training-data-deletion-rulemaking", "comprehensive", "Directs regulations requiring deletion or de-identification of AI training data when no longer needed"),
-    # --- eviction-record sealing (HOMES lineage; enacted 2024 c.150 ss.28,52) ---
-    "P-290": ("eviction-record-sealing", "govt-records", "Petition-based sealing of eviction court records with tiered waiting periods; sealed records nondisclosable, with consumer-reporting-agency removal duties attached"),
+    # P-290 retired 2026-08-05: bundled the sealing regime with independently
+    # operative consumer-reporting-agency duties (third-pass review finding
+    # 4); split into P-295/P-296.
     # --- notary personal information (H1525/S943; enacted 2023 c.2 s.33) ---
     "P-291": ("notary-personal-info-use-restriction", "commercial", "Notaries may not use, sell, or transfer identifying personal information acquired in a notarial act except for enumerated purposes"),
-    # --- demographic data standard (H3003; enacted 2023 c.28 s.7, c.6A s.109) ---
-    "P-292": ("agency-demographic-data-standard", "govt-data", "Government agencies collecting race/ethnicity data must use separate self-identified categories, keep personal identifying information confidential, and publish only aggregated data"),
+    # P-292 retired 2026-08-05: bundled the collection standard with the
+    # PII-confidentiality/publication restriction; split into P-297/P-298.
     # --- SFI withholding (H2991; enacted expanded at 2024 c.248 s.27) ---
     "P-294": ("sfi-personal-info-withholding", "govt-records", "Ethics commission must withhold filers' personal contact information (home address; enacted version adds email, phone, family member identity) from public statements of financial interests"),
+    # --- splits of retired P-290 (eviction sealing, HOMES lineage; enacted 2024 c.150) ---
+    "P-295": ("eviction-record-sealing-regime", "govt-records", "Petition-based sealing of eviction court records with tiered waiting periods; sealed records closed to public inspection with limited re-access purposes"),
+    "P-296": ("sealed-eviction-cra-duties", "commercial", "Consumer reporting agencies may not disclose or use sealed eviction records and must remove them within 30 days of sealing"),
+    # --- splits of retired P-292 (demographic data, H3003; enacted 2023 c.28 s.7) ---
+    "P-297": ("demographic-data-collection-standard", "govt-data", "Government agencies collecting race/ethnicity data must use separate, voluntarily self-identified categories"),
+    "P-298": ("demographic-pii-confidentiality", "govt-data", "Personal identifying information in agency demographic data is confidential; only aggregated data preventing identification may be published"),
+    # --- bus-camera data rules (S2884; enacted 2024 c.363) ---
+    "P-299": ("bus-camera-records-exemption", "surveillance-tech", "Bus-camera photographs and personal identifying information exempt from the public records law"),
+    "P-300": ("bus-camera-litigation-limits", "surveillance-tech", "Bus-camera evidence not discoverable or admissible outside enforcement proceedings absent a court order with materiality findings"),
+    "P-301": ("bus-camera-occupant-id-ban", "surveillance-tech", "Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue"),
+    "P-302": ("bus-camera-vendor-confidentiality", "surveillance-tech", "Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing"),
+    # --- TNC trip-data regime (outside section; enacted 2024 c.206 s.15 via H4799) ---
+    "P-303": ("tnc-trip-data-reporting-mandate", "location", "TNCs must report trip-level data monthly, including continuous 60-second in-ride geolocation, driver identifier, and vehicle plate, to the DPU division"),
+    "P-304": ("tnc-trip-data-confidentiality", "location", "Reported TNC trip data is not a public record; sharing only de-identified under confidentiality agreements with listed agencies; breach triggers destruction and notification"),
 }
 
 # Retired proposition IDs (never reused). Kept for the audit trail.
@@ -296,6 +311,8 @@ RETIRED = {
     "P-267": "split into P-287/P-288/P-289 with corrected descriptions (second-pass review finding 6)",
     "P-221": "H3217 excluded under the symmetric program-incident rule",
     "P-222": "H3217 excluded under the symmetric program-incident rule",
+    "P-290": "split into P-295/P-296 (third-pass review finding 4)",
+    "P-292": "split into P-297/P-298 (third-pass review finding 4)",
 }
 
 # (bill, prop_id, section_cite, note)
@@ -705,12 +722,39 @@ edges("S2539",
 # HOMES eviction-record sealing lineage (enacted at 2024 c.150 ss.28,52:
 # https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter150)
 for b in ("H1690", "S956"):
-    edges(b, ("P-290", "new c.239 s.16; c.93 s.52 CRA amendment", "identical companion; CRA duties attach per grain rule"))
-edges("H4356", ("P-290", "new c.239 s.16; c.93 s.52 CRA amendment", "Judiciary redraft of H1690/S956"))
+    edges(b,
+        ("P-295", "new c.239 s.16(a)-(h),(j)-(k)", "identical companion"),
+        ("P-296", "new c.239 s.16(i); c.93 s.52 amendment", "identical companion"))
+edges("H4356",
+    ("P-295", "new c.239 s.16(a)-(h),(j)-(k)", "Judiciary redraft of H1690/S956"),
+    ("P-296", "new c.239 s.16(i); c.93 s.52 amendment", "Judiciary redraft of H1690/S956"))
 for b in ("H1525", "S943"):
     edges(b, ("P-291", "new c.222 s.29 (within the notary-modernization act)", "identical companion"))
-edges("H3003", ("P-292", "sole section (c.6A demographic data)", "enacted as 2023 c.28 s.7 with implementation dates"))
+edges("H3003",
+    ("P-297", "sole section (demographic collection categories)", "enacted as 2023 c.28 s.7"),
+    ("P-298", "sole section (PII confidentiality, aggregate publication)", "enacted as 2023 c.28 s.7"))
 edges("H2991", ("P-294", "sole section (SFI home-address restriction)", "weaker than enacted 2024 c.248 s.27, which adds email/phone/family"))
+
+# Enacted origin vehicles (chapter OriginBill records). Each carries the
+# in-domain propositions its enacted chapter contains; provisions may have
+# entered the vehicle by amendment or conference, so the cite is to the
+# enacted chapter section (third-pass review finding 2).
+edges("H58", ("P-291", "2023 c.2 s.33 (new c.222 s.29)", "enacted vehicle (FY23 supplemental budget)"))
+edges("H4040",
+    ("P-297", "2023 c.28 s.7 (new c.6A s.109)", "enacted vehicle (FY24 GAA)"),
+    ("P-298", "2023 c.28 s.7 (new c.6A s.109)", "enacted vehicle (FY24 GAA)"))
+edges("H4977",
+    ("P-295", "2024 c.150 s.52 (new c.239 s.16)", "enacted vehicle (Affordable Homes Act)"),
+    ("P-296", "2024 c.150 ss.28,52 (c.93 s.52(a)(7); c.239 s.16(i))", "enacted vehicle (Affordable Homes Act)"))
+edges("H5077", ("P-294", "2024 c.248 s.27 (c.268B s.3)", "enacted vehicle (December 2024 supplemental)"))
+edges("H4799",
+    ("P-303", "2024 c.206 s.15 (c.159A1/2 s.12(a)-(c))", "enacted vehicle (FY24 closeout supplemental); outside section, no filed antecedent"),
+    ("P-304", "2024 c.206 s.15 (c.159A1/2 s.12(d)-(e))", "enacted vehicle (FY24 closeout supplemental); outside section, no filed antecedent"))
+edges("S2884",
+    ("P-299", "SECTION 1 (c.4 s.7 cl.26(w)); c.90K s.5(b)", "enacted as 2024 c.363"),
+    ("P-300", "c.90K s.5(a)", "enacted as 2024 c.363"),
+    ("P-301", "c.90K s.5(c)", "enacted as 2024 c.363"),
+    ("P-302", "c.90K s.5(d)", "enacted as 2024 c.363"))
 
 EDGES = E
 
@@ -824,4 +868,18 @@ QUOTES.update({
 QUOTES.update({
     ("H3003", "P-292"): "except for personal identifying information, which shall be deemed confidential, each government agency shall make the data available",
     ("H2991", "P-294"): "statements of financial interest filed pursuant to section 5, which contain the home address of the filer",
+})
+QUOTES.update({
+    ("H1690", "P-295"): "may petition the court to seal the court record",
+    ("H4356", "P-295"): "may petition the court to seal the court record",
+    ("H1690", "P-296"): "a consumer reporting agency shall not disclose the existence of, or information regarding, an eviction record sealed under this section",
+    ("H4356", "P-296"): "a consumer reporting agency shall not disclose the existence of, or information regarding, an eviction record sealed under this section",
+    ("H4977", "P-295"): "may petition the court to seal the court record (2024 c.150 s.52)",
+    ("H4977", "P-296"): "a consumer reporting agency shall not disclose the existence of, or information regarding, an eviction record sealed (2024 c.150 s.52)",
+    ("H3003", "P-297"): "every government agency that collects demographic data as to the race or ethnicity of residents ... shall use separate collection categories",
+    ("H3003", "P-298"): "except for personal identifying information, which shall be deemed confidential, each government agency shall make the data available",
+    ("H4040", "P-297"): "shall use separate collection categories and tabulations (2023 c.28 s.7)",
+    ("H4040", "P-298"): "except for personal identifying information, which shall be deemed confidential (2023 c.28 s.7)",
+    ("H58", "P-291"): "shall not use, sell or offer to sell to another person or transfer to another person for use or sale any personal information (2023 c.2 s.33)",
+    ("H5077", "P-294"): "home address, personal email address and personal and home telephone number of the filer and the name and home address of a family member (2024 c.248 s.27)",
 })

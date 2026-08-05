@@ -2,9 +2,17 @@
 """Goal 4: classify the fate of every bill and every proposition.
 
 Order of operations (review finding 2): the enacted-vehicle sweep runs
-FIRST; its reviewed verdicts live in ENACTED_MATCHES (data-as-code, like the
-census OVERRIDES) and feed proposition fate assignment, so a genuine enacted
-match can and does change a fate.
+FIRST; its reviewed verdicts live in ADJUDICATIONS (data-as-code), and the
+enacted origin vehicles named there are census carriers of the propositions
+their chapters contain, so enactment flows structurally into fate
+assignment.
+
+enacted_as_filed vs enacted_other_vehicle: a proposition is enacted AS FILED
+when the enacted carrier is connected to the proposition's filed lineage by
+official successor records (redraft/substitution/conference), or is the
+proposition's only carrier (outside-section-born ideas). It is enacted
+THROUGH ANOTHER VEHICLE when its filed carriers have no official chain to
+the enacted vehicle (absorption established by text adjudication instead).
 
 Bill level (data/bill_fates.csv): terminal class from the official history.
 Proposition level (data/proposition_fates.csv): the chain is followed
@@ -61,30 +69,10 @@ PROBES = {
     "ndii": ["visual material", "digitization"],
 }
 
-# Reviewed verdicts from data/enacted_probe.csv. Every probe hit is either
-# matched to a proposition here or dismissed as a false positive (the
-# codebook records the review).
-# prop_id -> (year, chapter, section, url, note)
-ENACTED_MATCHES = {
-    "P-266": (2024, "118", "s.6 (c.265 s.43A(b))",
-              "https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter118",
-              "NDII distribution offense incl. digitization; origin bill H4744 per the chapter's OriginBill record"),
-    "P-280": (2024, "118", "s.6 (c.265 s.43A(b)(5))",
-              "https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter118",
-              "court-record confidentiality for NDII prosecutions"),
-    "P-290": (2024, "150", "ss.28,52 (new c.239 s.16; c.93 s.52(a)(7))",
-              "https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter150",
-              "eviction-record sealing enacted inside the Affordable Homes Act; filed HOMES lineage H1690/S956/H4356 died separately"),
-    "P-291": (2023, "2", "s.33 (new c.222 s.29)",
-              "https://malegislature.gov/Laws/SessionLaws/Acts/2023/Chapter2",
-              "notary personal-info restriction enacted inside the FY23 supplemental budget; filed companions H1525/S943"),
-    "P-292": (2023, "28", "s.7 (new c.6A s.109)",
-              "https://malegislature.gov/Laws/SessionLaws/Acts/2023/Chapter28",
-              "agency demographic-data standard with PII confidentiality; filed parent H3003"),
-    "P-294": (2024, "248", "s.27 (c.268B s.3)",
-              "https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter248",
-              "SFI personal-info withholding expansion; filed parent H2991 (home-address variant)"),
-}
+# Enactment is established structurally: enacted origin vehicles are census
+# carriers of the propositions their chapters contain (scripts/atoms.py),
+# so the fate logic below needs no side table. ADJUDICATIONS remains the
+# row-level verdict record for every flagged chapter.
 # Row-level adjudication of every chapter flagged by the probe or the
 # session-law scan (second-pass review finding 8). Verdicts:
 #   IN-CORE            in-domain under the primary-object test; propositions
@@ -96,7 +84,7 @@ ENACTED_MATCHES = {
 # (year, chapter) -> list of (sections, verdict, note)
 ADJUDICATIONS = {
     (2023, "2"): [
-        ("s.33 (new c.222 s.29)", "IN-CORE", "notary ban on using/selling/transferring identifying personal information from notarizations (P-291); filed parents H1525/S943"),
+        ("s.33 (new c.222 s.29)", "IN-CORE", "notary personal-info restriction (P-291); filed parents H1525/S943; enacted vehicle H58"),
         ("s.33 (c.222 s.28: AV-recording retention, access limits, security standards)", "EX-PROGRAM-INCIDENT", "recordkeeping/access mechanics incident to the remote-notarization program; s.29's use/sale ban is the data-primary rule"),
         ("ss.23, 31-32 (definitions, journal rules)", "EX-PROGRAM-INCIDENT", "notarial act-integrity recordkeeping; identity-proofing definitions attach"),
         ("ss.8-11 (sports-wagering license CORI/fingerprints)", "EX-ADJACENT", "licensing background checks (criminal-records mechanism)"),
@@ -104,8 +92,9 @@ ADJUDICATIONS = {
     ],
     (2023, "10"): [("ballot-order lottery", "EX-FALSEPOS", "town-clerk candidate-order drawing; no personal data")],
     (2024, "139"): [("IT bond act line items", "EX-FALSEPOS", "'digitization' = municipal records digitization funding; no handling rule")],
+    (2024, "135"): [("DCJIS firearms dashboard", "EX-FALSEPOS", "publishes non-personally-identifying aggregate statistics; no handling rule")],
     (2023, "28"): [
-        ("s.7 (new c.6A s.109)", "IN-CORE", "government-wide demographic-data collection standard with PII confidentiality (P-292); filed parent H3003"),
+        ("s.7 (new c.6A s.109)", "IN-CORE", "demographic-data collection standard (P-297) and PII confidentiality (P-298); filed parent H3003; enacted vehicle H4040"),
         ("s.2 items 3000-1000, 7010-0005, 4120-1000, 4800-0015, 7004-0099/0108/9024 (c.66A overrides, SSN eligibility, fair-hearing redaction)", "EX-PROGRAM-INCIDENT", "recurring benefit/education program-administration data provisos"),
         ("s.43 (c.111 s.24O maternal mortality committee)", "EX-PROGRAM-INCIDENT", "confidentiality incident to the review committee (same verdict as 2024 c.186 s.15)"),
         ("s.2 item 7061-9611 and other line items", "EX-FALSEPOS", "'alpr'='malpractice'; student-data pilot proviso 'to the extent allowed by law' creates no new rule"),
@@ -121,11 +110,11 @@ ADJUDICATIONS = {
         ("other line items", "EX-FALSEPOS", "term matches without new handling rules"),
     ],
     (2024, "206"): [
-        ("s.15 (c.159A1/2 s.12 TNC trip-data regime)", "IN-CORE", "compelled trip-level geolocation reporting (60-second intervals, driver UUID) with confidentiality, de-identified-sharing, destruction rules; NO FILED ANTECEDENT with this primary object - reported outside the filed-proposition universe"),
+        ("s.15 (c.159A1/2 s.12 TNC trip-data regime)", "IN-CORE", "trip-data reporting mandate (P-303) and confidentiality rules (P-304); outside section carried by enacted vehicle H4799; no standalone filed antecedent"),
         ("collective bargaining agreement funding", "EX-FALSEPOS", "lottery commission labor agreement"),
     ],
     (2024, "248"): [
-        ("s.27 (c.268B s.3 SFI withholding expansion)", "IN-CORE", "withholding of filers' personal contact/family information from public SFIs (P-294); filed parent H2991"),
+        ("s.27 (c.268B s.3 SFI withholding expansion)", "IN-CORE", "SFI withholding (P-294); filed parent H2991; enacted vehicle H5077"),
         ("ss.17-18 (interagency data sharing)", "EX-PROGRAM-INCIDENT", "c.66A-override sharing authorizations for student/incarcerated-person data incident to special-education administration"),
         ("supplemental budget line items", "EX-FALSEPOS", "term matches in appropriation text"),
     ],
@@ -135,7 +124,7 @@ ADJUDICATIONS = {
         ("ss.2-3, 5, 7-9 (penalties, diversion, education)", "EX-ADJACENT", "criminal penalties, juvenile diversion (s.7's de-identified reporting attaches to diversion program)"),
     ],
     (2024, "150"): [
-        ("ss.28, 52 (new c.239 s.16; c.93 s.52(a)(7))", "IN-CORE", "eviction-record sealing regime (P-290); CRA duties attach"),
+        ("ss.28, 52 (new c.239 s.16; c.93 s.52(a)(7))", "IN-CORE", "eviction-sealing regime (P-295) and CRA duties (P-296); HOMES lineage; enacted vehicle H4977"),
         ("ss.2A, 35, 121", "EX-FALSEPOS", "eviction/privacy/sealed-bid term matches without data-handling rules"),
     ],
     (2024, "166"): [
@@ -163,6 +152,9 @@ ADJUDICATIONS = {
     ],
     (2024, "252"): [
         ("c.150F s.5(A) and related", "EX-PROGRAM-INCIDENT", "driver-record public-records exemption and list-sharing incident to the bargaining board the act creates"),
+    ],
+    (2024, "363"): [
+        ("s.1 (c.4 s.7 cl.26(w)); c.90K s.5", "IN-CORE", "bus-camera records exemption (P-299), litigation limits (P-300), occupant-ID ban (P-301), vendor confidentiality (P-302); enacted vehicle S2884 (found by the widened scan)"),
     ],
     (2024, "343"): [
         ("s.48 (patient-safety data transmission)", "EX-PROGRAM-INCIDENT", "transmission-with-safeguards rule incident to the Lehman center program"),
@@ -316,18 +308,32 @@ def main() -> None:
         dropped = sorted(b for b in bills if successor.get(b) and successor[b] not in bills)
         all_dropped = bool(finals) and all(t == "superseded_by_redraft" for t in terms.values())
 
+        def chains_to(start, target):
+            seen_chain = set()
+            b = start
+            while b in successor and b not in seen_chain:
+                seen_chain.add(b)
+                b = successor[b]
+                if b == target:
+                    return True
+            return b == target
+
         enacted_finals = sorted(b for b in finals if statuses[b][0] == "enacted")
         if enacted_finals:
             fb = enacted_finals[0]
-            fate = "enacted_as_filed"
-            detail = f"enacted via {fb}: {statuses[fb][2]}"
+            others = [b for b in bills if b != fb]
+            connected = all(chains_to(b, fb) for b in others)
+            if connected:
+                fate = "enacted_as_filed"
+                detail = f"enacted via {fb}: {statuses[fb][2]}"
+            else:
+                fate = "enacted_other_vehicle"
+                dead = sorted(b for b in others if not chains_to(b, fb))
+                detail = (f"enacted via vehicle {fb} ({statuses[fb][2]}); filed carriers "
+                          f"{','.join(dead)} have no official chain to it (absorption "
+                          "established by text adjudication, see data/enacted_adjudication.csv "
+                          "and the absorbed_into_vehicle links)")
             cite = f"https://malegislature.gov/Bills/193/{fb}"
-        elif pid in ENACTED_MATCHES:
-            year, ch, sec, url, note = ENACTED_MATCHES[pid]
-            fb = stage_bill
-            fate = "enacted_other_vehicle"
-            detail = f"text enacted at {year} c.{ch} {sec}: {note}"
-            cite = url
         elif "sent_to_study" in terms.values():
             fb = min(b for b in finals if terms[b] == "sent_to_study")
             fate = "sent_to_study"
@@ -378,7 +384,8 @@ def main() -> None:
     print("bill furthest stages:", dict(sorted(Counter(s[0] for s in statuses.values()).items())))
     print("prop fates:", dict(sorted(Counter(r["fate"] for r in out).items())))
     print("prop furthest stages:", dict(sorted(Counter(r["furthest_stage"] for r in out).items())))
-    print(f"enacted-probe hits: {len(probe_rows)}; matched: {sorted(ENACTED_MATCHES)}")
+    enacted_props = sorted(r["prop_id"] for r in out if r["fate"].startswith("enacted"))
+    print(f"enacted-probe hits: {len(probe_rows)}; enacted propositions: {enacted_props}")
 
 
 if __name__ == "__main__":

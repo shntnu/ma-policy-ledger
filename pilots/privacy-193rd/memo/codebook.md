@@ -17,11 +17,11 @@ Furthest-stage ladder: referred < heard < reporting_extended < reported_favorabl
 Proposition-level fate (`data/proposition_fates.csv`): a proposition's final vehicles are its carrier bills excluding any bill superseded by a redraft that still carries the proposition (the chain is followed through redrafts).
 Fate is the most informative terminal across final vehicles:
 
-- `enacted_as_filed`: an enacted final vehicle carries the proposition through its official chain.
-  One occurred: P-266 (NDII distribution ban) via H4744, enacted unanimously (House Y&N No. 119/121, Senate Roll Call #179) and signed as 2024 c.118.
-- `enacted_other_vehicle`: proposition text found in an enacted chapter without an official chain connection.
-  The sweep runs BEFORE fate assignment (review finding 2); reviewed matches live in `ENACTED_MATCHES` in `scripts/08_fates.py` and feed the classification.
-  All other probe hits were reviewed as false positives; the review verdicts are recorded in `PROBE_FALSE_POSITIVES` in the same script.
+- `enacted_as_filed`: the enacted carrier is connected to the proposition's filed lineage by official successor records (redraft/substitution/conference), or is the proposition's only carrier (outside-section-born ideas).
+  Occurrences: P-266/P-280 via the H4744 conference chain (2024 c.118); P-299..P-302 via S2884 (2024 c.363); P-303/P-304 via H4799 (2024 c.206 s.15 outside section).
+- `enacted_other_vehicle`: the proposition's filed carriers have no official chain to the enacted vehicle; absorption is established by text adjudication and recorded as `absorbed_into_vehicle` links.
+  Occurrences: P-291 (H58/2023 c.2), P-297/P-298 (H4040/2023 c.28), P-295/P-296 (H4977/2024 c.150), P-294 (H5077/2024 c.248).
+  The enacted-side sweep runs BEFORE fate assignment; every flagged chapter carries row-level verdicts in `ADJUDICATIONS` in `scripts/08_fates.py`, exported to `data/enacted_adjudication.csv`, with coverage of the scan/probe union asserted by `scripts/09_checks.py`.
 - `rejected_by_recorded_vote`: none occurred; every roll call recorded in the census was in favor (H4844's 159-0 House passage; H4744's unanimous enactment votes)
 - `sent_to_study`: a final vehicle was accompanied by a study order
 - `died_no_recorded_action`: final vehicles ended with no further action, or every carrier was consolidated into a redraft that dropped the proposition (`dropped_in_consolidation` = yes, always with "no public explanation" in the detail, since the record never explains drops)
@@ -44,7 +44,8 @@ Link types in `data/links.csv`, with the confidence vocabulary:
 - `text_identical` (verified-text-comparison): normalized 8-gram Jaccard similarity >= 0.85 between the two official texts.
   RENAMED from `companion_identical` (review finding 9): similarity claims a TEXTUAL relationship only; whether a pair is companions, a refile, or a redraft is established by the official-record links, not by similarity.
 - `text_near_identical` (verified-text-comparison): Jaccard in [0.50, 0.85) - substantially the same text with drafting variations (for example H83 vs S25, where one chamber's numbering style shreds 8-grams; the atomization notes verified them substantively identical).
-- `study_order_terminal` (verified-official-record): each study order's own terminal actions, fetched and recorded so the claim that no study order produced further action rests on the orders' histories, not on assumption (review finding 7).
+- `absorbed_into_vehicle` (verified-text-comparison or inferred-needs-review): a dead standalone carrier's proposition enacted inside an omnibus/budget vehicle, per the enacted adjudication.
+  (Study-order terminal actions are NOT links; they are status records in `data/study_order_status.csv`, each order's own history fetched before any terminal claim.)
 - `proposition_kinship` (inferred-needs-review): hand-proposed link between two DIFFERENT propositions sharing a goal but not a mechanism.
   Every kinship link sits in `data/verification_queue.csv` with verbatim side-by-side excerpts from the official texts.
 - Study-order terminal records live in `data/study_order_status.csv`, not in the link graph (they are unary evidence, not edges); anything a study order "Reported (in part)" is fetched and its relevance recorded there (S2612 reported S2538, a jury-clerk bill with no privacy content).

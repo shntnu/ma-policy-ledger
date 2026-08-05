@@ -461,6 +461,39 @@ H2991,192:H3109,official_similar,verified-official-record,Similar Bills tab,http
 H2991,194:H3386,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
 H2991,194:S2193,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
 H2991,189:H2732,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
+H58,192:H4911,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H58,192:H5394,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H58,193:H3545,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H58,193:H47,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H58,193:H3548,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H4040,H3901,reported_from_part_of,verified-official-record,Reported on a part of H3901,https://malegislature.gov/Bills/193/H4040
+H4040,193:H1,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4040,193:H3900,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4040,193:H3901,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4040,194:H610,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4040,194:H714,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4977,193:H4707,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H4977,193:H4726,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H4977,193:H4138,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H4977,194:H1551,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H4977,194:H101,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H5077,H5049,reported_from_part_of,verified-official-record,Reported on a part of H5049,https://malegislature.gov/Bills/193/H5077
+H5077,193:H5049,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H5077,193:H4496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H5077,193:H4034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H5077,193:H4790,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H5077,193:H4844,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H4799,193:H4496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+H4799,193:H4790,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+H4799,193:H4844,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+H4799,193:H5049,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+H4799,193:H4034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+S2884,S2600,reported_from_part_of,verified-official-record,Reported on a part of S2600,https://malegislature.gov/Bills/193/S2884
+S2884,194:S1748,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
+S2884,194:S2861,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
+S2884,186:S976,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
+S2884,188:H3077,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
+S2884,188:S1721,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
 H1283,H4266,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.849 between official texts,https://malegislature.gov/Bills/193/H1283
 H1442,S1022,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.901 between official texts,https://malegislature.gov/Bills/193/H1442
 H1455,S209,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.996 between official texts,https://malegislature.gov/Bills/193/H1455
@@ -487,6 +520,13 @@ H76,S30,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.977 
 H83,S25,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.584 between official texts,https://malegislature.gov/Bills/193/H83
 S1012,S1139,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.997 between official texts,https://malegislature.gov/Bills/193/S1012
 S2666,S343,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.946 between official texts,https://malegislature.gov/Bills/193/S2666
+H1525,H58,absorbed_into_vehicle,verified-text-comparison,"P-291: identical use/sale restriction, 2023 c.2 s.33",https://malegislature.gov/Bills/193/H58
+S943,H58,absorbed_into_vehicle,verified-text-comparison,"P-291: identical use/sale restriction, 2023 c.2 s.33",https://malegislature.gov/Bills/193/H58
+H3003,H4040,absorbed_into_vehicle,verified-text-comparison,P-297;P-298: same mechanism enacted at 2023 c.28 s.7,https://malegislature.gov/Bills/193/H4040
+H1690,H4977,absorbed_into_vehicle,verified-text-comparison,"P-295;P-296: HOMES regime enacted at 2024 c.150 ss.28,52",https://malegislature.gov/Bills/193/H4977
+S956,H4977,absorbed_into_vehicle,verified-text-comparison,"P-295;P-296: HOMES regime enacted at 2024 c.150 ss.28,52",https://malegislature.gov/Bills/193/H4977
+H4356,H4977,absorbed_into_vehicle,verified-text-comparison,"P-295;P-296: HOMES redraft regime enacted at 2024 c.150 ss.28,52",https://malegislature.gov/Bills/193/H4977
+H2991,H5077,absorbed_into_vehicle,inferred-needs-review,P-294: enacted 2024 c.248 s.27 is a broader variant of H2991's home-address mechanism,https://malegislature.gov/Bills/193/H5077
 P-016,P-042,proposition_kinship,inferred-needs-review,Data broker registration: OCABR registry (MDPPA) vs AG registry with central opt-out (MIPSA),memo/atomization/family-comprehensive-mdppa.md; memo/atomization/family-mipsa-internet.md
 P-042,P-065,proposition_kinship,inferred-needs-review,Data-seller registration: AG privacy registry (MIPSA) vs DOR tax-base registration (S1896),memo/atomization/family-mipsa-internet.md
 P-001,P-031,proposition_kinship,inferred-needs-review,Data minimization: MDPPA duty-of-loyalty purposes vs GDPR-style principles (MIPSA/H1555),memo/atomization/family-comprehensive-mdppa.md; memo/atomization/family-mipsa-internet.md
@@ -524,6 +564,6 @@ P-015,P-162,proposition_kinship,inferred-needs-review,Minors and targeted advert
 P-226,P-067,proposition_kinship,inferred-needs-review,Doxing: general civil action (H1707/S971) vs police-officer criminal posting ban (H1428),memo/atomization/family-driver-commercial.md; memo/atomization/family-mipsa-internet.md
 P-226,P-266,proposition_kinship,inferred-needs-review,Interpersonal disclosure restrictions: doxing civil action vs NDII criminal offense (boundary-revision pairing),memo/atomization/family-driver-commercial.md; data/link_targets.json
 P-238,P-211,proposition_kinship,inferred-needs-review,"Retention limits: ad-network 24-month vs tolling 120-day (same mechanism family, different targets)",memo/atomization/family-driver-commercial.md
-P-246,P-124,proposition_kinship,inferred-needs-review,Sale bans: consumer health data vs location information,memo/atomization/family-health-govrecords.md; memo/atomization/family-location.md
+P-246,P-284,proposition_kinship,inferred-needs-review,Sale bans: consumer health data vs location information,memo/atomization/family-health-govrecords.md; memo/atomization/family-location.md
 P-035,P-242,proposition_kinship,inferred-needs-review,Sensitive-data opt-in: comprehensive-bill gates vs consumer-health-data chapter,memo/atomization/family-mipsa-internet.md; memo/atomization/family-health-govrecords.md
 P-234,P-006,proposition_kinship,inferred-needs-review,Sensitive data in advertising: ad-network opt-in (H395) vs MDPPA flat ban,memo/atomization/family-driver-commercial.md; memo/atomization/family-comprehensive-mdppa.md
