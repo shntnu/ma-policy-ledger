@@ -23,17 +23,14 @@ API = "https://malegislature.gov/api"
 
 
 def similar_bills(html: str) -> list[dict]:
-    """Parse the Similar Bills table from a bill page."""
+    """Parse bill links out of a /Bills/193/{bill}/SimilarBills tab page."""
     out = []
-    sec = re.search(r"[Ss]imilar [Bb]ills(.*?)</table>", html, re.S)
-    if not sec:
-        return out
-    for m in re.finditer(
-        r'href="/Bills/(\d+)/([A-Z]+\d+)"[^>]*>([^<]*)<', sec.group(1)
-    ):
-        out.append(
-            {"general_court": int(m.group(1)), "bill": m.group(2), "label": m.group(3).strip()}
-        )
+    seen = set()
+    for m in re.finditer(r'href="/Bills/(\d+)/([A-Z]+\.?\d+)"', html):
+        key = (int(m.group(1)), m.group(2))
+        if key not in seen:
+            seen.add(key)
+            out.append({"general_court": key[0], "bill": key[1]})
     return out
 
 
@@ -47,10 +44,11 @@ def main() -> None:
         actions = fetchlib.get_json(
             f"{API}/GeneralCourts/193/Documents/{bn}/DocumentHistoryActions"
         )
-        page = fetchlib.get(f"https://malegislature.gov/Bills/193/{bn}").decode(
-            "utf-8", "replace"
-        )
-        result[bn] = {"actions": actions, "similar": similar_bills(page)}
+        fetchlib.get(f"https://malegislature.gov/Bills/193/{bn}")  # cached bill page
+        sim = fetchlib.get(
+            f"https://malegislature.gov/Bills/193/{bn}/SimilarBills"
+        ).decode("utf-8", "replace")
+        result[bn] = {"actions": actions, "similar": similar_bills(sim)}
         if i % 20 == 0:
             print(f"  {i}/{len(bills)}")
     (DATA / "histories.json").write_text(json.dumps(result, indent=1))

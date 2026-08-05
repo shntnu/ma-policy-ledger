@@ -1,0 +1,209 @@
+prop_id,slug,subdomain,description,n_bills
+P-001,data-minimization-duty-of-loyalty,comprehensive,Covered entities may collect/process/transfer covered data only as reasonably necessary for enumerated permissible purposes,4
+P-002,dark-pattern-ban,comprehensive,Ban on deceptive statements and manipulative interfaces to induce consent or impair rights,4
+P-003,ssn-restrictions,comprehensive,Bar on collecting/processing/transferring Social Security numbers except enumerated uses,4
+P-004,sensitive-data-strict-necessity,comprehensive,Sensitive covered data collectible/processable only when strictly necessary for a requested product or enumerated purpose,4
+P-005,sensitive-data-transfer-consent,comprehensive,Third-party transfer of sensitive data requires prior consent per transfer,4
+P-006,sensitive-data-targeted-ads-ban,comprehensive,Flat ban on processing sensitive covered data for targeted advertising,4
+P-007,consent-request-standards,comprehensive,"Standalone, symmetric, non-inferable consent requests; new consent for new purposes",4
+P-008,privacy-by-design,comprehensive,Duty to maintain reasonable risk-mitigating policies scaled to size and sensitivity,4
+P-009,anti-retaliation-pricing,comprehensive,No retaliation or price/quality difference for exercising rights; loyalty-program exception,4
+P-010,privacy-policy-transparency,comprehensive,"Public privacy policy with categories, purposes, transferees, brokers, retention; change notice",4
+P-011,individual-data-rights,comprehensive,"Rights to access, correct, delete, and export covered data with response deadlines",4
+P-012,opt-out-rights-transfers-ads,comprehensive,Rights to withdraw consent and opt out of third-party transfers and targeted advertising,4
+P-013,profiling-opt-out,comprehensive,Right to opt out of profiling in furtherance of decisions with legal or similarly significant effects,2
+P-014,authorized-agents-opt-out-signals,comprehensive,Rights exercisable through authorized agents and browser/device opt-out preference signals,2
+P-015,minors-targeted-ads-ban,comprehensive,No targeted advertising to individuals known (tiered standard) to be under 18,4
+P-016,data-broker-registration-ocabr,comprehensive,Data broker website notice plus annual OCABR registration and public registry,4
+P-017,civil-rights-nondiscrimination,comprehensive,Ban on data practices that discriminate (disparate impact) on protected characteristics,4
+P-018,algorithm-impact-assessments,comprehensive,Annual covered-algorithm impact assessments by large holders; pre-deployment design evaluations filed with AG,2
+P-019,centralized-opt-out-mechanism,comprehensive,OCABR must establish or recognize centralized privacy-protective opt-out mechanisms,2
+P-020,privacy-security-officers,comprehensive,Mandatory designated privacy officers and data security officers,2
+P-021,large-holder-privacy-impact-assessment,comprehensive,Biennial privacy impact assessment by large data holders,2
+P-022,service-provider-third-party-duties,comprehensive,Service providers bound to instructions by contract; third parties limited to disclosed purposes,4
+P-023,comprehensive-private-right-of-action,comprehensive,"Private action with liquidated damages (0.15% global revenue or $15,000/violation), anti-arbitration",4
+P-024,comprehensive-ag-enforcement,comprehensive,AG enforcement via c.93A with penalties up to 4% global revenue or $20M per action,4
+P-025,complaint-retaliation-ban,comprehensive,Unlawful to retaliate for good-faith compliance complaints,4
+P-026,legal-request-transparency-reports,comprehensive,"Bi-monthly aggregate public reports of legal requests received (warrants, orders, subpoenas)",2
+P-027,interactive-computer-service-carveout,comprehensive,s.230-style carve-out: hosting user-provided personal information is not processing,2
+P-028,workplace-surveillance-limits,workplace,"Employer electronic monitoring limited to enumerated purposes, least-invasive means, advance notice",2
+P-031,gdpr-processing-principles,comprehensive,"Fair, purpose-limited, minimized, accurate, storage-limited, secure processing principles (GDPR art.5 style)",3
+P-032,gdpr-lawful-basis,comprehensive,"Processing lawful only on enumerated bases (consent, contract, legal obligation, vital/legitimate interests)",3
+P-033,gdpr-privacy-notice,comprehensive,"Mandatory point-of-collection privacy notice of categories, purposes, sales, retention",3
+P-034,mipsa-optout-sale-ads,comprehensive,"Opt-out of sale, targeted cross-contextual and first-party advertising, honored via universal opt-out signal",2
+P-035,gdpr-sensitive-info-gate,comprehensive,Sensitive/special-category information processable only with opt-in consent or enumerated exceptions,3
+P-036,gdpr-right-access-portability,comprehensive,Right to access processed personal information and receive it in portable format,3
+P-037,gdpr-right-delete,comprehensive,Right to deletion/erasure with downstream notification and retention exceptions,3
+P-038,gdpr-right-correct,comprehensive,Right to correction/rectification of inaccurate personal information,3
+P-039,mipsa-right-revoke-consent,comprehensive,Right to revoke previously given consent via easy conspicuous mechanism,2
+P-040,mipsa-nondiscrimination,comprehensive,"No denying, degrading, or repricing service for exercising rights; loyalty exception; waivers void",2
+P-041,gdpr-processor-contracts,comprehensive,"Mandatory controller-processor contracts (instructions, confidentiality, audits, deletion)",3
+P-042,mipsa-databroker-registration-ag,comprehensive,"Annual data broker registration with the AG, public registry, centralized broker opt-out",2
+P-043,gdpr-risk-assessments,comprehensive,Documented pre-processing risk assessments for high-risk processing (DPIA family),3
+P-044,mipsa-antidiscrimination-processing,comprehensive,Ban on processing that discriminates in equal enjoyment of goods/services by protected class,2
+P-045,mipsa-ag-enforcement,comprehensive,"Exclusive AG enforcement with CIDs, 30-day cure, civil penalties to $7,500/violation",2
+P-046,mipsa-breach-private-action,comprehensive,Private action limited to security breaches from unreasonable controls; NIST safe harbor,2
+P-047,mipsa-privacy-fund,comprehensive,Dedicated Massachusetts Privacy Fund from penalties and fees,2
+P-048,mipsa-reciprocity,comprehensive,Deemed compliance for entities under AG-certified equally protective laws,2
+P-049,mipsa-nonprofit-highered-scope,comprehensive,Extension of the chapter to nonprofits and higher education (delayed),2
+P-051,ibor-child16-parental-consent,children,Parental consent required for information-society services to children under 16,1
+P-052,ibor-right-restriction,comprehensive,Right to obtain restriction of processing (freeze pending disputes),1
+P-053,ibor-right-object-marketing,comprehensive,Right to object to processing; absolute objection right for direct marketing/profiling,1
+P-054,ibor-automated-decisions,comprehensive,Right not to be subject to solely automated decisions with legal effects; human intervention,1
+P-055,ibor-design-default-records,comprehensive,Data protection by design/default plus records-of-processing duty,1
+P-056,ibor-instate-representative,comprehensive,Out-of-state controllers targeting MA must designate an in-commonwealth representative,1
+P-057,ibor-security-measures,data-security,Risk-appropriate technical/organizational security including pseudonymization and encryption,1
+P-058,ibor-breach-notification-72h,data-security,Breach notification to AG within 72 hours and to subjects when high-risk,1
+P-059,ibor-data-protection-officer,comprehensive,Mandatory data protection officer for public bodies and large-scale processors,1
+P-060,ibor-codes-certification,comprehensive,AG-approved codes of conduct and voluntary certification seals,1
+P-061,ibor-cross-border-transfers,comprehensive,"Out-of-state transfers only under AG adequacy decisions, safeguards, or derogations",1
+P-062,ibor-ag-supervision-fines,comprehensive,AG as supervisory authority with GDPR-scale administrative fines (to $20M/4% turnover),1
+P-063,ibor-general-damages-pra,comprehensive,Judicial remedy and compensation for material and non-material damage; representative actions,1
+P-065,data-seller-dor-registration,data-brokers,"Annual DOR registration by sellers of residents' personal data, disclosing buyers and income; tax design report",1
+P-066,ice-data-sale-ban,data-brokers,Ban on selling personal information to ICE or intermediaries,1
+P-067,police-officer-pii-posting-ban,govt-records,Criminal penalty for publicly posting police officers' or family's personal information without consent,1
+P-068,isp-optin-consent,isp,Franchised ISPs/telecoms may not collect/use/disclose customer personal information without express written approval; no surcharge or denial,2
+P-069,isp-sale-written-authorization,isp,ISP sale of customer PII requires express written revocable authorization,1
+P-070,muni-isp-data-minimization,isp,Public broadband may not collect/use/retain usage data beyond service necessity; de-identify and drop,1
+P-071,muni-isp-collection-notice,isp,"Public, accessible, translated notice of public-ISP data collection and retention",1
+P-072,muni-isp-thirdparty-optin,isp,No public-ISP data sharing with third parties except contractors or with opt-in consent,1
+P-073,muni-isp-anonymous-wifi,isp,No identification requirement to access public wifi,1
+P-074,muni-isp-data-profile-access,isp,Public-ISP users may request their data profile and a report of information collected or shared,1
+P-075,muni-isp-breach-notice,isp,"Public-ISP reasonable security, encryption, and prompt user breach notification",1
+P-076,muni-isp-warrant-requirement,isp,Public-ISP user data released to law enforcement only with warrant; user notified of requests,1
+P-081,biometric-collection-consent,biometric,No collection/processing of biometric information without notice and opt-in written consent,2
+P-082,biometric-privacy-policy-retention,biometric,Mandatory public biometric privacy/retention-destruction policy,2
+P-083,biometric-disclosure-limits,biometric,Ban on disclosing biometric information except enumerated consent/legal exceptions,2
+P-084,biometric-monetization-ban,biometric,"Ban on selling, leasing, trading, or profiting from biometric information",2
+P-085,biometric-security-standard,biometric,Duty to protect biometric data at industry standard and as protectively as other sensitive data,2
+P-086,biometric-warrant-notice,biometric,"Entity receiving a biometric warrant must notify the individual, subject to court delay",1
+P-087,biometric-warrant-transparency-reports,biometric,Annual aggregate reporting to AG of biometric warrants and mandated disclosures,1
+P-088,biometric-enforcement-pra,biometric,Private right of action and AG enforcement for biometric violations,2
+P-089,commercial-establishment-biometric-id-ban,biometric,Entertainment/retail/food establishments may not use biometrics to identify persons,1
+P-091,93h-personal-info-biometric,data-security,Add a biometric element to the c.93H personal information definition,5
+P-092,93h-personal-info-dob,data-security,Add date of birth to the c.93H personal information definition,4
+P-093,93h-personal-info-expanded-categories,data-security,"Add taxpayer/passport/government IDs, genetic, health insurance, medical, geolocation to c.93H personal information",3
+P-094,93h-login-credentials-breach,data-security,Extend breach law to standalone online-account credentials with credential-specific notice,3
+P-095,93h-breach-definition-modernization,data-security,Restate breach of security around electronic data and acquired encryption keys,3
+P-096,93h-breach-harm-threshold,data-security,Condition breach notification on a risk-of-harm test,4
+P-097,93h-notice-content-modernization,data-security,"Rewrite required breach-notice contents (dates, data types, freeze, mitigation services)",4
+P-098,93h-notify-fbi,data-security,Add the FBI as a mandatory breach-notification recipient,1
+P-099,93h-security-program-mandate,data-security,Statutory comprehensive written information security program requirement via OCABR regulations,1
+P-100,93h-personal-info-public-records-exclusion,data-security,Exclude lawfully obtained public information from c.93H personal information,1
+P-101,breach-reporting-insurance-protection,data-security,Contracts and cyber-insurance may not prohibit/limit reporting incidents or breaches to government,1
+P-121,location-consent-regime,location,Device location information collectible only for permissible purposes with per-purpose opt-in consent and expiry,4
+P-122,location-targeted-ad-optout,location,Opt-out of location processing for targeted advertising,4
+P-123,location-minimization,location,"No more precise, longer-retained, or further-inferred location data than the purpose requires",4
+P-124,location-sale-disclosure-ban,location,Ban on sale/rent/trade/lease of location information and unnecessary third-party disclosure,4
+P-125,location-govt-access-warrant-gate,location,"No disclosure of location information to government absent warrant, exigency, legal mandate, or subject request",4
+P-126,location-govt-monetization-ban,location,Government entities may not monetize location information,4
+P-127,location-privacy-policy-duty,location,Mandatory Location Privacy Policy with enumerated contents and change re-consent,4
+P-128,location-warrant-transparency-reports,location,Annual aggregate reporting to AG of location warrants and mandated disclosures,2
+P-129,location-anti-retaliation,location,No adverse action for exercising location-privacy rights,4
+P-130,location-private-enforcement,location,"Private right of action ($5,000/violation or actual damages), anti-arbitration, AG c.93A enforcement",4
+P-131,stored-records-warrant-requirement,electronic-privacy,Government access to stored electronic/subscriber/device/location records only by superior-court warrant,2
+P-132,warrant-subject-notice,electronic-privacy,"Notice to the data subject within 7 days of warrant execution, with court-ordered delay",2
+P-133,out-of-state-warrant-comity,electronic-privacy,MA providers comply with other states' warrants as if issued under commonwealth law,2
+P-134,warrant-court-reporting,electronic-privacy,Courts report warrant grants/denials; annual public statistical report to the legislature,2
+P-135,reverse-warrant-ban,electronic-privacy,Ban on reverse-location and reverse-keyword court orders and voluntary requests,2
+P-136,cell-site-simulator-limits,electronic-privacy,Cell site simulators only under heightened warrant with mandatory data deletion,2
+P-137,stored-records-violation-remedies,electronic-privacy,Exclusionary rule plus private action against government for stored-records violations,2
+P-138,library-records-shield,electronic-privacy,Library user data excluded from public records and given warrant protections,2
+P-139,carrier-emergency-location-disclosure,location,Carriers must provide device location to law enforcement for 911/missing-person emergencies with immunity,1
+P-141,edtech-operator-targeted-ad-ban,student,K-12 edtech operators may not target advertising based on school-acquired information,2
+P-142,edtech-operator-profiling-ban,student,Operators may not amass student/educator profiles except for school purposes,2
+P-143,edtech-operator-sale-ban,student,Ban on sale or rental of student information,2
+P-144,edtech-operator-disclosure-limits,student,"Operator disclosure of covered information limited to legal compulsion, research, educational entities",2
+P-145,edtech-operator-reasonable-security,student,Operators must maintain reasonable security procedures for covered information,2
+P-146,edtech-operator-return-destroy,student,Operators must return or destroy covered information on request or when no longer needed,2
+P-147,edtech-contract-mandatory-terms,student,Mandatory data-protection clauses in every educational-entity/operator contract; noncompliant contracts voidable,2
+P-148,dese-data-governance-cpo,student,Board data-privacy regulations plus a DESE chief privacy officer and educator-prep curricula,2
+P-149,dese-data-inventory-transparency,student,DESE must publish categories of covered information it collects with source and purpose,2
+P-150,district-privacy-policy-breach-reporting,student,District privacy policies with 10-day breach reporting and student data managers,2
+P-151,district-data-inventory-operator-list,student,Districts publish collected-data categories and operator contracts (current and 10-year),2
+P-152,district-staff-privacy-training,student,Annual district staff data-privacy training tied to certification,2
+P-153,public-records-ferpa-exemption,student,Public higher-ed FERPA education records exempt from the public records law,3
+P-154,e2c-center-system-board,govt-data,"Education-to-Career Data Center, longitudinal data system, and governing board with privacy duties",4
+P-155,e2c-agency-data-mandate,govt-data,EEC/DESE/DHE/DUA must provide data to the system at least annually,4
+P-156,e2c-ferpa-authorized-rep,govt-data,Center deemed FERPA authorized representative to access student record and wage data,4
+P-157,e2c-strategic-initiative-evaluation,govt-data,Board may designate strategic initiatives for enhanced data collection/evaluation,4
+P-158,e2c-local-rpp-linking,govt-data,Municipal research-practice partnerships linking local data to the system,4
+P-159,student-social-media-password-ban-highered,student,Higher-ed institutions may not demand access to students' personal social media accounts,1
+P-160,student-social-media-password-ban-k12,student,K-12 institutions may not demand access to students' personal social media accounts,1
+P-161,employee-social-media-password-ban,workplace,Employers may not demand access to employees'/applicants' personal social media accounts,1
+P-162,minor-directed-prohibited-product-ads,children,Ban on marketing enumerated adult products on minor-directed sites or to known minors,1
+P-163,minor-info-marketing-use-ban,children,Ban on using/compiling minors' personal information to market prohibited products,1
+P-164,minor-eraser-right,children,Registered minors may remove or obtain removal of content they posted,1
+P-165,children-social-media-commission,children,"Special commission on children's mental health and social media incl. algorithm audits, age-verification privacy, data practices",1
+P-171,le-biometric-surveillance-ban,surveillance-tech,Default ban on law enforcement acquiring or using biometric surveillance technology,3
+P-172,rmv-fr-identity-verification,surveillance-tech,RMV may use facial recognition to verify identity when issuing licenses,3
+P-173,state-police-fr-gateway,surveillance-tech,All FR searches centralized in one state police unit for enumerated purposes with vetted technology,3
+P-174,emergency-fr-court-filing,surveillance-tech,Emergency FR searches documented in sworn statement filed with superior court within 48 hours,3
+P-175,fr-defendant-notice-discovery,surveillance-tech,Defendants identified via FR get notice and discovery of search records and algorithm,3
+P-176,le-fr-search-transparency,surveillance-tech,"Public records of each FR search, quarterly reports, annual disaggregated statistics",3
+P-177,nonle-agency-fr-transparency,surveillance-tech,Non-LE public agencies record and report their FR searches,3
+P-178,emotion-video-analysis-ban,surveillance-tech,Absolute ban on LE biometric emotion inference and moving-image analysis,3
+P-179,rmv-fr-search-public-notice,surveillance-tech,RMV must post and distribute public notice of FR searches of license photos,1
+P-181,drone-operation-gateway,surveillance-tech,"Government drones operable only under warrant, non-LE purposes, or documented emergency",1
+P-182,drone-data-minimization,surveillance-tech,Drone warrant flights collect data only on the subject; non-target data deleted within 24 hours,1
+P-183,drone-biometric-analysis-ban,surveillance-tech,No facial recognition or biometric matching of drone data except as judicially authorized,1
+P-184,drone-first-amendment-shield,surveillance-tech,No drone collection on political/religious/social views absent probable-cause investigation,1
+P-185,drone-exclusionary-rule,surveillance-tech,Unlawfully acquired drone information inadmissible in any proceeding,1
+P-186,drone-warrant-subject-notice,surveillance-tech,"Drone warrant subject served notice within 7 days, with court-ordered delay",1
+P-187,drone-warrant-judicial-reporting,surveillance-tech,Judges annually report drone warrants; annual public report to the legislature,1
+P-191,alpr-use-restriction,surveillance-tech,Government ALPR use limited to law-enforcement purposes and DOT tolls/parking,1
+P-192,alpr-accuracy-verification,surveillance-tech,24-hour hot-list updates and human confirmation before acting on ALPR alerts,1
+P-193,alpr-le-48h-destruction,surveillance-tech,Law enforcement must destroy ALPR data within 48 hours (optional transfer to EOPSS),1
+P-194,alpr-eopss-120day-retention,surveillance-tech,"EOPSS retains transferred ALPR data 120 days then destroys, absent legal process",1
+P-195,alpr-vendor-retention-parity,surveillance-tech,No government contracts with private ALPR vendors exceeding the 120-day retention standard,1
+P-196,alpr-access-limits,surveillance-tech,Default ban on government access/search/disclosure of ALPR data with enumerated exceptions,1
+P-197,alpr-secondary-use-ban,surveillance-tech,"No ALPR data use for credit, insurance, employment, or marketing decisions",1
+P-198,alpr-admissibility-limits,surveillance-tech,Suppression of unlawfully obtained ALPR data; civil/administrative inadmissibility,1
+P-199,alpr-private-right-of-action,surveillance-tech,Civil action with treble or exemplary damages for ALPR violations,1
+P-200,alpr-ag-enforcement,surveillance-tech,AG enforcement of the ALPR chapter,1
+P-201,alpr-annual-reporting,surveillance-tech,EOPSS annual report to the legislature on ALPR systems and volumes,1
+P-205,toll-tech-purpose-limitation,location,Toll collection technology usable only for tolling purposes,3
+P-206,toll-data-le-warrant,location,No tolling-derived data to law enforcement without warrant/production order; emergency procedure,4
+P-207,toll-data-exclusionary-rule,location,Data obtained in violation inadmissible in proceedings,3
+P-208,toll-data-private-action,location,Civil action with exemplary or treble damages for tolling-data violations,4
+P-209,toll-data-93a-hook,location,Use of violation-obtained tolling data is itself a c.93A violation,2
+P-210,dot-tolling-access-restriction,location,MassDOT barred from accessing/disclosing tolling data except four enumerated purposes,2
+P-211,tolling-data-120day-destruction,location,Mandatory permanent erasure of tolling data 120 days after creation,2
+P-212,toll-data-ag-enforcement,location,AG enforcement of the driver-privacy chapter,1
+P-213,alpr-14day-retention-90K,surveillance-tech,"ALPR restrictions under proposed c.90K: no protected-activity tracking, 14-day retention cap, warrant for access",1
+P-214,vehicle-telematics-le-warrant,location,Warrant requirement extended to OEM/telematics/aftermarket GPS vehicle data held by private parties,1
+P-215,vehicle-tracking-device-criminal-ban,location,Criminal ban on nonconsensual installation of tracking devices on motor vehicles,2
+P-221,scorecard-personal-data-content-limit,commercial,Energy scorecards may not contain personal data beyond address and rating,1
+P-222,scorecard-nondisclosure-consent,commercial,Energy scorecards not disclosable without owner consent; public-records exempt,1
+P-223,trigger-lead-solicitation-93a,commercial,Mortgage trigger-lead solicitation practices declared unfair/deceptive under c.93A,1
+P-224,billing-data-pass-prohibition,commercial,Seller may not pass consumer billing information to another seller without affirmative consent,1
+P-225,financial-institution-nondisclosure,commercial,Financial institutions barred from disclosing customer financial/personal information without authorization,1
+P-226,malicious-doxing-civil-action,interpersonal,Civil action for malicious nonconsensual dissemination of personal information to facilitate harassment,2
+P-231,ad-network-notice,advertising,Ad networks must post notice of collection/use/retention and profiling practices,1
+P-232,publisher-privacy-policy-requirement,advertising,Networks must contractually require publisher privacy policies with opt-out link,1
+P-233,opm-opt-out,advertising,Consumer right to opt out of online preference marketing,1
+P-234,sensitive-data-opm-opt-in,advertising,Affirmative consent before using sensitive medical/financial/sexual data for preference marketing,1
+P-235,pii-merger-consent,advertising,Consent required before merging non-PII with PII,1
+P-236,ad-network-data-security,advertising,Reasonable efforts to protect collected ad data,1
+P-237,ad-network-consumer-access,advertising,Consumer access right to retained PII held by ad networks,1
+P-238,ad-data-24month-retention-limit,advertising,Ad-delivery data deleted within 24 months of collection,1
+P-239,ad-network-ag-enforcement,advertising,"AG enforcement with $1,000 statutory penalties, treble for pattern-and-practice",1
+P-241,chd-privacy-policy,health,Consumer Health Data Privacy Policy published on homepage; no collection beyond it without fresh consent,2
+P-242,chd-optin-consent,health,Opt-in consent (separate for collection and sharing) before handling consumer health data,2
+P-243,chd-nonretaliation,health,No discrimination against consumers exercising health-data rights,2
+P-244,chd-consumer-rights,health,"Rights to know, withdraw consent, and 30-day deletion with third-party flow-down",2
+P-245,chd-security-minimization,health,Need-based access restriction and reasonable security for consumer health data,2
+P-246,chd-sale-ban,health,Flat ban on selling consumer health data,2
+P-247,psc-data-processing-standards,health,Pregnancy services centers may process personal information only with consent under fair-processing principles,2
+P-251,e911-audio-confidential,govt-records,"911 call audio confidential; release restricted to consent, court order, or enumerated recipients",3
+P-252,e911-transcript-public,govt-records,"Written 911 transcript remains public, prepared at requester's cost",3
+P-253,e911-retention-1yr,govt-records,PSAPs must retain 911 recordings at least one year,1
+P-254,lottery-winner-anonymity,govt-records,Lottery winner identity not a public record; nondisclosure on winner request,1
+P-255,victim-comp-records-confidential,govt-records,Victim-compensation claim records confidential and privileged,1
+P-256,firearm-records-maintenance-ban,govt-records,Government may not maintain firearm-transfer records containing personal information,1
+P-257,firearm-records-disclosure-ban,govt-records,No government disclosure of firearm licensee personal information except enumerated purposes,1
+P-258,firearm-records-destruction,govt-records,Mandate to destroy existing firearm transfer/possession records,1
+P-259,firearm-records-harm-relief,govt-records,Relief mechanism for persons harmed by prior release of firearm records,1
+P-260,waiting-room-confidentiality-right,health,Patient confidentiality guarantee extended to common areas and waiting rooms,1
+P-261,waiting-room-anonymity-system,health,No announcing patient names; numbering or pager systems required,1
+P-265,care-location-shield,location,Protections for reproductive/gender-affirming-care location information (H4844 redraft; text pending verification),1
