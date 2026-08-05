@@ -1,0 +1,72 @@
+S380 | EX-PROGRAM-INCIDENT | consumer-privacy clause incident to home-care worker-safety standards program
+S381 | IN-CORE | c.111 s.72CC(f) bars long-term care facilities from disclosing resident sexual orientation/gender-transition/intersex/HIV information - disclosure restriction on a data holder over an existing record class (borderline: rest of bill is anti-discrimination conduct rules)
+S381 | MECHANISMS | SECTION 1 new c.111 s.72CC(f): facility nondisclosure duty for resident SO/GI/transition/intersex/HIV status plus duty to minimize inadvertent disclosure; s.72CC(e) resident-record content (chosen name/pronouns) attaches; s.72CC(k) DPH civil penalties enforce it
+S396 | EX-FALSEPOS | "right to privacy" in elder-dignity rights list; no data-handling rule
+S403 | EX-PROGRAM-INCIDENT | emergency registry of elders/disabled with not-public-record clause incident to registry the bill creates
+S437 | EX-FALSEPOS | "privacy screens" as voting-booth equipment cost
+S445 | EX-FALSEPOS | mosquito surveillance in the entomological sense
+S627 | EX-PROGRAM-INCIDENT | redaction-for-privacy clause incident to TNC/DNC data-reporting and accountability program
+S666 | EX-FALSEPOS | "genetic information" in anti-discrimination protected-class list
+S678 | EX-PROGRAM-INCIDENT | data-privacy/consent clause incident to sickle cell registry the bill creates
+S690 | EX-PROGRAM-INCIDENT | privacy/infosec policy requirement incident to cryptocurrency licensure regime
+S728 | EX-PROGRAM-INCIDENT | interagency patient-safety-data sharing safeguards incident to Betsy Lehman Center program
+S747 | EX-PROGRAM-INCIDENT | nurse licensure compact coordinated-data-system confidentiality (codebook names nurse-compact data system as program-incident)
+S749 | EX-FALSEPOS | "privacy" in trade-secret/business-confidentiality sense for pharma filings
+S761 | EX-FALSEPOS | epidemiological surveillance data in hospital-closure review
+S766 | EX-PROGRAM-INCIDENT | risk-adjustment data confidentiality incident to public health option program
+S783 | EX-FALSEPOS | trade-secret/privacy confidentiality of drug-price filings, not personal data
+S799 | EX-FALSEPOS | dashboards "comply with applicable privacy law" boilerplate
+S815 | EX-FALSEPOS | FERPA-compliance reference in free-community-college data sharing
+S818 | EX-FALSEPOS | FERPA-compliance reference in dual-enrollment data analysis
+S838 | EX-FALSEPOS | FERPA-compliance reference in AP exam data analysis
+S839 | EX-PROGRAM-INCIDENT | no-PII clause in work-study program outcome report
+S857 | EX-FALSEPOS | "privacy rights" in preserved-lease-terms list for public housing
+S859 | EX-FALSEPOS | "genetic information" in housing anti-discrimination protected-class list
+S941 | IN-CORE | ss.1-3 restrict disclosure of RMV records and CORI (government-held personal data) absent warrant/criminal-justice purpose - disclosure restrictions over existing government record classes
+S941 | MECHANISMS | SECTION 1 c.6 s.167A(j): RMV data disclosure to federal agencies for civil immigration enforcement barred absent probable-cause warrant, AG quash authority; SECTIONS 2-3 c.6 s.172: CORI access/disclosure barred for non-criminal-justice purposes; SECTION 5(b) c.147 s.63(b): interview-subject PII exempt from public records (attaches); SECTION 5(d): court personnel disclose case info to federal agents only as available to public; SECTION 6 c.258B s.3(x): court orders limiting disclosure of immigration-status information
+S947 | EX-ADJACENT | parentage law incl. genetic-testing challenge procedure; family-law-procedure exclusion
+S953 | EX-FALSEPOS | "genetic information" in protected-class list
+S978 | EX-FALSEPOS | "genetic information" in investment anti-discrimination list
+S1000 | EX-ADJACENT | expands child advocate's oversight access to juvenile records; agency-access authority, confidentiality obligations incidental
+S1011 | EX-PROGRAM-INCIDENT | expungement/sealing clause is a remedy incident to wrongful-conviction compensation proceeding
+S1013 | IN-CORE | s.48A(c) criminalizes internet posting of election-worker/family personal information promoting harassment - interpersonal disclosure restriction (parallel to H1428 police-officer PII, IN)
+S1013 | MECHANISMS | SECTION 1 new c.56 s.48A(c): unlawful to knowingly post election worker or family member personal information online where dissemination promotes harassment/threat to safety; s.48A(a) PII definition; s.48A(d)-(e) penalties attach; s.48A(b) harassment offense is conduct regulation attaching to the same section
+S1035 | EX-FALSEPOS | "genetic information" in harassment/discrimination protected-class list
+S1057 | EX-PROGRAM-INCIDENT | victim-privacy clause incident to trafficking public-awareness program
+S1077 | EX-ADJACENT | "technological abuse" definition inside domestic-violence/coercive-control law; conduct regulation, protective-order domain
+S1094 | EX-ADJACENT | bodily-autonomy/anti-mandate rights declaration; "sharing of personal data" mention imposes no duty on data holders
+S1096 | EX-FALSEPOS | "electronic monitoring center" director listed on a council roster
+S1099 | EX-FALSEPOS | "electronic monitoring center" director listed on a council roster
+S1101 | EX-FALSEPOS | geolocation-monitoring-device tampering offense; pretrial-release criminal procedure
+S1112 | EX-FALSEPOS | expectation of privacy in personal property in public spaces; physical privacy, no data rule
+S1116 | IN-CORE | civil cause of action for doxing - interpersonal disclosure restriction on personal identifying information (matches H1707/S971 family)
+S1116 | MECHANISMS | SECTION 2 new c.214 s.3C(b)-(c): doxing unlawful, private action with injunctive relief, damages, fees; s.3C(d) treble damages for bias-motivated doxing; s.3C(a) PII/doxing definitions and s.3C(e) exemptions attach; SECTION 1 c.12 s.11H adds doxing to civil rights act AG enforcement
+S1129 | EX-FALSEPOS | geolocation-monitoring-device tampering offense; dangerousness/pretrial criminal procedure
+S1130 | EX-ADJACENT | uniform parentage act (genetic testing, confidential birth procedures); family-law-procedure exclusion per codebook
+S1133 | IN-CORE | judicial security act - bars government posting and data-broker sale of judges' personal information with takedown and private action (parallel H1428)
+S1133 | MECHANISMS | SECTION 2(a)-(c): state/county/municipal agencies barred from posting protected individuals' personal information online without written permission, confidential-marking requests, 72-hour removal; SECTION 3(a): data-broker sale/license/trade of judges' PII unlawful; SECTION 3(b)-(e): post-request no-post/no-transfer duty on any person/business, 72-hour internet removal; SECTION 3(f): private action for injunctive/declaratory relief with fees; c.221D s.1 definitions (data broker, personal information, protected individual) attach
+S1140 | EX-FALSEPOS | geolocation-monitoring-device tampering offense in dangerousness-hearing bill
+S1152 | EX-FALSEPOS | training content mentions privacy/confidentiality; employment-leave bill
+S1165 | EX-PROGRAM-INCIDENT | commissioner may deny data requests as privacy invasion - public-records-exemption clause incident to workers' comp data reporting
+S1228 | IN-CORE | comprehensive workplace electronic monitoring act - collection limits, notice, employee access, use/disclosure restrictions, enforcement
+S1228 | MECHANISMS | SECTION 2: collection limited to employer premises and work-related data; SECTIONS 3-6: general/director's/specific/simultaneous notice regimes with reasonable-suspicion exception; SECTION 7 and SECTION 12(b): private-area monitoring ban; SECTION 8: employee right to review/copy monitoring data; SECTION 9: use limits (no adverse action without compliance, no sole-basis quotas); SECTION 10 and SECTION 12(d)-(e): disclosure restrictions with consent/warrant exceptions; SECTION 11: non-retaliation; SECTION 12(a),(c): work-confinement and First Amendment monitoring limits; SECTION 13: OCABR fines up to $5,000, private action, injunction; SECTION 14: non-waiver; SECTION 16: rulemaking
+S1330 | EX-FALSEPOS | genetic testing as insurance-coverage survey subject
+S1334 | EX-PROGRAM-INCIDENT | published-data-excludes-PII clause incident to local public health system program
+S1344 | EX-PROGRAM-INCIDENT | Parkinson's registry confidentiality (codebook names this registry as program-incident)
+S1352 | EX-FALSEPOS | public-health surveillance for lead poisoning
+S1358 | EX-FALSEPOS | student-privacy-law compliance reference in LGBTQ health equity data collection
+S1380 | EX-FALSEPOS | BRFSS survey "surveillance" in epidemiological sense
+S1384 | EX-PROGRAM-INCIDENT | adds opioid-treatment info to PMP with patient consent forms - data-content change and consent clause incident to care-coordination purpose, no new privacy rights
+S1391 | EX-PROGRAM-INCIDENT | vaccine-data publication with c.93H PII exclusion incident to reporting program
+S1392 | EX-FALSEPOS | oral health data and surveillance system in epidemiological sense
+S1410 | EX-FALSEPOS | diagnostic/screening surveillance preparedness in public-health sense
+S1417 | EX-PROGRAM-INCIDENT | resident representative's authorized access to resident records incident to representative-designation program
+S1422 | EX-FALSEPOS | infection surveillance system in epidemiological sense
+S1436 | EX-FALSEPOS | "to the extent permitted by privacy regulations" boilerplate in patient-handling data collection
+S1458 | EX-PROGRAM-INCIDENT | immunization-data distribution with c.93H PII exclusion incident to community-immunity program
+S1460 | EX-FALSEPOS | privacy/trade-secret confidentiality of determination-of-need filings, not personal data
+S1463 | EX-PROGRAM-INCIDENT | de-identified patient-number notification clause incident to first-responder exposure program
+S1469 | EX-FALSEPOS | cancer surveillance and environmental data in epidemiological sense
+S1483 | IN-CORE | automated road safety camera pilot with substantive surveillance-technology data rules (destruction, use/disclosure/sale ban, public-records exemption) - matches in-census bus-camera precedent (2024 c.363, S2884) and companion H3393
+S1483 | MECHANISMS | SECTION 1 c.4 s.7 cl.26(w): camera photos/PII exempt from public records; SECTION 2 new c.90J s.8(a): capture only on violation, destruction within 48 hours of final disposition; s.8(b): discoverability/admissibility limits absent court order; s.8(c): not a public record; s.8(d): no frontal photographs, avoid identifying operator/passengers/contents; s.8(e): city/vendor use/disclosure/sale/access ban except violation processing
+S1499 | EX-PROGRAM-INCIDENT | intake SO/GI disclosure handling, access minimization, and no-PII public reporting clauses incident to correctional LGBTQI+ protections program

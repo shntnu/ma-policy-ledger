@@ -172,7 +172,7 @@ P-215,vehicle-tracking-device-criminal-ban,location,Criminal ban on nonconsensua
 P-223,trigger-lead-solicitation-93a,commercial,Mortgage trigger-lead solicitation practices declared unfair/deceptive under c.93A,1
 P-224,billing-data-pass-prohibition,commercial,Seller may not pass consumer billing information to another seller without affirmative consent,1
 P-225,financial-institution-nondisclosure,commercial,Financial institutions barred from disclosing customer financial/personal information without authorization,1
-P-226,malicious-doxing-civil-action,interpersonal,Civil action for malicious nonconsensual dissemination of personal information to facilitate harassment,2
+P-226,malicious-doxing-civil-action,interpersonal,Civil action for malicious nonconsensual dissemination of personal information to facilitate harassment,3
 P-231,ad-network-notice,advertising,Ad networks must post notice of collection/use/retention and profiling practices,1
 P-232,publisher-privacy-policy-requirement,advertising,Networks must contractually require publisher privacy policies with opt-out link,1
 P-233,opm-opt-out,advertising,Consumer right to opt out of online preference marketing,1
@@ -199,7 +199,7 @@ P-258,firearm-records-destruction,govt-records,Mandate to destroy existing firea
 P-259,firearm-records-harm-relief,govt-records,Relief mechanism for persons harmed by prior release of firearm records,1
 P-260,waiting-room-confidentiality-right,health,Patient confidentiality guarantee extended to common areas and waiting rooms,1
 P-261,waiting-room-anonymity-system,health,No announcing patient names; numbering or pager systems required,1
-P-266,ndii-distribution-ban,interpersonal,"Criminal offense to distribute identifiable nude or sexual visual material without consent, with intent to harm/harass/threaten or reckless disregard; enacted version adds deepfake 'digitization' coverage (threat appears as an intent element, not a standalone offense; repeat-offender penalty attaches)",6
+P-266,ndii-distribution-ban,interpersonal,"Criminal offense to distribute identifiable nude or sexual visual material without consent, with intent to harm/harass/threaten or reckless disregard; enacted version adds deepfake 'digitization' coverage (threat appears as an intent element, not a standalone offense; repeat-offender penalty attaches)",8
 P-271,comp-right-access,comprehensive,Right to access covered data collected about the individual (24-month lookback as filed),4
 P-272,comp-right-correct,comprehensive,Right to correct verifiable substantial inaccuracies in covered data,4
 P-273,comp-right-delete,comprehensive,Right to delete covered data about the individual,4
@@ -208,7 +208,7 @@ P-275,gdpr-right-access,comprehensive,Right to obtain the specific pieces of per
 P-276,gdpr-right-portability,comprehensive,Right to receive personal information in a structured machine-readable format and transmit it,3
 P-277,chd-right-know,health,Consumer right to know what consumer health data is collected and shared,2
 P-278,chd-right-delete,health,Consumer right to 30-day deletion of consumer health data with third-party flow-down,2
-P-280,ndii-court-record-confidentiality,govt-records,Visual material in court records of an NDII prosecution is closed to public inspection; inspection limited to enumerated persons absent court order,6
+P-280,ndii-court-record-confidentiality,govt-records,Visual material in court records of an NDII prosecution is closed to public inspection; inspection limited to enumerated persons absent court order,8
 P-281,location-precision-limit,location,No collecting more precise location information than the permissible purpose requires,5
 P-282,location-retention-limit,location,No retaining location information longer than the permissible purpose requires,5
 P-283,location-inference-limit,location,No deriving or inferring beyond the permissible purpose from location information,5
@@ -218,15 +218,51 @@ P-286,location-govt-disclosure-notice-rulemaking,location,Directs AG regulations
 P-287,ai-training-data-security-rulemaking,comprehensive,Directs regulations requiring security measures for individuals' data used in AI training,1
 P-288,ai-training-data-consent-rulemaking,comprehensive,"Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training",1
 P-289,ai-training-data-deletion-rulemaking,comprehensive,Directs regulations requiring deletion or de-identification of AI training data when no longer needed,1
-P-291,notary-personal-info-use-restriction,commercial,"Notaries may not use, sell, or transfer identifying personal information acquired in a notarial act except for enumerated purposes",3
+P-291,notary-personal-info-use-restriction,commercial,"Notaries may not use, sell, or transfer identifying personal information acquired in a notarial act except for enumerated purposes",4
 P-294,sfi-personal-info-withholding,govt-records,"Ethics commission must withhold filers' personal contact information (home address; enacted version adds email, phone, family member identity) from public statements of financial interests",2
-P-295,eviction-record-sealing-regime,govt-records,Petition-based sealing of eviction court records with tiered waiting periods; sealed records closed to public inspection with limited re-access purposes,4
-P-296,sealed-eviction-cra-duties,commercial,Consumer reporting agencies may not disclose or use sealed eviction records and must remove them within 30 days of sealing,4
+P-295,eviction-record-sealing-regime,govt-records,Petition-based sealing of eviction court records with tiered waiting periods; sealed records closed to public inspection with limited re-access purposes,6
+P-296,sealed-eviction-cra-duties,commercial,Consumer reporting agencies may not disclose or use sealed eviction records and must remove them within 30 days of sealing,6
 P-297,demographic-data-collection-standard,govt-data,"Government agencies collecting race/ethnicity data must use separate, voluntarily self-identified categories",2
 P-298,demographic-pii-confidentiality,govt-data,Personal identifying information in agency demographic data is confidential; only aggregated data preventing identification may be published,2
-P-299,bus-camera-records-exemption,surveillance-tech,Bus-camera photographs and personal identifying information exempt from the public records law,1
-P-300,bus-camera-litigation-limits,surveillance-tech,Bus-camera evidence not discoverable or admissible outside enforcement proceedings absent a court order with materiality findings,1
-P-301,bus-camera-occupant-id-ban,surveillance-tech,Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue,1
-P-302,bus-camera-vendor-confidentiality,surveillance-tech,"Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing",1
+P-299,bus-camera-records-exemption,surveillance-tech,Bus-camera photographs and personal identifying information exempt from the public records law,8
+P-300,bus-camera-litigation-limits,surveillance-tech,Bus-camera evidence not discoverable or admissible outside enforcement proceedings absent a court order with materiality findings,8
+P-301,bus-camera-occupant-id-ban,surveillance-tech,Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue,6
+P-302,bus-camera-vendor-confidentiality,surveillance-tech,"Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing",9
 P-303,tnc-trip-data-reporting-mandate,location,"TNCs must report trip-level data monthly, including continuous 60-second in-ride geolocation, driver identifier, and vehicle plate, to the DPU division",1
 P-304,tnc-trip-data-confidentiality,location,Reported TNC trip data is not a public record; sharing only de-identified under confidentiality agreements with listed agencies; breach triggers destruction and notification,1
+P-305,judicial-pii-agency-posting-ban,govt-records,"State/county/municipal agencies barred from posting protected judicial officers' personal information online without written consent, with confidential-marking and 72-hour removal",2
+P-306,judicial-pii-databroker-sale-ban,data-brokers,"Data brokers barred from selling, licensing, or trading judges' personal information",2
+P-307,judicial-pii-takedown-right,interpersonal,"Post-request duty on any person or business to remove and not transfer judges' personal information (72-hour takedown), with private action",2
+P-308,election-worker-pii-posting-ban,interpersonal,Unlawful to knowingly post election workers' or family members' personal information online where dissemination promotes harassment or threatens safety,1
+P-310,worker-data-collection-notice,workplace,Employer notice of worker-data collection including vendor/third-party disclosure notice,1
+P-311,worker-data-access-right,workplace,Worker right to access worker data in portable format on verifiable request,1
+P-312,worker-data-correction-right,workplace,Accuracy duty and worker correction right with downstream third-party correction,1
+P-313,worker-data-minimization,workplace,Worker-data collection limited to strictly necessary purposes,1
+P-314,worker-data-sale-ban,workplace,"Ban on sale or license of worker data, including de-identified worker data",1
+P-315,worker-data-disclosure-limits,workplace,Worker-data disclosure only by contract with security duties; biometric/health third-party transfer ban; government-sharing limits,1
+P-316,worker-biometric-health-destruction,workplace,Mandatory destruction of worker biometric and health data,1
+P-317,worker-data-employment-use-bans,workplace,Bans on using worker data for enumerated employment decisions,1
+P-318,worker-data-security-breach-notice,workplace,Worker-data security safeguards and breach notification to workers and the department,1
+P-319,worker-data-vendor-duties,workplace,"Vendor compliance duties, joint liability, and return-and-delete for worker data and ADS vendors",1
+P-320,workplace-monitoring-notice,workplace,"Notice regimes for workplace electronic monitoring (advance, change, and inventory notices)",3
+P-321,workplace-monitoring-limits,workplace,"Allowable-purpose, strictly-necessary, least-invasive limits on electronic monitoring with prohibited practices (off-duty, private areas, facial/gait/emotion recognition)",2
+P-322,workplace-monitoring-data-use-limits,workplace,Limits on using monitoring data for employment decisions; no sole reliance,3
+P-323,workplace-monitoring-data-access,workplace,Employee right to review and copy electronic monitoring data about them,2
+P-324,workplace-ads-notice-inventory,workplace,Notice and annual inventory duties for automated decision systems affecting workers,1
+P-325,workplace-ads-use-prohibitions,workplace,"Prohibited ADS uses (profiling rights-exercise, facial/gait/emotion recognition, customer-rating reliance) and human-oversight requirements",1
+P-326,workplace-algorithmic-impact-assessments,workplace,Algorithmic impact assessments for workplace ADS with worker dispute rights,1
+P-328,monitoring-data-disclosure-limits,workplace,Disclosure restrictions on collected monitoring data with consent/warrant exceptions,1
+P-332,camera-capture-limit-destruction,surveillance-tech,Camera systems may capture images only upon violation; destruction within 48 hours of final disposition (variant: 30-day/1-year schedules),7
+P-333,buscam-vendor-rmv-access-security,surveillance-tech,"Camera vendor access to RMV owner data limited to enforcement purpose with security protocol, background checks, encryption, and annual independent audit",1
+P-335,ltc-sogi-nondisclosure,health,"Long-term care facilities barred from disclosing residents' sexual orientation, gender identity/transition, intersex, or HIV status, with a duty to minimize inadvertent disclosure",3
+P-336,rmv-federal-access-warrant-gate,govt-records,"RMV files and data closed to federal civil immigration enforcement absent a judge-signed probable-cause warrant, with AG quash authority",2
+P-337,cori-noncriminal-access-ban,govt-records,CORI may not be accessed or disclosed for non-criminal-justice purposes including civil enforcement,2
+P-338,court-personnel-disclosure-limits,govt-records,Court personnel may share case information with federal agents only as publicly available; orders limiting disclosure of immigration-status information,2
+P-340,dealer-customer-data-restrictions,commercial,"Manufacturers may require dealer customer information only for enumerated purposes and may not share, sell, or transfer it to third parties without dealer consent",2
+P-341,dealer-data-breach-indemnification,commercial,Mandatory manufacturer/third-party indemnification of dealers for data security breaches and unlawful use of customer data,2
+P-342,pi-rmv-data-access-grant,govt-records,"Licensed private investigators added to authorized users of RMV computer data, with misuse prohibitions and license revocation",2
+P-343,pi-facial-recognition-access-ban,surveillance-tech,"Private investigators barred from accessing the RMV facial recognition system, on pain of license revocation",2
+P-344,fusion-collection-dissemination-limits,surveillance-tech,"Ban on collecting or disseminating protected information absent criminal nexus, with accuracy vetting, dissemination logs, five-year file review and destruction; private right of action attaches",1
+P-345,fusion-audit-oversight,surveillance-tech,"Annual internal data audits, IG access and biennial compliance reports, independent audit of suspicious-activity reports with purge of noncompliant records",1
+P-346,fusion-subject-access,surveillance-tech,Subject right of access to personal data held in criminal intelligence systems,1
+P-347,nonprofit-client-data-bank,govt-data,"State-run centralized data bank of nonprofit service-provider client personal data with written informed consent before disclosure, c.66A protection duties, and public-records exclusion",1

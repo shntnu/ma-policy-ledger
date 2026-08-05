@@ -96,7 +96,7 @@ Included subdomains:
 - restrictions on disclosure of personal information held in government records (911 recordings, lottery winners, victim compensation records, firearm licensee information)
 
 PROGRAM-INCIDENT RULE (added 2026-08-05, second-pass review): a confidentiality, de-identification, or data-system clause that is incident to a program a provision creates (a disease registry, review committee, licensure compact, labor board, benefit program) does NOT bring the filing or provision into the census.
-The rule is applied SYMMETRICALLY: the filed-bill census never swept the hundreds of filed program bills for incidental confidentiality clauses, so counting such clauses only on the enacted side would bias the passage rate upward.
+The rule is applied SYMMETRICALLY over the COMPLETE universe: the full-corpus screen surfaces every filing with domain-term text, and program-incident clauses receive the same verdict whether they sit in a filed bill (for example the nurse-compact and Parkinson's-registry bills, the GAA provisos) or in an enacted chapter; every verdict is recorded row-level.
 In-census when the data handling is the provision's primary object: rights or disclosure restrictions over an existing record class (eviction sealing, 911 recordings), duties on data holders as such (notary personal-info use restrictions), or filings whose primary subject IS a personal-data system (the education-to-career data center bills).
 Applying this rule symmetrically reclassified H3217 (energy-scorecard bill with two incidental privacy clauses) to excluded, and keeps enacted program-incident provisions (Parkinson's registry, nurse-compact data system, mortality-review data rules, burn-pit registry, TND board records) out of the proposition universe; every such verdict is recorded row-level in data/enacted_adjudication.csv.
 
@@ -121,8 +121,9 @@ Excluded, with the boundary rationale:
 
 - Source: `/api/GeneralCourts/193/Documents` on malegislature.gov, fetched 2026-08-04; 10,156 documents, of which 8,183 carry a bill number (bills, resolves, orders) and 1,973 are docket-book-only entries.
 - Enacted-vehicle universe: `/api/SessionLaws/2023` and `/2024`, 464 chapters, full text scanned, so budget outside sections are covered.
-- FEEDBACK LOOP (added 2026-08-05, review finding 1): every enacted chapter with confirmed in-domain content is traced to its origin bill via the chapter's `OriginBill` field, and that bill plus its official lineage ("New draft of", "New draft substituted", "Reported by/on") is admitted to the census with reason `IN-ENACTED-FEEDBACK` (`scripts/04_inclusion.py` ADDITIONS; lineage fetched by `scripts/05c_link_targets.py`).
-  This is how the NDII family (H1745/S1012/S1139 -> H4115 -> H4241 -> H4744 -> 2024 c.118) entered the census despite its generic title ("An Act to prevent abuse and exploitation") evading every title and committee net.
+- FEEDBACK LOOP (review finding 1): every enacted chapter with confirmed in-domain content is traced to its origin bill via the chapter's `OriginBill` field, and that bill plus its official lineage is admitted to the census (`IN-ENACTED-FEEDBACK`); the enacted origin vehicles themselves are census units (`IN-ENACTED-VEHICLE`), because budget outside-sections are census units per the brief.
+- FULL-CORPUS SCREEN (third-pass review finding 3): the census is a full-text screen of ALL 8,183 numbered filings (`scripts/02b_fetch_all_texts.py`, `scripts/01b_full_corpus_screen.py`).
+  Every filing with any domain-term hit (436) carries an explicit decision; the 322 with no prior decision were adjudicated by five documented reading passes (`scripts/corpus_triage_verdicts.csv`, reason per bill), and `04_inclusion.py` fails if any hit lacks a verdict. 31 filings entered the census this way (`IN-CORPUS-SCREEN`), including a second doxing bill, judicial and election-worker PII shields, a workplace-surveillance family, an automated-camera family, fusion-center data rules, and dealer customer-data restrictions.
 
 ## Candidate-generation rules (recall net)
 
@@ -177,3 +178,13 @@ Every override entry names its reason code and a one-line justification; the aut
 6. Study-order statuses moved out of the link graph into `data/study_order_status.csv`; S2612's reported-out bill (S2538) fetched and verified irrelevant.
 7. All analytic identity merges queued with verbatim side-by-side quotes (`QUOTES` in `scripts/atoms.py`).
 8. The findings memo is written as a current-state snapshot; revision history lives here and in the pull-request discussion.
+
+2026-08-05, third pass, in response to a follow-up external review (all six findings accepted):
+
+1. The census became a full-text screen of the complete corpus: all 8,183 numbered filings fetched and scanned; 436 domain-term hits; 322 previously undecided filings adjudicated row-level; 31 admitted.
+   The program-incident rule now operates on a complete universe rather than a retrieval-gated sample.
+2. 2024 c.363 (bus-camera data rules; origin S2884) admitted and atomized -found only after widening the scan regex that could not match "personal identifying information".
+3. Budget outside-sections and enacted origin vehicles (H58, H4040, H4977, H5077, H4799, S2884) are census units carrying the propositions their chapters enacted; fate vehicles name the enacting vehicle; absorbed_into_vehicle links connect dead standalone carriers. enacted_as_filed requires an official successor chain from a carrier to the enacted vehicle (patterns include "Reprinted as amended", "Substituted (as a new text) for", "Reported (in part) by", "See X").
+4. Severability finishing pass: P-290 -> P-295/P-296; P-292 -> P-297/P-298; c.206 and c.363 mechanisms atomized separately.
+5. Checks assert adjudication coverage over the union of scan and probe outputs, IN-CORE-to-proposition mapping, and queue prop-ID integrity.
+6. Stale references removed (fate section, PROBE_FALSE_POSITIVES, P-267).

@@ -40,7 +40,10 @@ def identity_bases(carriers: dict) -> dict:
     for bn, d in hist.items():
         for a in d["actions"]:
             for pat in (r"Accompanied a new draft, see ([HS]\d+)",
-                        r"New draft of (.+)", r"Reported on ([HS]\d+)"):
+                        r"New draft of (.+)", r"Reported on ([HS]\d+)",
+                        r"Reprinted as amended, see ([HS]\d+)",
+                        r"Reported \(in part\) by ([HS]\d+)",
+                        r"Substituted (?:as a new text )?for ([HS]\d+)"):
                 m = re.search(pat, a["Action"])
                 if m:
                     for other in re.findall(r"[HS]\d+", m.group(1)):

@@ -883,3 +883,166 @@ QUOTES.update({
     ("H58", "P-291"): "shall not use, sell or offer to sell to another person or transfer to another person for use or sale any personal information (2023 c.2 s.33)",
     ("H5077", "P-294"): "home address, personal email address and personal and home telephone number of the filer and the name and home address of a family member (2024 c.248 s.27)",
 })
+
+# ---------------------------------------------------------------------------
+# Full-corpus-screen admissions (third-pass review finding 3): 31 bills
+# found by full-text screening all 8,183 numbered filings. Mechanism notes
+# and cites from the five triage reading passes
+# (scripts/corpus_triage_verdicts.csv).
+PROPS.update({
+    "P-305": ("judicial-pii-agency-posting-ban", "govt-records", "State/county/municipal agencies barred from posting protected judicial officers' personal information online without written consent, with confidential-marking and 72-hour removal"),
+    "P-306": ("judicial-pii-databroker-sale-ban", "data-brokers", "Data brokers barred from selling, licensing, or trading judges' personal information"),
+    "P-307": ("judicial-pii-takedown-right", "interpersonal", "Post-request duty on any person or business to remove and not transfer judges' personal information (72-hour takedown), with private action"),
+    "P-308": ("election-worker-pii-posting-ban", "interpersonal", "Unlawful to knowingly post election workers' or family members' personal information online where dissemination promotes harassment or threatens safety"),
+    "P-310": ("worker-data-collection-notice", "workplace", "Employer notice of worker-data collection including vendor/third-party disclosure notice"),
+    "P-311": ("worker-data-access-right", "workplace", "Worker right to access worker data in portable format on verifiable request"),
+    "P-312": ("worker-data-correction-right", "workplace", "Accuracy duty and worker correction right with downstream third-party correction"),
+    "P-313": ("worker-data-minimization", "workplace", "Worker-data collection limited to strictly necessary purposes"),
+    "P-314": ("worker-data-sale-ban", "workplace", "Ban on sale or license of worker data, including de-identified worker data"),
+    "P-315": ("worker-data-disclosure-limits", "workplace", "Worker-data disclosure only by contract with security duties; biometric/health third-party transfer ban; government-sharing limits"),
+    "P-316": ("worker-biometric-health-destruction", "workplace", "Mandatory destruction of worker biometric and health data"),
+    "P-317": ("worker-data-employment-use-bans", "workplace", "Bans on using worker data for enumerated employment decisions"),
+    "P-318": ("worker-data-security-breach-notice", "workplace", "Worker-data security safeguards and breach notification to workers and the department"),
+    "P-319": ("worker-data-vendor-duties", "workplace", "Vendor compliance duties, joint liability, and return-and-delete for worker data and ADS vendors"),
+    "P-320": ("workplace-monitoring-notice", "workplace", "Notice regimes for workplace electronic monitoring (advance, change, and inventory notices)"),
+    "P-321": ("workplace-monitoring-limits", "workplace", "Allowable-purpose, strictly-necessary, least-invasive limits on electronic monitoring with prohibited practices (off-duty, private areas, facial/gait/emotion recognition)"),
+    "P-322": ("workplace-monitoring-data-use-limits", "workplace", "Limits on using monitoring data for employment decisions; no sole reliance"),
+    "P-323": ("workplace-monitoring-data-access", "workplace", "Employee right to review and copy electronic monitoring data about them"),
+    "P-324": ("workplace-ads-notice-inventory", "workplace", "Notice and annual inventory duties for automated decision systems affecting workers"),
+    "P-325": ("workplace-ads-use-prohibitions", "workplace", "Prohibited ADS uses (profiling rights-exercise, facial/gait/emotion recognition, customer-rating reliance) and human-oversight requirements"),
+    "P-326": ("workplace-algorithmic-impact-assessments", "workplace", "Algorithmic impact assessments for workplace ADS with worker dispute rights"),
+    "P-328": ("monitoring-data-disclosure-limits", "workplace", "Disclosure restrictions on collected monitoring data with consent/warrant exceptions"),
+    "P-332": ("camera-capture-limit-destruction", "surveillance-tech", "Camera systems may capture images only upon violation; destruction within 48 hours of final disposition (variant: 30-day/1-year schedules)"),
+    "P-333": ("buscam-vendor-rmv-access-security", "surveillance-tech", "Camera vendor access to RMV owner data limited to enforcement purpose with security protocol, background checks, encryption, and annual independent audit"),
+    "P-335": ("ltc-sogi-nondisclosure", "health", "Long-term care facilities barred from disclosing residents' sexual orientation, gender identity/transition, intersex, or HIV status, with a duty to minimize inadvertent disclosure"),
+    "P-336": ("rmv-federal-access-warrant-gate", "govt-records", "RMV files and data closed to federal civil immigration enforcement absent a judge-signed probable-cause warrant, with AG quash authority"),
+    "P-337": ("cori-noncriminal-access-ban", "govt-records", "CORI may not be accessed or disclosed for non-criminal-justice purposes including civil enforcement"),
+    "P-338": ("court-personnel-disclosure-limits", "govt-records", "Court personnel may share case information with federal agents only as publicly available; orders limiting disclosure of immigration-status information"),
+    "P-340": ("dealer-customer-data-restrictions", "commercial", "Manufacturers may require dealer customer information only for enumerated purposes and may not share, sell, or transfer it to third parties without dealer consent"),
+    "P-341": ("dealer-data-breach-indemnification", "commercial", "Mandatory manufacturer/third-party indemnification of dealers for data security breaches and unlawful use of customer data"),
+    "P-342": ("pi-rmv-data-access-grant", "govt-records", "Licensed private investigators added to authorized users of RMV computer data, with misuse prohibitions and license revocation"),
+    "P-343": ("pi-facial-recognition-access-ban", "surveillance-tech", "Private investigators barred from accessing the RMV facial recognition system, on pain of license revocation"),
+    "P-344": ("fusion-collection-dissemination-limits", "surveillance-tech", "Ban on collecting or disseminating protected information absent criminal nexus, with accuracy vetting, dissemination logs, five-year file review and destruction; private right of action attaches"),
+    "P-345": ("fusion-audit-oversight", "surveillance-tech", "Annual internal data audits, IG access and biennial compliance reports, independent audit of suspicious-activity reports with purge of noncompliant records"),
+    "P-346": ("fusion-subject-access", "surveillance-tech", "Subject right of access to personal data held in criminal intelligence systems"),
+    "P-347": ("nonprofit-client-data-bank", "govt-data", "State-run centralized data bank of nonprofit service-provider client personal data with written informed consent before disclosure, c.66A protection duties, and public-records exclusion"),
+})
+
+edges("H1566",
+    ("P-305", "new c.221D s.2", "companion of S1133"),
+    ("P-306", "new c.221D s.3(a)", "companion of S1133"),
+    ("P-307", "new c.221D s.3(b)-(f)", "companion of S1133; private action attaches"))
+edges("S1133",
+    ("P-305", "SECTION 2 (c.221D s.2)", "companion of H1566"),
+    ("P-306", "SECTION 3(a)", "companion of H1566"),
+    ("P-307", "SECTION 3(b)-(f)", "companion of H1566"))
+edges("S1013", ("P-308", "new c.56 s.48A(c)", "penalties attach"))
+edges("S1116", ("P-226", "SECTION 2 (new c.214 s.3C); SECTION 1 (c.12 s.11H)", "stricter variant: adds AG civil-rights enforcement and treble bias damages"))
+edges("H1873",
+    ("P-310", "c.149B s.2", ""), ("P-311", "c.149B s.2A", ""),
+    ("P-312", "c.149B s.2B", ""), ("P-313", "c.149B s.2C(a)-(d)", ""),
+    ("P-314", "c.149B s.2C(e)", "includes de-identified worker data"),
+    ("P-315", "c.149B s.2C(f)-(h)", ""), ("P-316", "c.149B s.2C(i)", ""),
+    ("P-317", "c.149B s.2C(j)-(k)", ""), ("P-318", "c.149B s.2D", ""),
+    ("P-319", "c.149B ss.2E,4E", ""), ("P-320", "c.149B ss.3-3B", ""),
+    ("P-321", "c.149B s.3C", ""), ("P-322", "c.149B s.3D", ""),
+    ("P-324", "c.149B ss.4-4B", ""), ("P-325", "c.149B ss.4C-4D", ""),
+    ("P-326", "c.149B s.5, s.5C", ""))
+edges("S1228",
+    ("P-321", "SECTIONS 2, 7, 12", "monitoring-only act; collection/private-area/First Amendment limits"),
+    ("P-320", "SECTIONS 3-6", "general/specific/simultaneous notice regimes"),
+    ("P-323", "SECTION 8", ""),
+    ("P-322", "SECTION 9", "no adverse action without compliance; no sole-basis quotas"),
+    ("P-328", "SECTIONS 10, 12(d)-(e)", "enforcement (SECTION 13) and non-waiver attach"))
+edges("H3597",
+    ("P-322", "new c.149 s.105E(i)", "practical-necessity and least-invasive test within just-cause bill"),
+    ("P-320", "c.149 s.105E(i) notice provisions", ""),
+    ("P-323", "c.149 s.105E(j)", "work-speed data copy every 7 days; correction rights"))
+_CAM90J = [
+    ("P-299", "c.4 s.7 cl.26(w); c.90J s.8(c)", ""),
+    ("P-300", "c.90J s.8(b)", ""),
+    ("P-301", "c.90J s.8(d)", ""),
+    ("P-302", "c.90J s.8(e)", ""),
+    ("P-332", "c.90J s.8(a)", ""),
+]
+for b in ("H3393", "S1483", "S2275"):
+    edges(b, *[(pp, cc, "road-safety/bus-camera c.90J regime") for pp, cc, nn in _CAM90J])
+edges("H3375", *[(pp, cc, "school-bus camera authorization, same regime") for pp, cc, nn in _CAM90J])
+for b, note in (("H4166", "Cambridge home-rule petition, same regime"), ("H4287", "Salem home-rule petition, same regime")):
+    edges(b,
+        ("P-299", "s.8(c)", note), ("P-300", "s.8(b)", note),
+        ("P-302", "s.8(e)", note), ("P-332", "s.8(a)", note))
+edges("H3336",
+    ("P-333", "new c.90 s.14C(c)(1)", ""),
+    ("P-332", "c.90 s.14C(c)(2)", "variant: 30-day non-violation/1-year violation destruction with attestation"),
+    ("P-302", "c.90 s.14C(c)(2)", "variant: recordings municipal property; vendor use ban"))
+edges("S2600",
+    ("P-299", "SECTION 6 (c.4 s.7 cl.26(w)); SECTION 8 (c.90K s.5(b))", "parent vehicle of S2884 (Reported on a part of)"),
+    ("P-300", "c.90K s.5(a)", ""),
+    ("P-301", "c.90K s.5(c)", ""),
+    ("P-302", "c.90K s.5(d)", ""))
+for b in ("H637", "S381"):
+    edges(b, ("P-335", "new c.111 s.72CC(f)", "companions; DPH penalties attach"))
+edges("S2604", ("P-335", "new c.111 s.72CC(f)", "Senate redraft; clause dropped from enacted 2024 c.197 s.17 (see adjudication)"))
+for b in ("H1438", "S941"):
+    edges(b,
+        ("P-336", "SECTION 1 (c.6 s.167A(j))", "companions; AG quash authority attaches"),
+        ("P-337", "SECTIONS 2-3 (c.6 s.172)", "companions"),
+        ("P-338", "SECTIONS 5-6 (c.147 s.63; c.258B s.3(x))", "companions; interview-subject PII carve-out attaches"))
+for b in ("H331", "S151"):
+    edges(b,
+        ("P-340", "c.93B s.4(c)(14)", "companions"),
+        ("P-341", "c.93B s.4(c)(14) indemnification clause", "companions"))
+for b in ("H3289", "S2250"):
+    edges(b,
+        ("P-342", "SECTIONS 1-2 (c.90 s.30A; c.147 s.30 para 12)", "companions"),
+        ("P-343", "c.147 s.30 para 13", "companions; license revocation attaches"))
+edges("H3637",
+    ("P-344", "new c.66A s.2C", "private right of action (s.2C(b)(6)) attaches"),
+    ("P-345", "new c.66A ss.2A-2B, 2D-2E", ""),
+    ("P-346", "new c.66A s.2F", ""))
+edges("H219", ("P-347", "new c.6A s.16DD", "compelled membership condition attaches"))
+edges("S23", ("P-291", "SECTION 30 (new c.222 s.29)", "Senate supplemental-budget vehicle carrying the notary restriction"))
+edges("S2703",
+    ("P-266", "SECTION 6 (c.265 s.43A(b))", "Senate redraft in the NDII lineage"),
+    ("P-280", "SECTION 6 (c.265 s.43A(b)(5))", ""))
+edges("S2710",
+    ("P-266", "SECTION 7 (c.265 s.43A(b))", "later Senate redraft in the NDII lineage"),
+    ("P-280", "SECTION 7 (c.265 s.43A(b)(5))", ""))
+for b in ("S2834", "S2850"):
+    edges(b,
+        ("P-295", "new c.239 s.16(b)-(h),(j)", "Senate Affordable Homes vehicle"),
+        ("P-296", "new c.239 s.16(i); c.93 s.52(a)(7)", "Senate Affordable Homes vehicle"))
+QUOTES.update({
+    ("S1116", "P-226"): "a person may bring a civil action ... doxing ... disclosure of personally identifying information with intent to harass",
+    ("H1707", "P-226"): "the person disseminated the personal information with the malicious intent to cause, aid, encourage or facilitate the harassment",
+    ("S23", "P-291"): "notary shall not use, sell, offer for sale, or transfer personal information obtained from remote notarization (SECTION 30)",
+    ("H3375", "P-299"): "photographs ... and personal identifying information ... shall not be a public record",
+    ("H4166", "P-299"): "photographs and personal identifying information not a public record (s.8(c))",
+    ("H4287", "P-299"): "photographs and personal identifying information not a public record (s.8(c))",
+    ("H3375", "P-300"): "shall not be discoverable in any judicial or administrative proceeding ... without a court order",
+    ("H4166", "P-300"): "non-discoverability absent court order (s.8(b))",
+    ("H4287", "P-300"): "non-discoverability absent court order (s.8(b))",
+    ("H3375", "P-302"): "may not use, disclose, sell or permit access to camera data except to process violations",
+    ("H3336", "P-302"): "recordings property of the municipality; vendor use for any other purpose banned",
+    ("H4166", "P-302"): "city/manufacturer/vendor use/disclosure/sale/access ban beyond violation processing (s.8(e))",
+    ("H4287", "P-302"): "use-limitation on camera operation and data (s.8(d)-(e))",
+    ("H3375", "P-332"): "capture only on violation; destruction within 48 hours of final disposition",
+    ("H3336", "P-332"): "non-violation footage destroyed in 30 days; violation records destroyed 1 year after final disposition",
+    ("H4166", "P-332"): "capture only on violation + destruction within 48h of final disposition (s.8(a))",
+    ("H4287", "P-332"): "capture only on violation + destruction within 48h of final disposition (s.8(a))",
+    ("H1873", "P-320"): "electronic monitoring notice, notice of change, annual systems inventory (c.149B ss.3-3B)",
+    ("S1228", "P-320"): "general/director's/specific/simultaneous notice regimes with reasonable-suspicion exception (SS.3-6)",
+    ("H3597", "P-320"): "pre-monitoring notice regime incl. vendors, dates/times, right-to-access notice (s.105E(i))",
+    ("H1873", "P-321"): "allowable-purpose/strictly-necessary/least-invasive limits; prohibited practices: off-duty, private areas, facial/gait/emotion recognition (s.3C)",
+    ("S1228", "P-321"): "collection limited to employer premises and work-related data; private-area monitoring ban (SS.2,7,12)",
+    ("H1873", "P-322"): "use limits and no sole reliance on monitoring data for decisions (s.3D)",
+    ("S1228", "P-322"): "no adverse action without compliance; no sole-basis quotas (SECTION 9)",
+    ("H3597", "P-322"): "practical-necessity plus least-invasive test; ban on relying on biometric/in-home/personal-device/geofencing data (s.105E(i))",
+    ("S1228", "P-323"): "employee right to review/copy monitoring data (SECTION 8)",
+    ("H3597", "P-323"): "employee right to copy work-speed data every 7 days, correction rights (s.105E(j))",
+    ("H3289", "P-342"): "adds licensed private detectives/investigators to c.90 s.30A; prohibits use of RMV computer data inconsistent with c.147 s.22(2)",
+    ("S2250", "P-342"): "adds PIs to authorized RMV computer-data users; prohibition on use of RMV data inconsistent with c.147 s.22",
+    ("H3289", "P-343"): "prohibits accessing the RMV facial recognition system, with mandatory license revocation",
+    ("S2250", "P-343"): "prohibition on accessing the RMV facial recognition system; mandatory license revocation",
+})

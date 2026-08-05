@@ -237,6 +237,25 @@ def auto_decision(row: dict) -> tuple[str, str]:
     return "review", ""
 
 
+# Verdicts for full-corpus-screen hits with no prior census decision
+# (third-pass review finding 3), from five documented triage reading passes
+# over the complete corpus. Stored in scripts/corpus_triage_verdicts.csv
+# (bill, verdict, reason, mechanisms); 04 fails if any corpus hit lacks a
+# verdict, so the census is an enforced-complete full-text screen.
+def _load_triage():
+    out = {}
+    path = Path(__file__).resolve().parent / "corpus_triage_verdicts.csv"
+    for r in csv.DictReader(path.open()):
+        if r["verdict"] == "IN-CORE":
+            out[r["bill"]] = ("include", "IN-CORPUS-SCREEN", r["reason"])
+        else:
+            out[r["bill"]] = ("exclude", r["verdict"], r["reason"])
+    return out
+
+
+TRIAGE: dict[str, tuple[str, str, str]] = _load_triage()
+
+
 def main() -> None:
     rows = list(csv.DictReader((DATA / "text_scan.csv").open()))
     out = []
@@ -249,6 +268,28 @@ def main() -> None:
             dec, reason, note = OVERRIDES[key]
         out.append({**r, "decision": dec, "reason": reason, "note": note})
         counts[dec] = counts.get(dec, 0) + 1
+    corpus_path = DATA / "corpus_triage.csv"
+    if corpus_path.exists():
+        missing = []
+        for r in csv.DictReader(corpus_path.open()):
+            bn = r["bill"]
+            if bn in ADDITIONS:
+                continue  # admitted with a richer note below
+            if bn not in TRIAGE:
+                missing.append(bn)
+                continue
+            dec, reason, note = TRIAGE[bn]
+            out.append({
+                "bill_number": bn, "title": r["title"], "domain_title_terms": "",
+                "broad_title_terms": "", "committee_net": "",
+                "fetch_status": "corpus_screen", "legislation_type": "",
+                "text_chars": "", "text_terms": r["text_terms"],
+                "snippet": r["snippet"],
+                "decision": dec, "reason": reason, "note": note,
+            })
+            counts[dec] = counts.get(dec, 0) + 1
+        if missing:
+            raise SystemExit(f"corpus-screen hits without triage verdicts: {len(missing)}: {missing[:10]}")
     for bn, (title, reason, note) in ADDITIONS.items():
         out.append({
             "bill_number": bn, "title": title, "domain_title_terms": "",

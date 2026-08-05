@@ -290,6 +290,10 @@ def main() -> None:
         for a in hist[bn]["actions"]:
             for pat in (r"Accompanied a new draft, see ([HS]\d+)",
                         r"New draft substituted, see ([HS]\d+)",
+                        r"Reprinted as amended, see ([HS]\d+)",
+                        r"Reported \(in part\) by ([HS]\d+)",
+                        r"Substituted (?:as a new text )?for ([HS]\d+)",
+                        r"^See ([HS]\d+)$",
                         r"Reported by ([HS]\d+)"):
                 m = re.search(pat, a["Action"])
                 if m:
@@ -322,15 +326,18 @@ def main() -> None:
         if enacted_finals:
             fb = enacted_finals[0]
             others = [b for b in bills if b != fb]
-            connected = all(chains_to(b, fb) for b in others)
-            if connected:
+            chained = sorted(b for b in others if chains_to(b, fb))
+            unchained = sorted(b for b in others if b not in chained)
+            if not others or chained:
                 fate = "enacted_as_filed"
                 detail = f"enacted via {fb}: {statuses[fb][2]}"
+                if unchained:
+                    detail += (f"; independent filings of the same proposition "
+                               f"({','.join(unchained)}) died without an official chain to {fb}")
             else:
                 fate = "enacted_other_vehicle"
-                dead = sorted(b for b in others if not chains_to(b, fb))
                 detail = (f"enacted via vehicle {fb} ({statuses[fb][2]}); filed carriers "
-                          f"{','.join(dead)} have no official chain to it (absorption "
+                          f"{','.join(unchained)} have no official chain to it (absorption "
                           "established by text adjudication, see data/enacted_adjudication.csv "
                           "and the absorbed_into_vehicle links)")
             cite = f"https://malegislature.gov/Bills/193/{fb}"
