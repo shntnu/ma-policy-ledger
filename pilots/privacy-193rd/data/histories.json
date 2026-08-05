@@ -3032,74 +3032,6 @@
    }
   ]
  },
- "H3217": {
-  "actions": [
-   {
-    "Date": "2023-02-16T10:48:21.2666667",
-    "Branch": "House",
-    "Action": "Referred to the committee on Telecommunications, Utilities and Energy",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-02-16T10:48:21.2666667",
-    "Branch": "Senate",
-    "Action": "Senate concurred",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-06-06T13:00:36.3433333",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 07/19/2023 from 10:00 AM-01:00 PM in B-1",
-    "IsStricken": true
-   },
-   {
-    "Date": "2023-06-14T14:57:05.9566667",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 07/17/2023 from 09:30 AM-01:00 PM in A-2                           ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-07-14T15:54:58.5933333",
-    "Branch": "Joint",
-    "Action": "Location Changed - Hearing scheduled for 07/19/2023 from 10:00 AM-01:00 PM in A-2                             ",
-    "IsStricken": true
-   },
-   {
-    "Date": "2023-09-06T14:16:43.43",
-    "Branch": "Joint",
-    "Action": "Hearing rescheduled to 10/31/2023 from 10:00 AM-01:00 PM in A-1                  ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-04-04T11:23:35.1",
-    "Branch": "House",
-    "Action": "Accompanied a new draft, see H4502",
-    "IsStricken": false
-   }
-  ],
-  "similar": [
-   {
-    "general_court": 190,
-    "bill": "H4371"
-   },
-   {
-    "general_court": 194,
-    "bill": "H2504"
-   },
-   {
-    "general_court": 194,
-    "bill": "S1481"
-   },
-   {
-    "general_court": 194,
-    "bill": "S219"
-   },
-   {
-    "general_court": 186,
-    "bill": "S77"
-   }
-  ]
- },
  "H3431": {
   "actions": [
    {
@@ -4510,6 +4442,380 @@
    {
     "general_court": 190,
     "bill": "H948"
+   }
+  ]
+ },
+ "H1690": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on The Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-05-02T11:13:17.2866667",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 05/09/2023 from 01:00 PM-05:00 PM in A-2   ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-12T11:34:30.5566667",
+    "Branch": "House",
+    "Action": "Accompanied a new draft, see H4356",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 192,
+    "bill": "H1808"
+   },
+   {
+    "general_court": 192,
+    "bill": "H4505"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4356"
+   },
+   {
+    "general_court": 191,
+    "bill": "H3566"
+   },
+   {
+    "general_court": 191,
+    "bill": "H4934"
+   }
+  ]
+ },
+ "S956": {
+  "actions": [
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on The Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-05-02T11:13:27.5266667",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 05/09/2023 from 01:00 PM-05:00 PM in A-2   ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-12T11:34:30.5566667",
+    "Branch": "House",
+    "Action": "Accompanied a new draft, see H4356",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "H3566"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1808"
+   },
+   {
+    "general_court": 193,
+    "bill": "H1690"
+   },
+   {
+    "general_court": 191,
+    "bill": "H4934"
+   },
+   {
+    "general_court": 192,
+    "bill": "H4505"
+   }
+  ]
+ },
+ "H4356": {
+  "actions": [
+   {
+    "Date": "2024-02-12T11:34:30.5566667",
+    "Branch": "House",
+    "Action": "Reported from the committee on The Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-12T11:34:30.5566667",
+    "Branch": "House",
+    "Action": "New draft of S956 and H1690",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-12T11:34:30.5566667",
+    "Branch": "House",
+    "Action": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-11T11:06:16.8033333",
+    "Branch": "House",
+    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-11T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-11T11:11:51.2466667",
+    "Branch": "House",
+    "Action": "Read second and ordered to a third reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-31T23:59:00",
+    "Branch": "House",
+    "Action": "No further action taken",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 192,
+    "bill": "H1808"
+   },
+   {
+    "general_court": 193,
+    "bill": "H1690"
+   },
+   {
+    "general_court": 192,
+    "bill": "H4505"
+   },
+   {
+    "general_court": 191,
+    "bill": "H3566"
+   },
+   {
+    "general_court": 191,
+    "bill": "H4934"
+   }
+  ]
+ },
+ "H1525": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on The Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-06-20T12:43:41.8533333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 06/27/2023 from 01:00 PM-05:00 PM in A-2                            ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-05T11:22:29.8566667",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H4517",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "S943"
+   },
+   {
+    "general_court": 194,
+    "bill": "H91"
+   },
+   {
+    "general_court": 194,
+    "bill": "H932"
+   },
+   {
+    "general_court": 194,
+    "bill": "H158"
+   },
+   {
+    "general_court": 194,
+    "bill": "H163"
+   }
+  ]
+ },
+ "S943": {
+  "actions": [
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on The Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-06-20T12:43:46.9933333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 06/27/2023 from 01:00 PM-05:00 PM in A-2                            ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-08T11:11:05.39",
+    "Branch": "Senate",
+    "Action": "Accompanied a study order, see S2612",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H1525"
+   },
+   {
+    "general_court": 194,
+    "bill": "H91"
+   },
+   {
+    "general_court": 194,
+    "bill": "H932"
+   },
+   {
+    "general_court": 194,
+    "bill": "H158"
+   },
+   {
+    "general_court": 194,
+    "bill": "H163"
+   }
+  ]
+ },
+ "H3003": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on State Administration and Regulatory Oversight",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-06-30T15:15:50.0833333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 07/11/2023 from 11:00 AM-03:00 PM in Gardner Auditorium   ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-31T12:06:54.0266667",
+    "Branch": "House",
+    "Action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-31T23:59:00",
+    "Branch": "House",
+    "Action": "No further action taken",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "H2681"
+   },
+   {
+    "general_court": 192,
+    "bill": "H3115"
+   },
+   {
+    "general_court": 194,
+    "bill": "H693"
+   },
+   {
+    "general_court": 194,
+    "bill": "HD4441"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1614"
+   }
+  ]
+ },
+ "H2991": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on State Administration and Regulatory Oversight",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-21T12:32:13.2633333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 07/26/2023 from 01:00 PM-05:00 PM in A-1               ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-10T15:44:32.64",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H4675",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H3294"
+   },
+   {
+    "general_court": 192,
+    "bill": "H3109"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3386"
+   },
+   {
+    "general_court": 194,
+    "bill": "S2193"
+   },
+   {
+    "general_court": 189,
+    "bill": "H2732"
    }
   ]
  }

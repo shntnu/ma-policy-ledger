@@ -219,10 +219,12 @@ FLAGS = [
     ("S2539", "P-101", "Borderline in-domain: insurance/contract protection for breach reporting (SECTION 17).", "memo/atomization/family-biometric-breach.md"),
     ("S2539", "P-267", "Boundary call: delegated AI-training-data consent rulemaking atomized per the codebook AI carve-in (added after external review).", "memo/atomization/family-biometric-breach.md"),
     ("H1455", "", "Title says 'tracking of certain electronic devices' but official text is verbatim S209 (tolling data). Census include stands on the text.", "memo/atomization/family-driver-commercial.md"),
-    ("H3217", "P-221", "Marginal census include: privacy clauses are two sections of an energy-program bill. Successor H4502 verified NOT to carry them (data/link_targets.json).", "memo/codebook.md"),
+    ("H3217", "", "Reclassified to exclude under the symmetric program-incident rule (was a marginal include); successor H4502 verified not to carry its privacy clauses.", "memo/codebook.md"),
     ("S1368", "P-260", "Marginal census include: physical-adjacent confidentiality mechanism.", "memo/codebook.md"),
     ("H1986", "P-165", "Marginal census include: study resolve with data-practice charges.", "memo/codebook.md"),
     ("H4744", "P-266", "Boundary revision: interpersonal disclosure restrictions (doxing, NDII) are in-domain regardless of civil/criminal mechanism; reversal of the initial criminal-harassment carve-out, recorded in the codebook.", "memo/codebook.md"),
+    ("2024 c.166", "", "Judgment call: parentage-case impoundment (c.209C ss.28I, 28O) and surrogacy-record confidentiality (s.28B(a)(ix)) ruled EX-ADJACENT as procedure-incident, in tension with the IN verdict for c.118 s.43A(b)(5); reviewer should check the distinction (protects case papers vs protects the regulated material itself).", "data/enacted_adjudication.csv"),
+    ("2024 c.238/c.343/c.252/c.186/c.178", "", "Judgment call: program-incident data provisions (registries, compact data system, mortality reviews, TND board records, burn-pit registry) excluded SYMMETRICALLY from both filed and enacted sides; see codebook program-incident rule.", "data/enacted_adjudication.csv"),
 ]
 
 def main() -> None:
@@ -292,18 +294,42 @@ def main() -> None:
                 f"normalized 8-gram Jaccard {j:.3f} between official texts",
                 f"https://malegislature.gov/Bills/193/{a}")
 
-    # study-order terminal verification (review finding 7): record each
-    # study order's own terminal action from its fetched history
+    # study-order terminal verification (review findings 7, 9, 11): each
+    # study order's own terminal actions go to a status table, NOT the link
+    # graph (they are unary evidence records, not edges). Anything a study
+    # order "Reported (in part)" is followed into link_targets.json and its
+    # relevance recorded.
     lt_path = DATA / "link_targets.json"
+    study_rows = []
     if lt_path.exists():
         lt = json.loads(lt_path.read_text())
         study_targets = sorted({l["target"] for l in links if l["link_type"] == "sent_to_study"})
         for so in study_targets:
-            if so in lt:
-                acts = [a["Action"].strip() for a in lt[so]["actions"] if not a.get("IsStricken")]
-                add(so, "", "study_order_terminal", "verified-official-record",
-                    "; ".join(acts[-2:]) if acts else "no actions recorded",
-                    f"https://malegislature.gov/Bills/193/{so}")
+            if so not in lt:
+                continue
+            acts = [a["Action"].strip() for a in lt[so]["actions"] if not a.get("IsStricken")]
+            reported = []
+            for a in acts:
+                m = re.search(r"Reported \(in part\)[,;]?\s*([HS]\d+)", a)
+                if m:
+                    ref = m.group(1)
+                    refd = lt.get(ref)
+                    if refd is None:
+                        reported.append(f"{ref} (NOT FETCHED - incomplete)")
+                    else:
+                        reported.append(f"{ref}: {refd['Title'][:60]} "
+                                        f"({len(refd['text'])} chars; terminal: "
+                                        f"{[x['Action'][:40] for x in refd['actions'] if not x.get('IsStricken')][-1]})")
+            study_rows.append({
+                "study_order": so,
+                "terminal_actions": "; ".join(acts[-2:]) if acts else "no actions recorded",
+                "reported_out": " | ".join(reported),
+                "url": f"https://malegislature.gov/Bills/193/{so}",
+            })
+    with (DATA / "study_order_status.csv").open("w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=["study_order", "terminal_actions", "reported_out", "url"])
+        w.writeheader()
+        w.writerows(study_rows)
 
     for pa, pb, why, ex_a, ex_b, src in KINSHIPS:
         add(pa, pb, "proposition_kinship", "inferred-needs-review", why, src)
@@ -321,6 +347,7 @@ def main() -> None:
         for pa, pb, why, ex_a, ex_b, src in KINSHIPS:
             w.writerow(["proposition_kinship", pa, pb, why, ex_a, ex_b, src])
         n_identity = 0
+        import atoms
         bp_path = DATA / "bill_propositions.csv"
         if bp_path.exists():
             by_prop = {}
@@ -330,11 +357,14 @@ def main() -> None:
                 rows = by_prop[pid]
                 inferred = [r for r in rows if r["identity_basis"] == "inferred-analytic"]
                 for r in sorted(inferred, key=lambda x: x["bill"]):
-                    others = ";".join(sorted(x["bill"] for x in rows if x["bill"] != r["bill"]))
+                    others = sorted(x["bill"] for x in rows if x["bill"] != r["bill"])
+                    comparator = next((o for o in others if (o, pid) in atoms.QUOTES), others[0] if others else "")
                     w.writerow([
-                        "proposition_identity", f"{pid}:{r['bill']}", others,
-                        f"Is {r['bill']} ({r['sections']}) the same smallest change as the other carriers of {pid}? Analytic judgment, not companion/redraft verified.",
-                        r["note"], "", "memo/atomization/ (per-family notes carry the quotes)",
+                        "proposition_identity", f"{pid}:{r['bill']}", f"{pid}:{comparator}",
+                        f"Is {r['bill']} ({r['sections']}) the same smallest change as {comparator}'s version of {pid}? Analytic judgment, not companion/redraft verified.",
+                        atoms.QUOTES.get((r["bill"], pid), f"[quote missing for {r['bill']}:{pid}]"),
+                        atoms.QUOTES.get((comparator, pid), f"[quote missing for {comparator}:{pid}]"),
+                        f"https://malegislature.gov/Bills/193/{r['bill']}; https://malegislature.gov/Bills/193/{comparator}",
                     ])
                     n_identity += 1
         for bill, prop, note, src in FLAGS:

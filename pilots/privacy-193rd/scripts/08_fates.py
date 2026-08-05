@@ -66,20 +66,112 @@ PROBES = {
 # codebook records the review).
 # prop_id -> (year, chapter, section, url, note)
 ENACTED_MATCHES = {
-    "P-266": (2024, "118", "s.6 (c.265 s.43A(b)-(c))",
+    "P-266": (2024, "118", "s.6 (c.265 s.43A(b))",
               "https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter118",
-              "NDII distribution/threat offense incl. digitization; origin bill H4744 per the chapter's OriginBill record"),
+              "NDII distribution offense incl. digitization; origin bill H4744 per the chapter's OriginBill record"),
+    "P-280": (2024, "118", "s.6 (c.265 s.43A(b)(5))",
+              "https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter118",
+              "court-record confidentiality for NDII prosecutions"),
+    "P-290": (2024, "150", "ss.28,52 (new c.239 s.16; c.93 s.52(a)(7))",
+              "https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter150",
+              "eviction-record sealing enacted inside the Affordable Homes Act; filed HOMES lineage H1690/S956/H4356 died separately"),
+    "P-291": (2023, "2", "s.33 (new c.222 s.29)",
+              "https://malegislature.gov/Laws/SessionLaws/Acts/2023/Chapter2",
+              "notary personal-info restriction enacted inside the FY23 supplemental budget; filed companions H1525/S943"),
+    "P-292": (2023, "28", "s.7 (new c.6A s.109)",
+              "https://malegislature.gov/Laws/SessionLaws/Acts/2023/Chapter28",
+              "agency demographic-data standard with PII confidentiality; filed parent H3003"),
+    "P-294": (2024, "248", "s.27 (c.268B s.3)",
+              "https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter248",
+              "SFI personal-info withholding expansion; filed parent H2991 (home-address variant)"),
 }
-PROBE_FALSE_POSITIVES = (
-    "All other probe hits reviewed 2026-08-05: 'alpr' matches 'malpractice'; "
-    "lottery/victim-comp hits are appropriation line items; biometric/"
-    "facial-recognition hits in 2023 c.2 authorize RMV identity verification "
-    "(government use, not a census proposition); 2024 c.238 biometric hits "
-    "are data-center physical security and nurse-licensure fingerprinting; "
-    "93H hits are compliance cross-references; student-data hit is a grant "
-    "proviso; 'visual material' hits outside c.118 are obscenity-statute "
-    "cross-references."
-)
+# Row-level adjudication of every chapter flagged by the probe or the
+# session-law scan (second-pass review finding 8). Verdicts:
+#   IN-CORE            in-domain under the primary-object test; propositions
+#                      and filed lineage admitted
+#   EX-PROGRAM-INCIDENT confidentiality/data clause incident to a program
+#                      the provision creates (symmetric rule, see codebook)
+#   EX-ADJACENT        adjacent domain per codebook boundary
+#   EX-FALSEPOS        matched term used in a non-domain sense
+# (year, chapter) -> list of (sections, verdict, note)
+ADJUDICATIONS = {
+    (2023, "2"): [
+        ("s.33 (new c.222 s.29)", "IN-CORE", "notary ban on using/selling/transferring identifying personal information from notarizations (P-291); filed parents H1525/S943"),
+        ("s.33 (c.222 s.28: AV-recording retention, access limits, security standards)", "EX-PROGRAM-INCIDENT", "recordkeeping/access mechanics incident to the remote-notarization program; s.29's use/sale ban is the data-primary rule"),
+        ("ss.23, 31-32 (definitions, journal rules)", "EX-PROGRAM-INCIDENT", "notarial act-integrity recordkeeping; identity-proofing definitions attach"),
+        ("ss.8-11 (sports-wagering license CORI/fingerprints)", "EX-ADJACENT", "licensing background checks (criminal-records mechanism)"),
+        ("appropriation line items", "EX-FALSEPOS", "lottery/victim-comp/biometric term matches in budget lines"),
+    ],
+    (2023, "10"): [("ballot-order lottery", "EX-FALSEPOS", "town-clerk candidate-order drawing; no personal data")],
+    (2024, "139"): [("IT bond act line items", "EX-FALSEPOS", "'digitization' = municipal records digitization funding; no handling rule")],
+    (2023, "28"): [
+        ("s.7 (new c.6A s.109)", "IN-CORE", "government-wide demographic-data collection standard with PII confidentiality (P-292); filed parent H3003"),
+        ("s.2 items 3000-1000, 7010-0005, 4120-1000, 4800-0015, 7004-0099/0108/9024 (c.66A overrides, SSN eligibility, fair-hearing redaction)", "EX-PROGRAM-INCIDENT", "recurring benefit/education program-administration data provisos"),
+        ("s.43 (c.111 s.24O maternal mortality committee)", "EX-PROGRAM-INCIDENT", "confidentiality incident to the review committee (same verdict as 2024 c.186 s.15)"),
+        ("s.2 item 7061-9611 and other line items", "EX-FALSEPOS", "'alpr'='malpractice'; student-data pilot proviso 'to the extent allowed by law' creates no new rule"),
+    ],
+    (2023, "77"): [
+        ("s.5 (c.19A s.4G(c) CDC-worker list)", "EX-PROGRAM-INCIDENT", "worker-list disclosure/opt-out incident to the workforce-council program"),
+        ("supplemental budget line items", "EX-FALSEPOS", "term matches in appropriation text"),
+    ],
+    (2024, "140"): [
+        ("s.2 items 3000-1000, 7010-0005, 4120-1000, 4800-0015, 7004-0099/0108/9024", "EX-PROGRAM-INCIDENT", "same recurring program-administration data provisos as 2023 c.28 (FY25 EEC version adds 'investigations')"),
+        ("s.7 (c.10 s.24 online lottery data rules)", "EX-PROGRAM-INCIDENT", "player-data nondisclosure, anonymized tracking, ad-targeting ban incident to the online-lottery program; kinship with P-254 (S194 winner anonymity) noted - different target (player transaction data vs winner identity), and winner-publicity carve-outs retained"),
+        ("s.22 (tuition-equity information protection)", "EX-PROGRAM-INCIDENT", "disclosure-protection clause incident to tuition-eligibility administration; partly declaratory of existing exemptions"),
+        ("other line items", "EX-FALSEPOS", "term matches without new handling rules"),
+    ],
+    (2024, "206"): [
+        ("s.15 (c.159A1/2 s.12 TNC trip-data regime)", "IN-CORE", "compelled trip-level geolocation reporting (60-second intervals, driver UUID) with confidentiality, de-identified-sharing, destruction rules; NO FILED ANTECEDENT with this primary object - reported outside the filed-proposition universe"),
+        ("collective bargaining agreement funding", "EX-FALSEPOS", "lottery commission labor agreement"),
+    ],
+    (2024, "248"): [
+        ("s.27 (c.268B s.3 SFI withholding expansion)", "IN-CORE", "withholding of filers' personal contact/family information from public SFIs (P-294); filed parent H2991"),
+        ("ss.17-18 (interagency data sharing)", "EX-PROGRAM-INCIDENT", "c.66A-override sharing authorizations for student/incarcerated-person data incident to special-education administration"),
+        ("supplemental budget line items", "EX-FALSEPOS", "term matches in appropriation text"),
+    ],
+    (2024, "118"): [
+        ("s.6 (c.265 s.43A(b))", "IN-CORE", "NDII distribution offense (P-266); court-record confidentiality (P-280)"),
+        ("s.4 (c.209A coercive control)", "EX-ADJACENT", "abuse-prevention-order law incl. threatening to publish sensitive personal information"),
+        ("ss.2-3, 5, 7-9 (penalties, diversion, education)", "EX-ADJACENT", "criminal penalties, juvenile diversion (s.7's de-identified reporting attaches to diversion program)"),
+    ],
+    (2024, "150"): [
+        ("ss.28, 52 (new c.239 s.16; c.93 s.52(a)(7))", "IN-CORE", "eviction-record sealing regime (P-290); CRA duties attach"),
+        ("ss.2A, 35, 121", "EX-FALSEPOS", "eviction/privacy/sealed-bid term matches without data-handling rules"),
+    ],
+    (2024, "166"): [
+        ("ss.62, 65 (genetic-testing rules)", "EX-ADJACENT", "family-law evidentiary/parentage procedure; no handling rule on genetic information itself"),
+        ("s.65 (c.209C s.28B(a)(ix) surrogacy records)", "EX-ADJACENT", "records-availability condition of surrogacy-agreement enforceability (contract formation), confidentiality incident to it; judgment call queued"),
+        ("s.65 (c.209C ss.28I, 28O impoundment)", "EX-ADJACENT", "impoundment incident to family-law status proceedings, protecting case papers rather than regulating a data class; contrast c.118 s.43A(b)(5), which protects the very material whose distribution is the offense; judgment call queued"),
+    ],
+    (2024, "178"): [
+        ("s.139 (burn-pit registry)", "EX-PROGRAM-INCIDENT", "confidentiality/purpose limits incident to a registry the section creates"),
+        ("s.147 (51A military sharing)", "EX-PROGRAM-INCIDENT", "sharing protocol incident to family-advocacy program coordination"),
+        ("s.136 (genetic term)", "EX-FALSEPOS", "discharge-upgrade eligibility criterion"),
+    ],
+    (2024, "186"): [
+        ("ss.15, 16, 21 (mortality reviews, pregnancy-loss data)", "EX-PROGRAM-INCIDENT", "collection/confidentiality rules incident to review programs the sections create"),
+    ],
+    (2024, "197"): [
+        ("assisted-living oversight confidentiality", "EX-PROGRAM-INCIDENT", "inspection-report and business-information confidentiality incident to the licensure program"),
+        ("s.17 (LGBTQI+ resident protections)", "EX-ADJACENT", "dignity/anti-discrimination and physical privacy without a data-handling rule"),
+    ],
+    (2024, "238"): [
+        ("s.225 (Parkinson's registry)", "EX-PROGRAM-INCIDENT", "confidentiality/de-identification incident to a registry the section creates"),
+        ("s.229 (nurse licensure compact data system)", "EX-PROGRAM-INCIDENT", "PII sharing/expungement rules incident to the compact's licensure system; fingerprint checks are licensure procedure"),
+        ("s.224 (public-health reporting de-identification)", "EX-PROGRAM-INCIDENT", "de-identification clause on program reporting"),
+        ("ss.112, 214, 249, 297", "EX-FALSEPOS", "hearing-privacy discretion; data-center physical security; ticket fees; election deepfake (adjacent per H72/H4406 precedent)"),
+    ],
+    (2024, "252"): [
+        ("c.150F s.5(A) and related", "EX-PROGRAM-INCIDENT", "driver-record public-records exemption and list-sharing incident to the bargaining board the act creates"),
+    ],
+    (2024, "343"): [
+        ("s.48 (patient-safety data transmission)", "EX-PROGRAM-INCIDENT", "transmission-with-safeguards rule incident to the Lehman center program"),
+        ("ss.24, 42, 49, 64", "EX-FALSEPOS", "business/trade-secret regulatory confidentiality, not personal data"),
+    ],
+    (2024, "389"): [
+        ("ss.1, 3", "EX-FALSEPOS", "cybersecurity-insurance definition; insurer financial confidentiality"),
+    ],
+}
 
 
 def bill_status(actions):
@@ -158,10 +250,27 @@ def run_probe():
                             "snippet": plain[max(0, m.start() - 100): m.end() + 150],
                             "url": f"https://malegislature.gov/Laws/SessionLaws/Acts/{year}/Chapter{law['ChapterNumber']}",
                         })
+    adjudicated = {(r["year"], r["chapter"]) for r in rows} & set()
+    for r in rows:
+        key = (r["year"], r["chapter"])
+        if key in ADJUDICATIONS:
+            r["verdict"] = "; ".join(f"{s}: {v}" for s, v, _ in ADJUDICATIONS[key])
+        else:
+            r["verdict"] = "UNADJUDICATED"
     with (DATA / "enacted_probe.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["family", "phrase", "year", "chapter", "title", "snippet", "url"])
+        w = csv.DictWriter(f, fieldnames=["family", "phrase", "year", "chapter", "title", "snippet", "verdict", "url"])
         w.writeheader()
         w.writerows(rows)
+    with (DATA / "enacted_adjudication.csv").open("w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["year", "chapter", "sections", "verdict", "note", "url"])
+        for (year, ch) in sorted(ADJUDICATIONS):
+            for sec, verdict, note in ADJUDICATIONS[(year, ch)]:
+                w.writerow([year, ch, sec, verdict, note,
+                            f"https://malegislature.gov/Laws/SessionLaws/Acts/{year}/Chapter{ch}"])
+    un = sorted({(r["year"], r["chapter"]) for r in rows if r["verdict"] == "UNADJUDICATED"})
+    if un:
+        raise SystemExit(f"unadjudicated probe chapters: {un}")
     return rows
 
 

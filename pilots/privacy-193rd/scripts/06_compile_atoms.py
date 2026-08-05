@@ -75,10 +75,16 @@ def identity_bases(carriers: dict) -> dict:
             continue
         for b in bl:
             others = [o for o in bl if o != b]
-            if any(textsim.jaccard(get_sh(b), get_sh(o)) >= 0.85 for o in others):
+            best = max((textsim.jaccard(get_sh(b), get_sh(o)) for o in others), default=0.0)
+            if best >= 0.85:
                 out[(prop, b)] = "verified-text-identical"
             elif any(frozenset((b, o)) in lineage for o in others):
                 out[(prop, b)] = "verified-official-lineage"
+            elif best >= 0.50:
+                # substantially the same text with drafting variations
+                # (e.g. H83 vs S25 numbering styles); the atomization notes
+                # record the manual diff verification
+                out[(prop, b)] = "verified-text-near-identical"
             else:
                 out[(prop, b)] = "inferred-analytic"
     return out

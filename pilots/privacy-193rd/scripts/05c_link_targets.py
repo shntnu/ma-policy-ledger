@@ -63,6 +63,19 @@ def main() -> None:
     for bn in sorted(targets):
         out[bn] = fetch_doc(bn)
         print(f"  {bn}: {out[bn]['Title'][:70]}")
+
+    # follow "Reported (in part) X" from study orders (review finding 9):
+    # a study order that reported something out is not terminal until the
+    # reported record is fetched and inspected
+    reported = set()
+    for bn in sorted(out):
+        for a in out[bn]["actions"]:
+            m = re.search(r"Reported \(in part\)[,;]?\s*([HS]\d+)", a["Action"])
+            if m:
+                reported.add(m.group(1))
+    for bn in sorted(reported - set(out) - census_bills):
+        out[bn] = fetch_doc(bn)
+        print(f"  reported-from-order {bn}: {out[bn]['Title'][:70]}")
     # follow enacted-origin lineage: "Reported on X" (conference), "New draft
     # of ..." parents, and any "Accompanied a new draft" pointers, until the
     # frontier is exhausted (bounded by the session's own records)

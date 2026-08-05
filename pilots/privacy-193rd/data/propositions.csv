@@ -90,14 +90,12 @@ P-099,93h-security-program-mandate,data-security,Statutory comprehensive written
 P-100,93h-personal-info-public-records-exclusion,data-security,Exclude lawfully obtained public information from c.93H personal information,1
 P-101,breach-reporting-insurance-protection,data-security,Contracts and cyber-insurance may not prohibit/limit reporting incidents or breaches to government,1
 P-121,location-consent-regime,location,Device location information collectible only for permissible purposes with per-purpose opt-in consent and expiry,5
-P-122,location-targeted-ad-optout,location,Opt-out of location processing for targeted advertising,4
-P-123,location-minimization,location,"No more precise, longer-retained, or further-inferred location data than the purpose requires",5
-P-124,location-sale-disclosure-ban,location,Ban on sale/rent/trade/lease of location information and unnecessary third-party disclosure,5
+P-122,location-targeted-ad-optout,location,Opt-out of location processing for targeted advertising,5
 P-125,location-govt-access-warrant-gate,location,"No disclosure of location information to government absent warrant, exigency, legal mandate, or subject request",5
 P-126,location-govt-monetization-ban,location,Government entities may not monetize location information,4
-P-127,location-privacy-policy-duty,location,Mandatory Location Privacy Policy with enumerated contents and change re-consent,4
+P-127,location-privacy-policy-duty,location,Mandatory Location Privacy Policy with enumerated contents and change re-consent,5
 P-128,location-warrant-transparency-reports,location,Annual aggregate reporting to AG of location warrants and mandated disclosures,2
-P-129,location-anti-retaliation,location,No adverse action for exercising location-privacy rights,4
+P-129,location-anti-retaliation,location,No adverse action for exercising location-privacy rights,5
 P-130,location-private-enforcement,location,"Private right of action ($5,000/violation or actual damages), anti-arbitration, AG c.93A enforcement",4
 P-131,stored-records-warrant-requirement,electronic-privacy,Government access to stored electronic/subscriber/device/location records only by superior-court warrant,2
 P-132,warrant-subject-notice,electronic-privacy,"Notice to the data subject within 7 days of warrant execution, with court-ordered delay",2
@@ -171,8 +169,6 @@ P-212,toll-data-ag-enforcement,location,AG enforcement of the driver-privacy cha
 P-213,alpr-14day-retention-90K,surveillance-tech,"ALPR restrictions under proposed c.90K: no protected-activity tracking, 14-day retention cap, warrant for access",1
 P-214,vehicle-telematics-le-warrant,location,Warrant requirement extended to OEM/telematics/aftermarket GPS vehicle data held by private parties,1
 P-215,vehicle-tracking-device-criminal-ban,location,Criminal ban on nonconsensual installation of tracking devices on motor vehicles,2
-P-221,scorecard-personal-data-content-limit,commercial,Energy scorecards may not contain personal data beyond address and rating,1
-P-222,scorecard-nondisclosure-consent,commercial,Energy scorecards not disclosable without owner consent; public-records exempt,1
 P-223,trigger-lead-solicitation-93a,commercial,Mortgage trigger-lead solicitation practices declared unfair/deceptive under c.93A,1
 P-224,billing-data-pass-prohibition,commercial,Seller may not pass consumer billing information to another seller without affirmative consent,1
 P-225,financial-institution-nondisclosure,commercial,Financial institutions barred from disclosing customer financial/personal information without authorization,1
@@ -203,8 +199,7 @@ P-258,firearm-records-destruction,govt-records,Mandate to destroy existing firea
 P-259,firearm-records-harm-relief,govt-records,Relief mechanism for persons harmed by prior release of firearm records,1
 P-260,waiting-room-confidentiality-right,health,Patient confidentiality guarantee extended to common areas and waiting rooms,1
 P-261,waiting-room-anonymity-system,health,No announcing patient names; numbering or pager systems required,1
-P-266,ndii-distribution-ban,interpersonal,"Criminal offense to distribute (or threaten to distribute) identifiable nude or sexual visual material without consent, with intent to harm or reckless disregard; enacted version adds deepfake 'digitization' coverage",6
-P-267,ai-training-data-consent-rulemaking,comprehensive,"Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training, plus deletion or de-identification on request",1
+P-266,ndii-distribution-ban,interpersonal,"Criminal offense to distribute identifiable nude or sexual visual material without consent, with intent to harm/harass/threaten or reckless disregard; enacted version adds deepfake 'digitization' coverage (threat appears as an intent element, not a standalone offense; repeat-offender penalty attaches)",6
 P-271,comp-right-access,comprehensive,Right to access covered data collected about the individual (24-month lookback as filed),4
 P-272,comp-right-correct,comprehensive,Right to correct verifiable substantial inaccuracies in covered data,4
 P-273,comp-right-delete,comprehensive,Right to delete covered data about the individual,4
@@ -213,3 +208,17 @@ P-275,gdpr-right-access,comprehensive,Right to obtain the specific pieces of per
 P-276,gdpr-right-portability,comprehensive,Right to receive personal information in a structured machine-readable format and transmit it,3
 P-277,chd-right-know,health,Consumer right to know what consumer health data is collected and shared,2
 P-278,chd-right-delete,health,Consumer right to 30-day deletion of consumer health data with third-party flow-down,2
+P-280,ndii-court-record-confidentiality,govt-records,Visual material in court records of an NDII prosecution is closed to public inspection; inspection limited to enumerated persons absent court order,6
+P-281,location-precision-limit,location,No collecting more precise location information than the permissible purpose requires,5
+P-282,location-retention-limit,location,No retaining location information longer than the permissible purpose requires,5
+P-283,location-inference-limit,location,No deriving or inferring beyond the permissible purpose from location information,5
+P-284,location-sale-ban,location,"Ban on selling, renting, trading, gifting, or leasing location information to third parties",5
+P-285,location-thirdparty-disclosure-limit,location,No third-party disclosure of location information unless necessary to the purpose or requested,5
+P-286,location-govt-disclosure-notice-rulemaking,location,Directs AG regulations requiring notice to the individual of any government disclosure of care-location information,1
+P-287,ai-training-data-security-rulemaking,comprehensive,Directs regulations requiring security measures for individuals' data used in AI training,1
+P-288,ai-training-data-consent-rulemaking,comprehensive,"Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training",1
+P-289,ai-training-data-deletion-rulemaking,comprehensive,Directs regulations requiring deletion or de-identification of AI training data when no longer needed,1
+P-290,eviction-record-sealing,govt-records,"Petition-based sealing of eviction court records with tiered waiting periods; sealed records nondisclosable, with consumer-reporting-agency removal duties attached",3
+P-291,notary-personal-info-use-restriction,commercial,"Notaries may not use, sell, or transfer identifying personal information acquired in a notarial act except for enumerated purposes",2
+P-292,agency-demographic-data-standard,govt-data,"Government agencies collecting race/ethnicity data must use separate self-identified categories, keep personal identifying information confidential, and publish only aggregated data",1
+P-294,sfi-personal-info-withholding,govt-records,"Ethics commission must withhold filers' personal contact information (home address; enacted version adds email, phone, family member identity) from public statements of financial interests",1

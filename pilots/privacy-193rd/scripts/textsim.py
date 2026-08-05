@@ -22,8 +22,12 @@ def bill_text(bn: str) -> str:
 
 
 def shingles(text: str, k: int = 8) -> set:
+    """Empty set for texts shorter than k words, so empty or trivial texts
+    can never be 'identical' to each other (review finding 7)."""
     words = re.findall(r"[a-z0-9]+", text)
-    return {" ".join(words[i : i + k]) for i in range(max(1, len(words) - k + 1))}
+    if len(words) < k:
+        return set()
+    return {" ".join(words[i : i + k]) for i in range(len(words) - k + 1)}
 
 
 def jaccard(a: set, b: set) -> float:

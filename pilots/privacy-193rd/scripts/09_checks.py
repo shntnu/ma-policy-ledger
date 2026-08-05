@@ -49,9 +49,19 @@ for r in queue:
             check((PILOT / path.split(" ")[0]).exists() or (PILOT.parent.parent / path).exists(),
                   f"queue path exists: {path}")
 
-# kinship rows carry both excerpts
-kin = [r for r in queue if r["item_type"] == "proposition_kinship"]
-check(all(r["excerpt_a"] and r["excerpt_b"] for r in kin), "kinship rows have side-by-side excerpts")
+# kinship AND identity rows carry both excerpts
+ev = [r for r in queue if r["item_type"] in ("proposition_kinship", "proposition_identity")]
+check(all(r["excerpt_a"] and r["excerpt_b"] for r in ev), "kinship/identity rows have side-by-side excerpts")
+check(all("quote missing" not in r["excerpt_a"] + r["excerpt_b"] for r in ev), "no missing quotes in queue")
+
+# links are real edges (non-empty endpoints)
+check(all(r["source"] and r["target"] for r in links), "all links have non-empty endpoints")
+
+# probe rows all adjudicated
+probe = rows("enacted_probe.csv")
+check(all(r["verdict"] != "UNADJUDICATED" for r in probe), "every probe hit adjudicated")
+adj = rows("enacted_adjudication.csv")
+check(len(adj) > 0 and all(r["verdict"] in ("IN-CORE", "EX-PROGRAM-INCIDENT", "EX-ADJACENT", "EX-FALSEPOS") for r in adj), "adjudication verdicts use the fixed vocabulary")
 
 # determinism: rerunning 06/07/08 must not change outputs
 snap = {}
@@ -68,10 +78,11 @@ for name, before in snap.items():
 from collections import Counter
 fate_counts = Counter(r["fate"] for r in fates)
 check(fate_counts.get("indeterminate", 0) == 0, "no indeterminate fates")
-check(fate_counts.get("enacted_as_filed", 0) + fate_counts.get("enacted_other_vehicle", 0) >= 1,
-      "the NDII enactment is recorded")
-check(sum(1 for r in fates if r["prop_id"] == "P-266" and r["fate"] == "enacted_as_filed") == 1,
-      "P-266 enacted via its own chain (H4744)")
+for pid, expected in (("P-266", "enacted_as_filed"), ("P-280", "enacted_as_filed"),
+                      ("P-290", "enacted_other_vehicle"), ("P-291", "enacted_other_vehicle"),
+                      ("P-292", "enacted_other_vehicle"), ("P-294", "enacted_other_vehicle")):
+    check(sum(1 for r in fates if r["prop_id"] == pid and r["fate"] == expected) == 1,
+          f"{pid} fate is {expected}")
 
 if fails:
     print(f"\n{len(fails)} check(s) failed")

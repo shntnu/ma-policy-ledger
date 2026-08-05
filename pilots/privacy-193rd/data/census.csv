@@ -286,7 +286,7 @@ H3082,An Act regarding information governance,,information,,ok,Bill,1583,privacy
 H3179,An Act relative to internet service provider data,,data;internet,,ok,Bill,1498,personal_information:3,"eement, or otherwise operates in the commonwealth of Massachusetts may collect, use, disclose or otherwise disseminate, personal information from a customer resulting from the customer’s use of the telecommunications or internet service provider without expres",include,IN-TEXT,auto
 H319,An Act to clarify the Consumer Protection Act,,consumer_protection,,ok,Bill,377,,,exclude,EX-ADJACENT,auto
 H3191,An Act encouraging advanced leak repair technology and renewable thermal energy infrastructure,,technology,,ok,Bill,543,,,exclude,EX-ADJACENT,auto
-H3217,An Act relative to consumer access to residential energy information,,information,,ok,Bill,13654,personal_information:1,"g and, where appropriate, recommendations for energy related improvements. Such information shall not contain any other personal data as defined in section 1 of chapter 66A. SECTION 7. Said section 3 of said chapter 25A, as so appearing, is hereby amend",include,IN-TEXT,energy usage data personal-data restriction; marginal
+H3217,An Act relative to consumer access to residential energy information,,information,,ok,Bill,13654,personal_information:1,"g and, where appropriate, recommendations for energy related improvements. Such information shall not contain any other personal data as defined in section 1 of chapter 66A. SECTION 7. Said section 3 of said chapter 25A, as so appearing, is hereby amend",exclude,EX-PROGRAM-INCIDENT,energy-scorecard bill; privacy clauses are program-incident
 H3239,An Act empowering library access to electronic books and digital audiobooks,,electronic;digital,,ok,Bill,7077,,,exclude,EX-ADJACENT,auto
 H3256,"An Act regulating the flight of unmanned aircraft/drones in the airspace over all early, elementary and secondary education facilities in the Commonwealth",,drones,,ok,Bill,1528,,,exclude,EX-ADJACENT,drone airspace regulation
 H3278,An Act relative to electronic license plates,,electronic,,ok,Bill,2975,,,exclude,EX-ADJACENT,auto
@@ -470,3 +470,10 @@ S1139,An Act relative to transmitting indecent visual depictions by teens and th
 H4115,An Act to prevent abuse and exploitation,,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,"Judiciary redraft carrying the NDII offense, SECTION 6"
 H4241,An Act to prevent abuse and exploitation,,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,House-engrossed vehicle of the NDII offense
 H4744,An Act to prevent abuse and exploitation,,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,conference vehicle; enacted as 2024 c.118 (NDII at s.6)
+H1690,An Act promoting housing opportunity and mobility through eviction sealing (HOMES),,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,eviction-record sealing regime
+S956,An Act promoting housing opportunity and mobility through eviction sealing (HOMES),,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,companion of H1690
+H4356,An Act promoting housing opportunity and mobility through eviction sealing (HOMES),,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,Judiciary redraft of the HOMES bills
+H1525,An Act modernizing notary services,,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,notary personal-info use/sale restriction
+S943,An Act modernizing notary services,,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,companion of H1525
+H3003,An Act ensuring equitable representation in the Commonwealth,,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,agency demographic-data collection with PII confidentiality
+H2991,An Act relative to access to statements of financial interest,,,,added_by_feedback,Bill,,,,include,IN-ENACTED-FEEDBACK,SFI home-address withholding; enacted version broader

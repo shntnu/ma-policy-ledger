@@ -6,12 +6,13 @@ Status: complete through fate classification (Goals 1-4); revised 2026-08-05 in 
 
 Bill-level terminal classes (`data/bill_fates.csv`), parsed from official histories by `scripts/08_fates.py`:
 
-- `superseded_by_redraft`: history ends in "Accompanied a new draft, see X"
+- `superseded_by_redraft`: history ends in "Accompanied a new draft, see X", "New draft substituted, see X", or "Reported by X" (conference)
 - `sent_to_study`: history ends in "Accompanied a study order, see X"
 - `died_no_further_action`: history ends in "No further action taken"
-- (`enacted` and recorded-vote rejection are parsed for but did not occur)
+- `enacted`: "Signed by the Governor, Chapter N of the Acts of YYYY" (one bill: H4744)
+- (recorded-vote rejection is parsed for but did not occur)
 
-Furthest-stage ladder: referred < heard < reporting_extended < reported_favorably < second_reading < engrossed_one_branch < in_second_branch < passed_both < enacted.
+Furthest-stage ladder: referred < heard < reporting_extended < reported_favorably < second_reading < engrossed_one_branch < in_second_branch < conference < passed_both < enacted.
 
 Proposition-level fate (`data/proposition_fates.csv`): a proposition's final vehicles are its carrier bills excluding any bill superseded by a redraft that still carries the proposition (the chain is followed through redrafts).
 Fate is the most informative terminal across final vehicles:
@@ -45,11 +46,13 @@ Link types in `data/links.csv`, with the confidence vocabulary:
 - `text_near_identical` (verified-text-comparison): Jaccard in [0.50, 0.85) - substantially the same text with drafting variations (for example H83 vs S25, where one chamber's numbering style shreds 8-grams; the atomization notes verified them substantively identical).
 - `study_order_terminal` (verified-official-record): each study order's own terminal actions, fetched and recorded so the claim that no study order produced further action rests on the orders' histories, not on assumption (review finding 7).
 - `proposition_kinship` (inferred-needs-review): hand-proposed link between two DIFFERENT propositions sharing a goal but not a mechanism.
-  Every kinship link sits in `data/verification_queue.csv` with a pointer to the side-by-side excerpts in `memo/atomization/`.
+  Every kinship link sits in `data/verification_queue.csv` with verbatim side-by-side excerpts from the official texts.
+- Study-order terminal records live in `data/study_order_status.csv`, not in the link graph (they are unary evidence, not edges); anything a study order "Reported (in part)" is fetched and its relevance recorded there (S2612 reported S2538, a jury-clerk bill with no privacy content).
 
 Proposition identity across bills (the same P-NNN appearing on several bills in `data/bill_propositions.csv`) is itself a link claim.
-Every edge now carries an `identity_basis` (review finding 10): `sole-carrier` (no cross-bill claim), `verified-text-identical` (Jaccard >= 0.85 with another carrier), `verified-official-lineage` (connected by an official redraft/supersession/conference record), or `inferred-analytic` (same-mechanism judgment only).
-All `inferred-analytic` edges are queued in `data/verification_queue.csv` as `proposition_identity` items.
+Every edge now carries an `identity_basis` (review finding 10): `sole-carrier` (no cross-bill claim), `verified-text-identical` (Jaccard >= 0.85 with another carrier), `verified-official-lineage` (connected by an official redraft/supersession/conference record), `verified-text-near-identical` (Jaccard in [0.50, 0.85), i.e. the same text under different drafting conventions, with the manual diff recorded in the atomization notes), or `inferred-analytic` (same-mechanism judgment only).
+Empty or sub-8-word texts yield an empty shingle set and can never be "identical" (H4241/H4744, whose API text is empty, rest on official lineage).
+All `inferred-analytic` edges are queued in `data/verification_queue.csv` as `proposition_identity` items with verbatim side-by-side quotes (`QUOTES` in `scripts/atoms.py`).
 
 ## Atomization rules (Goal 2)
 
@@ -90,6 +93,11 @@ Included subdomains:
   Conduct-regulation without a disclosure element stays OUT: coercive-control definitions, protective-order law, harassment penalties, and minor-sexting diversion programs
 - government surveillance of individuals through data-generating technology (facial recognition, ALPR data, police drone data rules)
 - restrictions on disclosure of personal information held in government records (911 recordings, lottery winners, victim compensation records, firearm licensee information)
+
+PROGRAM-INCIDENT RULE (added 2026-08-05, second-pass review): a confidentiality, de-identification, or data-system clause that is incident to a program a provision creates (a disease registry, review committee, licensure compact, labor board, benefit program) does NOT bring the filing or provision into the census.
+The rule is applied SYMMETRICALLY: the filed-bill census never swept the hundreds of filed program bills for incidental confidentiality clauses, so counting such clauses only on the enacted side would bias the passage rate upward.
+In-census when the data handling is the provision's primary object: rights or disclosure restrictions over an existing record class (eviction sealing, 911 recordings), duties on data holders as such (notary personal-info use restrictions), or filings whose primary subject IS a personal-data system (the education-to-career data center bills).
+Applying this rule symmetrically reclassified H3217 (energy-scorecard bill with two incidental privacy clauses) to excluded, and keeps enacted program-incident provisions (Parkinson's registry, nurse-compact data system, mortality-review data rules, burn-pit registry, TND board records) out of the proposition universe; every such verdict is recorded row-level in data/enacted_adjudication.csv.
 
 Excluded, with the boundary rationale:
 
@@ -138,6 +146,8 @@ Reason codes:
 - `EX-ADJACENT`: genuinely about information/technology but outside the domain definition above (with subcategory noted)
 - `EX-NOBILL`: docket-book-only entry that never received a bill number; counted separately, text unavailable through the bill API
 - `EX-PROCEDURAL`: committee extension orders and statutory annual reports (for example the district attorneys' wiretap reports), which are filings but not proposed legislation
+- `EX-PROGRAM-INCIDENT`: filings whose only in-domain content is a confidentiality/data clause incident to a program they create (symmetric with the enacted-side rule above)
+- `IN-ENACTED-FEEDBACK`: filings admitted by tracing enacted in-domain provisions to their origin bills and filed lineages
 
 After the first pass, a vocabulary audit of all 10,156 titles added five speculative term groups (license plate reader, drone/unmanned, credit report, right to repair, deepfake) to the broad net so their relevance could be settled from bill text rather than assumption; the resulting decisions are recorded in `scripts/04_inclusion.py` OVERRIDES with per-bill notes.
 Every override entry names its reason code and a one-line justification; the auto rule handled the unambiguous cases (38 includes, all strong-term, and the no-evidence excludes).
@@ -153,3 +163,16 @@ Every override entry names its reason code and a one-line justification; the aut
 4. Bundled rights split (P-011 -> P-271..P-274; P-036 -> P-275/P-276; P-244 -> P-277/P-278); S2539's AI-training-data consent rulemaking atomized (P-267).
 5. Fate pipeline restructured: probe before fates, ENACTED_MATCHES feeds classification, fate-vehicle citations, deterministic output.
 6. Similarity links renamed to text_identical/text_near_identical; identity_basis added to every bill-proposition edge; verification queue rebuilt with side-by-side excerpts and valid paths; study-order and redraft-successor records fetched before terminal claims; `scripts/09_checks.py` added.
+
+2026-08-05, second pass, in response to a follow-up external review (all thirteen findings accepted):
+
+1. Row-level enacted adjudication: every chapter flagged by the probe or the session-law scan carries per-provision verdicts in `data/enacted_adjudication.csv` (enforced exhaustive by the pipeline); the probe CSV now carries verdicts per hit.
+2. Three more enacted vehicles admitted with their filed lineages: 2023 c.2 s.33 (notary personal-info restriction; H1525/S943), 2024 c.150 ss.28/52 (eviction-record sealing; H1690/S956/H4356), and c.118 s.6's court-record confidentiality atomized separately (P-280).
+   P-266's description corrected: distribution is required, threat is an intent element, the repeat-offender penalty attaches.
+3. Program-incident rule added (symmetric exclusion of confidentiality clauses incident to programs) and applied both ways: H3217 reclassified to excluded; enacted registry/compact/review-board provisions recorded as EX-PROGRAM-INCIDENT rather than silently ignored.
+4. H4844 fully split with corrected subsection cites (s.2(b)(i)-(v), s.2(c), s.4 rulemaking topics); location-family minimization and sale/disclosure bundles split (P-123/P-124 retired into P-281..P-285); S2539 rulemaking split (P-267 retired into P-287..P-289).
+5. Text-identity requires >= 8 words (empty texts can no longer be "identical"); H4241/H4744 identity rests on official lineage.
+   A verified-text-near-identical basis tier records same-text-different-drafting pairs.
+6. Study-order statuses moved out of the link graph into `data/study_order_status.csv`; S2612's reported-out bill (S2538) fetched and verified irrelevant.
+7. All analytic identity merges queued with verbatim side-by-side quotes (`QUOTES` in `scripts/atoms.py`).
+8. The findings memo is written as a current-state snapshot; revision history lives here and in the pull-request discussion.

@@ -608,482 +608,89 @@
    }
   ]
  },
- "H4241": {
-  "BillNumber": "H4241",
-  "Title": "An Act to prevent abuse and exploitation",
+ "S2538": {
+  "BillNumber": "S2538",
+  "Title": "An Act relative to the designation of Jury Clerk in the Haverhill District Court",
   "LegislationTypeName": "Bill",
-  "text_chars": 0,
-  "text": "",
+  "text_chars": 244,
+  "text": " Section 10 of chapter 218 of the General Laws, as appearing in the 2022 Official Edition, is hereby amended by inserting after the words \"district court of Springfield;\" in line 129 the following:- \"central district court of northern Essex;\" ",
   "actions": [
    {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Reported from the committee on House Ways and Means",
+    "Date": "2023-11-20T11:08:21.61",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on Rules of the two branches, acting concurrently",
     "IsStricken": false
    },
    {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Pending new draft of H4115",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "New draft of H4115",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Ordered to a third reading",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
+    "Date": "2023-12-14T11:16:00.1466667",
+    "Branch": "Senate",
     "Action": "Rules suspended",
     "IsStricken": false
    },
    {
-    "Date": "2024-01-10T00:00:00",
+    "Date": "2023-12-14T11:16:00.1466667",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on The Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-12-26T11:04:09.69",
     "Branch": "House",
-    "Action": "Read third",
+    "Action": "House concurred",
     "IsStricken": false
    },
    {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Amendment 2 adopted, as changed - 151 YEAS to 0 NAYS (See YEA and NAY No. 71)",
+    "Date": "2024-01-12T14:41:14.8933333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 01/19/2024 from 09:00 AM-05:00 PM in Written Testimony Only",
     "IsStricken": false
    },
    {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Passed to be engrossed - 151 YEAS to 0 NAYS (See YEA and NAY No. 72)",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-11T11:00:00",
+    "Date": "2024-02-08T11:11:05.39",
     "Branch": "Senate",
-    "Action": "Read; and referred to the committee on Senate Ways and Means",
+    "Action": "Accompanied a study order, see S2612",
     "IsStricken": false
    },
    {
-    "Date": "2024-03-14T00:00:00",
+    "Date": "2024-04-01T11:16:40.4833333",
     "Branch": "Senate",
-    "Action": "Committee recommended ought to pass with an amendment, inserting in place thereof the text of S2703",
+    "Action": "Bill reported favorably by committee and referred to the committee on Senate Rules",
     "IsStricken": false
    },
    {
-    "Date": "2024-03-14T00:00:00",
+    "Date": "2024-04-08T00:00:00",
     "Branch": "Senate",
-    "Action": "Order relative to subject matter adopted ",
+    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next session",
     "IsStricken": false
    },
    {
-    "Date": "2024-03-14T00:00:00",
+    "Date": "2024-04-08T00:00:00",
     "Branch": "Senate",
-    "Action": "Placed in the Orders of the Day for Thursday, March 21, 2024",
+    "Action": "Rules suspended ",
     "IsStricken": false
    },
    {
-    "Date": "2024-03-21T15:49:00.4933333",
+    "Date": "2024-04-08T00:00:00",
     "Branch": "Senate",
-    "Action": "Read second",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-03-21T00:00:00",
-    "Branch": "Senate",
-    "Action": "Amended by striking out all after the enacting clause and inserting in place thereof the text of S2703",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-03-21T00:00:00",
-    "Branch": "Senate",
-    "Action": "Reprinted, as amended, see S2710",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-03-21T00:00:00",
-    "Branch": "Senate",
-    "Action": "Ordered to a third reading ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-03-21T00:00:00",
-    "Branch": "Senate",
-    "Action": "Read third ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-03-21T00:00:00",
-    "Branch": "Senate",
-    "Action": "Passed to be engrossed -see Roll Call #117 (Yeas 40 to Nays 0)",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-04-11T00:00:00",
-    "Branch": "House",
-    "Action": "Rules suspended",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-04-11T00:00:00",
-    "Branch": "House",
-    "Action": "House NON-concurred in the Senate amendment",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-04-11T00:00:00",
-    "Branch": "House",
-    "Action": "Committee of conference appointed - (Day-Barber-Sullivan-Almeida)",
+    "Action": "Read second and ordered to a third reading",
     "IsStricken": false
    },
    {
     "Date": "2024-04-25T12:22:20.1066667",
     "Branch": "Senate",
-    "Action": "Senate insists on it amendment ",
+    "Action": "Read third and passed to be engrossed",
     "IsStricken": false
    },
    {
-    "Date": "2024-04-25T12:22:20.1066667",
-    "Branch": "Senate",
-    "Action": "Committee of conference appointed (Keenan-Eldridge-Fattman), in concurrence ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-06-12T00:00:00",
+    "Date": "2024-04-29T00:00:00",
     "Branch": "House",
-    "Action": "Reported by H4744",
+    "Action": "Read; and referred to the committee on House Ways and Means",
     "IsStricken": false
-   }
-  ]
- },
- "H4115": {
-  "BillNumber": "H4115",
-  "Title": "An Act to prevent abuse and exploitation",
-  "LegislationTypeName": "Bill",
-  "text_chars": 13951,
-  "text": " SECTION 1. Chapter 12 of the General Laws, as appearing in the 2022 Official Edition, is hereby amended by inserting after section 35 the following section: - Section 36. The attorney general, in consultation with the department of elementary and secondary education, the department of youth services and the Massachusetts district attorneys association shall develop and implement a comprehensive educational diversion program. The program shall be designed to provide adolescents with information about: (i) the legal consequences of, and penalties for, possessing or disseminating visual material in violation of section 29D of chapter 272, commonly known as \u201csexting\u201d, including applicable federal and state law; (ii) the non-legal consequences of sexting or posting sexual images, including, but not limited to, the effect on relationships, loss of educational and employment opportunities, and removal, exclusion or expulsion from school programs and extracurricular activities; (iii) how the unique characteristics of the internet can produce long-term and unforeseen consequences for sexting and posting sexual images online, including the impact on health relationships and risk of trafficking; and (iv) and the connection between bullying and cyber-bullying, sexual assault and dating violence and juveniles sexting or posting sexual images. The attorney general shall consult available research on effective educational diversion programs, including programs on sexting, in designing the curriculum and shall annually review the program design and make updates as needed to improve efficacy. The educational diversion program shall be used as part of any diversion program required pursuant to section 54B of chapter 119 and shall be made available to school districts for use in educational programs on the topic. Law enforcement, district attorneys and clerk magistrates may refer a child, where appropriate, to the educational diversion program. SECTION 2. Chapter 71 of the General Laws, as so appearing, is hereby amended by inserting after section 98 the following section: - Section 99. The department shall encourage school districts to implement instruction in media literacy skills at all grade levels, and in any of the core subjects under section 1D of chapter 69, life skills programming or other subjects, to equip students with the knowledge and skills for accessing, analyzing, evaluating and creating all types of media and shall use content from the educational diversion program established pursuant to section 36 of chapter 12 in this instruction. SECTION 3. Chapter 119 of the General Laws, as so appearing, is hereby amended by inserting after section 54A the following section: - Section 54B (a) If a child is alleged to be a delinquent child by reason of violating sections 29B, 29C, or 29D of chapter 272 the court shall, prior to arraignment, indefinitely stay arraignment and direct that the child enter and complete the educational diversion program established pursuant to section 36 of chapter 12; provided, however, that the district attorney may object in writing to the stay of arraignment. If the district attorney so objects, the court shall consider the district attorney\u2019s objection and make a determination whether to direct a child to enter and complete said education diversion program. If the court finds, on its own motion or at the request of the district attorney, that the child has failed to complete the diversion program, the court shall bring the case forward, arraign the child and restore the delinquency complaint to the docket for further proceedings. (b) If a child is alleged to be a delinquent child by reason of violating sections 29B, 29C, or 29D of chapter 272 and arraignment has already occurred, the court shall place the child on pretrial probation pursuant to section 87 of chapter 276. The conditions of such probation shall include, but not be limited to, completion of the educational diversion program established pursuant to section 36 of chapter 12; provided, however, that the district attorney may object in writing to pretrial probation. If the district attorney so objects, the court shall consider the district attorney\u2019s objections in its decision to place the child on pretrial probation. If the court finds, on its own motion or at the request of the district attorney, that the child has failed to comply with the conditions of probation, the court shall restore the delinquency complaint to the docket for trial or further proceedings. SECTION 4. Section 1 of Chapter 209A of the General Laws, as so appearing, is hereby amended by striking out the definition of \u201cabuse\u201d and inserting in place thereof the following definitions: - \u201cAbuse\u201d, the occurrence of one or more of the following acts between family or household members: (a) attempting to cause or causing physical harm; (b) placing another in fear of imminent serious physical harm; (c) causing another to engage involuntarily in sexual relations by force, threat or duress; (d) coercive control. \u201cCoercive control\u201d, an act or pattern of behavior committed with the intent to substantially restrict an individual\u2019s safety or autonomy through threat, intimidation, harassment, isolation, control, coercion or compelled compliance, including but not limited to: (i) isolating the family or household member from friends, relatives or other sources of support; (ii) depriving the family or household member of basic needs; (iii) repeatedly humiliating or using degrading language or behavior towards the family or household member; (iv) controlling, regulating or monitoring the family or household member\u2019s activities, communications, movements, finances, economic resources, or access to services, including through technological means; (v) compelling a family or household member to abstain from or engage in a specific behavior or activity, including engaging in criminal activity; (vi) harming or threatening to harm a child or relative of the family or household member; (vii) committing or threatening to commit cruelty or abuse to animals connected to the family or household member; (viii) damaging property belonging to the family or household member; (ix) threatening to publish sensitive personal information relating to the family or household member, including explicit images; (x) threatening to make false reports to law enforcement or other government officials or agencies; or (xi) using repeated court actions not warranted by existing law or good faith argument. SECTION 5. Section 43A of chapter 265 of the General Laws, as so appearing, is hereby amended by striking out, in line 7, the figure \u201c$1,000\u201d and inserting in place thereof the following figure: - $5,000. SECTION 6. Said section 43A of said chapter 265, as so appearing, is hereby further amended by striking out subsection (b) and inserting in place thereof the following subsections: - (b)(1) As used in this subsection the following words shall have the following meanings unless the context clearly requires otherwise: \u201cDistribute\u201d, give, sell, transfer, disseminate, publish, upload, circulate, broadcast, or engage in any other form of transmission, electronic or otherwise. \u201cIdentifiable\u201d, identifiable from the visual material itself or information offered in connection with the visual material. \u201cPartially nude\u201d, the exposure of fully uncovered buttocks, or all or part of the human genitals or the female nipple-areolar complex. \u201cPublish\u201d, (i) disseminate with the intent that an image or images be made available by any means to any person or other legal entity; (ii) disseminate with the intent that an image or images be sold by another person or legal entity; (iii) post, present, display, exhibit, circulate, advertise or allow access by any means, so as to make an image or images available to the public; or (iv) disseminate with the intent that an image or images be posted, presented, displayed, exhibited, circulated, advertised or made accessible by any means, and to make such images available to the public. \u201cVisual material\u201d, any photograph, film, video, or digital image or recording, whether produced by electronic, mechanical or other means or any part, representation or reproduction thereof. (2) Whoever knowingly distributes visual material depicting another person, either identifiable in the visual material or identified by the distributing person, who is nude, partially nude or engaged in sexual conduct, when the distribution causes physical or economic injury to the person depicted in the visual material or causes the person depicted in the visual material to suffer substantial emotional distress, and does so with the intent to harm, harass, intimidate, threaten, coerce or cause substantial emotional distress, or does so with reckless disregard for the depicted person\u2019s lack of consent to the distribution of the visual material and reasonable expectation that the visual material would remain private, shall be guilty of the crime of criminal harassment and shall be punished by imprisonment in a house of correction for not more than 2\u00bd years, by a fine of not more than $10,000, or by both such fine and imprisonment. (3) For purposes of this subsection, consent to the creation of visual material shall not constitute consent to the distribution of the visual material. (4) This subsection shall not preclude other remedies available at law or in equity, including, but not limited to, the issuance by a court with proper jurisdiction of appropriate orders to restrain or prevent the distribution of visual material in violation of this subsection. (5) Visual material that is part of any court record arising from a prosecution under this subsection shall not be open to public inspection and, unless otherwise ordered in writing by the court, shall only be made available for inspection by court personnel to a prosecuting attorney, a defendant\u2019s attorney, a defendant or a victim connected to such prosecution; provided, however, that this paragraph shall not prohibit disclosure, inspection or other use of the visual material in the underlying prosecution or any related court proceeding in accordance with applicable evidentiary and procedural rules or court order. (6) This subsection shall not apply to: (i) visual material involving nudity, partial nudity or sexual conduct that is voluntary or consensual and occurring: (A) in a commercial setting, or (B) in a place where a person does not have a reasonable expectation of privacy; (ii) distribution made in the public interest, including the reporting of unlawful conduct; (iii) lawful and common practices of law enforcement, criminal reporting, corrections, legal proceedings or medical treatment, including telemedicine; (iv) distribution of visual material that constitutes a matter of public concern; (v) interactive computer services, as defined in 47 U.S.C. 230(f)(2), for content solely provided by another person; or (vi) information services or telecommunications services, as defined in 47 U.S.C. 153, for content solely provided by another person. (c) Whoever, after having been convicted of an offense under this section, commits a second or subsequent offense, or whoever commits an offense under this section having previously been convicted of a violation of section 43, shall be punished by imprisonment in a house of correction for not more than 2\u00bd years or in a state prison for not more than 10 years, by a fine of not more than $15,000, or by both such fine and imprisonment. SECTION 7. Chapter 272 of the General Laws, as so appearing, is hereby amended by inserting after section 29C the following section: - Section 29D. (a) Whoever, while under the age of criminal majority: (i) possesses, purchases or disseminates to another person any visual material in violation of section 29B or section 29C of this chapter, or (ii) whoever, while under the age of criminal majority, uploads visual material of another person in violation of this section to an internet website, may be punished by a commitment to the department of youth services. (b) Knowingly disseminating visual material by reporting the matter to a law enforcement agency, parent, foster parent, guardian, teacher, principal, or other relevant school personnel, or by affording a law enforcement agency, parent, foster parent, guardian, teacher, principal or other relevant school personnel access to the visual material shall not constitute dissemination in violation of this section. (c) A person who has been adjudicated under this section shall not be required to register with the sex offender registry board and no data relating to such adjudication shall be transmitted to the board pursuant to section 178E of chapter 6. (d) The juvenile court department shall have exclusive jurisdiction of proceedings under this section. (e) It shall be an affirmative defense for any crime alleged under sections 29A, 29B, 29C or 29D of this chapter that: (i) the visual material portrays no person other than the juvenile; or (ii) the juvenile was under the age of criminal majority, the visual material portrays only an individual age 16 or older and was knowingly and voluntarily created and provided to the juvenile by the individual in the image, and the juvenile has not provided or made available the material to another person except the individual depicted who originally sent the material to the juvenile. (f) Nothing in this section shall be construed to prohibit a prosecution for disorderly conduct, public indecency, child pornography, or any other applicable provision of law. SECTION 8. Section 63 of chapter 277 of the General Laws, as so appearing, is hereby amended by striking, in line 13, the word \u201csections\u201d and inserting in place thereof the following words: - subsection (b)(iii) of 13A, sections 13M,. ",
-  "actions": [
+   },
    {
-    "Date": "2023-10-10T11:12:48.67",
+    "Date": "2024-12-31T23:59:00",
     "Branch": "House",
-    "Action": "Reported from the committee on The Judiciary",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H4241",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting for a second reading with the amendment pending",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Rules suspended",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "Read second, amended (as recommended by the committee on House Ways and Means)",
-    "IsStricken": false
-   },
-   {
-    "Date": "2024-01-10T00:00:00",
-    "Branch": "House",
-    "Action": "New draft substituted, see H4241",
-    "IsStricken": false
-   }
-  ]
- },
- "H1542": {
-  "BillNumber": "H1542",
-  "Title": "An Act to protect victims of coercive control",
-  "LegislationTypeName": "Bill",
-  "text_chars": 2147,
-  "text": " SECTION 1. (a) Section of 1 of Chapter 209A of the General Laws is hereby amended by inserting the following after subsection (c) in the definition of \u201cAbuse\u201d:- (d) coercive control (b) For the purposes of this section, the following words shall have the following meanings: \"Coercive control\" includes, but is not limited to, unreasonably engaging in-person or through the use of technology any of the following: (i) Isolating the family member, household member, or former partner from friends, relatives or other sources of support; (ii) Depriving the family member, household member, or former partner of basic necessities; (iii) Controlling, regulating or monitoring the family, household member, or former partner movements, communications, daily behavior, finances, economic resources or access to services; (iv) Compelling the family member, household member, or former partner by force, threat or intimidation, including, but not limited to, threats based on actual or suspected immigration status, to (1) engage in conduct from which such family member, household member, or former partner has a right to abstain, or (2) abstain from conduct that such family member, household member, or former partner has a right to pursue; (v) Committing or threatening to commit cruelty to animals that intimidates the family member, household member, or former partner; or (vi) Forced sex acts, or threats of a sexual nature against the family member, household member, or former partner, including, but not limited to, threatened acts of sexual conduct, threats based on a person's sexuality or threats to release sexual images or videos. (vii) Intentionally, knowingly, or recklessly causing damage to property so as to intimidate or attempt to control the behavior of the family member, household member, or former partner (viii) Closely monitoring the family member, household member, or former partner activities, communications, and movements (ix) Threatening to publish information or make reports to the police or the authorities about the family member, household member, or former partner ",
-  "actions": [
-   {
-    "Date": "2023-02-16T10:48:21.2666667",
-    "Branch": "House",
-    "Action": "Referred to the committee on The Judiciary",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-02-16T10:48:21.2666667",
-    "Branch": "Senate",
-    "Action": "Senate concurred",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-09-05T17:28:10.3333333",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 09/12/2023 from 01:00 PM-05:00 PM in A-2                              ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "Accompanied a new draft, see H4115",
-    "IsStricken": false
-   }
-  ]
- },
- "H1547": {
-  "BillNumber": "H1547",
-  "Title": "An Act to improve protections relative to domestic violence",
-  "LegislationTypeName": "Bill",
-  "text_chars": 3162,
-  "text": " SECTION 1. (a) For the purposes of this section, the following words shall have the following meanings: \u201cCoercive control\u201d, for purposes of this chapter, coercive control is a pattern of conduct that has the purpose or effect of substantially restricting an individual\u2019s safety or autonomy through intimidation, isolation, implicit or explicit threats, or by compelling compliance. Conduct undertaken by an individual to protect themselves or their children from the risk of present or future harm does not constitute coercive control. Examples of coercive control include: (i) Isolating the other parent from friends, relatives, faith, cultural, or linguistic communities, employment, education, or other support networks; (ii) Repeatedly humiliating or using degrading language or behaviors towards the petitioner; (iii) Controlling, regulating, or monitoring the individual\u2019s activities, communications, movements, finances, economic resources, or access to resources; (iv) Threatening to harm, abduct or kill the individual or a child or relative of the individual; (v) Threatening to publish information or make false reports to the police or the authorities; (vi) Damaging property or household goods; (vii) Forcing the individual to take part in criminal activity; (viii) Committing or threatening to commit cruelty or abuse to animals connected to the family; (ix) Using repeated court actions not warranted by existing law or good faith argument to harass, coerce, or control the other party, diminish or exhaust the other party\u2019s financial resources, or compromise the other party\u2019s employment or housing; (x) Cleaning, accessing, displaying, using, or wearing a firearm in an intimidating or threatening manner; and (xi) Threatening deportation or to contact local or federal agencies based on actual or perceived immigration status, refusing to file immigration applications, refusing to sponsor, withholding essential documents needed for immigration applications, or threatening to withdraw immigration applications filed on the other parent\u2019s or child\u2019s behalf or coercing or forcing the other parent to violate the terms of their immigration visa. \u201cTechnological abuse\u201d, an act or pattern of behavior intended to harm, threaten, intimidate, control, stalk, harass, impersonate, exploit, or extort, such as cyberstalking or other forms of electronic monitoring or surveillance, nonconsensual sharing of explicit images, or impersonation. Technological abuse can utilize any form of technology, including but not limited to Internet, social networking sites, computers, mobile devices, cellular telephones, apps, location tracking devices, instant messages, text messages, and other forms of technology. (b) Section 1 of Chapter 209A of the General Laws is hereby amended by inserting the following after subsection (c) in the definition of \u201cabuse\u201d:- (d) coercive control (e) technological abuse. SECTION 2. The fourth sentence of Section 63 of ch. 277 of the General Laws, as appearing in the 2018 Official Edition, is hereby amended by inserting after the word \u201csections\u201d the following words:- 13A, 13M ",
-  "actions": [
-   {
-    "Date": "2023-02-16T10:48:21.2666667",
-    "Branch": "House",
-    "Action": "Referred to the committee on The Judiciary",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-02-16T10:48:21.2666667",
-    "Branch": "Senate",
-    "Action": "Senate concurred",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-09-05T17:28:10.8033333",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 09/12/2023 from 01:00 PM-05:00 PM in A-2                              ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "Accompanied a new draft, see H4115",
-    "IsStricken": false
-   }
-  ]
- },
- "H1745": {
-  "BillNumber": "H1745",
-  "Title": "An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images",
-  "LegislationTypeName": "Bill",
-  "text_chars": 11024,
-  "text": " SECTION 1. Chapter 12 of the General Laws is hereby amended by inserting after section 35 the following section:- Section 36. The attorney general, in consultation with the department of elementary and secondary education, shall develop and implement a comprehensive educational diversion program. The attorney general may solicit input from the Massachusetts Aggression Reduction Center at Bridgewater State University. The program shall be designed to provide teenagers with information about the legal consequences of and the penalties for transmitting indecent visual depictions known as, \u201csexting\u201d, or posting indecent visual depictions online, including the applicable federal and state statutes; the non-legal consequences of sexting or posting such pictures, including, but not limited to, the effect on relationships, loss of educational and employment opportunities, and being barred or removed from school programs and extracurricular activities; how the unique characteristics of cyberspace and the internet can produce long-term and unforeseen consequences for sexting and posting such photographs; and the connection between bullying and cyber-bulling and juveniles sexting or posting sexual images. The educational diversion program shall be used as part of any diversion program required pursuant to section 39N of chapter 119 and shall be made available to school districts for use in educational programs on the topic. SECTION 2. Chapter 71 of the General Laws is hereby amended by inserting after section 98 the following section:- Section 99. The department shall encourage school districts to implement instruction in media literacy skills at all grade levels, and in any of the core subjects or other subjects, to equip students with the knowledge and skills for accessing, analyzing, evaluating, and creating all types of media and use the educational diversion program established pursuant to section 35 of chapter 12 for educational programs on the topic. SECTION 3. Chapter 119 of the General Laws is hereby amended by inserting after section 39M the following section:- Section 39N. (a) If a child is alleged to be a juvenile delinquent by reason of violating sections 29B, 29C, or 29D of chapter 272 the court shall, prior to arraignment, indefinitely stay arraignment and direct that the child enter and complete the educational diversion program established pursuant to section 35 of chapter 12; provided, however, that the district attorney may object in writing to the stay of arraignment. If the district attorney so objects, the court shall consider the district attorney\u2019s objections in its decision to direct a child to enter and complete said education diversion program. If the court finds, on its own motion or at the request of the district attorney, that the child has failed to complete the diversion program, the court shall bring the case forward, arraign the child and restore the delinquency complaint to the docket for further proceedings. (b) If a child is alleged to be a juvenile delinquent by reason of violating sections 29B, 29C, or 29D of chapter 272 and if arraignment has already occurred, the court shall place the child on pretrial probation under section 87 of chapter 276. The conditions of such probation shall include, but not be limited to, completion of the educational diversion program established in section 35 of chapter 12; provided, however, that the district attorney may object in writing to pretrial probation. If the district attorney so objects, the court shall consider the district attorney\u2019s objections in its decision to place the child on pretrial probation. If the court finds, on its own motion or at the request of the district attorney, that the child has failed to comply with the conditions of probation, the court shall restore the delinquency complaint to the docket for trial or further proceedings. SECTION 4. Section 43A of chapter 265 of the General Laws, as appearing in the 2020 Official Edition, is hereby amended by striking out, in line 7, the figure \u201c$1,000\u201d and inserting in place thereof the following figure:- $5,000. SECTION 5. Said section 43A of said chapter 265, as so appearing, is hereby further amended by striking out subsection (b) and inserting in place thereof the following subsections:- (b)(1) As used in this subsection the following words shall, unless the context clearly requires otherwise have the following meanings: \u201cDistribute\u201d, give, sell, transfer, disseminate, publish, upload, circulate, broadcast, or engage in any other form of transmission, electronic or otherwise. \u201cIdentifiable\u201d, identifiable from the visual material itself or information offered in connection with the visual material. \u201cPartially nude\u201d, the exposure of fully uncovered buttocks, or all or part of the human genitals or the female nipple-areolar complex. \u201cPublish\u201d, disseminate with the intent that such image or images be made available by any means to any person or other legal entity; disseminate with the intent that such images be sold by another person or legal entity; post, present, display, exhibit, circulate, advertise or allow access by any means, so as to make an image or images available to the public; or disseminate with the intent that an image or images be posted, presented, displayed, exhibited, circulated, advertised or made accessible by any means, and to make such images available to the public. \u201cVisual material\u201d, any photograph, film, video, or digital image or recording, whether produced by electronic, mechanical or other means or any part, representation or reproduction thereof. (2) Whoever knowingly distributes visual material depicting another person, either identifiable in the visual material or identified by the distributing person, who is nude, partially nude or engaged in sexual conduct, when the distribution causes physical or economic injury to the person depicted in the visual material or causes the person depicted in the visual material to suffer substantial emotional distress, and does so with the intent to harm, harass, intimidate, threaten, coerce or cause emotional distress, or does so with reckless disregard for the depicted person\u2019s lack of consent to the distribution of the visual material and reasonable expectation that the visual material would remain private, shall be guilty of the crime of criminal harassment and shall be punished by imprisonment in a house of correction for not more than 2\u00bd years, by a fine of not more than $10,000, or by both such fine and imprisonment. (3) For purposes of this subsection, consent to the creation of visual material shall not constitute consent to the distribution of the visual material. (4) This subsection shall not preclude other remedies available at law or in equity, including, but not limited to, the issuance by a court with proper jurisdiction of appropriate orders to restrain or prevent the distribution of visual material in violation of this subsection. (5) Visual material that is part of any court record arising from a prosecution under this subsection shall not be open to public inspection and, unless otherwise ordered in writing by the court, shall only be made available for inspection by court personnel to a prosecuting attorney, a defendant\u2019s attorney, a defendant or a victim connected to such prosecution. This does not prohibit disclosure, inspection or other use of the visual material in the underlying prosecution or any related court proceeding in accordance with applicable evidentiary and procedural rules or court order. (6) This subsection shall not apply to: (i) visual material involving nudity, partial nudity or sexual conduct that is: (A) voluntary or consensual and occurring in a commercial setting, or (B) voluntary or consensual and occurring in a place where a person does not have a reasonable expectation of privacy; (ii) distribution made in the public interest, including the reporting of unlawful conduct; (iii) lawful and common practices of law enforcement, criminal reporting, corrections, legal proceedings or medical treatment, including telemedicine; (iv) distribution of visual material that constitutes a matter of public concern; (v) interactive computer services, as defined in 47 U.S.C. section 230(f)(2), for content solely provided by another person; or (vi) information services or telecommunications services, as defined in 47 U.S.C. section 153, for content solely provided by another person. (c) Whoever, after having been convicted of the crime of criminal harassment, commits a second or subsequent offense, or whoever commits the crime of criminal harassment having previously been convicted of a violation of section 43, shall be punished by imprisonment in a house of correction for not more than 2\u00bd years or by imprisonment in a state prison for not more than 10 years, by a fine of not more than $15,000, or by both such fine and imprisonment. SECTION 6. Chapter 272 of the General Laws is hereby amended by inserting after section 29C the following section:- Section 29D. (a) Whoever, while under 18 years of age, (i) possesses or disseminates to another person any visual material in violation of section 29B or section 29C, or (ii) whoever, while under 18 years of age, uploads visual material of another person in violation of this section to an internet website, shall be punished by commitment to the department of youth services for not more than 6 months, by a fine of not less than $50.00 and not more than $500.00, or by both such fine and commitment. (b) A person does not knowingly disseminate the material in violation of this section by reporting the matter to a law enforcement agency, parent, teacher, principal, or other relevant school personnel, or by affording a law enforcement agency, parent, teacher, principal or other relevant school personnel access to the material. (c) A person who has been adjudicated under this section shall not be required to register with the sex offender registry board and no data relating to such adjudication shall be transmitted to the board pursuant to section 178E of chapter 6. (d) The juvenile court department shall have exclusive jurisdiction of proceedings under this section. (e) It shall be an affirmative defense for any crime alleged under sections 29A, 29B, 29C, or under this section that: (i) the visual material portrays no person other than the defendant; or (ii) the defendant was under 18 years of age, the visual material portrays only an individual age 16 or older and was knowingly and voluntarily created and provided to the defendant by the individual in the image, and the defendant has not provided or made available the material to another person except the individual depicted who originally sent the material to the defendant. (f) Nothing in this section shall be construed to prohibit a prosecution for disorderly conduct, public indecency, child pornography, or any other applicable provision of law. ",
-  "actions": [
-   {
-    "Date": "2023-02-16T10:48:21.2666667",
-    "Branch": "House",
-    "Action": "Referred to the committee on The Judiciary",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-02-16T10:48:21.2666667",
-    "Branch": "Senate",
-    "Action": "Senate concurred",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-09-05T17:28:14.9766667",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 09/12/2023 from 01:00 PM-05:00 PM in A-2                              ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "Accompanied a new draft, see H4115",
-    "IsStricken": false
-   }
-  ]
- },
- "H3856": {
-  "BillNumber": "H3856",
-  "Title": "An Act relative to coercive control occurring between family or household members",
-  "LegislationTypeName": "Bill",
-  "text_chars": 1510,
-  "text": " SECTION 1. The definition of \u201cAbuse\u201d in section 1 of chapter 209A of the General Laws, as appearing in the 2020 Official Edition, is hereby amended by adding the following clause:- (d) coercive control. SECTION 2. Said section 1 of said chapter 209A, as so appearing, is hereby further amended by inserting after the definition of \u201cAbuse\u201d the following definition:- \u201cCoercive control\u201d, includes, but is not limited to, unreasonably engaging in any of the following: (a) isolating the family or household member from friends, relatives or other sources of support; (b) depriving the family or household member of basic necessities; (c) controlling, regulating or monitoring the family or household member's movements, communications, daily behavior, finances, economic resources or access to services; (d) compelling the family or household member by force, threat or intimidation, including, but not limited to, threats based on actual or suspected immigration status, to (i) engage in conduct from which such family or household member has a right to abstain, or (ii) abstain from conduct that such family or household member has a right to pursue; (e) committing or threatening to commit cruelty to animals that intimidates the family or household member; (f) forced sex acts, or threats of a sexual nature, including, but not limited to, threatened acts of sexual conduct, threats based on a person's sexuality or threats to release sexual images regarding the family or household member. ",
-  "actions": [
-   {
-    "Date": "2023-05-15T13:17:33.82",
-    "Branch": "House",
-    "Action": "Referred to the committee on The Judiciary",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-05-18T11:11:13.0033333",
-    "Branch": "Senate",
-    "Action": "Senate concurred",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-09-05T17:28:17.6466667",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 09/12/2023 from 01:00 PM-05:00 PM in A-2                              ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "Accompanied a new draft, see H4115",
-    "IsStricken": false
-   }
-  ]
- },
- "S1012": {
-  "BillNumber": "S1012",
-  "Title": "An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images",
-  "LegislationTypeName": "Bill",
-  "text_chars": 18170,
-  "text": " SECTION 1. Chapter 18C of the General Laws is hereby amended by adding the following section:- Section 15. The office of the child advocate, in consultation with the department of elementary and secondary education, the department of youth services and the attorney general, shall develop and implement a comprehensive educational diversion program. The program shall be designed to provide adolescents with information about: (i) the legal consequences of and the penalties for transmitting visual material in violation of section 43A of chapter 265 or section 29D of chapter 272, also known as \u201csexting\u201d, or posting such visual material online, including an explanation of other applicable federal and state law; (ii) the non-legal consequences of sexting or posting such visual material online, including, but not limited to, the effect on relationships, loss of educational and employment opportunities and being barred or removed from school programs and extracurricular activities; (iii) how the unique characteristics of the internet can produce long-term and unforeseen consequences for sexting and posting such visual material online, including the impact on healthy relationships and the risk of trafficking; and (iv) the connection between bullying and cyber-bulling, sexual assault and dating violence and juveniles sexting or posting such visual material online. The child advocate shall consult the best available research on effective educational diversion programs, including programs on sexting, in designing the curriculum and shall regularly review the program design and make updates to improve efficacy. The child advocate shall solicit public comment prior to the development of the curriculum or the implementation of any significant changes to the curriculum or program. The child advocate may establish the program, or any aspect of the program, in partnership with a state institution, state agency or a public or private institution of higher education. The educational diversion program shall be used as part of any diversion program required pursuant to section 39N of chapter 119 and shall be made available to school districts for use in educational programs on the topic. Law enforcement, clerk magistrates and district attorneys may refer youth alleged to be a juvenile delinquent by reason of violating section 29B, 29C or 29D of chapter 272 to the educational diversion program. SECTION 2. Chapter 71 of the General Laws is hereby amended by adding the following section:- Section 99. The department shall encourage school districts to: (i) implement instruction in media literacy skills at all grade levels, including life skills programming, and in any of the core subjects under section 1D of chapter 69 or other subjects, to equip students with the knowledge and skills for accessing, analyzing, evaluating and creating all types of media; and (ii) use the content of the educational diversion program established pursuant to section 15 of chapter 18C for educational programs on the topic of transmitting visual material in violation of section 43A of chapter 265 or section 29D of chapter 272 or posting such visual material online. SECTION 3. Chapter 119 of the General Laws is hereby amended by inserting after section 39M the following section:- Section 39N. (a) If a child is alleged to be a juvenile delinquent by reason of violating sections 29B, 29C or 29D of chapter 272, the court shall divert the child from further court processing prior to arraignment unless the court finds that failure to proceed with the arraignment would result in the substantial likelihood of serious harm to a member of the community. If arraignment has already occurred, the court may, if the child consents, stay the proceedings and divert the child in the same manner as a child diverted prior to arraignment under this section. The court shall direct a child diverted under this section to enter and complete the educational diversion program established pursuant to section 15 of chapter 18C. (b) A child who is alleged to be a juvenile delinquent by reason of violating sections 29B, 29C or 29D of chapter 272 may, upon the request of the child, undergo an assessment prior to arraignment to enable the judge to consider the suitability of the child for diversion to the educational diversion program established pursuant to section 15 of chapter 18C. If a child chooses to request a continuance for the purpose of such an assessment, the child shall notify the judge prior to arraignment. Upon receipt of such notification, the judge may grant a 14\u2013day continuance. The department of probation may conduct such assessment prior to arraignment to assist the judge in making that decision. If the judge determines it is appropriate, a determination of eligibility by the personnel of the educational diversion program may substitute for an assessment. If a case is continued pursuant to this subsection, the child shall not be arraigned, and an entry shall not be made into the criminal offender record information system, until a judge issues an order to resume the ordinary processing of a delinquency proceeding. A judge may order diversion without first ordering an assessment in any case in which the court finds that sufficient information is available without an assessment; provided, however, that the judge shall provide an opportunity for both the commonwealth and counsel for the child to be heard regarding diversion of the child. (c)(1) After the completion of the assessment, the probation officer or the director of the educational diversion program established pursuant to section 15 of chapter 18C shall submit to the court and to counsel for the child a recommendation as to whether the child would benefit from diversion. Upon receipt of the recommendation, the judge shall provide an opportunity for both the commonwealth and counsel for the child to be heard regarding diversion of the child. The judge shall then make a final determination as to the eligibility of the child for diversion. The proceedings of a child who is found eligible for diversion shall be stayed for 90 days unless the judge determines that the interest of justice would best be served by a lesser period of time or unless extended under subsection (f). (2) A stay of proceedings shall not be granted under this section unless the child consents in writing to the terms and conditions of the stay of proceedings and, after consultation with legal counsel, knowingly executes a waiver of the child's right to a speedy trial on a form approved by the chief justice of the juvenile court department of the trial court of the commonwealth. Consent shall be given only upon the advice of counsel. (3) The following shall not be admissible against the child in any proceedings: (i) a request for assessment; (ii) a decision by the child not to enter the educational diversion program; (iii) a determination by the department of probation or by the educational diversion program that the child would not benefit from diversion; (iv) any statement made by the child or the child's family during the course of assessment; and (v) circumstances regarding the child\u2019s failure to complete the educational diversion program. Any consent by a child to a stay of proceedings or any act done or statement made in fulfillment of the terms and conditions of a stay of proceedings shall not be admissible as an admission, implied or otherwise, against the child if the stay of proceedings was terminated and proceedings were resumed on the original complaint. A statement or other disclosure or a record thereof made by a child during the course of an assessment or during the stay of proceedings shall not be disclosed at any time to a commonwealth or other law enforcement officer in connection with the investigation or prosecution of any charges against the child or a codefendant. (4) If a child is found eligible for diversion pursuant to this section, the child shall not be arraigned and an entry shall not be made into the criminal offender record information system unless a judge issues an order to resume the ordinary processing of a delinquency proceeding. If a child is found eligible pursuant to this section, the eligibility shall not be considered an issuance of a criminal complaint for the purposes of section 37H1/2 of chapter 71. (d) A district attorney may divert any child for whom there is probable cause to issue a complaint, either before or after the assessment procedure set forth in subsection (b), with or without the permission of the court. A district attorney who diverts a case pursuant to this subsection may request a report from the educational diversion program established pursuant to section 15 of chapter 18C regarding the child's status in and completion of the program. (e) If during the stay of proceedings a child is charged with a subsequent offense under sections 29B, 29C or 29D of chapter 272, a judge in the court that entered the stay of proceedings may issue such process as is necessary to bring the child before the court. When the child is brought before the court, the judge shall afford the child an opportunity to be heard. If the judge finds probable cause to believe that the child has committed such a subsequent offense, the judge may order that the stay of proceedings be terminated and that the commonwealth be permitted to proceed on the original complaint as provided by law. (f)(1) Upon the expiration of the initial 90\u2013day stay of proceedings, the probation officer or the director of the educational diversion program, established pursuant to section 15 of chapter 18C, shall submit to the court a report indicating the successful completion of diversion by the child or recommending an extension of the stay of proceedings for not more than an additional 90 days so that the child may complete the diversion program successfully. (2) If the probation officer or the director of the educational diversion program, established pursuant to section 15 of chapter 18C, indicates the successful completion of diversion by a child, the judge shall dismiss the original complaint pending against the child. If the report recommends an extension of the stay of proceedings, the judge may, on the basis of the report and any other relevant evidence, take such action as the judge deems appropriate, including the dismissal of the complaint, the granting of an extension of the stay of proceedings or the resumption of proceedings. (3) If the conditions of diversion have not been met, the child's attorney shall be notified prior to the termination of the child from diversion and the judge may grant an extension to the stay of proceedings if the child provides good cause for failing to comply with the conditions of diversion. (4) If the judge dismisses a complaint under this subsection, the court shall, unless the child objects, enter an order directing expungement of any records of the complaint and related proceedings maintained by the clerk, the court, the department of criminal justice information services and the court activity record index. SECTION 4. Section 43A of chapter 265 of the General Laws, as appearing in the 2020 Official Edition, is hereby amended by striking out, in line 7, the figure \u201c$1,000\u201d and inserting in place thereof the following figure:- $5,000. SECTION 5. Said section 43A of said chapter 265, as so appearing, is hereby further amended by striking out subsection (b) and inserting in place thereof the following 2 subsections:- (b)(1) As used in this subsection the following words shall have the following meanings unless the context clearly requires otherwise: \u201cDistribute\u201d, give, sell, transfer, disseminate, publish, upload, circulate, broadcast or engage in any other form of transmission, electronic or otherwise. \u201cIdentifiable\u201d, identifiable from the visual material itself or information offered in connection with the visual material. \u201cPartially nude\u201d, the exposure of fully uncovered buttocks or all or part of the human genitals or the female nipple-areolar complex. \u201cPublish\u201d, (i) disseminate with the intent that an image be made available by any means to any person or other legal entity; (ii) disseminate with the intent that an image be sold by another person or legal entity; (iii) post, present, display, exhibit, circulate, advertise or allow access by any means, so as to make an image available to the public; or (iii) disseminate with the intent that an image be posted, presented, displayed, exhibited, circulated, advertised or made accessible by any means and to make the image available to the public. \u201cVisual material\u201d, any photograph, film, video or digital image or recording, whether produced by electronic, mechanical or other means or any part, representation or reproduction thereof. (2) Whoever knowingly distributes visual material depicting another person, either identifiable in the visual material or identified by the distributing person, who is nude, partially nude or engaged in sexual conduct, when the distribution causes physical or economic injury to the person depicted in the visual material or causes the person depicted in the visual material to suffer substantial emotional distress, and does so with the intent to harm, harass, intimidate, threaten, coerce or cause substantial emotional distress and with reckless disregard for the depicted person\u2019s lack of consent to the distribution of the visual material and reasonable expectation that the visual material would remain private, imprisonment in a house of correction for not more than 2\u00bd years, by a fine of not more than $10,000 or by both such fine and imprisonment. (3) For the purposes of this subsection, a person\u2019s consent to the creation of visual material shall not constitute consent to the distribution of the visual material. (4) This subsection shall not preclude other remedies available at law or in equity, including, but not limited to, the issuance by a court with proper jurisdiction of appropriate orders to restrain or prevent the distribution of visual material in violation of this subsection. (5) Visual material that is part of any court record arising from a prosecution under this subsection shall not be open to public inspection and, unless otherwise ordered in writing by the court or required by law, shall only be made available for inspection by court personnel to a prosecuting attorney, a defendant\u2019s attorney or the attorney\u2019s agent, a defendant or a victim connected to such prosecution; provided, however, that this paragraph shall not prohibit disclosure, inspection or other use of the visual material in the underlying prosecution or any related court proceeding in accordance with applicable evidentiary and procedural rules or court orders. (6) This subsection shall not apply to: (i) visual material involving nudity, partial nudity or sexual conduct that is voluntary or consensual and occurring (A) in a commercial setting or for commercial gain; or (B) in a place where a person does not have a reasonable expectation of privacy; (ii) distribution made in the public interest, including the reporting of unlawful conduct; (iii) criminal reporting, corrections, legal proceedings or medical treatment, including telemedicine; (iv) interactive computer services, as defined in 47 U.S.C. 230(f)(2), for content solely provided by another person; or (v) information services or telecommunications services, as defined in 47 U.S.C. 153, for content solely provided by another person. (c) Whoever, after having been convicted of an offense under this section, commits a second or subsequent offense under this section, or whoever, after having been convicted of a violation of section 43, commits an offense under this section shall be punished by imprisonment in a house of correction for not more than 2\u00bd years or in a state prison for not more than 10 years, by a fine of not more than $15,000 or by both such fine and imprisonment. SECTION 6. Chapter 272 of the General Laws is hereby amended by inserting after section 29C the following section:- Section 29D. (a) Whoever, while under the age of criminal majority, possesses or disseminates to another person any visual material in violation of section 29B or section 29C or uploads such visual material of another person to an internet website may be punished in accordance with section 58 of chapter 119. (b) Knowingly disseminating visual material by reporting the matter to a law enforcement agency, parent, foster parent, guardian or teacher, principal or other relevant school personnel, or by affording a law enforcement agency, parent, foster parent, guardian or teacher, principal or other relevant school personnel access to the visual material for purposes within the agency\u2019s or person\u2019s professional capacity shall not constitute dissemination for the purposes of this section. (c) A person who has been adjudicated under this section shall not be required to register with the sex offender registry board and no data relating to such adjudication shall be transmitted to the board pursuant to section 178E of chapter 6; provided further, that said adjudication shall be eligible for expungement and shall not be considered ineligible under section 100J of chapter 276. (d) The juvenile court department of the trial court of the commonwealth shall have exclusive jurisdiction of proceedings under this section. (e) It shall be an affirmative defense for any crime alleged under section 29A, section 29B, section 29C or this section that: (i) the visual material portrays no person other than the defendant; or (ii) the defendant was under the age of criminal majority, the visual material portrays only an individual age 16 or older and was knowingly and voluntarily created and provided to the defendant by the individual in the image and the defendant has not provided or made available the material to another person except the individual depicted who originally sent the material to the defendant. SECTION 7. This act shall take effect six months after enactment. ",
-  "actions": [
-   {
-    "Date": "2023-02-16T11:17:15.5633333",
-    "Branch": "Senate",
-    "Action": "Referred to the committee on The Judiciary",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-02-16T11:17:15.5633333",
-    "Branch": "House",
-    "Action": "House concurred",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-09-05T17:28:17.85",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 09/12/2023 from 01:00 PM-05:00 PM in A-2                              ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "Accompanied a new draft, see H4115",
-    "IsStricken": false
-   }
-  ]
- },
- "S1077": {
-  "BillNumber": "S1077",
-  "Title": "An Act improving protections relative to domestic violence",
-  "LegislationTypeName": "Bill",
-  "text_chars": 3475,
-  "text": " SECTION 1. For the purposes of this section, the following words shall have the following meanings: \u201cCoercive control,\u201d a pattern of conduct that has the purpose or effect of substantially restricting an individual\u2019s safety or autonomy through intimidation, isolation, implicit or explicit threats, or by compelling compliance. Conduct undertaken by an individual to protect themselves or their children from the risk of present or future harm does not constitute coercive control. Examples of coercive control include: (i) Isolating the other parent from friends, relatives, faith cultural, or linguistic communities, employment, education, or other supporting networks; (ii) Repeatedly humiliating or using degrading language or behaviors towards the petitioner; (iii) Controlling, regulating, or monitoring the individual\u2019s activities, communications, movements, finances, economic resources, or access to resources; (iv) Threatening to harm, abduct or kill the individual or a child or relative of the individual; (v) Threatening to publish information or make false reports to the police or the authorities; (vi) Damaging property or household goods; and (vii) Forcing the individual to take part in criminal activity; (viii) Committing or threatening to commit cruelty or abuse to animals connected to the family; (xi) using repeated court actions not warranted by existing law or good faith argument to harass, coerce, or control the other party, diminish or exhaust the other party\u2019s financial resources, or compromise th other party\u2019s employment or housing; (x) cleaning, accessing, displaying, using or wearing a firearm in an intimidating or threatening manner; and (xi) threatening deportation or to contact federal agencies based on actual or perceived immigration status, refusing to file immigration applications, refusing to sponsor, withholding essential documents needed for immigration applications, or threatening to withdraw immigration applications filed on the other parent or child\u2019s behalf or coercing or forcing the other parent to violate the terms of their immigration visa. \u201cTechnological abuse\u201d, an act or pattern of behavior intended to harm, threaten, intimidate, control, stalk, harass, impersonate, exploit, or extort, such as cyberstalking or other forms of electronic monitoring or surveillance, nonconsensual sharing of explicit images, or impersonation. Technological abuse can utilize any form of technology, including but not limited to Internet, social networking sites, computers, mobile devices, cellular telephones, apps, location tracking devices, instant messages, text messages, and other forms of technology. SECTION 2. Section 1 of chapter 209A as appearing in the 2020 Official Edition, is hereby amended, by striking the definition of \u201cabuse\u201d and inserting in place thereof the following definition:- \u201cAbuse\u201d, the occurrence of one or more of the following acts between family or household members: (a) Attempting to cause or causing physical harm; (b) Placing another in fear of imminent serious physical harm; (c) Causing another to engage involuntarily in sexual relations by force, threat or duress; (d) Coercive control (e) Technological abuse SECTION 3. The fourth sentence of section 63 of chapter 277, as appearing in the 2020 Official Edition, is hereby amended by inserting after the word \u201csections\u201d, in line 13, the following language:- 13A, 13M,. ",
-  "actions": [
-   {
-    "Date": "2023-02-16T11:17:15.5633333",
-    "Branch": "Senate",
-    "Action": "Referred to the committee on The Judiciary",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-02-16T11:17:15.5633333",
-    "Branch": "House",
-    "Action": "House concurred",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-09-05T17:28:19.74",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 09/12/2023 from 01:00 PM-05:00 PM in A-2                              ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "Accompanied a new draft, see H4115",
-    "IsStricken": false
-   }
-  ]
- },
- "S1097": {
-  "BillNumber": "S1097",
-  "Title": "An Act relative to coercive control",
-  "LegislationTypeName": "Bill",
-  "text_chars": 1344,
-  "text": " Chapter 209A of the general laws, as so appearing, is hereby amended in section 1 by striking the definition of \u201cAbuse\u201d and replacing it with the following:- ''Abuse'', the occurrence of one or more of the following acts between family, intimate partners, or household members: (a) attempting to cause or causing physical harm; (b) placing another in fear of imminent serious physical harm; (c) causing another to engage involuntarily in sexual relations by force, threat or duress; (d) coercive control, which is a pattern of behavior that in purpose or effect unreasonably interferes with a person\u2019s free will and personal liberty. Examples of coercive control include, but are not limited to, unreasonably engaging in any of the following: (1) isolating the other party from friends, relatives, or other sources of support; (2) depriving the other party of basic necessities; (3) controlling, regulating, or monitoring the other party\u2019s movements, communications, daily behavior, finances, economic resources, or access to services; (4) compelling the other party by force, threat of force, or intimidation, including threats based on actual or suspected immigration status, to engage in conduct from which the other party has a right to abstain or to abstain from conduct in which the other party has a right to engage. ",
-  "actions": [
-   {
-    "Date": "2023-02-16T11:17:15.5633333",
-    "Branch": "Senate",
-    "Action": "Referred to the committee on The Judiciary",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-02-16T11:17:15.5633333",
-    "Branch": "House",
-    "Action": "House concurred",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-09-05T17:28:20.99",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 09/12/2023 from 01:00 PM-05:00 PM in A-2                              ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "Accompanied a new draft, see H4115",
-    "IsStricken": false
-   }
-  ]
- },
- "S1139": {
-  "BillNumber": "S1139",
-  "Title": "An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images",
-  "LegislationTypeName": "Bill",
-  "text_chars": 18168,
-  "text": " SECTION 1. Chapter 18C of the General Laws is hereby amended by adding the following section:- Section 15. The office of the child advocate, in consultation with the department of elementary and secondary education, the department of youth services and the attorney general, shall develop and implement a comprehensive educational diversion program. The program shall be designed to provide adolescents with information about: (i) the legal consequences of and the penalties for transmitting visual material in violation of section 43A of chapter 265 or section 29D of chapter 272, also known as \u201csexting\u201d, or posting such visual material online, including an explanation of other applicable federal and state law; (ii) the non-legal consequences of sexting or posting such visual material online, including, but not limited to, the effect on relationships, loss of educational and employment opportunities and being barred or removed from school programs and extracurricular activities; (iii) how the unique characteristics of the internet can produce long-term and unforeseen consequences for sexting and posting such visual material online, including the impact on healthy relationships and the risk of trafficking; and (iv) the connection between bullying and cyber-bulling, sexual assault and dating violence and juveniles sexting or posting such visual material online. The child advocate shall consult the best available research on effective educational diversion programs, including programs on sexting, in designing the curriculum and shall regularly review the program design and make updates to improve efficacy. The child advocate shall solicit public comment prior to the development of the curriculum or the implementation of any significant changes to the curriculum or program. The child advocate may establish the program, or any aspect of the program, in partnership with a state institution, state agency or a public or private institution of higher education. The educational diversion program shall be used as part of any diversion program required pursuant to section 39N of chapter 119 and shall be made available to school districts for use in educational programs on the topic. Law enforcement, clerk magistrates and district attorneys may refer youth alleged to be a juvenile delinquent by reason of violating section 29B, 29C or 29D of chapter 272 to the educational diversion program. SECTION 2. Chapter 71 of the General Laws is hereby amended by adding the following section:- Section 99. The department shall encourage school districts to: (i) implement instruction in media literacy skills at all grade levels, including life skills programming, and in any of the core subjects under section 1D of chapter 69 or other subjects, to equip students with the knowledge and skills for accessing, analyzing, evaluating and creating all types of media; and (ii) use the content of the educational diversion program established pursuant to section 15 of chapter 18C for educational programs on the topic of transmitting visual material in violation of section 43A of chapter 265 or section 29D of chapter 272 or posting such visual material online. SECTION 3. Chapter 119 of the General Laws is hereby amended by inserting after section 39M the following section:- Section 39N. (a) If a child is alleged to be a juvenile delinquent by reason of violating sections 29B, 29C or 29D of chapter 272, the court shall divert the child from further court processing prior to arraignment unless the court finds that failure to proceed with the arraignment would result in the substantial likelihood of serious harm to a member of the community. If arraignment has already occurred, the court may, if the child consents, stay the proceedings and divert the child in the same manner as a child diverted prior to arraignment under this section. The court shall direct a child diverted under this section to enter and complete the educational diversion program established pursuant to section 15 of chapter 18C. (b) A child who is alleged to be a juvenile delinquent by reason of violating sections 29B, 29C or 29D of chapter 272 may, upon the request of the child, undergo an assessment prior to arraignment to enable the judge to consider the suitability of the child for diversion to the educational diversion program established pursuant to section 15 of chapter 18C. If a child chooses to request a continuance for the purpose of such an assessment, the child shall notify the judge prior to arraignment. Upon receipt of such notification, the judge may grant a 14\u2013day continuance. The department of probation may conduct such assessment prior to arraignment to assist the judge in making that decision. If the judge determines it is appropriate, a determination of eligibility by the personnel of the educational diversion program may substitute for an assessment. If a case is continued pursuant to this subsection, the child shall not be arraigned, and an entry shall not be made into the criminal offender record information system, until a judge issues an order to resume the ordinary processing of a delinquency proceeding. A judge may order diversion without first ordering an assessment in any case in which the court finds that sufficient information is available without an assessment; provided, however, that the judge shall provide an opportunity for both the commonwealth and counsel for the child to be heard regarding diversion of the child. (c)(1) After the completion of the assessment, the probation officer or the director of the educational diversion program established pursuant to section 15 of chapter 18C shall submit to the court and to counsel for the child a recommendation as to whether the child would benefit from diversion. Upon receipt of the recommendation, the judge shall provide an opportunity for both the commonwealth and counsel for the child to be heard regarding diversion of the child. The judge shall then make a final determination as to the eligibility of the child for diversion. The proceedings of a child who is found eligible for diversion shall be stayed for 90 days unless the judge determines that the interest of justice would best be served by a lesser period of time or unless extended under subsection (f). (2) A stay of proceedings shall not be granted under this section unless the child consents in writing to the terms and conditions of the stay of proceedings and, after consultation with legal counsel, knowingly executes a waiver of the child's right to a speedy trial on a form approved by the chief justice of the juvenile court department of the trial court of the commonwealth. Consent shall be given only upon the advice of counsel. (3) The following shall not be admissible against the child in any proceedings: (i) a request for assessment; (ii) a decision by the child not to enter the educational diversion program; (iii) a determination by the department of probation or by the educational diversion program that the child would not benefit from diversion; (iv) any statement made by the child or the child's family during the course of assessment; and (v) circumstances regarding the child\u2019s failure to complete the educational diversion program. Any consent by a child to a stay of proceedings or any act done or statement made in fulfillment of the terms and conditions of a stay of proceedings shall not be admissible as an admission, implied or otherwise, against the child if the stay of proceedings was terminated and proceedings were resumed on the original complaint. A statement or other disclosure or a record thereof made by a child during the course of an assessment or during the stay of proceedings shall not be disclosed at any time to a commonwealth or other law enforcement officer in connection with the investigation or prosecution of any charges against the child or a codefendant. (4) If a child is found eligible for diversion pursuant to this section, the child shall not be arraigned and an entry shall not be made into the criminal offender record information system unless a judge issues an order to resume the ordinary processing of a delinquency proceeding. If a child is found eligible pursuant to this section, the eligibility shall not be considered an issuance of a criminal complaint for the purposes of section 37H1/2 of chapter 71. (d) A district attorney may divert any child for whom there is probable cause to issue a complaint, either before or after the assessment procedure set forth in subsection (b), with or without the permission of the court. A district attorney who diverts a case pursuant to this subsection may request a report from the educational diversion program established pursuant to section 15 of chapter 18C regarding the child's status in and completion of the program. (e) If during the stay of proceedings a child is charged with a subsequent offense under sections 29B, 29C or 29D of chapter 272, a judge in the court that entered the stay of proceedings may issue such process as is necessary to bring the child before the court. When the child is brought before the court, the judge shall afford the child an opportunity to be heard. If the judge finds probable cause to believe that the child has committed such a subsequent offense, the judge may order that the stay of proceedings be terminated and that the commonwealth be permitted to proceed on the original complaint as provided by law. (f)(1) Upon the expiration of the initial 90\u2013day stay of proceedings, the probation officer or the director of the educational diversion program, established pursuant to section 15 of chapter 18C, shall submit to the court a report indicating the successful completion of diversion by the child or recommending an extension of the stay of proceedings for not more than an additional 90 days so that the child may complete the diversion program successfully. (2) If the probation officer or the director of the educational diversion program, established pursuant to section 15 of chapter 18C, indicates the successful completion of diversion by a child, the judge shall dismiss the original complaint pending against the child. If the report recommends an extension of the stay of proceedings, the judge may, on the basis of the report and any other relevant evidence, take such action as the judge deems appropriate, including the dismissal of the complaint, the granting of an extension of the stay of proceedings or the resumption of proceedings. (3) If the conditions of diversion have not been met, the child's attorney shall be notified prior to the termination of the child from diversion and the judge may grant an extension to the stay of proceedings if the child provides good cause for failing to comply with the conditions of diversion. (4) If the judge dismisses a complaint under this subsection, the court shall, unless the child objects, enter an order directing expungement of any records of the complaint and related proceedings maintained by the clerk, the court, the department of criminal justice information services and the court activity record index. SECTION 4. Section 43A of chapter 265 of the General Laws, as appearing in the 2020 Official Edition, is hereby amended by striking out, in line 7, the figure \u201c$1,000\u201d and inserting in place thereof the following figure:- $5,000. SECTION 5. Said section 43A of said chapter 265, as so appearing, is hereby further amended by striking out subsection (b) and inserting in place thereof the following 2 subsections:- (b)(1) As used in this subsection the following words shall have the following meanings unless the context clearly requires otherwise: \u201cDistribute\u201d, give, sell, transfer, disseminate, publish, upload, circulate, broadcast or engage in any other form of transmission, electronic or otherwise. \u201cIdentifiable\u201d, identifiable from the visual material itself or information offered in connection with the visual material. \u201cPartially nude\u201d, the exposure of fully uncovered buttocks or all or part of the human genitals or the female nipple-areolar complex. \u201cPublish\u201d, (i) disseminate with the intent that an image be made available by any means to any person or other legal entity; (ii) disseminate with the intent that an image be sold by another person or legal entity; (iii) post, present, display, exhibit, circulate, advertise or allow access by any means, so as to make an image available to the public; or (iii) disseminate with the intent that an image be posted, presented, displayed, exhibited, circulated, advertised or made accessible by any means and to make the image available to the public. \u201cVisual material\u201d, any photograph, film, video or digital image or recording, whether produced by electronic, mechanical or other means or any part, representation or reproduction thereof. (2) Whoever knowingly distributes visual material depicting another person, either identifiable in the visual material or identified by the distributing person, who is nude, partially nude or engaged in sexual conduct, when the distribution causes physical or economic injury to the person depicted in the visual material or causes the person depicted in the visual material to suffer substantial emotional distress, and does so with the intent to harm, harass, intimidate, threaten, coerce or cause substantial emotional distress and with reckless disregard for the depicted person\u2019s lack of consent to the distribution of the visual material and reasonable expectation that the visual material would remain private, imprisonment in a house of correction for not more than 2\u00bd years, by a fine of not more than $10,000 or by both such fine and imprisonment. (3) For the purposes of this subsection, a person\u2019s consent to the creation of visual material shall not constitute consent to the distribution of the visual material. (4) This subsection shall not preclude other remedies available at law or in equity, including, but not limited to, the issuance by a court with proper jurisdiction of appropriate orders to restrain or prevent the distribution of visual material in violation of this subsection. (5) Visual material that is part of any court record arising from a prosecution under this subsection shall not be open to public inspection and, unless otherwise ordered in writing by the court or required by law, shall only be made available for inspection by court personnel to a prosecuting attorney, a defendant\u2019s attorney or the attorney\u2019s agent, a defendant or a victim connected to such prosecution; provided, however, that this paragraph shall not prohibit disclosure, inspection or other use of the visual material in the underlying prosecution or any related court proceeding in accordance with applicable evidentiary and procedural rules or court orders. (6) This subsection shall not apply to: (i) visual material involving nudity, partial nudity or sexual conduct that is voluntary or consensual and occurring (A) in a commercial setting or for commercial gain; or (B) in a place where a person does not have a reasonable expectation of privacy; (ii) distribution made in the public interest, including the reporting of unlawful conduct; (iii) criminal reporting, corrections, legal proceedings or medical treatment, including telemedicine; (iv) interactive computer services, as defined in 47 U.S.C. 230(f)(2), for content solely provided by another person; or (v) information services or telecommunications services, as defined in 47 U.S.C. 153, for content solely provided by another person. (c) Whoever, after having been convicted of an offense under this section, commits a second or subsequent offense under this section, or whoever, after having been convicted of a violation of section 43, commits an offense under this section shall be punished by imprisonment in a house of correction for not more than 2\u00bd years or in a state prison for not more than 10 years, by a fine of not more than $15,000 or by both such fine and imprisonment. SECTION 6. Chapter 272 of the General Laws is hereby amended by inserting after section 29C the following section:- Section 29D. (a) Whoever, while under the age of criminal majority, possesses or disseminates to another person any visual material in violation of section 29B or section 29C or uploads such visual material of another person to an internet website may be punished in accordance with section 58 of chapter 119. (b) Knowingly disseminating visual material by reporting the matter to a law enforcement agency, parent, foster parent, guardian or teacher, principal or other relevant school personnel, or by affording a law enforcement agency, parent, foster parent, guardian or teacher, principal or other relevant school personnel access to the visual material for purposes within the agency\u2019s or person\u2019s professional capacity shall not constitute dissemination for the purposes of this section. (c) A person who has been adjudicated under this section shall not be required to register with the sex offender registry board and no data relating to such adjudication shall be transmitted to the board pursuant to section 178E of chapter 6; provided further, that said adjudication shall be eligible for expungement and shall not be considered ineligible under section 100J of chapter 276. (d) The juvenile court department of the trial court of the commonwealth shall have exclusive jurisdiction of proceedings under this section. (e) It shall be an affirmative defense for any crime alleged under section 29A, section 29B, section 29C or this section that: (i) the visual material portrays no person other than the defendant; or (ii) the defendant was under the age of criminal majority, the visual material portrays only an individual age 16 or older and was knowingly and voluntarily created and provided to the defendant by the individual in the image and the defendant has not provided or made available the material to another person except the individual depicted who originally sent the material to the defendant. SECTION 7. This act shall take effect one year after enactment. ",
-  "actions": [
-   {
-    "Date": "2023-02-16T11:17:15.5633333",
-    "Branch": "Senate",
-    "Action": "Referred to the committee on The Judiciary",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-02-16T11:17:15.5633333",
-    "Branch": "House",
-    "Action": "House concurred",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-09-05T17:28:22.5066667",
-    "Branch": "Joint",
-    "Action": "Hearing scheduled for 09/12/2023 from 01:00 PM-05:00 PM in A-2                              ",
-    "IsStricken": false
-   },
-   {
-    "Date": "2023-10-10T11:12:48.67",
-    "Branch": "House",
-    "Action": "Accompanied a new draft, see H4115",
+    "Action": "No further action taken",
     "IsStricken": false
    }
   ]

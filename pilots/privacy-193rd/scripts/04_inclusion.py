@@ -76,7 +76,11 @@ OVERRIDES: dict[str, tuple[str, str, str]] = {
     "H3831": ("include", "IN-TEXT", "municipal ISP data-minimization duty"),
     "H1986": ("include", "IN-TEXT", "children's social media commission incl. data practices; marginal"),
     "H3863": ("include", "IN-TEXT", "firearm-license personal info release restriction"),
-    "H3217": ("include", "IN-TEXT", "energy usage data personal-data restriction; marginal"),
+    # H3217 reclassified 2026-08-05 (second-pass review): its two privacy
+    # clauses are program-incident components of an energy-program bill.
+    # Program-incident data provisions are excluded SYMMETRICALLY (filed and
+    # enacted sides) per the codebook's program-incident rule.
+    "H3217": ("exclude", "EX-PROGRAM-INCIDENT", "energy-scorecard bill; privacy clauses are program-incident"),
     "H1728": ("include", "IN-TITLE", "facial recognition commission recommendations"),
     "H4359": ("include", "IN-TITLE", "facial recognition; same subject as H1728"),
     "S927": ("include", "IN-TITLE", "facial recognition companion"),
@@ -181,6 +185,20 @@ ADDITIONS = {
     "H4115": ("An Act to prevent abuse and exploitation", "IN-ENACTED-FEEDBACK", "Judiciary redraft carrying the NDII offense, SECTION 6"),
     "H4241": ("An Act to prevent abuse and exploitation", "IN-ENACTED-FEEDBACK", "House-engrossed vehicle of the NDII offense"),
     "H4744": ("An Act to prevent abuse and exploitation", "IN-ENACTED-FEEDBACK", "conference vehicle; enacted as 2024 c.118 (NDII at s.6)"),
+    # Eviction-record sealing (HOMES) lineage: enacted as 2024 c.150 ss.28,52
+    # inside the Affordable Homes Act; filed parents found by the c.150
+    # adjudication (see data/enacted_adjudication.csv).
+    "H1690": ("An Act promoting housing opportunity and mobility through eviction sealing (HOMES)", "IN-ENACTED-FEEDBACK", "eviction-record sealing regime"),
+    "S956": ("An Act promoting housing opportunity and mobility through eviction sealing (HOMES)", "IN-ENACTED-FEEDBACK", "companion of H1690"),
+    "H4356": ("An Act promoting housing opportunity and mobility through eviction sealing (HOMES)", "IN-ENACTED-FEEDBACK", "Judiciary redraft of the HOMES bills"),
+    # Notary personal-information restriction: enacted as 2023 c.2 s.33
+    # (new c.222 s.29); filed companions carry the identical restriction.
+    "H1525": ("An Act modernizing notary services", "IN-ENACTED-FEEDBACK", "notary personal-info use/sale restriction"),
+    "S943": ("An Act modernizing notary services", "IN-ENACTED-FEEDBACK", "companion of H1525"),
+    # Demographic-data collection standard: enacted as 2023 c.28 s.7 (c.6A s.109)
+    "H3003": ("An Act ensuring equitable representation in the Commonwealth", "IN-ENACTED-FEEDBACK", "agency demographic-data collection with PII confidentiality"),
+    # SFI personal-info withholding: enacted (expanded) as 2024 c.248 s.27
+    "H2991": ("An Act relative to access to statements of financial interest", "IN-ENACTED-FEEDBACK", "SFI home-address withholding; enacted version broader"),
 }
 
 

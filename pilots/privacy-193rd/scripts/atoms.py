@@ -120,8 +120,8 @@ PROPS = {
     # --- Location shield (H357/S148 c.93L; absorbed as c.93N in H4632/S2770) ---
     "P-121": ("location-consent-regime", "location", "Device location information collectible only for permissible purposes with per-purpose opt-in consent and expiry"),
     "P-122": ("location-targeted-ad-optout", "location", "Opt-out of location processing for targeted advertising"),
-    "P-123": ("location-minimization", "location", "No more precise, longer-retained, or further-inferred location data than the purpose requires"),
-    "P-124": ("location-sale-disclosure-ban", "location", "Ban on sale/rent/trade/lease of location information and unnecessary third-party disclosure"),
+    # P-123 and P-124 retired 2026-08-05: each bundled separately severable
+    # clauses (second-pass review finding 4); split into P-281..P-285.
     "P-125": ("location-govt-access-warrant-gate", "location", "No disclosure of location information to government absent warrant, exigency, legal mandate, or subject request"),
     "P-126": ("location-govt-monetization-ban", "location", "Government entities may not monetize location information"),
     "P-127": ("location-privacy-policy-duty", "location", "Mandatory Location Privacy Policy with enumerated contents and change re-consent"),
@@ -205,8 +205,8 @@ PROPS = {
     "P-214": ("vehicle-telematics-le-warrant", "location", "Warrant requirement extended to OEM/telematics/aftermarket GPS vehicle data held by private parties"),
     "P-215": ("vehicle-tracking-device-criminal-ban", "location", "Criminal ban on nonconsensual installation of tracking devices on motor vehicles"),
     # --- Commercial data practices ---
-    "P-221": ("scorecard-personal-data-content-limit", "commercial", "Energy scorecards may not contain personal data beyond address and rating"),
-    "P-222": ("scorecard-nondisclosure-consent", "commercial", "Energy scorecards not disclosable without owner consent; public-records exempt"),
+    # P-221/P-222 retired 2026-08-05: H3217 excluded under the symmetric
+    # program-incident rule (see codebook revision log).
     "P-223": ("trigger-lead-solicitation-93a", "commercial", "Mortgage trigger-lead solicitation practices declared unfair/deceptive under c.93A"),
     "P-224": ("billing-data-pass-prohibition", "commercial", "Seller may not pass consumer billing information to another seller without affirmative consent"),
     "P-225": ("financial-institution-nondisclosure", "commercial", "Financial institutions barred from disclosing customer financial/personal information without authorization"),
@@ -249,9 +249,10 @@ PROPS = {
     # --- NDII / abuse-prevention lineage (H1745/S1012/S1139 -> H4115 ->
     # H4241 -> H4744 -> 2024 c.118), admitted after the enacted-vehicle
     # feedback loop and the boundary revision recorded in the codebook ---
-    "P-266": ("ndii-distribution-ban", "interpersonal", "Criminal offense to distribute (or threaten to distribute) identifiable nude or sexual visual material without consent, with intent to harm or reckless disregard; enacted version adds deepfake 'digitization' coverage"),
-    # --- S2539 delegated data-governance rulemaking (review finding 8) ---
-    "P-267": ("ai-training-data-consent-rulemaking", "comprehensive", "Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training, plus deletion or de-identification on request"),
+    "P-266": ("ndii-distribution-ban", "interpersonal", "Criminal offense to distribute identifiable nude or sexual visual material without consent, with intent to harm/harass/threaten or reckless disregard; enacted version adds deepfake 'digitization' coverage (threat appears as an intent element, not a standalone offense; repeat-offender penalty attaches)"),
+    "P-280": ("ndii-court-record-confidentiality", "govt-records", "Visual material in court records of an NDII prosecution is closed to public inspection; inspection limited to enumerated persons absent court order"),
+    # P-267 retired 2026-08-05: bundled three severable rulemaking mandates
+    # and misstated the deletion trigger; split into P-287..P-289.
     # --- splits of retired P-011 (H83/S25 lineage individual rights) ---
     "P-271": ("comp-right-access", "comprehensive", "Right to access covered data collected about the individual (24-month lookback as filed)"),
     "P-272": ("comp-right-correct", "comprehensive", "Right to correct verifiable substantial inaccuracies in covered data"),
@@ -263,6 +264,25 @@ PROPS = {
     # --- splits of retired P-244 (consumer health data rights) ---
     "P-277": ("chd-right-know", "health", "Consumer right to know what consumer health data is collected and shared"),
     "P-278": ("chd-right-delete", "health", "Consumer right to 30-day deletion of consumer health data with third-party flow-down"),
+    # --- splits of retired P-123/P-124 (location minimization and sale/disclosure) ---
+    "P-281": ("location-precision-limit", "location", "No collecting more precise location information than the permissible purpose requires"),
+    "P-282": ("location-retention-limit", "location", "No retaining location information longer than the permissible purpose requires"),
+    "P-283": ("location-inference-limit", "location", "No deriving or inferring beyond the permissible purpose from location information"),
+    "P-284": ("location-sale-ban", "location", "Ban on selling, renting, trading, gifting, or leasing location information to third parties"),
+    "P-285": ("location-thirdparty-disclosure-limit", "location", "No third-party disclosure of location information unless necessary to the purpose or requested"),
+    "P-286": ("location-govt-disclosure-notice-rulemaking", "location", "Directs AG regulations requiring notice to the individual of any government disclosure of care-location information"),
+    # --- splits of retired P-267 (S2539 AI-training-data rulemaking) ---
+    "P-287": ("ai-training-data-security-rulemaking", "comprehensive", "Directs regulations requiring security measures for individuals' data used in AI training"),
+    "P-288": ("ai-training-data-consent-rulemaking", "comprehensive", "Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training"),
+    "P-289": ("ai-training-data-deletion-rulemaking", "comprehensive", "Directs regulations requiring deletion or de-identification of AI training data when no longer needed"),
+    # --- eviction-record sealing (HOMES lineage; enacted 2024 c.150 ss.28,52) ---
+    "P-290": ("eviction-record-sealing", "govt-records", "Petition-based sealing of eviction court records with tiered waiting periods; sealed records nondisclosable, with consumer-reporting-agency removal duties attached"),
+    # --- notary personal information (H1525/S943; enacted 2023 c.2 s.33) ---
+    "P-291": ("notary-personal-info-use-restriction", "commercial", "Notaries may not use, sell, or transfer identifying personal information acquired in a notarial act except for enumerated purposes"),
+    # --- demographic data standard (H3003; enacted 2023 c.28 s.7, c.6A s.109) ---
+    "P-292": ("agency-demographic-data-standard", "govt-data", "Government agencies collecting race/ethnicity data must use separate self-identified categories, keep personal identifying information confidential, and publish only aggregated data"),
+    # --- SFI withholding (H2991; enacted expanded at 2024 c.248 s.27) ---
+    "P-294": ("sfi-personal-info-withholding", "govt-records", "Ethics commission must withhold filers' personal contact information (home address; enacted version adds email, phone, family member identity) from public statements of financial interests"),
 }
 
 # Retired proposition IDs (never reused). Kept for the audit trail.
@@ -270,7 +290,12 @@ RETIRED = {
     "P-011": "split into P-271..P-274 (severability, review finding 4)",
     "P-036": "split into P-275/P-276 (severability consistency)",
     "P-244": "split into P-277/P-278 (severability consistency)",
-    "P-265": "H4844 re-atomized onto P-121/P-123/P-124/P-125 as narrowed variants (review finding 3)",
+    "P-265": "H4844 re-atomized onto location-family propositions as narrowed variants (review finding 3)",
+    "P-123": "split into P-281/P-282/P-283 (second-pass review finding 4)",
+    "P-124": "split into P-284/P-285 (second-pass review finding 4)",
+    "P-267": "split into P-287/P-288/P-289 with corrected descriptions (second-pass review finding 6)",
+    "P-221": "H3217 excluded under the symmetric program-incident rule",
+    "P-222": "H3217 excluded under the symmetric program-incident rule",
 }
 
 # (bill, prop_id, section_cite, note)
@@ -328,8 +353,11 @@ _C93M_REDRAFT = [  # H4632/S2770 redraft
     ("P-025", "c.93M s.12(i)", ""),
     ("P-121", "c.93N ss.1,2(a)-(b),(d)", "variant of H357/S148 chapter: softened AG regs, altered retroactivity"),
     ("P-122", "c.93N s.2(c)", ""),
-    ("P-123", "c.93N s.2(e)(1),(2),(4)", ""),
-    ("P-124", "c.93N s.2(e)(3),(5)", "retroactive application of sale ban"),
+    ("P-281", "c.93N s.2(e)(1)", ""),
+    ("P-282", "c.93N s.2(e)(2)", ""),
+    ("P-283", "c.93N s.2(e)(4)", ""),
+    ("P-284", "c.93N s.2(e)(3)", "retroactive application"),
+    ("P-285", "c.93N s.2(e)(5)", "retroactive application"),
     ("P-125", "c.93N s.2(f)", "weaker: legal-mandate exception broadened to court orders/subpoenas/CIDs"),
     ("P-126", "c.93N s.2(i)", ""),
     ("P-127", "c.93N s.2(g)-(h)", ""),
@@ -448,8 +476,11 @@ edges("H281",
 _LOCATION = [
     ("P-121", "c.93L ss.1,2(a),(b),(d),6; SECTIONS 2-3", ""),
     ("P-122", "c.93L s.2(c)", ""),
-    ("P-123", "c.93L s.2(e)(1),(2),(4)", ""),
-    ("P-124", "c.93L s.2(e)(3),(5)", ""),
+    ("P-281", "c.93L s.2(e)(1)", ""),
+    ("P-282", "c.93L s.2(e)(2)", ""),
+    ("P-283", "c.93L s.2(e)(4)", ""),
+    ("P-284", "c.93L s.2(e)(3)", ""),
+    ("P-285", "c.93L s.2(e)(5)", ""),
     ("P-125", "c.93L s.2(f)", ""),
     ("P-126", "c.93L s.2(i)", ""),
     ("P-127", "c.93L s.2(g),(h)", ""),
@@ -582,10 +613,6 @@ edges("H3404",
 edges("H1572", ("P-215", "c.265 s.43B", "criminal-harassment penalties by reference; child-as-operator parent exception"))
 edges("H1809", ("P-215", "c.272 s.108", "variant: standalone penalty; child-as-occupant exception with restraining-order disqualifier; dealer and fleet carve-outs"))
 
-edges("H3217",
-    ("P-221", "SECTION 6", ""),
-    ("P-222", "SECTION 9 (c.25A s.17(e))", ""),
-)
 edges("H1049", ("P-223", "c.183 s.70 (SECTION 1)", ""))
 edges("H326",
     ("P-224", "c.93 s.116(f)", ""),
@@ -636,32 +663,59 @@ edges("S1368",
 )
 # H4844 (official text: data/h4844_text.txt, extracted from the cached
 # malegislature.gov PDF): a care-location-scoped version of the location
-# shield. Weaker-scope variants of the same mechanisms per the codebook rule.
+# shield. Weaker-scope variants of the same mechanisms per the codebook rule;
+# section 4's rulemaking directives are recorded as rulemaking variants of
+# the corresponding operative duties.
 _H4844_NOTE = "narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action)"
 edges("H4844",
-    ("P-121", "c.93M ss.1,2(a); SECTIONS 2-3", _H4844_NOTE),
-    ("P-123", "c.93M s.2(b)-(d) (precision, retention, inference minimization)", _H4844_NOTE),
-    ("P-124", "c.93M s.2(e) (sale/rent/trade/gift/lease ban; third-party disclosure restriction)", _H4844_NOTE),
-    ("P-125", "c.93M s.2(f) (government warrant gate)", _H4844_NOTE),
+    ("P-121", "c.93M ss.1,2(a); s.4(iii) consent rulemaking; bill SECTIONS 2-3", _H4844_NOTE),
+    ("P-281", "c.93M s.2(b)(i)", _H4844_NOTE),
+    ("P-282", "c.93M s.2(b)(ii); s.4(iv) destruction rulemaking", _H4844_NOTE),
+    ("P-283", "c.93M s.2(b)(iv)", _H4844_NOTE),
+    ("P-284", "c.93M s.2(b)(iii)", _H4844_NOTE + "; adds 'gift' to the sale ban"),
+    ("P-285", "c.93M s.2(b)(v)", _H4844_NOTE),
+    ("P-125", "c.93M s.2(c)", _H4844_NOTE),
+    ("P-127", "c.93M s.2(a)(i); s.4(i) policy-content rulemaking", _H4844_NOTE),
+    ("P-122", "c.93M s.4(ii)", _H4844_NOTE + "; rulemaking variant (AG to set targeted-ad limits)"),
+    ("P-129", "c.93M s.4(v)", _H4844_NOTE + "; rulemaking variant (AG to prohibit adverse actions)"),
+    ("P-286", "c.93M s.4(vi)", "H4844 only"),
 )
 
 # NDII lineage: standalone filings, Judiciary redraft, engrossed and
 # conference vehicles. H4241/H4744 have no API text; the enacted text is
 # 2024 c.118 (https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter118).
 for b in ("H1745", "S1012", "S1139"):
-    edges(b, ("P-266", "SECTION 5 (c.265 s.43A(b) rewrite)",
-              "as-filed version; no digitization (deepfake) coverage"))
-edges("H4115", ("P-266", "SECTION 6 (c.265 s.43A(b) rewrite)", "Judiciary redraft; no digitization coverage"))
-edges("H4241", ("P-266", "engrossed text of H4115 SECTION 6 lineage (API text empty; see c.118 s.6)", "House-engrossed vehicle"))
-edges("H4744", ("P-266", "2024 c.118 s.6 (c.265 s.43A(b)-(c))", "ENACTED; conference text adds 'digitization' (deepfake) coverage"))
+    edges(b,
+        ("P-266", "SECTION 5 (c.265 s.43A(b) rewrite)", "as-filed version; no digitization (deepfake) coverage"),
+        ("P-280", "SECTION 5 (c.265 s.43A(b)(5))", ""))
+edges("H4115",
+    ("P-266", "SECTION 6 (c.265 s.43A(b) rewrite)", "Judiciary redraft; no digitization coverage"),
+    ("P-280", "SECTION 6 (c.265 s.43A(b)(5))", ""))
+edges("H4241",
+    ("P-266", "engrossed text of H4115 SECTION 6 lineage (API text empty; see c.118 s.6)", "House-engrossed vehicle"),
+    ("P-280", "engrossed text (see c.118 s.6, s.43A(b)(5))", ""))
+edges("H4744",
+    ("P-266", "2024 c.118 s.6 (c.265 s.43A(b))", "ENACTED; conference text adds 'digitization'; (c) repeat-offender penalty attaches"),
+    ("P-280", "2024 c.118 s.6 (c.265 s.43A(b)(5))", "ENACTED"))
 edges("S2539",
-    ("P-267", "SECTION 1 (c.7D s.17(f)(iv))", "delegated rulemaking over personal data in AI training; boundary call recorded in codebook"))
+    ("P-287", "SECTION 1 (c.7D s.17(f)(iv))", "delegated rulemaking; boundary call in codebook"),
+    ("P-288", "SECTION 1 (c.7D s.17(f)(iv))", "delegated rulemaking; boundary call in codebook"),
+    ("P-289", "SECTION 1 (c.7D s.17(f)(iv))", "deletion/de-identification when data no longer needed"))
+
+# HOMES eviction-record sealing lineage (enacted at 2024 c.150 ss.28,52:
+# https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter150)
+for b in ("H1690", "S956"):
+    edges(b, ("P-290", "new c.239 s.16; c.93 s.52 CRA amendment", "identical companion; CRA duties attach per grain rule"))
+edges("H4356", ("P-290", "new c.239 s.16; c.93 s.52 CRA amendment", "Judiciary redraft of H1690/S956"))
+for b in ("H1525", "S943"):
+    edges(b, ("P-291", "new c.222 s.29 (within the notary-modernization act)", "identical companion"))
+edges("H3003", ("P-292", "sole section (c.6A demographic data)", "enacted as 2023 c.28 s.7 with implementation dates"))
+edges("H2991", ("P-294", "sole section (SFI home-address restriction)", "weaker than enacted 2024 c.248 s.27, which adds email/phone/family"))
 
 EDGES = E
 
 OUT_OF_DOMAIN = {
     "S1896": "Municipal Broadband Fund (c.65D s.4; c.29 s.2RRRRR): broadband finance",
-    "H3217": "Energy scorecard program design and funding (SECTIONS 1-5, 7-8, 10-16)",
     "H326": "Trial-offer/negative-option disclosure and consent regime (c.93 s.116(a)-(e),(g)): consumer protection without a data-handling rule",
     "H3831": "Municipal broadband build-out, net neutrality, anti-censorship, governance (c.7D ss.12, 13(a)-(d),(f), 14(1)(i)-(k), 14(2))",
     "S2539": "State cybersecurity code, incident response, AI/ADM board, robotics, funds (SECTIONS 1-4, 16, 18-22); SECTION 1 c.7D s.17(f)(iv) AI training-data consent rulemaking flagged borderline",
@@ -675,3 +729,99 @@ OUT_OF_DOMAIN = {
     "H4241": "Same as H4115 (engrossed vehicle)",
     "H4744": "2024 c.118 out-of-domain content: coercive-control definitions (abuse-order law, incl. threatening to publish sensitive personal information as an abuse element), minor-sexting diversion (c.119 s.39N), penalty increases, related procedural sections",
 }
+
+# Verbatim quotes (from the cached official texts, as recorded in the
+# memo/atomization/ notes and data/h4844_text.txt) grounding the cross-bill
+# identity claims that rest on analytic judgment, plus the comparator
+# carriers' quotes, so the verification queue can show them side by side.
+# (bill, prop_id) -> quote
+QUOTES = {
+    ("H1555", "P-031"): "adequate, relevant and limited to what is necessary in relation to the purposes",
+    ("H60", "P-031"): "adequate, relevant and limited to what is reasonably necessary in relation to the purposes",
+    ("H1555", "P-032"): "Processing shall be legal only if and to the extent that at least 1 of the following applies",
+    ("H60", "P-032"): "Processing shall be lawful and in compliance with this chapter only if",
+    ("H1555", "P-033"): "the controller shall, at the time when personal data is obtained, provide the data subject with all of the following",
+    ("H60", "P-033"): "a reasonably accessible, clear and meaningful privacy notice",
+    ("H1555", "P-035"): "Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs",
+    ("H60", "P-035"): "shall not otherwise process an individual's sensitive information without first obtaining the consent",
+    ("H1555", "P-037"): "the erasure of personal data concerning the data subject without undue delay",
+    ("H60", "P-037"): "the right to request that a controller delete any personal information processed",
+    ("H1555", "P-038"): "the rectification of inaccurate personal data concerning the data subject",
+    ("H60", "P-038"): "correct inaccurate personal information processed about the individual",
+    ("H1555", "P-041"): "Processing by a processor shall be governed by a contract or other legal act",
+    ("H60", "P-041"): "A contract between a controller and a processor shall govern the processor's procedures",
+    ("H1555", "P-043"): "an assessment of the impact of the envisaged processing operations on the protection of personal data",
+    ("H60", "P-043"): "carry out and document a risk assessment of the impact",
+    ("H1555", "P-275"): "confirmation as to whether or not personal data concerning the data subject is being processed",
+    ("H60", "P-275"): "the specific pieces of personal information that the controller has processed about the individual",
+    ("H1555", "P-276"): "in a structured, commonly used and machine-readable format",
+    ("H60", "P-276"): "the specific pieces of personal information ... in a portable ... format",
+    ("H1572", "P-215"): "installs, conceals, or otherwise places for use an electronic mobile tracking device in or on a motor vehicle without the consent",
+    ("H1809", "P-215"): "knowingly installs, conceals or otherwise places or uses an electronic tracking device in or on a motor vehicle without the consent",
+    ("H281", "P-091"): "biometric indicator of the consumer used to gain access to financial accounts of the consumer",
+    ("H76", "P-091"): "data generated from the specific technical processing of an individual's unique biological or physiological patterns or characteristics",
+    ("H281", "P-096"): "that creates an identifiable risk of identity theft or fraud",
+    ("H76", "P-096"): "presents a reasonably foreseeable risk of financial, physical, reputational or other cognizable harm to the resident",
+    ("H281", "P-097"): "and any fees required to be paid to any of the consumer reporting agencies",
+    ("H76", "P-097"): "the date, estimated date, or estimated date range of the breach of security",
+    ("S140", "P-091"): "any unique biological attribute or measurement that can be used to authenticate the identity of an individual",
+    ("H3404", "P-205"): "toll collection technologies shall only be used to identify the location of any vehicle for tolling purposes",
+    ("S209", "P-205"): "shall not be used to identify the location of any vehicle for purposes other than charging and collecting",
+    ("H3404", "P-206"): "shall be shared with or provided to any law enforcement entity ... without a search warrant, or production order",
+    ("S209", "P-206"): "shall be shared with or provided to any law enforcement entity ... without a valid warrant",
+    ("H3404", "P-207"): "shall not be admitted, offered or cited by any governmental entity for any purpose",
+    ("S209", "P-207"): "shall be inadmissible in any criminal or civil proceeding",
+    ("H3404", "P-208"): "liable for treble damages, or, in the alternative, exemplary damages",
+    ("S209", "P-208"): "liable for exemplary damages of not less than $100 and not more than $1,000 for each violation",
+    ("H3404", "P-210"): "shall not access, search, review, disclose, or exchange tolling data",
+    ("H3434", "P-210"): "shall not access, search, review, disclose, or exchange tolling data in its possession",
+    ("H3404", "P-211"): "permanently erase or destroy all tolling data ... not later than 120 days",
+    ("H3434", "P-211"): "permanently erase or destroy ... not later than 120 days following the date on which the tolling data was created",
+    ("H3434", "P-206"): "comply with a search warrant, production order, or preservation request ... prosecution of a felony",
+    ("H3434", "P-208"): "liable for treble damages, or, in the alternative, exemplary damages",
+    ("H4844", "P-121"): "shall collect or process an individual's reproductive or gender-affirming care location information if: (i) ... location privacy policy; (ii) obtains consent",
+    ("H357", "P-121"): "unlawful for a covered entity to collect or process an individual's location information except for a permissible purpose",
+    ("H4844", "P-122"): "any limitations or restrictions on the use of targeted advertisements by a covered entity or service provider",
+    ("H357", "P-122"): "a clear, conspicuous, and simple means to opt out of the processing of their location information",
+    ("H4844", "P-125"): "the agency or official serves the covered entity or service provider with a valid warrant",
+    ("H357", "P-125"): "serves the covered entity or service provider with a valid warrant or establishes the existence of exigent circumstances",
+    ("H4844", "P-127"): "determining minimum requirements for inclusion in a location privacy policy",
+    ("H357", "P-127"): "shall maintain and make available to the data subject a Location Privacy Policy",
+    ("H4844", "P-129"): "prohibitions on adverse actions by a covered entity or service provider against an individual because the individual exercised",
+    ("H357", "P-129"): "shall not take adverse action against an individual because the individual exercised or refused to waive",
+    ("H4844", "P-281"): "collect more precise reproductive or gender-affirming care location information than",
+    ("H357", "P-281"): "collect more precise location information than necessary to carry out the permissible purpose",
+    ("H4844", "P-282"): "retain reproductive or gender-affirming care location information longer than necessary",
+    ("H357", "P-282"): "retain location information longer than necessary to carry out the permissible purpose",
+    ("H4844", "P-283"): "derive or infer from reproductive or gender-affirming care location information any",
+    ("H357", "P-283"): "derive or infer ... beyond ... the permissible purpose",
+    ("H4844", "P-284"): "sell, rent, trade, gift or lease reproductive or gender-affirming care location information",
+    ("H357", "P-284"): "sell, rent, trade, or lease location information to third parties",
+    ("H4844", "P-285"): "disclose, cause to disclose or assist with or facilitate the disclosure of an individual's",
+    ("H357", "P-285"): "disclose ... to a third party unless ... necessary ... or requested by the individual",
+    ("H63", "P-081"): "shall not collect or process an individual's biometric information for identification purposes unless it first",
+    ("S195", "P-081"): "receives written consent executed by the subject of the biometric identifier or biometric information",
+    ("H63", "P-082"): "shall always maintain and make available to the individual a Biometric Privacy Policy",
+    ("S195", "P-082"): "establishing a retention schedule and guidelines for permanently destroying biometric identifiers and biometric information",
+    ("H63", "P-083"): "shall not disclose, cause to disclose, or otherwise disseminate or cause to disseminate an individual's biometric information",
+    ("S195", "P-083"): "disclose, redisclose, or otherwise disseminate a person's or a customer's biometric identifier or biometric information unless",
+    ("H63", "P-084"): "It is unlawful for a covered entity, data processor, or third party to monetize an individual's biometric information.",
+    ("S195", "P-084"): "sell, lease, trade, or otherwise profit from a person's or a customer's biometric identifier",
+    ("H63", "P-085"): "store, transmit, and protect from disclosure all biometric data using the reasonable standard of care",
+    ("S195", "P-085"): "in a manner that is the same as or more protective than the manner in which the private entity stores",
+    ("H63", "P-088"): "liquidated damages of not less than 0.5% of the annual global revenue of the covered entity or $5,000",
+    ("S195", "P-088"): "Damages pursuant to any said action shall be no less than $5,000 per violation or actual damages suffered",
+    ("S218", "P-068"): "without express written approval from the customer",
+    ("H3179", "P-068"): "without express written approval from the customer",
+}
+QUOTES.update({
+    ("H1690", "P-290"): "may petition the court to seal the court record",
+    ("H4356", "P-290"): "may petition the court to seal the court record",
+})
+QUOTES.update({
+    ("H1525", "P-291"): "shall not use, sell, or offer to sell to another person, or transfer to another person for use or sale, any personal inf[ormation]",
+})
+QUOTES.update({
+    ("H3003", "P-292"): "except for personal identifying information, which shall be deemed confidential, each government agency shall make the data available",
+    ("H2991", "P-294"): "statements of financial interest filed pursuant to section 5, which contain the home address of the filer",
+})
