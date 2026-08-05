@@ -1,0 +1,116 @@
+#!/usr/bin/env python3
+"""Goal 1, step 2: fetch full text of every census candidate and scan it for
+consumer-data-privacy terms.
+
+Reads data/census_candidates.csv, fetches each bill's API document (cached),
+and writes data/text_scan.csv with per-term hit counts and a context snippet
+for the strongest match. Bills whose titles matched only BROAD terms are
+confirmed or dropped based on this scan; bills whose titles matched DOMAIN
+terms keep their text evidence for the codebook.
+"""
+
+import csv
+import re
+from pathlib import Path
+
+import fetchlib
+
+PILOT = Path(__file__).resolve().parent.parent
+DATA = PILOT / "data"
+API = "https://malegislature.gov/api"
+
+# Text-level domain terms: tighter than the title net, aimed at consumer data
+# privacy specifically.
+TEXT_TERMS = {
+    "personal_information": r"personal(ly identifiable)? (information|data)",
+    "consumer_privacy": r"consumer['s]{0,2}\s+(data\s+)?privacy|privacy of consumers",
+    "data_privacy": r"data privacy|information privacy|privacy protection",
+    "data_broker": r"data broker",
+    "biometric": r"biometric",
+    "geolocation": r"geolocation|location (information|data)|location shield|geofen",
+    "facial_recognition": r"facial recognition|face recognition|faceprint",
+    "genetic_privacy": r"genetic (information|data|privacy|test)",
+    "browsing_history": r"browsing history|internet history|search history",
+    "sale_of_data": r"(sale|sell|selling|sold) [^.]{0,60}(personal|consumer|location|health) (information|data)",
+    "opt_out_privacy": r"opt[ -]?out [^.]{0,60}(sale|collection|processing|targeted advertising)",
+    "data_protection": r"data protection",
+    "security_breach": r"(security|data) breach|breach of security",
+    "surveillance": r"surveillance",
+    "wiretap_interception": r"wiretap|intercept(ion|ing)? of (wire|oral|electronic)",
+    "electronic_monitoring": r"electronic(ally)? monitor",
+    "right_to_privacy": r"right (to|of) privacy",
+    "privacy_generic": r"privac(y|ies)",
+}
+
+
+def main() -> None:
+    rows = list(csv.DictReader((DATA / "census_candidates.csv").open()))
+    out = []
+    n = sum(1 for r in rows if r["bill_number"])
+    done = 0
+    for r in rows:
+        bn = r["bill_number"]
+        if not bn:
+            out.append({**base(r), "fetch_status": "docket_only_no_text"})
+            continue
+        done += 1
+        try:
+            doc = fetchlib.get_json(f"{API}/GeneralCourts/193/Documents/{bn}")
+        except Exception as e:
+            out.append({**base(r), "fetch_status": f"error: {e}"})
+            print(f"  {bn}: ERROR {e}")
+            continue
+        text = (doc.get("DocumentText") or "")
+        plain = re.sub(r"<[^>]+>", " ", text)
+        plain = re.sub(r"\s+", " ", plain)
+        low = plain.lower()
+        hits = {}
+        snippet = ""
+        for k, rx in TEXT_TERMS.items():
+            found = list(re.finditer(rx, low))
+            if found:
+                hits[k] = len(found)
+                if not snippet:
+                    m = found[0]
+                    snippet = plain[max(0, m.start() - 120) : m.end() + 120].strip()
+        out.append(
+            {
+                **base(r),
+                "fetch_status": "ok",
+                "legislation_type": doc.get("LegislationTypeName") or "",
+                "text_chars": len(plain),
+                "text_terms": ";".join(f"{k}:{v}" for k, v in hits.items()),
+                "snippet": snippet,
+            }
+        )
+        if done % 25 == 0:
+            print(f"  {done}/{n} scanned")
+
+    fields = [
+        "bill_number", "title", "domain_title_terms", "broad_title_terms",
+        "committee_net", "fetch_status", "legislation_type", "text_chars",
+        "text_terms", "snippet",
+    ]
+    with (DATA / "text_scan.csv").open("w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        w.writeheader()
+        w.writerows(out)
+    print(f"wrote {len(out)} rows to data/text_scan.csv")
+
+
+def base(r: dict) -> dict:
+    return {
+        "bill_number": r["bill_number"],
+        "title": r["title"],
+        "domain_title_terms": r["domain_title_terms"],
+        "broad_title_terms": r["broad_title_terms"],
+        "committee_net": r["committee_net"],
+        "legislation_type": "",
+        "text_chars": "",
+        "text_terms": "",
+        "snippet": "",
+    }
+
+
+if __name__ == "__main__":
+    main()
