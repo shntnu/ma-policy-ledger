@@ -9,7 +9,7 @@ Bill-level terminal classes (`data/bill_fates.csv`), parsed from official histor
 - `superseded_by_redraft`: history ends in "Accompanied a new draft, see X", "New draft substituted, see X", or "Reported by X" (conference)
 - `sent_to_study`: history ends in "Accompanied a study order, see X"
 - `died_no_further_action`: history ends in "No further action taken"
-- `enacted`: "Signed by the Governor, Chapter N of the Acts of YYYY" (one bill: H4744)
+- `enacted`: "Signed by the Governor, Chapter N of the Acts of YYYY" (seven bills: H4744, H58, H4040, H4977, H5077, H4799, S2884)
 - (recorded-vote rejection is parsed for but did not occur)
 
 Furthest-stage ladder: referred < heard < reporting_extended < reported_favorably < second_reading < engrossed_one_branch < in_second_branch < conference < passed_both < enacted.

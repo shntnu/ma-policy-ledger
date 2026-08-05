@@ -1,5 +1,6 @@
 bill,furthest_stage,terminal_class,terminal_ref,roll_calls,last_recorded_action,history_url
 H1049,reported_favorably,died_no_further_action,,,2024-03-28 Bill reported favorably by committee and referred to the committee on House Ways and Means,https://malegislature.gov/Bills/193/H1049
+H1062,heard,sent_to_study,H4705,,"2024-06-03 Accompanied a study order, see H4705",https://malegislature.gov/Bills/193/H1062
 H1099,reporting_extended,sent_to_study,H5047,,"2024-09-16 Accompanied a study order, see H5047",https://malegislature.gov/Bills/193/H1099
 H1158,reporting_extended,sent_to_study,H5047,,"2024-09-16 Accompanied a study order, see H5047",https://malegislature.gov/Bills/193/H1158
 H1283,heard,superseded_by_redraft,H4266,,"2024-01-22 Accompanied a new draft, see H4266",https://malegislature.gov/Bills/193/H1283
@@ -21,6 +22,7 @@ H1791,reporting_extended,sent_to_study,H5032,,"2024-09-03 Accompanied a study or
 H1809,heard,sent_to_study,H4517,,"2024-06-05 Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1809
 H1873,reporting_extended,sent_to_study,H5046,,"2024-09-12 Accompanied a study order, see H5046",https://malegislature.gov/Bills/193/H1873
 H1893,heard,sent_to_study,H4570,,"2024-05-15 Accompanied a study order, see H4570",https://malegislature.gov/Bills/193/H1893
+H1939,heard,sent_to_study,H4570,,"2024-05-15 Accompanied a study order, see H4570",https://malegislature.gov/Bills/193/H1939
 H1986,heard,sent_to_study,H4712,,"2024-06-06 Accompanied a study order, see H4712",https://malegislature.gov/Bills/193/H1986
 H219,referred,sent_to_study,H4711,,"2024-09-05 Accompanied a study order, see H4711",https://malegislature.gov/Bills/193/H219
 H281,reporting_extended,died_no_further_action,,,"2024-08-05 Reporting date extended to Tuesday December 31, 2024, pending concurrence",https://malegislature.gov/Bills/193/H281
@@ -36,7 +38,7 @@ H3393,heard,sent_to_study,H4715,,"2024-06-06 Accompanied a study order, see H471
 H3404,reported_favorably,died_no_further_action,,,2024-04-01 Bill reported favorably by committee and referred to the committee on House Ways and Means,https://malegislature.gov/Bills/193/H3404
 H3431,heard,sent_to_study,H4714,,"2024-06-06 Accompanied a study order, see H4714",https://malegislature.gov/Bills/193/H3431
 H3434,reported_favorably,died_no_further_action,,,2024-03-07 Bill reported favorably by committee and referred to the committee on House Ways and Means,https://malegislature.gov/Bills/193/H3434
-H3548,referred,died_no_further_action,,,"2023-03-23 Text of an amendment, see H58",https://malegislature.gov/Bills/193/H3548
+H3548,referred,superseded_by_redraft,H58,,"2023-03-23 Text of an amendment, see H58",https://malegislature.gov/Bills/193/H3548
 H357,reporting_extended,died_no_further_action,,,"2024-08-05 Reporting date extended to Tuesday December 31, 2024, pending concurrence",https://malegislature.gov/Bills/193/H357
 H3597,heard,sent_to_study,H4570,,"2024-05-15 Accompanied a study order, see H4570",https://malegislature.gov/Bills/193/H3597
 H3637,reporting_extended,sent_to_study,H4877,,"2024-08-15 Accompanied a study order, see H4877",https://malegislature.gov/Bills/193/H3637
@@ -57,17 +59,18 @@ H4356,second_reading,died_no_further_action,,,2024-03-11 Read second and ordered
 H4359,reported_favorably,died_no_further_action,,,2024-02-12 Bill reported favorably by committee and referred to the committee on House Ways and Means,https://malegislature.gov/Bills/193/H4359
 H4421,reported_favorably,died_no_further_action,,,2024-02-26 Bill reported favorably by committee and referred to the committee on House Ways and Means,https://malegislature.gov/Bills/193/H4421
 H4632,reported_favorably,died_no_further_action,,,2024-05-13 Bill reported favorably by committee and referred to the committee on House Ways and Means,https://malegislature.gov/Bills/193/H4632
+H4731,reporting_extended,sent_to_study,H5032,,"2024-09-03 Accompanied a study order, see H5032",https://malegislature.gov/Bills/193/H4731
 H4744,enacted,enacted,"Signed by the Governor, Chapter 118 of the Acts of 2024","2024-06-12 Committee of conference report accepted - 156 YEAS to 0 NAYS (See YEA and NAY No; 2024-06-13 Committee of conference report accepted, in concurrence -see Roll Call #179 (Yea; 2024-06-13 Enacted - 152 YEAS to 0 NAYS (See YEA and NAY No. 121)","2024-06-20 Signed by the Governor, Chapter 118 of the Acts of 2024",https://malegislature.gov/Bills/193/H4744
 H4799,enacted,enacted,"Signed by the Governor, Chapter 206 of the Acts of 2024",2024-06-26 Passed to be engrossed - 153 YEAS to 1 NAYS (See YEA and NAY No. 126); 2024-07-24 Passed to be engrossed -see Roll Call #219 (Yeas 38 to Nays 1),"2024-09-16 Signed by the Governor, Chapter 206 of the Acts of 2024",https://malegislature.gov/Bills/193/H4799
 H4844,in_second_branch,died_no_further_action,,2024-07-10 Passed to be engrossed -,2024-08-05 Read; and referred to the committee on Senate Ways and Means,https://malegislature.gov/Bills/193/H4844
 H4977,enacted,enacted,"Signed by the Governor, Chapter 150 of the Acts of 2024",2024-08-01 Enacted - 128 YEAS to 24 NAYS (See YEA and NAY No. 199); 2024-08-01 Enacted -see Roll Call #249 (Yeas 37 to Nays 2),"2024-08-06 Signed by the Governor, Chapter 150 of the Acts of 2024",https://malegislature.gov/Bills/193/H4977
-H5049,referred,died_no_further_action,,,"2024-10-17 Reported, in part, by H5077",https://malegislature.gov/Bills/193/H5049
+H5049,referred,superseded_by_redraft,H5077,,"2024-10-17 Reported, in part, by H5077",https://malegislature.gov/Bills/193/H5049
 H5077,enacted,enacted,"Signed by the Governor, Chapter 248 of the Acts of 2024",,"2024-12-04 Signed by the Governor, Chapter 248 of the Acts of 2024",https://malegislature.gov/Bills/193/H5077
 H5132,referred,superseded_by_redraft,H5077,,2024-12-02 See H5077,https://malegislature.gov/Bills/193/H5132
-H5154,referred,died_no_further_action,,,"2024-12-26 Text of an amendment, see S2884",https://malegislature.gov/Bills/193/H5154
+H5154,referred,superseded_by_redraft,S2884,,"2024-12-26 Text of an amendment, see S2884",https://malegislature.gov/Bills/193/H5154
 H530,heard,superseded_by_redraft,H4421,,"2024-02-26 Accompanied a new draft, see H4421",https://malegislature.gov/Bills/193/H530
 H532,reported_favorably,died_no_further_action,,,2024-02-20 Bill reported favorably by committee and referred to the committee on House Ways and Means,https://malegislature.gov/Bills/193/H532
-H57,second_reading,died_no_further_action,,2023-03-01 Consolidated amendment A adopted - 153 YEAS to 0 NAYS (See YEA and NAY No. 10),"2023-03-01 Published as amended, see H58",https://malegislature.gov/Bills/193/H57
+H57,second_reading,superseded_by_redraft,H58,2023-03-01 Consolidated amendment A adopted - 153 YEAS to 0 NAYS (See YEA and NAY No. 10),"2023-03-01 Published as amended, see H58",https://malegislature.gov/Bills/193/H57
 H58,enacted,enacted,"Signed by the Governor, Chapter 2 of the Acts of 2023",2023-03-01 Passed to be engrossed - 153 YEAS to 0 NAYS (See YEA and NAY No. 11); 2023-03-09 Passed to be engrossed -see Roll Call #14 (Yeas 40 to Nays 0); 2023-03-23 Enacted - 153 YEAS to 0 NAYS (See YEA and NAY No. 13); 2023-03-23 Enacted -see Roll Call #15 (Yeas 39 to Nays 0),"2023-03-29 Signed by the Governor, Chapter 2 of the Acts of 2023",https://malegislature.gov/Bills/193/H58
 H582,referred,sent_to_study,H4739,,"2024-07-01 Accompanied a study order, see H4739",https://malegislature.gov/Bills/193/H582
 H60,reporting_extended,superseded_by_redraft,H4632,,"2024-05-13 Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/H60
@@ -113,6 +116,7 @@ S2703,referred,superseded_by_redraft,S2710,,"2024-03-21 Reprinted as amended, se
 S2710,referred,superseded_by_redraft,H4241,,2024-03-22 See H4241,https://malegislature.gov/Bills/193/S2710
 S2770,reported_favorably,died_no_further_action,,,2024-05-09 Bill reported favorably by committee and referred to the committee on Senate Ways and Means,https://malegislature.gov/Bills/193/S2770
 S280,reported_favorably,died_no_further_action,,,2024-04-08 Bill reported favorably by committee and referred to the committee on Senate Ways and Means,https://malegislature.gov/Bills/193/S280
+S2809,reporting_extended,sent_to_study,S2926,,"2024-07-30 Accompanied a study order, see S2926",https://malegislature.gov/Bills/193/S2809
 S2834,reported_favorably,superseded_by_redraft,H4726,"2024-06-27 Amendment #1 (Durant) adopted -see Roll Call #193 (Yeas 39 to Nays 0); 2024-06-27 Amendment #25 (Tarr) rejected  -see Roll Call #194 (Yeas 6 to Nays 34); 2024-06-27 Amendment #4 (Moore) adopted -see Roll Call #195 (Yeas 39 to Nays 0); 2024-06-27 Amendment #5 (Tarr) adopted, as amended -see Roll Call #196 (Yeas 39 to Nays 0)",2024-06-27 See H4726,https://malegislature.gov/Bills/193/S2834
 S2850,referred,superseded_by_redraft,H4726,,2024-06-27 See H4726,https://malegislature.gov/Bills/193/S2850
 S2884,enacted,enacted,"Signed by the Governor, Chapter 363 of the Acts of 2024",,"2025-01-08 Signed by the Governor, Chapter 363 of the Acts of 2024",https://malegislature.gov/Bills/193/S2884

@@ -46,7 +46,7 @@ TEXT_TERMS = {
     "privacy_generic": r"privac(y|ies)",
     # widened 2026-08-05 (fourth-pass review finding 1): confidentiality,
     # nondisclosure, and public-record-exclusion language
-    "record_nondisclosure": r"shall not be (?:a )?public record|not be deemed (?:a )?public record|not be open to (?:the )?public inspection|exempt(?:ed)? from (?:the )?(?:provisions of )?(?:chapter 66|section 10 of chapter 66|the public records law)|shall (?:be|remain) confidential|shall not be disclosed|shall be kept confidential",
+    "record_nondisclosure": r"shall not be (?:a )?public record|not be deemed (?:a )?public record|(?:are|is) not (?:a )?public records?|not be open to (?:the )?public inspection|exempt(?:ed)? from (?:the )?(?:provisions of )?(?:chapter 66|section 10 of chapter 66|the public records law)|shall (?:be|remain) confidential|shall not be (?:disclosed|made public)|shall be kept confidential|may not be compelled to disclose|not (?:be )?subject to (?:public )?disclosure",
 }
 
 

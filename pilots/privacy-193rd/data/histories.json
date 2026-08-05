@@ -2902,6 +2902,56 @@
    }
   ]
  },
+ "H1939": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on Labor and Workforce Development",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-12T11:06:52.62",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 10/24/2023 from 01:00 PM-04:00 PM in B-2      ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-05-15T11:33:23.6033333",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H4570",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H2160"
+   },
+   {
+    "general_court": 191,
+    "bill": "H1679"
+   },
+   {
+    "general_court": 192,
+    "bill": "H2040"
+   },
+   {
+    "general_court": 194,
+    "bill": "H782"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2087"
+   }
+  ]
+ },
  "H281": {
   "actions": [
    {
@@ -3950,6 +4000,68 @@
    {
     "general_court": 194,
     "bill": "H2843"
+   }
+  ]
+ },
+ "H1062": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on Financial Services",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-06-08T14:51:26.64",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 06/20/2023 from 10:00 AM-01:00 PM in A-2                           ",
+    "IsStricken": true
+   },
+   {
+    "Date": "2023-06-12T13:21:48.0733333",
+    "Branch": "Joint",
+    "Action": "Location Changed - Hearing scheduled for 06/20/2023 from 10:00 AM-01:00 PM in A-2 and virtual",
+    "IsStricken": true
+   },
+   {
+    "Date": "2023-06-12T13:22:19.26",
+    "Branch": "Joint",
+    "Action": "Location Changed - Hearing scheduled for 06/20/2023 from 10:00 AM-01:00 PM in A-2                           ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-03T11:49:28.8433333",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H4705",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1214"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2146"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2242"
+   },
+   {
+    "general_court": 194,
+    "bill": "H496"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2037"
    }
   ]
  },
@@ -5111,6 +5223,74 @@
    {
     "general_court": 194,
     "bill": "H4007"
+   }
+  ]
+ },
+ "H4731": {
+  "actions": [
+   {
+    "Date": "2023-12-21T11:18:55.3166667",
+    "Branch": "House",
+    "Action": "Referred to the committee on House Rules",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-03T11:10:40.7133333",
+    "Branch": "House",
+    "Action": "Reported, referred to the committee on Joint Rules, reported, rules suspended and referred to the committee on the Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-06T11:22:23.2566667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-20T14:21:56.03",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 06/25/2024 from 09:00 AM-05:00 PM in Written Testimony Only",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-01T12:28:02.49",
+    "Branch": "House",
+    "Action": "Reporting date extended to Wednesday July 31, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-25T11:06:03.4566667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-03T12:43:41.14",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H5032",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1827"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1106"
+   },
+   {
+    "general_court": 193,
+    "bill": "S2809"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1665"
+   },
+   {
+    "general_court": 189,
+    "bill": "H2151"
    }
   ]
  },
@@ -6312,6 +6492,80 @@
    }
   ],
   "similar": []
+ },
+ "S2809": {
+  "actions": [
+   {
+    "Date": "2023-12-18T11:11:00",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on Rules of the two branches, acting concurrently",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-05-02T11:07:54.5066667",
+    "Branch": "Senate",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-05-02T11:07:54.5066667",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on The Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-03T11:11:51.92",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-20T14:21:56.2033333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 06/25/2024 from 09:00 AM-05:00 PM in Written Testimony Only",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-25T00:00:00",
+    "Branch": "Senate",
+    "Action": "Reporting date extended to Wednesday, July 31st, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T12:27:41.1566667",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T11:05:58.67",
+    "Branch": "Senate",
+    "Action": "Accompanied a study order, see S2926",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1827"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1106"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4731"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1665"
+   },
+   {
+    "general_court": 190,
+    "bill": "H3657"
+   }
+  ]
  },
  "S2834": {
   "actions": [

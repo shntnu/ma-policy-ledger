@@ -85,6 +85,18 @@ for r in queue:
         for pid_m in _re.findall(r"P-\d+", r[field]):
             check(pid_m in pids, f"queue references live prop: {pid_m} in {r['item_type']}")
 
+# study-order terminal evidence: every sent_to_study target has a status row
+so_targets = {r["target"] for r in links if r["link_type"] == "sent_to_study"}
+so_status = {r["study_order"] for r in rows("study_order_status.csv")}
+check(so_targets <= so_status, f"every study order has terminal evidence (missing: {sorted(so_targets - so_status)[:6]})")
+
+# offline completeness: 05c reruns entirely from the committed cache
+import os as _os
+env = dict(_os.environ, FETCHLIB_OFFLINE="1")
+r = subprocess.run([sys.executable, "05c_link_targets.py"], cwd=PILOT / "scripts",
+                   env=env, capture_output=True, text=True)
+check(r.returncode == 0, f"05c runs offline from committed cache ({r.stderr.strip().splitlines()[-1] if r.stderr else 'no stderr'})")
+
 # determinism: rerunning 06/07/08 must not change outputs
 snap = {}
 for name in ("bill_propositions.csv", "links.csv", "verification_queue.csv",

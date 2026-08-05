@@ -44,6 +44,7 @@ H695,EX-ADJACENT,"mandates 24-hour video surveillance of ballot drop boxes; the 
 H718,EX-FALSEPOS,"""privacy screens"" as a reimbursable polling-place cost",
 H739,EX-FALSEPOS,"""surveillance"" in the epidemiological disease-surveillance sense",
 H794,EX-FALSEPOS,plastics reporting; trade-secret/proprietary business-data confidentiality,
+H823,EX-FALSEPOS,same manufacturer-data clause as H4263; business records,
 H845,EX-FALSEPOS,"""surveillance"" of mosquito populations",
 H929,EX-ADJACENT,ATM physical-security mandate; camera recordings and 30-day preservation are incident to premises security with no personal-data rule,
 H934,EX-FALSEPOS,PBM reform; manufacturer/product-level commercial data nondisclosure,
@@ -60,10 +61,12 @@ H978,EX-FALSEPOS,healthcare affordability; trade-secret/commercial-information n
 H996,EX-PROGRAM-INCIDENT,state retirement program the act creates; employer-return confidentiality incident,
 H998,EX-PROGRAM-INCIDENT,duplicate of H996; same incident employer-return confidentiality,
 H1039,EX-FALSEPOS,"""genetic testing"" as a covered diagnostic benefit",
+H1062,IN-CORE,taxpayer identities and examination records shielded from c.66 disclosure; primary object is the protection of an existing personal-record class,"SECTION 1: identity of persons examined and records disclosed to the treasurer not subject to c.66 disclosure, not public records"
 H1083,EX-PROGRAM-INCIDENT,need-to-know access limit on borrower personal information incident to the foreclosure-alternatives program the bill creates,
 H1098,EX-FALSEPOS,"""geographic location data"" means territorial/ZIP-code rating factors in an insurance rate study, not location privacy",
 H1099,IN-CORE,CORRECTED: carries the same c.159A1/2 s.12 trip-data regime as 2024 c.206 s.15; the regime is data-system-primary (symmetric with the c.206 IN-CORE verdict),c.159A1/2 s.12 trip-data reporting and confidentiality provisions within the TND labor act
 H1105,EX-FALSEPOS,"uniform confidentiality for banking-commissioner licensees (debt collectors/loan servicers); examination-privilege over firm records, read in full",
+H1106,EX-FALSEPOS,money-transmission examination/financial records confidentiality; business records (2024 c.312 verdict class),
 H1112,EX-FALSEPOS,"""biometrics"" added to the UCC list of authentication elements in a payment-order security procedure; no data-handling rule",
 H1115,EX-FALSEPOS,"""genetic testing"" as a breast-cancer risk factor in a coverage mandate",
 H1158,IN-CORE,"CORRECTED: carries the same c.159A1/2 s.12 trip-data regime (60-second geolocation, not-public-record, de-identified sharing)",c.159A1/2 s.12 trip-data reporting and confidentiality provisions within the EPA act
@@ -228,6 +231,7 @@ H4255,EX-PROGRAM-INCIDENT,participant-PII nondisclosure incident to the psychede
 H4256,EX-FALSEPOS,"""genetic information"" in app-based-driver antidiscrimination list",
 H4258,EX-FALSEPOS,"""genetic information"" in app-based-driver antidiscrimination list",
 H4259,EX-FALSEPOS,"""genetic information"" in app-based-driver antidiscrimination list",
+H4263,EX-FALSEPOS,manufacturer financial/production/sales data nondisclosure; business records,
 H4265,EX-FALSEPOS,AP exam credit policy; FERPA reference only,
 H4269,EX-PROGRAM-INCIDENT,financial-aid form bill; data-minimization clause (name/signature only) incident to the form program,
 H4287,IN-CORE,Salem home-rule automated speed enforcement with the same surveillance-camera data regime,s.8: (a) capture only on violation + destruction within 48h of final disposition; (c) photos/PII not public record; use-limitation subsections (d)-(e) on camera operation and data
@@ -263,6 +267,7 @@ H4707,EX-FALSEPOS,"Affordable Homes Act redraft; sealing provision absent (no PI
 H4710,EX-FALSEPOS,"home-improvement program; ""geolocational"" is permit-completion photo verification",
 H4712,EX-FALSEPOS,"committee-matters order; ""privacy"" in recited petition title",
 H4726,EX-FALSEPOS,"Affordable Homes Act redraft; sealing provision absent; ""privacy rights"" boilerplate only",
+H4731,IN-CORE,railroad-fatality police reports and officer-crew communications made non-public with enumerated access; the nondisclosure rule IS the bill (911-recordings verdict class),new c.160 s.253(a)-(b): reports/communications shall not be made public; access limited to enumerated parties
 H4739,EX-FALSEPOS,"study order; ""surveillance"" is epidemiological cancer surveillance",
 H4743,EX-PROGRAM-INCIDENT,PII-excluded reporting clause incident to SUD treatment/licensure program,
 H4750,EX-ADJACENT,"genetic-testing limits on challenging parentage; family-law procedure, plus birth-record mechanics",
@@ -326,6 +331,8 @@ S403,EX-PROGRAM-INCIDENT,emergency registry of elders/disabled with not-public-r
 S437,EX-FALSEPOS,"""privacy screens"" as voting-booth equipment cost",
 S445,EX-FALSEPOS,mosquito surveillance in the entomological sense,
 S471,EX-FALSEPOS,"proprietary submitter information in packaging program; business records, not personal data",
+S542,EX-FALSEPOS,same manufacturer-data clause; business records,
+S551,EX-FALSEPOS,same manufacturer-data clause; business records,
 S612,EX-FALSEPOS,trade-secret/confidential commercial information exemption; business records,
 S624,EX-PROGRAM-INCIDENT,employer-return confidentiality incident to the retirement-savings program the bill creates,
 S627,IN-CORE,"CORRECTED: carries the same c.159A1/2 s.12 trip-data regime (60-second geolocation, not-public-record, de-identified sharing)",c.159A1/2 s.12 trip-data reporting and confidentiality provisions within the EPA act
@@ -462,6 +469,7 @@ S2800,EX-PROGRAM-INCIDENT,"Senate FY25 GAA vehicle; hits are the same recurring 
 S2803,EX-PROGRAM-INCIDENT,"foster care bill of rights; SOGI-confidentiality and own-record-access items are incident to the DCF program regime, remainder is dignity/care rights",
 S2804,EX-PROGRAM-INCIDENT,child welfare; PII-free reporting clause on fair-hearing statistics,
 S2807,EX-PROGRAM-INCIDENT,special education; anonymized reporting clause on program data,
+S2809,IN-CORE,identical companion of H4731,same new c.160 s.253
 S2817,EX-FALSEPOS,"veterans HERO act; ""genetic information"" in a nondiscrimination category list",
 S2824,EX-FALSEPOS,"Gaming Commission racing rules; ""surveillance"" is physical security observation of horses, non-domain sense",
 S2826,EX-FALSEPOS,same HERO act text; same non-domain sense,

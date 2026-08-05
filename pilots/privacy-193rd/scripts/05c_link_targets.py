@@ -17,6 +17,7 @@ import json
 import re
 from pathlib import Path
 
+import actions
 import fetchlib
 
 PILOT = Path(__file__).resolve().parent.parent
@@ -47,16 +48,21 @@ def main() -> None:
     hist = json.loads((DATA / "histories.json").read_text())
     census_bills = set(hist)
     targets = set()
-    for bn, d in hist.items():
-        for a in d["actions"]:
-            for pat in (
-                r"Accompanied a study order, see ([HS]\d+)",
-                r"Accompanied a new draft, see ([HS]\d+)",
-                r"Reported on a part of ([HS]\d+)",
-            ):
-                m = re.search(pat, a["Action"])
-                if m and m.group(1) not in census_bills:
-                    targets.add(m.group(1))
+    for bn in sorted(hist):
+        for a in hist[bn]["actions"]:
+            refs = []
+            s = actions.successor_of(a["Action"])
+            if s:
+                refs.append(s[0])
+            pa = actions.parents_of(a["Action"])
+            if pa:
+                refs.extend(pa[0])
+            so = actions.study_order_of(a["Action"])
+            if so:
+                refs.append(so)
+            for ref in refs:
+                if ref not in census_bills:
+                    targets.add(ref)
     targets.update(ENACTED_ORIGINS)
 
     out = {}
@@ -70,6 +76,9 @@ def main() -> None:
     reported = set()
     for bn in sorted(out):
         for a in out[bn]["actions"]:
+            s = actions.successor_of(a["Action"])
+            if s and s[1] == "reported_in_part_by":
+                reported.add(s[0])
             m = re.search(r"Reported \(in part\)[,;]?\s*([HS]\d+)", a["Action"])
             if m:
                 reported.add(m.group(1))

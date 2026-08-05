@@ -265,11 +265,18 @@ P-346,fusion-subject-access,surveillance-tech,Subject right of access to persona
 P-350,worker-data-security-safeguards,workplace,Employer duty to maintain security safeguards for worker data,1
 P-351,worker-data-breach-notice,workplace,Breach notification to affected workers and the department,1
 P-352,worker-vendor-compliance-liability,workplace,Vendor compliance duties and joint employer-vendor liability for worker data and ADS,1
-P-353,worker-vendor-return-delete,workplace,Vendor duty to return and delete worker data at end of service,1
+P-353,worker-vendor-return-delete,workplace,Vendor duty to return and delete worker data at contract termination,1
 P-354,fusion-internal-data-audits,surveillance-tech,"Annual internal audits of each fusion-center database (users, access levels, data quantities, sources)",1
 P-355,fusion-ig-oversight,surveillance-tech,Inspector General access to criminal intelligence systems with biennial compliance reports,1
 P-356,fusion-sar-audit-purge,surveillance-tech,Independent audit of suspicious-activity reports with purge of noncompliant records,1
-P-357,client-data-bank-system,govt-data,"State-run centralized data bank of nonprofit service-provider client personal data (system, ID card, compelled membership condition)",1
+P-357,client-data-bank-system,govt-data,State-run centralized data bank of nonprofit service-provider client personal data (creation and operation),1
 P-358,client-data-bank-consent-gate,govt-data,"Written informed client consent required before the data bank discloses client personal data, with c.66A protection duties",1
 P-359,client-data-bank-records-exclusion,govt-data,Data-bank client information excluded from the public-records definition,1
-P-360,immunization-exemption-record-confidentiality,health,Medical immunization-exemption certifications confidential; no disclosure outside the school health program; inadmissible without written parental consent,1
+P-360,immunization-exemption-record-confidentiality,health,Medical immunization-exemption certifications confidential; no disclosure outside the school health program,1
+P-361,worker-vendor-information-supply,workplace,Vendor duty to supply the employer all information necessary for chapter compliance,1
+P-362,client-data-bank-membership-conditions,govt-data,State grant/loan/contract eligibility conditioned on data-bank membership; client ID-card acceptance rules,1
+P-363,immunization-exemption-inadmissibility,health,Immunization-exemption certifications inadmissible in proceedings absent written parental consent,1
+P-364,immunization-exemption-physician-shield,health,Certifications may not be used against the certifying physician's rating or professional standing,1
+P-365,taxpayer-examination-records-shield,govt-records,Identities of persons under municipal tax examination and records disclosed to the treasurer excluded from public-records disclosure,1
+P-366,railroad-fatality-report-confidentiality,govt-records,"Police reports of railroad fatalities and officer-crew communications non-public, with access limited to enumerated parties",2
+P-367,union-communications-privilege,workplace,"Labor organizations may not be compelled to disclose communications received in confidence from employees, with enumerated exceptions",1

@@ -910,7 +910,8 @@ PROPS.update({
     "P-350": ("worker-data-security-safeguards", "workplace", "Employer duty to maintain security safeguards for worker data"),
     "P-351": ("worker-data-breach-notice", "workplace", "Breach notification to affected workers and the department"),
     "P-352": ("worker-vendor-compliance-liability", "workplace", "Vendor compliance duties and joint employer-vendor liability for worker data and ADS"),
-    "P-353": ("worker-vendor-return-delete", "workplace", "Vendor duty to return and delete worker data at end of service"),
+    "P-353": ("worker-vendor-return-delete", "workplace", "Vendor duty to return and delete worker data at contract termination"),
+    "P-361": ("worker-vendor-information-supply", "workplace", "Vendor duty to supply the employer all information necessary for chapter compliance"),
     "P-320": ("workplace-monitoring-notice", "workplace", "Notice regimes for workplace electronic monitoring (advance, change, and inventory notices)"),
     "P-321": ("workplace-monitoring-limits", "workplace", "Allowable-purpose, strictly-necessary, least-invasive limits on electronic monitoring with prohibited practices (off-duty, private areas, facial/gait/emotion recognition)"),
     "P-322": ("workplace-monitoring-data-use-limits", "workplace", "Limits on using monitoring data for employment decisions; no sole reliance"),
@@ -936,7 +937,8 @@ PROPS.update({
     "P-356": ("fusion-sar-audit-purge", "surveillance-tech", "Independent audit of suspicious-activity reports with purge of noncompliant records"),
     "P-346": ("fusion-subject-access", "surveillance-tech", "Subject right of access to personal data held in criminal intelligence systems"),
     # P-347 retired 2026-08-05: split into P-357/P-358/P-359.
-    "P-357": ("client-data-bank-system", "govt-data", "State-run centralized data bank of nonprofit service-provider client personal data (system, ID card, compelled membership condition)"),
+    "P-357": ("client-data-bank-system", "govt-data", "State-run centralized data bank of nonprofit service-provider client personal data (creation and operation)"),
+    "P-362": ("client-data-bank-membership-conditions", "govt-data", "State grant/loan/contract eligibility conditioned on data-bank membership; client ID-card acceptance rules"),
     "P-358": ("client-data-bank-consent-gate", "govt-data", "Written informed client consent required before the data bank discloses client personal data, with c.66A protection duties"),
     "P-359": ("client-data-bank-records-exclusion", "govt-data", "Data-bank client information excluded from the public-records definition"),
 })
@@ -958,7 +960,8 @@ edges("H1873",
     ("P-315", "c.149B s.2C(f)-(h)", ""), ("P-316", "c.149B s.2C(i)", ""),
     ("P-317", "c.149B s.2C(j)-(k)", ""),
     ("P-350", "c.149B s.2D(a)", ""), ("P-351", "c.149B s.2D(b)", ""),
-    ("P-352", "c.149B ss.2E(a)-(c),4E", ""), ("P-353", "c.149B s.2E(d)", ""),
+    ("P-352", "c.149B ss.2E(a),4E(a)", ""), ("P-361", "c.149B ss.2E(b),4E(b)", ""),
+    ("P-353", "c.149B ss.2E(c),4E(c)", ""),
     ("P-320", "c.149B ss.3-3B", ""),
     ("P-321", "c.149B s.3C", ""), ("P-322", "c.149B s.3D", ""),
     ("P-324", "c.149B ss.4-4B", ""), ("P-325", "c.149B ss.4C-4D", ""),
@@ -1019,7 +1022,8 @@ edges("H3637",
     ("P-356", "new c.66A s.2D", ""),
     ("P-346", "new c.66A s.2F", ""))
 edges("H219",
-    ("P-357", "new c.6A s.16DD(c)-(d)", "compelled membership condition attaches"),
+    ("P-357", "new c.6A s.16DD(d)", ""),
+    ("P-362", "new c.6A s.16DD(b)-(c)", ""),
     ("P-358", "new c.6A s.16DD(e)", ""),
     ("P-359", "new c.6A s.16DD(a)", ""))
 edges("S23", ("P-291", "SECTION 30 (new c.222 s.29)", "Senate supplemental-budget vehicle carrying the notary restriction"))
@@ -1094,9 +1098,14 @@ QUOTES.update({
 # texts): nine vehicle-stage carriers of existing enacted propositions and
 # one new record-class protection.
 PROPS.update({
-    "P-360": ("immunization-exemption-record-confidentiality", "health", "Medical immunization-exemption certifications confidential; no disclosure outside the school health program; inadmissible without written parental consent"),
+    "P-360": ("immunization-exemption-record-confidentiality", "health", "Medical immunization-exemption certifications confidential; no disclosure outside the school health program"),
+    "P-363": ("immunization-exemption-inadmissibility", "health", "Immunization-exemption certifications inadmissible in proceedings absent written parental consent"),
+    "P-364": ("immunization-exemption-physician-shield", "health", "Certifications may not be used against the certifying physician's rating or professional standing"),
 })
-edges("H582", ("P-360", "SECTION 1 (rewritten c.76 s.15)", "includes use restriction protecting certifying physician"))
+edges("H582",
+    ("P-360", "SECTION 1 (rewritten c.76 s.15, confidentiality clause)", ""),
+    ("P-363", "SECTION 1 (admissibility clause)", ""),
+    ("P-364", "SECTION 1 (physician-protection clause)", ""))
 for b, cite, note in (
     ("H57", "inserted c.222 s.29 (bill lines 673-677)", "Governor's FY23 supplemental filing carrying the notary restriction"),
     ("S24", "s.19 (new c.222 s.29)", "Senate Ways and Means FY23 supplemental stage"),
@@ -1139,4 +1148,19 @@ QUOTES.update({
 })
 QUOTES.update({
     ("H3375", "P-301"): "no frontal photographs; avoid identifying operator, passengers or contents (s.8(d))",
+})
+
+# Fifth-pass grammar-screen admissions.
+PROPS.update({
+    "P-365": ("taxpayer-examination-records-shield", "govt-records", "Identities of persons under municipal tax examination and records disclosed to the treasurer excluded from public-records disclosure"),
+    "P-366": ("railroad-fatality-report-confidentiality", "govt-records", "Police reports of railroad fatalities and officer-crew communications non-public, with access limited to enumerated parties"),
+    "P-367": ("union-communications-privilege", "workplace", "Labor organizations may not be compelled to disclose communications received in confidence from employees, with enumerated exceptions"),
+})
+edges("H1062", ("P-365", "SECTION 1 (c.60 amendment)", "sole section"))
+for b in ("H4731", "S2809"):
+    edges(b, ("P-366", "new c.160 s.253", "identical companion"))
+edges("H1939", ("P-367", "new section (b)-(d)", "privilege with subsection (c)-(d) exceptions attaching"))
+QUOTES.update({
+    ("H4731", "P-366"): "shall not be made public and shall be maintained by the police department that responds to such fatality",
+    ("S2809", "P-366"): "shall not be made public and shall be maintained by the police department that responds to such fatality",
 })

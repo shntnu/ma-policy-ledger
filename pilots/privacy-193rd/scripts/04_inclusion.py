@@ -168,6 +168,10 @@ OVERRIDES: dict[str, tuple[str, str, str]] = {
     "H72": ("exclude", "EX-ADJACENT", "deepfake criminal offense"),
     "H3818": ("exclude", "EX-ADJACENT", "online exploitation criminal offense"),
     "H81": ("exclude", "EX-ADJACENT", "broadband in public housing"),
+    # H1939 reclassified under the widened compelled-disclosure grammar:
+    # a testimonial-privilege/disclosure restriction on a data holder (labor
+    # organization) over member communications - the bill's primary object.
+    "H1939": ("include", "IN-TEXT", "labor-organization communications privilege: may not be compelled to disclose member communications"),
     # --- widened-term fallthroughs from the legacy candidate net (decided
     # after the fourth-pass term widening; consistent with the enacted-side
     # adjudication rows for the same mechanisms)

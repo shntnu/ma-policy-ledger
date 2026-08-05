@@ -75,9 +75,14 @@ def seed(url: str, path: str) -> None:
 
 
 def get(url: str, max_retries: int = 3) -> bytes:
-    """Return the body for url, from cache if present, else fetch and cache."""
+    """Return the body for url, from cache if present, else fetch and cache.
+    With FETCHLIB_OFFLINE=1 in the environment, a cache miss raises instead
+    of fetching (used to assert committed-cache completeness)."""
     if url in _index:
         return (PILOT / _index[url]["path"]).read_bytes()
+    import os
+    if os.environ.get("FETCHLIB_OFFLINE"):
+        raise RuntimeError(f"offline mode: {url} not in cache")
     CACHE.mkdir(parents=True, exist_ok=True)
     body = None
     status = None
