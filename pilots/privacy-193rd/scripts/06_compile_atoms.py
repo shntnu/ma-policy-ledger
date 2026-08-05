@@ -11,12 +11,77 @@ Checks:
 """
 
 import csv
+import json
+import re
 from pathlib import Path
 
 import atoms
+import textsim
 
 PILOT = Path(__file__).resolve().parent.parent
 DATA = PILOT / "data"
+
+
+def identity_bases(carriers: dict) -> dict:
+    """For each (prop, bill) edge, classify the evidence that this bill's
+    provision is the SAME proposition as the other carriers' (codebook: a
+    shared prop ID is a link claim). Returns {(prop, bill): basis}.
+
+    - sole-carrier: no cross-bill claim is being made
+    - verified-text-identical: >= 0.85 normalized 8-gram Jaccard with
+      another carrier
+    - verified-official-lineage: connected to another carrier by an official
+      redraft/supersession/conference record
+    - inferred-analytic: same-mechanism judgment only (queued for review by
+      07_links.py)
+    """
+    hist = json.loads((DATA / "histories.json").read_text())
+    lineage = set()
+    for bn, d in hist.items():
+        for a in d["actions"]:
+            for pat in (r"Accompanied a new draft, see ([HS]\d+)",
+                        r"New draft of (.+)", r"Reported on ([HS]\d+)"):
+                m = re.search(pat, a["Action"])
+                if m:
+                    for other in re.findall(r"[HS]\d+", m.group(1)):
+                        lineage.add(frozenset((bn, other)))
+    targets = {}
+    lt_path = DATA / "link_targets.json"
+    if lt_path.exists():
+        targets = json.loads(lt_path.read_text())
+        for bn, d in targets.items():
+            for a in d["actions"]:
+                for pat in (r"Accompanied a new draft, see ([HS]\d+)",
+                            r"New draft of (.+)", r"Reported on ([HS]\d+)"):
+                    m = re.search(pat, a["Action"])
+                    if m:
+                        for other in re.findall(r"[HS]\d+", m.group(1)):
+                            lineage.add(frozenset((bn, other)))
+
+    sh = {}
+    def get_sh(b):
+        if b not in sh:
+            try:
+                sh[b] = textsim.shingles(textsim.bill_text(b))
+            except FileNotFoundError:
+                sh[b] = set()
+        return sh[b]
+
+    out = {}
+    for prop, bills in carriers.items():
+        bl = sorted(bills)
+        if len(bl) == 1:
+            out[(prop, bl[0])] = "sole-carrier"
+            continue
+        for b in bl:
+            others = [o for o in bl if o != b]
+            if any(textsim.jaccard(get_sh(b), get_sh(o)) >= 0.85 for o in others):
+                out[(prop, b)] = "verified-text-identical"
+            elif any(frozenset((b, o)) in lineage for o in others):
+                out[(prop, b)] = "verified-official-lineage"
+            else:
+                out[(prop, b)] = "inferred-analytic"
+    return out
 
 
 def main() -> None:
@@ -60,11 +125,16 @@ def main() -> None:
             slug, sub, desc = atoms.PROPS[pid]
             w.writerow([pid, slug, sub, desc, counts[pid]])
 
+    prop_bills = {}
+    for b, p, _, _ in atoms.EDGES:
+        prop_bills.setdefault(p, set()).add(b)
+    bases = identity_bases(prop_bills)
     with (DATA / "bill_propositions.csv").open("w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["bill", "prop_id", "sections", "note", "bill_url"])
+        w.writerow(["bill", "prop_id", "sections", "note", "identity_basis", "bill_url"])
         for b, p, cite, note in sorted(atoms.EDGES):
-            w.writerow([b, p, cite, note, f"https://malegislature.gov/Bills/193/{b}"])
+            w.writerow([b, p, cite, note, bases[(p, b)],
+                        f"https://malegislature.gov/Bills/193/{b}"])
 
     with (DATA / "out_of_domain_content.csv").open("w", newline="") as f:
         w = csv.writer(f)

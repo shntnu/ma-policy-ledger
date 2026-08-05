@@ -1,660 +1,234 @@
-HOUSE . . . . . . . No. 4844
-The Commonwealth of Massachusetts
-______________________________________
-
-HOUSE OF REPRESENTATIVES, July 9, 2024.
-The committee on Ways and Means, to whom was referred the
-message from Her Excellency the Governor recommending legislation
-making appropriations for the fiscal year 2024 to provide for
-supplementing certain existing appropriations and for certain other
-activities and projects (House, No. 4496), reports, in part, recommending
-that the accompanying bill (House, No. 4844) ought to pass.
-For the committee,
-AARON MICHLEWITZ.
-
-FILED ON: 7/9/2024
-
-HOUSE . . . . . . . . . . . . . . . No. 4844
-The Commonwealth of Massachusetts
-_______________
-
-In the One Hundred and Ninety-Third General Court
-(2023-2024)
-_______________
-
-An Act providing protections for reproductive or gender-affirming care location information.
-Whereas, The deferred operation of this act would tend to defeat its purpose, which is to
-forthwith provide protections for reproductive and gender-affirming care location information,
-therefore it is hereby declared to be an emergency law, necessary for the immediate preservation
-of the public convenience.
-Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority
-of the same, as follows:
-
-1
-2
-
-SECTION 1. The General Laws are hereby amended by inserting after chapter 93L the
-following chapter:-
-
-3
-
-CHAPTER 93M.
-
-4
-
-REPRODUCTIVE OR GENDER-AFFIRMING CARE LOCATION INFORMATION
-
-5
-
-PRIVACY PROTECTIONS
-
-6
-7
-8
-
-Section 1. As used in this chapter, the following words shall, unless the context clearly
-requires otherwise, have the following meanings:
-“Application”, a software program that runs on the operating system of a device.
-
-1 of 9
-
-9
-
-“Collect”, to buy, rent, receive, acquire, derive, obtain, infer, generate, create, receive or
-
-10
-
-otherwise access an individual’s reproductive or gender-affirming care location information.
-
-11
-
-“Consent”, a clear affirmative act that signifies an individual’s freely given, specific,
-
-12
-
-informed and unambiguous opt-in agreement. Consent shall not include: (i) agreement secured
-
-13
-
-without first providing to the individual a clear and conspicuous disclosure of any information
-
-14
-
-material to the consent, apart from any privacy policy, terms of service, terms of use, general
-
-15
-
-release, user agreement or other similar document; or (ii) agreement obtained through the use of
-
-16
-
-a user interface designed or manipulated with the substantial effect of subverting or impairing
-
-17
-
-user autonomy, decision making or choice.
-
-18
-
-“Covered entity”, any person, partnership, corporation, limited liability company,
-
-19
-
-association or other group, however organized, and all agents of the covered entity, that: (i) does
-
-20
-
-business, produces or provides a service in the commonwealth; and (ii) collects, processes or
-
-21
-
-discloses or has the ability to collect, process or disclose an individual’s reproductive or gender-
-
-22
-
-affirming care location information. A covered entity shall not include: (1) a state or local
-
-23
-
-government agency, any court of the commonwealth or a clerk, judge or justice of the court; or
-
-24
-
-(2) an individual acting in a non-commercial context.
-
-25
-
-“Device”, a mobile telephone, as defined in section 1 of chapter 90, or any other
-
-26
-
-electronic device that is or may be carried by or on an individual and is capable of connecting to
-
-27
-
-a cellular, bluetooth or other wireless network; provided, that device shall include any hand-held
-
-28
-
-or other portable electronic equipment capable of providing data communication between 2 or
-
-29
-
-more persons, including, but not limited to, a mobile telephone, a text messaging device, a
-
-30
-
-paging device, a personal digital assistant, a laptop computer, electronic equipment that is
-
-2 of 9
-
-31
-
-capable of playing a video game or digital video disk, equipment on which digital photographs
-
-32
-
-are taken or transmitted or any combination thereof, or equipment that is capable of visually
-
-33
-
-receiving a television broadcast.
-
-34
-
-“Disclose”, to make reproductive or gender-affirming care location information available
-
-35
-
-to a third party, including, but not limited to, by selling, renting, sharing, publishing, releasing,
-
-36
-
-transferring, disseminating, providing access to or otherwise communicating such reproductive
-
-37
-
-or gender-affirming care location information orally, in writing, electronically or by any other
-
-38
-
-means.
-
-39
-
-“Individual”, a natural person located in the commonwealth or who was located in the
-
-40
-
-commonwealth at the time that their reproductive or gender-affirming care location information
-
-41
-
-was collected, processed or disclosed.
-
-42
-
-“Location privacy policy”, policies, practices and procedures controlling a covered
-
-43
-
-entity’s collection, processing, management, storage, retention and deletion of reproductive or
-
-44
-
-gender-affirming care location information, as set forth in regulations promulgated by the
-
-45
-
-attorney general pursuant to section 4.
-
-46
-47
-
-“Permissible purpose”, as described in subsection (a) of section 2 and any regulations
-promulgated by the attorney general pursuant to section 4.
-
-48
-
-“Process”, to perform any action or set of actions on or with reproductive or gender-
-
-49
-
-affirming care location information, including, but not limited to, accessing, using, storing,
-
-50
-
-retaining, analyzing, creating, generating, aggregating, altering, correlating, operating on,
-
-51
-
-recording, modifying, organizing, structuring, disposing of, destroying, de-identifying or
-
-3 of 9
-
-52
-
-otherwise manipulating reproductive or gender-affirming care location information. Process shall
-
-53
-
-not include disclosing reproductive or gender-affirming care location information.
-
-54
-
-“Public safety release of information”, response to an emergency service agency, an
-
-55
-
-emergency alert, a 911 communication or any other communication reporting an imminent threat
-
-56
-
-to human life.
-
-57
-
-“Reproductive or gender-affirming care location information”, information concerning
-
-58
-
-reproductive or gender-affirming health care services that: (i) is linked or easily linkable to an
-
-59
-
-individual; (ii) is derived from a device or from interactions between devices, with or without the
-
-60
-
-knowledge of the user and regardless of the technological method used; and (iii) pertains to or
-
-61
-
-directly or indirectly reveals the present or past geographical location of an individual or device
-
-62
-
-within the commonwealth with sufficient precision to identify street-level location information
-
-63
-
-within a range of 1,850 feet or less; provided, that reproductive or gender-affirming care location
-
-64
-
-information shall include any location information that could reasonably indicate an individual’s
-
-65
-
-attempt to acquire or receive reproductive or gender-affirming health care services or efforts to
-
-66
-
-research or obtain reproductive or gender-affirming health care services. Reproductive or gender-
-
-67
-
-affirming care location information shall not include: (1) location information identifiable or
-
-68
-
-derived solely from the visual content of a legally obtained image, including the location of the
-
-69
-
-device that captured such image or publicly posted words; and (2) information that meets the
-
-70
-
-definition of protected health information for purposes of the federal Health Insurance Portability
-
-71
-
-and Accountability Act of 1996 and any regulations promulgated thereunder.
-
-72
-73
-
-“Reproductive or gender-affirming health care services”, all supplies, care and services of
-a medical, behavioral health, mental health, surgical, psychiatric, therapeutic, diagnostic,
-
-4 of 9
-
-74
-
-preventative, rehabilitative or supportive nature relating to: (i) the treatment of gender dysphoria;
-
-75
-
-or (ii) pregnancy, contraception, assisted reproduction, miscarriage management or the
-
-76
-
-termination of a pregnancy.
-
-77
-
-“Service feature”, a discrete aspect of a service provided by a covered entity or service
-
-78
-
-provider, including, but not limited to, real-time directions, real-time weather and identity
-
-79
-
-authentication.
-
-80
-
-“Service provider”, an individual, partnership, corporation, limited liability company,
-
-81
-
-association or other group, however organized, that collects, processes or transfers reproductive
-
-82
-
-or gender-affirming care location information for the sole purpose of, and only to the extent that
-
-83
-
-such service provider is, conducting business activities on behalf of, for the benefit of, at the
-
-84
-
-direction of or under contractual agreement with a covered entity.
-
-85
-
-“Third party”, any covered entity or person other than: (i) a covered entity or service
-
-86
-
-provider that collected or processed reproductive or gender-affirming care location information
-
-87
-
-in accordance with this chapter; or (ii) the individual to whom the reproductive or gender-
-
-88
-
-affirming care location information pertains; provided, however, that a third party shall not
-
-89
-
-include a government entity.
-
-90
-
-Section 2. (a) No covered entity or service provider shall collect or process an
-
-91
-
-individual’s reproductive or gender-affirming care location information; provided, however, that
-
-92
-
-a covered entity or service provider may collect or process an individual’s reproductive or
-
-93
-
-gender-affirming care location information if: (i) a covered entity or service provider provides
-
-94
-
-the individual with a copy of their location privacy policy; (ii) obtains consent from the
-
-95
-
-individual; provided, however, that clause (i) and (ii) shall not be required when the collection or
-5 of 9
-
-96
-
-processing is done for the public safety release of information; and (iii) is consistent with 1 or
-
-97
-
-more of the following permissible purposes:
-
-98
-
-(A) provision of a product, service or service feature to the individual to whom the
-
-99
-
-reproductive or gender-affirming care location information pertains when that individual
-
-100
-
-requested the provision of such product, service or service feature by subscribing to, creating an
-
-101
-
-account or otherwise contracting with a covered entity;
-
-102
-
-(B) initiation, management, execution or completion of a financial or commercial
-
-103
-
-transaction or fulfill an order for a specific product or service requested by an individual to
-
-104
-
-whom the reproductive or gender-affirming care location information pertains, including any
-
-105
-
-associated routine administrative, operational and account-servicing activity such as billing,
-
-106
-
-shipping, delivery, storage and accounting;
-
-107
-
-(C) compliance with an obligation under federal or any state law; or
-
-108
-
-(D) public safety release of information.
-
-109
-
-(b) No covered entity or service provider that collects or processes reproductive or
-
-110
-111
-112
-113
-114
-115
-116
-
-gender-affirming care location information for a permissible purpose shall:
-(i) collect more precise reproductive or gender-affirming care location information than
-necessary to carry out the permissible purpose;
-(ii) retain reproductive or gender-affirming care location information longer than
-necessary to carry out the permissible purpose;
-(iii) sell, rent, trade, gift or lease reproductive or gender-affirming care location
-information to third parties;
-6 of 9
-
-117
-118
-
-(iv) derive or infer from reproductive or gender-affirming care location information any
-data that is not necessary to carry out a permissible purpose; or
-
-119
-
-(v) disclose, cause to disclose or assist with or facilitate the disclosure of an individual’s
-
-120
-
-reproductive or gender-affirming care location information to a third party, unless such
-
-121
-
-disclosure is: (A) necessary to carry out the permissible purpose for which the reproductive or
-
-122
-
-gender-affirming care location information was collected; or (B) requested by the individual to
-
-123
-
-whom the reproductive or gender-affirming care location information pertains.
-
-124
-
-(c) No covered entity or service provider shall disclose an individual’s reproductive or
-
-125
-
-gender-affirming care location information to any federal, state or local government agency or
-
-126
-
-official unless: (i) the agency or official serves the covered entity or service provider with a valid
-
-127
-
-warrant or establishes the existence of exigent circumstances that make it impracticable to obtain
-
-128
-
-a warrant; (ii) disclosure is mandated under federal or any state law; or (iii) the individual
-
-129
-
-requests such disclosure.
-
-130
-
-Section 3. (a) A violation of this chapter or a regulation promulgated under this chapter
-
-131
-
-regarding an individual’s reproductive or gender-affirming care location information shall be
-
-132
-
-deemed an unfair or deceptive act or practice in the conduct of trade or commerce under chapter
-
-133
-
-93A.
-
-134
-
-(b) The attorney general may bring an action pursuant to section 4 of chapter 93A against
-
-135
-
-a covered entity or service provider to remedy violations of this chapter and for other relief that
-
-136
-
-may be appropriate.
-
-137
-138
-
-Section 4. The attorney general shall promulgate regulations for the administration of this
-chapter, including, but not limited to:
-7 of 9
-
-139
-
-(i) determining minimum requirements for inclusion in a location privacy policy,
-
-140
-
-including, but not limited to: (A) reproductive or gender-affirming care location information that
-
-141
-
-is collected, processed or disclosed; (B) specific reproductive or gender-affirming care location
-
-142
-
-information that is disclosed or shared with a third party; (C) a list of the third parties that the
-
-143
-
-reproductive or gender-affirming care location information is disclosed to; (D) any updates to the
-
-144
-
-location privacy policy and notice to the individual; (E) if there are multiple permissible
-
-145
-
-purposes, a disclosure of each such purpose; and (F) posting on the covered entity or service
-
-146
-
-provider’s website and application the location privacy policy;
-
-147
-148
-149
-
-(ii) any limitations or restrictions on the use of targeted advertisements by a covered
-entity or service provider;
-(iii) requirements for consent by individuals to the collection or processing of their
-
-150
-
-reproductive or gender-affirming care location information, including, but not limited, to the
-
-151
-
-duration of consent, any situations where consent shall be obtained again if a covered entity or
-
-152
-
-service provider amends its location privacy policy and how consent may be revoked;
-
-153
-154
-
-(iv) circumstances when reproductive or gender-affirming care location information shall
-be permanently destroyed;
-
-155
-
-(v) prohibitions on adverse actions by a covered entity or service provider against an
-
-156
-
-individual because the individual exercised or refused to waive any rights under this chapter;
-
-157
-158
-159
-
-(vi) notice requirement for any disclosure of reproductive or gender-affirming care
-location information pursuant to subsection (c) of section 2; and
-(vii) any other regulations necessary for the implementation of this chapter.
-
-8 of 9
-
-160
-
-SECTION 2. The attorney general shall promulgate regulations pursuant to section 4 of
-
-161
-
-chapter 93M, inserted by section 1, not later than 120 days after the effective date of this act.
-
-162
-
-SECTION 3. Section 1 shall take effect 1 year after the effective date of this act.
-
-9 of 9
-
-
+HOUSE . . . . . . . No. 4844 
+ 
+The Commonwealth of Massachusetts 
+______________________________________ 
+ 
+ HOUSE OF REPRESENTATIVES, July 9, 2024. 
+ 
+The committee on Ways and Means, to whom was referred the 
+message from Her Excellency the Governor recommending legislation 
+making appropriations for the fiscal year 2024 to provide for 
+supplementing certain existing appropriations and for certain other 
+activities and projects (House, No. 4496), reports, in part, recommending 
+that the accompanying bill (House, No. 4844) ought to pass. 
+ 
+For the committee, 
+ 
+AARON MICHLEWITZ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 of 9 
+FILED ON: 7/9/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4844 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act providing protections for reproductive or gender-affirming care location information. 
+ 
+ Whereas, The deferred operation of this act would tend to defeat its purpose, which is to 
+forthwith provide protections for reproductive and gender-affirming care location information, 
+therefore it is hereby declared to be an emergency law, necessary for the immediate preservation 
+of the public convenience. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1 SECTION 1. The General Laws are hereby amended by inserting after chapter 93L the 
+2 following chapter:- 
+3 CHAPTER 93M. 
+4 REPRODUCTIVE OR GENDER-AFFIRMING CARE LOCATION INFORMATION 
+5 PRIVACY PROTECTIONS 
+6 Section 1. As used in this chapter, the following words shall, unless the context clearly 
+7 requires otherwise, have the following meanings: 
+8 “Application”, a software program that runs on the operating system of a device. 
+2 of 9 
+9 “Collect”, to buy, rent, receive, acquire, derive, obtain, infer, generate, create, receive or 
+10 otherwise access an individual’s reproductive or gender-affirming care location information. 
+11 “Consent”, a clear affirmative act that signifies an individual’s freely given, specific, 
+12 informed and unambiguous opt-in agreement. Consent shall not include: (i) agreement secured 
+13 without first providing to the individual a clear and conspicuous disclosure of any information 
+14 material to the consent, apart from any privacy policy, terms of service, terms of use, general 
+15 release, user agreement or other similar document; or (ii) agreement obtained through the use of 
+16 a user interface designed or manipulated with the substantial effect of subverting or impairing 
+17 user autonomy, decision making or choice. 
+18 “Covered entity”, any person, partnership, corporation, limited liability company, 
+19 association or other group, however organized, and all agents of the covered entity, that: (i) does 
+20 business, produces or provides a service in the commonwealth; and (ii) collects, processes or 
+21 discloses or has the ability to collect, process or disclose an individual’s reproductive or gender-
+22 affirming care location information. A covered entity shall not include: (1) a state or local 
+23 government agency, any court of the commonwealth or a clerk, judge or justice of the court; or 
+24 (2) an individual acting in a non-commercial context. 
+25 “Device”, a mobile telephone, as defined in section 1 of chapter 90, or any other 
+26 electronic device that is or may be carried by or on an individual and is capable of connecting to 
+27 a cellular, bluetooth or other wireless network; provided, that device shall include any hand-held 
+28 or other portable electronic equipment capable of providing data communication between 2 or 
+29 more persons, including, but not limited to, a mobile telephone, a text messaging device, a 
+30 paging device, a personal digital assistant, a laptop computer, electronic equipment that is 
+3 of 9 
+31 capable of playing a video game or digital video disk, equipment on which digital photographs 
+32 are taken or transmitted or any combination thereof, or equipment that is capable of visually 
+33 receiving a television broadcast. 
+34 “Disclose”, to make reproductive or gender-affirming care location information available 
+35 to a third party, including, but not limited to, by selling, renting, sharing, publishing, releasing, 
+36 transferring, disseminating, providing access to or otherwise communicating such reproductive 
+37 or gender-affirming care location information orally, in writing, electronically or by any other 
+38 means. 
+39 “Individual”, a natural person located in the commonwealth or who was located in the 
+40 commonwealth at the time that their reproductive or gender-affirming care location information 
+41 was collected, processed or disclosed. 
+42 “Location privacy policy”, policies, practices and procedures controlling a covered 
+43 entity’s collection, processing, management, storage, retention and deletion of reproductive or 
+44 gender-affirming care location information, as set forth in regulations promulgated by the 
+45 attorney general pursuant to section 4. 
+46 “Permissible purpose”, as described in subsection (a) of section 2 and any regulations 
+47 promulgated by the attorney general pursuant to section 4. 
+48 “Process”, to perform any action or set of actions on or with reproductive or gender-
+49 affirming care location information, including, but not limited to, accessing, using, storing, 
+50 retaining, analyzing, creating, generating, aggregating, altering, correlating, operating on, 
+51 recording, modifying, organizing, structuring, disposing of, destroying, de-identifying or 
+4 of 9 
+52 otherwise manipulating reproductive or gender-affirming care location information. Process shall 
+53 not include disclosing reproductive or gender-affirming care location information. 
+54 “Public safety release of information”, response to an emergency service agency, an 
+55 emergency alert, a 911 communication or any other communication reporting an imminent threat 
+56 to human life. 
+57 “Reproductive or gender-affirming care location information”, information concerning 
+58 reproductive or gender-affirming health care services that: (i) is linked or easily linkable to an 
+59 individual; (ii) is derived from a device or from interactions between devices, with or without the 
+60 knowledge of the user and regardless of the technological method used; and (iii) pertains to or 
+61 directly or indirectly reveals the present or past geographical location of an individual or device 
+62 within the commonwealth with sufficient precision to identify street-level location information 
+63 within a range of 1,850 feet or less; provided, that reproductive or gender-affirming care location 
+64 information shall include any location information that could reasonably indicate an individual’s 
+65 attempt to acquire or receive reproductive or gender-affirming health care services or efforts to 
+66 research or obtain reproductive or gender-affirming health care services. Reproductive or gender-
+67 affirming care location information shall not include: (1) location information identifiable or 
+68 derived solely from the visual content of a legally obtained image, including the location of the 
+69 device that captured such image or publicly posted words; and (2) information that meets the 
+70 definition of protected health information for purposes of the federal Health Insurance Portability 
+71 and Accountability Act of 1996 and any regulations promulgated thereunder. 
+72 “Reproductive or gender-affirming health care services”, all supplies, care and services of 
+73 a medical, behavioral health, mental health, surgical, psychiatric, therapeutic, diagnostic, 
+5 of 9 
+74 preventative, rehabilitative or supportive nature relating to: (i) the treatment of gender dysphoria; 
+75 or (ii) pregnancy, contraception, assisted reproduction, miscarriage management or the 
+76 termination of a pregnancy. 
+77 “Service feature”, a discrete aspect of a service provided by a covered entity or service 
+78 provider, including, but not limited to, real-time directions, real-time weather and identity 
+79 authentication. 
+80 “Service provider”, an individual, partnership, corporation, limited liability company, 
+81 association or other group, however organized, that collects, processes or transfers reproductive 
+82 or gender-affirming care location information for the sole purpose of, and only to the extent that 
+83 such service provider is, conducting business activities on behalf of, for the benefit of, at the 
+84 direction of or under contractual agreement with a covered entity. 
+85 “Third party”, any covered entity or person other than: (i) a covered entity or service 
+86 provider that collected or processed reproductive or gender-affirming care location information 
+87 in accordance with this chapter; or (ii) the individual to whom the reproductive or gender-
+88 affirming care location information pertains; provided, however, that a third party shall not 
+89 include a government entity. 
+90 Section 2. (a) No covered entity or service provider shall collect or process an 
+91 individual’s reproductive or gender-affirming care location information; provided, however, that 
+92 a covered entity or service provider may collect or process an individual’s reproductive or 
+93 gender-affirming care location information if: (i) a covered entity or service provider provides 
+94 the individual with a copy of their location privacy policy; (ii) obtains consent from the 
+95 individual; provided, however, that clause (i) and (ii) shall not be required when the collection or 
+6 of 9 
+96 processing is done for the public safety release of information; and (iii) is consistent with 1 or 
+97 more of the following permissible purposes: 
+98 (A) provision of a product, service or service feature to the individual to whom the 
+99 reproductive or gender-affirming care location information pertains when that individual 
+100 requested the provision of such product, service or service feature by subscribing to, creating an 
+101 account or otherwise contracting with a covered entity; 
+102 (B) initiation, management, execution or completion of a financial or commercial 
+103 transaction or fulfill an order for a specific product or service requested by an individual to 
+104 whom the reproductive or gender-affirming care location information pertains, including any 
+105 associated routine administrative, operational and account-servicing activity such as billing, 
+106 shipping, delivery, storage and accounting; 
+107 (C) compliance with an obligation under federal or any state law; or 
+108 (D) public safety release of information. 
+109 (b) No covered entity or service provider that collects or processes reproductive or 
+110 gender-affirming care location information for a permissible purpose shall: 
+111 (i) collect more precise reproductive or gender-affirming care location information than 
+112 necessary to carry out the permissible purpose; 
+113 (ii) retain reproductive or gender-affirming care location information longer than 
+114 necessary to carry out the permissible purpose; 
+115 (iii) sell, rent, trade, gift or lease reproductive or gender-affirming care location 
+116 information to third parties; 
+7 of 9 
+117 (iv) derive or infer from reproductive or gender-affirming care location information any 
+118 data that is not necessary to carry out a permissible purpose; or 
+119 (v) disclose, cause to disclose or assist with or facilitate the disclosure of an individual’s 
+120 reproductive or gender-affirming care location information to a third party, unless such 
+121 disclosure is: (A) necessary to carry out the permissible purpose for which the reproductive or 
+122 gender-affirming care location information was collected; or (B) requested by the individual to 
+123 whom the reproductive or gender-affirming care location information pertains. 
+124 (c) No covered entity or service provider shall disclose an individual’s reproductive or 
+125 gender-affirming care location information to any federal, state or local government agency or 
+126 official unless: (i) the agency or official serves the covered entity or service provider with a valid 
+127 warrant or establishes the existence of exigent circumstances that make it impracticable to obtain 
+128 a warrant; (ii) disclosure is mandated under federal or any state law; or (iii) the individual 
+129 requests such disclosure. 
+130 Section 3. (a) A violation of this chapter or a regulation promulgated under this chapter 
+131 regarding an individual’s reproductive or gender-affirming care location information shall be 
+132 deemed an unfair or deceptive act or practice in the conduct of trade or commerce under chapter 
+133 93A. 
+134 (b) The attorney general may bring an action pursuant to section 4 of chapter 93A against 
+135 a covered entity or service provider to remedy violations of this chapter and for other relief that 
+136 may be appropriate. 
+137 Section 4. The attorney general shall promulgate regulations for the administration of this 
+138 chapter, including, but not limited to: 
+8 of 9 
+139 (i) determining minimum requirements for inclusion in a location privacy policy, 
+140 including, but not limited to: (A) reproductive or gender-affirming care location information that 
+141 is collected, processed or disclosed; (B) specific reproductive or gender-affirming care location 
+142 information that is disclosed or shared with a third party; (C) a list of the third parties that the 
+143 reproductive or gender-affirming care location information is disclosed to; (D) any updates to the 
+144 location privacy policy and notice to the individual; (E) if there are multiple permissible 
+145 purposes, a disclosure of each such purpose; and (F) posting on the covered entity or service 
+146 provider’s website and application the location privacy policy; 
+147 (ii) any limitations or restrictions on the use of targeted advertisements by a covered 
+148 entity or service provider; 
+149 (iii) requirements for consent by individuals to the collection or processing of their 
+150 reproductive or gender-affirming care location information, including, but not limited, to the 
+151 duration of consent, any situations where consent shall be obtained again if a covered entity or 
+152 service provider amends its location privacy policy and how consent may be revoked; 
+153 (iv) circumstances when reproductive or gender-affirming care location information shall 
+154 be permanently destroyed; 
+155 (v) prohibitions on adverse actions by a covered entity or service provider against an 
+156 individual because the individual exercised or refused to waive any rights under this chapter; 
+157 (vi) notice requirement for any disclosure of reproductive or gender-affirming care 
+158 location information pursuant to subsection (c) of section 2; and 
+159 (vii) any other regulations necessary for the implementation of this chapter. 
+9 of 9 
+160 SECTION 2. The attorney general shall promulgate regulations pursuant to section 4 of 
+161 chapter 93M, inserted by section 1, not later than 120 days after the effective date of this act. 
+162 SECTION 3. Section 1 shall take effect 1 year after the effective date of this act.

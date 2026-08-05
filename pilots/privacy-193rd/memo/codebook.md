@@ -1,6 +1,6 @@
 # Codebook: consumer data privacy, 193rd General Court (2023-2024)
 
-Status: complete through fate classification (Goals 1-4).
+Status: complete through fate classification (Goals 1-4); revised 2026-08-05 in response to external review (see "Revision log" at the end).
 
 ## Fate rules (Goal 4)
 
@@ -16,12 +16,18 @@ Furthest-stage ladder: referred < heard < reporting_extended < reported_favorabl
 Proposition-level fate (`data/proposition_fates.csv`): a proposition's final vehicles are its carrier bills excluding any bill superseded by a redraft that still carries the proposition (the chain is followed through redrafts).
 Fate is the most informative terminal across final vehicles:
 
-- `enacted_as_filed`: any final vehicle enacted (none occurred)
-- `enacted_other_vehicle`: proposition text found in an enacted chapter (checked by a signature-phrase sweep of all 464 chapters of 2023-2024, `data/enacted_probe.csv`; all 22 hits were reviewed and are false positives - e.g. "alpr" matching "malpractice", lottery budget lines, RMV identity-verification funding, data-center keycard security - so no proposition was enacted through another vehicle)
-- `rejected_by_recorded_vote`: none occurred; the only roll call recorded anywhere in the census is H4844's House passage, 159-0 (Y&N No. 133)
+- `enacted_as_filed`: an enacted final vehicle carries the proposition through its official chain.
+  One occurred: P-266 (NDII distribution ban) via H4744, enacted unanimously (House Y&N No. 119/121, Senate Roll Call #179) and signed as 2024 c.118.
+- `enacted_other_vehicle`: proposition text found in an enacted chapter without an official chain connection.
+  The sweep runs BEFORE fate assignment (review finding 2); reviewed matches live in `ENACTED_MATCHES` in `scripts/08_fates.py` and feed the classification.
+  All other probe hits were reviewed as false positives; the review verdicts are recorded in `PROBE_FALSE_POSITIVES` in the same script.
+- `rejected_by_recorded_vote`: none occurred; every roll call recorded in the census was in favor (H4844's 159-0 House passage; H4744's unanimous enactment votes)
 - `sent_to_study`: a final vehicle was accompanied by a study order
 - `died_no_recorded_action`: final vehicles ended with no further action, or every carrier was consolidated into a redraft that dropped the proposition (`dropped_in_consolidation` = yes, always with "no public explanation" in the detail, since the record never explains drops)
 - `indeterminate`: reserved for unparseable records; none occurred
+
+The fate citation is the vehicle that establishes the fate (review finding 6); the furthest-stage vehicle is cited in its own column.
+All selections are sorted, and `scripts/09_checks.py` asserts byte-identical output on rerun.
 
 "Sent to study" is recorded as its own fate because it is an explicit recorded disposition, but no study order in this census led to any further recorded action; functionally it is a terminal outcome.
 
@@ -34,12 +40,16 @@ Link types in `data/links.csv`, with the confidence vocabulary:
 - `sent_to_study` (verified-official-record): "Accompanied a study order, see X" - the standard death-by-study mechanism; X is the study order.
 - `reported_from_part_of` (verified-official-record): "Reported on a part of X" - a committee carved this bill out of vehicle X.
 - `official_similar` (verified-official-record): a listing on the bill's Similar Bills tab; includes cross-session entries (refilings) where the site records them.
-- `companion_identical` (verified-text-comparison): normalized 8-gram Jaccard similarity >= 0.85 between the two official texts, computed by `scripts/07_links.py` from the cached texts.
-- `companion_near_identical` (verified-text-comparison): Jaccard in [0.50, 0.85) - substantially the same text with drafting variations (for example H83 vs S25, where one chamber's numbering style shreds 8-grams; the atomization notes verified them substantively identical).
+- `text_identical` (verified-text-comparison): normalized 8-gram Jaccard similarity >= 0.85 between the two official texts.
+  RENAMED from `companion_identical` (review finding 9): similarity claims a TEXTUAL relationship only; whether a pair is companions, a refile, or a redraft is established by the official-record links, not by similarity.
+- `text_near_identical` (verified-text-comparison): Jaccard in [0.50, 0.85) - substantially the same text with drafting variations (for example H83 vs S25, where one chamber's numbering style shreds 8-grams; the atomization notes verified them substantively identical).
+- `study_order_terminal` (verified-official-record): each study order's own terminal actions, fetched and recorded so the claim that no study order produced further action rests on the orders' histories, not on assumption (review finding 7).
 - `proposition_kinship` (inferred-needs-review): hand-proposed link between two DIFFERENT propositions sharing a goal but not a mechanism.
   Every kinship link sits in `data/verification_queue.csv` with a pointer to the side-by-side excerpts in `memo/atomization/`.
 
-Proposition identity across bills (the same P-NNN appearing on several bills in `data/bill_propositions.csv`) is itself a link claim; its confidence is verified-text-comparison when the bills are companions or redrafts confirmed by diff, and the variant notes on each edge record stricter/weaker deltas.
+Proposition identity across bills (the same P-NNN appearing on several bills in `data/bill_propositions.csv`) is itself a link claim.
+Every edge now carries an `identity_basis` (review finding 10): `sole-carrier` (no cross-bill claim), `verified-text-identical` (Jaccard >= 0.85 with another carrier), `verified-official-lineage` (connected by an official redraft/supersession/conference record), or `inferred-analytic` (same-mechanism judgment only).
+All `inferred-analytic` edges are queued in `data/verification_queue.csv` as `proposition_identity` items.
 
 ## Atomization rules (Goal 2)
 
@@ -56,7 +66,8 @@ Propositions are identified across bills, not within one bill: two bills proposi
 Whether two provisions are "the same" proposition: same legal mechanism aimed at the same target (not merely the same goal).
 A stricter and a weaker version of the same mechanism are the same proposition (the difference is recorded on the bill-proposition edge); a different mechanism for the same goal is a different proposition.
 
-IDs are `P-NNN` (persistent, never reused; retired IDs stay retired).
+IDs are `P-NNN` (persistent, never reused; retired IDs stay retired - P-011, P-036, P-244, P-265 are retired, see `RETIRED` in `scripts/atoms.py`).
+Rights granted in one bill section but severable as policies (access, correction, deletion, portability) are separate propositions; the initial bundling of H83 s.8 violated this and was split (review finding 4).
 The proposition table is hand-authored analysis stored as data in `scripts/atoms.py`, compiled and validated by `scripts/06_compile_atoms.py`; every bill-proposition assignment cites the section(s) of the bill text that ground it.
 
 ## Domain definition
@@ -74,7 +85,9 @@ Included subdomains:
 - browsing, search, and telematics data
 - data security and breach notification obligations
 - government acquisition of personal data held by commercial parties (location shield acts, warrant standards for stored communications and browsing data, carrier location disclosure)
-- privacy of images of a person (nonconsensual image distribution) ONLY when the mechanism is a data-handling rule; criminal harassment provisions without a data-handling rule are excluded
+- interpersonal disclosure restrictions on identifiable personal information or images, regardless of civil or criminal mechanism: doxing civil actions AND nonconsensual distribution of identifiable intimate imagery (NDII).
+  REVISED 2026-08-05: the original text excluded "criminal harassment provisions without a data-handling rule," which was inconsistent with the inclusion of the doxing bills (same mechanism, civil remedy) and would have excluded the one enacted disclosure restriction in the domain (2024 c.118 s.6).
+  Conduct-regulation without a disclosure element stays OUT: coercive-control definitions, protective-order law, harassment penalties, and minor-sexting diversion programs
 - government surveillance of individuals through data-generating technology (facial recognition, ALPR data, police drone data rules)
 - restrictions on disclosure of personal information held in government records (911 recordings, lottery winners, victim compensation records, firearm licensee information)
 
@@ -99,6 +112,8 @@ Excluded, with the boundary rationale:
 
 - Source: `/api/GeneralCourts/193/Documents` on malegislature.gov, fetched 2026-08-04; 10,156 documents, of which 8,183 carry a bill number (bills, resolves, orders) and 1,973 are docket-book-only entries.
 - Enacted-vehicle universe: `/api/SessionLaws/2023` and `/2024`, 464 chapters, full text scanned, so budget outside sections are covered.
+- FEEDBACK LOOP (added 2026-08-05, review finding 1): every enacted chapter with confirmed in-domain content is traced to its origin bill via the chapter's `OriginBill` field, and that bill plus its official lineage ("New draft of", "New draft substituted", "Reported by/on") is admitted to the census with reason `IN-ENACTED-FEEDBACK` (`scripts/04_inclusion.py` ADDITIONS; lineage fetched by `scripts/05c_link_targets.py`).
+  This is how the NDII family (H1745/S1012/S1139 -> H4115 -> H4241 -> H4744 -> 2024 c.118) entered the census despite its generic title ("An Act to prevent abuse and exploitation") evading every title and committee net.
 
 ## Candidate-generation rules (recall net)
 
@@ -126,3 +141,15 @@ Reason codes:
 
 After the first pass, a vocabulary audit of all 10,156 titles added five speculative term groups (license plate reader, drone/unmanned, credit report, right to repair, deepfake) to the broad net so their relevance could be settled from bill text rather than assumption; the resulting decisions are recorded in `scripts/04_inclusion.py` OVERRIDES with per-bill notes.
 Every override entry names its reason code and a one-line justification; the auto rule handled the unambiguous cases (38 includes, all strong-term, and the no-evidence excludes).
+
+## Revision log
+
+2026-08-05, in response to an external review of PR #1 (all twelve findings accepted):
+
+1. Domain boundary revised: interpersonal disclosure restrictions (doxing, NDII) are in-domain regardless of civil/criminal mechanism.
+   This reverses the original criminal-harassment carve-out, which was inconsistent with the doxing inclusion and would have excluded the domain's only enactment (2024 c.118 s.6).
+2. Enacted-vehicle feedback loop added to the census (IN-ENACTED-FEEDBACK); the NDII lineage admitted (six bills).
+3. H4844 re-atomized from the official PDF onto the location-family propositions as narrowed variants (P-265 retired); its extraction script rewritten to read the cached PDF deterministically.
+4. Bundled rights split (P-011 -> P-271..P-274; P-036 -> P-275/P-276; P-244 -> P-277/P-278); S2539's AI-training-data consent rulemaking atomized (P-267).
+5. Fate pipeline restructured: probe before fates, ENACTED_MATCHES feeds classification, fate-vehicle citations, deterministic output.
+6. Similarity links renamed to text_identical/text_near_identical; identity_basis added to every bill-proposition edge; verification queue rebuilt with side-by-side excerpts and valid paths; study-order and redraft-successor records fetched before terminal claims; `scripts/09_checks.py` added.

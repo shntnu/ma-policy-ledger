@@ -167,6 +167,22 @@ OVERRIDES: dict[str, tuple[str, str, str]] = {
     "H4536": ("exclude", "EX-PROCEDURAL", "committee extension order"),
 }
 
+# Bills admitted through the enacted-vehicle feedback loop (codebook,
+# "Census universe" and reason code IN-ENACTED-FEEDBACK): 2024 c.118's
+# OriginBill is H4744; its official lineage (05c_link_targets.py) runs
+# H1745/S1012/S1139 (+ coercive-control bills, which stay excluded) ->
+# H4115 -> H4241 -> H4744. Each carries the NDII disclosure-restriction
+# mechanism, in-domain under the revised interpersonal-disclosure boundary.
+# bill -> (title, reason_code, note)
+ADDITIONS = {
+    "H1745": ("An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images", "IN-ENACTED-FEEDBACK", "NDII offense, SECTION 5"),
+    "S1012": ("An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images", "IN-ENACTED-FEEDBACK", "NDII offense, SECTION 5"),
+    "S1139": ("An Act relative to transmitting indecent visual depictions by teens and the unlawful distribution of explicit images", "IN-ENACTED-FEEDBACK", "NDII offense, SECTION 5"),
+    "H4115": ("An Act to prevent abuse and exploitation", "IN-ENACTED-FEEDBACK", "Judiciary redraft carrying the NDII offense, SECTION 6"),
+    "H4241": ("An Act to prevent abuse and exploitation", "IN-ENACTED-FEEDBACK", "House-engrossed vehicle of the NDII offense"),
+    "H4744": ("An Act to prevent abuse and exploitation", "IN-ENACTED-FEEDBACK", "conference vehicle; enacted as 2024 c.118 (NDII at s.6)"),
+}
+
 
 def parse_terms(s: str) -> dict[str, int]:
     out = {}
@@ -206,6 +222,15 @@ def main() -> None:
             dec, reason, note = OVERRIDES[key]
         out.append({**r, "decision": dec, "reason": reason, "note": note})
         counts[dec] = counts.get(dec, 0) + 1
+    for bn, (title, reason, note) in ADDITIONS.items():
+        out.append({
+            "bill_number": bn, "title": title, "domain_title_terms": "",
+            "broad_title_terms": "", "committee_net": "",
+            "fetch_status": "added_by_feedback", "legislation_type": "Bill",
+            "text_chars": "", "text_terms": "", "snippet": "",
+            "decision": "include", "reason": reason, "note": note,
+        })
+        counts["include"] = counts.get("include", 0) + 1
     with (DATA / "census.csv").open("w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=list(out[0].keys()))
         w.writeheader()

@@ -28,7 +28,8 @@ PROPS = {
     "P-008": ("privacy-by-design", "comprehensive", "Duty to maintain reasonable risk-mitigating policies scaled to size and sensitivity"),
     "P-009": ("anti-retaliation-pricing", "comprehensive", "No retaliation or price/quality difference for exercising rights; loyalty-program exception"),
     "P-010": ("privacy-policy-transparency", "comprehensive", "Public privacy policy with categories, purposes, transferees, brokers, retention; change notice"),
-    "P-011": ("individual-data-rights", "comprehensive", "Rights to access, correct, delete, and export covered data with response deadlines"),
+    # P-011 retired 2026-08-05: bundled four severable rights, violating the
+    # codebook severability test (review finding 4); split into P-271..P-274.
     "P-012": ("opt-out-rights-transfers-ads", "comprehensive", "Rights to withdraw consent and opt out of third-party transfers and targeted advertising"),
     "P-013": ("profiling-opt-out", "comprehensive", "Right to opt out of profiling in furtherance of decisions with legal or similarly significant effects"),
     "P-014": ("authorized-agents-opt-out-signals", "comprehensive", "Rights exercisable through authorized agents and browser/device opt-out preference signals"),
@@ -52,7 +53,8 @@ PROPS = {
     "P-033": ("gdpr-privacy-notice", "comprehensive", "Mandatory point-of-collection privacy notice of categories, purposes, sales, retention"),
     "P-034": ("mipsa-optout-sale-ads", "comprehensive", "Opt-out of sale, targeted cross-contextual and first-party advertising, honored via universal opt-out signal"),
     "P-035": ("gdpr-sensitive-info-gate", "comprehensive", "Sensitive/special-category information processable only with opt-in consent or enumerated exceptions"),
-    "P-036": ("gdpr-right-access-portability", "comprehensive", "Right to access processed personal information and receive it in portable format"),
+    # P-036 retired 2026-08-05: bundled access and portability; split into
+    # P-275/P-276 for consistency with the severability test.
     "P-037": ("gdpr-right-delete", "comprehensive", "Right to deletion/erasure with downstream notification and retention exceptions"),
     "P-038": ("gdpr-right-correct", "comprehensive", "Right to correction/rectification of inaccurate personal information"),
     "P-039": ("mipsa-right-revoke-consent", "comprehensive", "Right to revoke previously given consent via easy conspicuous mechanism"),
@@ -223,7 +225,8 @@ PROPS = {
     "P-241": ("chd-privacy-policy", "health", "Consumer Health Data Privacy Policy published on homepage; no collection beyond it without fresh consent"),
     "P-242": ("chd-optin-consent", "health", "Opt-in consent (separate for collection and sharing) before handling consumer health data"),
     "P-243": ("chd-nonretaliation", "health", "No discrimination against consumers exercising health-data rights"),
-    "P-244": ("chd-consumer-rights", "health", "Rights to know, withdraw consent, and 30-day deletion with third-party flow-down"),
+    # P-244 retired 2026-08-05: bundled severable rights; split into
+    # P-277/P-278 (consent withdrawal attaches to P-242's consent mechanism).
     "P-245": ("chd-security-minimization", "health", "Need-based access restriction and reasonable security for consumer health data"),
     "P-246": ("chd-sale-ban", "health", "Flat ban on selling consumer health data"),
     "P-247": ("psc-data-processing-standards", "health", "Pregnancy services centers may process personal information only with consent under fair-processing principles"),
@@ -239,8 +242,35 @@ PROPS = {
     "P-259": ("firearm-records-harm-relief", "govt-records", "Relief mechanism for persons harmed by prior release of firearm records"),
     "P-260": ("waiting-room-confidentiality-right", "health", "Patient confidentiality guarantee extended to common areas and waiting rooms"),
     "P-261": ("waiting-room-anonymity-system", "health", "No announcing patient names; numbering or pager systems required"),
-    # --- H4844 (care-location shield, carved from FY24 supplemental budget H4496) ---
-    "P-265": ("care-location-consent-regime", "location", "Ban on collecting/processing reproductive or gender-affirming-care location information except with privacy policy, consent, and permissible purpose; 93A/AG enforcement"),
+    # P-265 retired 2026-08-05: H4844 is re-atomized as narrowed variants of
+    # the location-family propositions P-121/P-123/P-124/P-125 (review
+    # finding 3: the single edge omitted severable mechanisms and misstated
+    # the official PDF, which does contain a sale/rent/trade/gift/lease ban).
+    # --- NDII / abuse-prevention lineage (H1745/S1012/S1139 -> H4115 ->
+    # H4241 -> H4744 -> 2024 c.118), admitted after the enacted-vehicle
+    # feedback loop and the boundary revision recorded in the codebook ---
+    "P-266": ("ndii-distribution-ban", "interpersonal", "Criminal offense to distribute (or threaten to distribute) identifiable nude or sexual visual material without consent, with intent to harm or reckless disregard; enacted version adds deepfake 'digitization' coverage"),
+    # --- S2539 delegated data-governance rulemaking (review finding 8) ---
+    "P-267": ("ai-training-data-consent-rulemaking", "comprehensive", "Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training, plus deletion or de-identification on request"),
+    # --- splits of retired P-011 (H83/S25 lineage individual rights) ---
+    "P-271": ("comp-right-access", "comprehensive", "Right to access covered data collected about the individual (24-month lookback as filed)"),
+    "P-272": ("comp-right-correct", "comprehensive", "Right to correct verifiable substantial inaccuracies in covered data"),
+    "P-273": ("comp-right-delete", "comprehensive", "Right to delete covered data about the individual"),
+    "P-274": ("comp-right-export", "comprehensive", "Right to export covered data in a portable, machine-readable format"),
+    # --- splits of retired P-036 (MIPSA/H1555 GDPR-style rights) ---
+    "P-275": ("gdpr-right-access", "comprehensive", "Right to obtain the specific pieces of personal information processed about the individual"),
+    "P-276": ("gdpr-right-portability", "comprehensive", "Right to receive personal information in a structured machine-readable format and transmit it"),
+    # --- splits of retired P-244 (consumer health data rights) ---
+    "P-277": ("chd-right-know", "health", "Consumer right to know what consumer health data is collected and shared"),
+    "P-278": ("chd-right-delete", "health", "Consumer right to 30-day deletion of consumer health data with third-party flow-down"),
+}
+
+# Retired proposition IDs (never reused). Kept for the audit trail.
+RETIRED = {
+    "P-011": "split into P-271..P-274 (severability, review finding 4)",
+    "P-036": "split into P-275/P-276 (severability consistency)",
+    "P-244": "split into P-277/P-278 (severability consistency)",
+    "P-265": "H4844 re-atomized onto P-121/P-123/P-124/P-125 as narrowed variants (review finding 3)",
 }
 
 # (bill, prop_id, section_cite, note)
@@ -255,7 +285,9 @@ _C93L = [  # H83/S25 filed comprehensive: prop -> section
     ("P-005", "c.93L s.3(3)", ""), ("P-006", "c.93L s.3(4)", ""),
     ("P-007", "c.93L s.4", ""), ("P-008", "c.93L s.5", ""),
     ("P-009", "c.93L s.6", ""), ("P-010", "c.93L s.7", ""),
-    ("P-011", "c.93L s.8", "24-month lookback; 30-day response"),
+    ("P-271", "c.93L s.8", "24-month lookback; 30-day response"),
+    ("P-272", "c.93L s.8", ""), ("P-273", "c.93L s.8", ""),
+    ("P-274", "c.93L s.8", ""),
     ("P-012", "c.93L s.9", ""), ("P-015", "c.93L s.10", ""),
     ("P-016", "c.93L s.11 (Data Brokers)", "dedicated $100/day penalties"),
     ("P-017", "c.93L s.11 (Civil rights)(a)-(c)", ""),
@@ -281,7 +313,9 @@ _C93M_REDRAFT = [  # H4632/S2770 redraft
     ("P-008", "c.93M s.6(a)(4)", "variant: adds retention-evaluation duty"),
     ("P-009", "c.93M s.7", ""),
     ("P-010", "c.93M s.9(i)-(j)", "stricter: homepage placement plus separate biometric and geolocation policies"),
-    ("P-011", "c.93M s.4", "weaker: 12-month lookback, 45-day response; FCRA exception replaces school exception"),
+    ("P-271", "c.93M s.4", "weaker: 12-month lookback, 45-day response"),
+    ("P-272", "c.93M s.4", ""), ("P-273", "c.93M s.4", "FCRA exception replaces school exception"),
+    ("P-274", "c.93M s.4", ""),
     ("P-012", "c.93M s.10(a)-(c),(e)-(j)", "variant: forwarding liability shield, loyalty conflict procedure"),
     ("P-013", "c.93M ss.1(a)(26),10(d)", "added by redraft"),
     ("P-014", "c.93M s.15", "added by redraft"),
@@ -310,7 +344,8 @@ _MIPSA = [
     ("P-033", "c.93M s.7", "10-year archive for large holders"),
     ("P-034", "c.93M ss.8,17(b)-(d),25(u)(3)", ""),
     ("P-035", "c.93M s.9", "consent-gate mechanism; 12-month re-request cooldown"),
-    ("P-036", "c.93M s.10", ""), ("P-037", "c.93M s.11", ""),
+    ("P-275", "c.93M s.10", ""), ("P-276", "c.93M s.10", ""),
+    ("P-037", "c.93M s.11", ""),
     ("P-038", "c.93M s.12", ""), ("P-039", "c.93M s.13", ""),
     ("P-040", "c.93M ss.16,18", ""), ("P-041", "c.93M s.19", ""),
     ("P-042", "c.93M ss.20,25(p)(2)-(3),25(f)", ""),
@@ -327,7 +362,8 @@ edges("H1555",
     ("P-032", "c.93M s.4", "variant: adds public-task basis"),
     ("P-033", "c.93M ss.7-9", "variant: 1-month deadline"),
     ("P-035", "c.93M s.6", "stricter: prohibition-with-exceptions for special categories"),
-    ("P-036", "c.93M ss.10,15", "access and portability as separate GDPR articles"),
+    ("P-275", "c.93M s.10", "separate GDPR access article"),
+    ("P-276", "c.93M s.15", "separate GDPR portability article"),
     ("P-037", "c.93M ss.12,14", "stricter: right to be forgotten with downstream notification"),
     ("P-038", "c.93M s.11", ""),
     ("P-041", "c.93M ss.20,22", ""),
@@ -566,8 +602,9 @@ edges("H395",
 )
 
 _CHD = [
-    ("P-241", "c.93M s.2", ""), ("P-242", "c.93M s.3(1)-(3)", ""),
-    ("P-243", "c.93M s.3(4)", ""), ("P-244", "c.93M s.4", ""),
+    ("P-241", "c.93M s.2", ""), ("P-242", "c.93M s.3(1)-(3)", "consent withdrawal right (s.4) attaches to this consent mechanism"),
+    ("P-243", "c.93M s.3(4)", ""),
+    ("P-277", "c.93M s.4", ""), ("P-278", "c.93M s.4", ""),
     ("P-245", "c.93M s.5", ""), ("P-246", "c.93M s.6", ""),
 ]
 for b in ("H386", "S184"):
@@ -597,7 +634,28 @@ edges("S1368",
     ("P-260", "SECTION 1 (c.111 s.70E)", ""),
     ("P-261", "SECTION 2", ""),
 )
-edges("H4844", ("P-265", "c.93M ss.1-4 (text: data/h4844_text.txt, from official PDF)", "narrowed location-shield variant: care-location data only, no PRA, no sale-ban section; reported on a part of H4496"))
+# H4844 (official text: data/h4844_text.txt, extracted from the cached
+# malegislature.gov PDF): a care-location-scoped version of the location
+# shield. Weaker-scope variants of the same mechanisms per the codebook rule.
+_H4844_NOTE = "narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action)"
+edges("H4844",
+    ("P-121", "c.93M ss.1,2(a); SECTIONS 2-3", _H4844_NOTE),
+    ("P-123", "c.93M s.2(b)-(d) (precision, retention, inference minimization)", _H4844_NOTE),
+    ("P-124", "c.93M s.2(e) (sale/rent/trade/gift/lease ban; third-party disclosure restriction)", _H4844_NOTE),
+    ("P-125", "c.93M s.2(f) (government warrant gate)", _H4844_NOTE),
+)
+
+# NDII lineage: standalone filings, Judiciary redraft, engrossed and
+# conference vehicles. H4241/H4744 have no API text; the enacted text is
+# 2024 c.118 (https://malegislature.gov/Laws/SessionLaws/Acts/2024/Chapter118).
+for b in ("H1745", "S1012", "S1139"):
+    edges(b, ("P-266", "SECTION 5 (c.265 s.43A(b) rewrite)",
+              "as-filed version; no digitization (deepfake) coverage"))
+edges("H4115", ("P-266", "SECTION 6 (c.265 s.43A(b) rewrite)", "Judiciary redraft; no digitization coverage"))
+edges("H4241", ("P-266", "engrossed text of H4115 SECTION 6 lineage (API text empty; see c.118 s.6)", "House-engrossed vehicle"))
+edges("H4744", ("P-266", "2024 c.118 s.6 (c.265 s.43A(b)-(c))", "ENACTED; conference text adds 'digitization' (deepfake) coverage"))
+edges("S2539",
+    ("P-267", "SECTION 1 (c.7D s.17(f)(iv))", "delegated rulemaking over personal data in AI training; boundary call recorded in codebook"))
 
 EDGES = E
 
@@ -610,4 +668,10 @@ OUT_OF_DOMAIN = {
     "S1557": "Drone weaponization ban, acquisition approval, critical-infrastructure airspace, hunting ban (c.6 s.221(b); SECTION 2)",
     "H377": "Deceptive pregnancy-services advertising ban (c.93A1/2 s.2): advertising regulation without a data-handling rule",
     "S174": "Deceptive pregnancy-services advertising ban (c.93A1/2 s.2): same as H377",
+    "H1745": "Minor-sexting diversion program (SECTION 3, c.119 s.39N) and criminal-harassment penalty changes (SECTION 4): juvenile-diversion and penalty mechanisms, not disclosure restrictions",
+    "S1012": "Same out-of-domain content as H1745 (diversion program, penalties)",
+    "S1139": "Same out-of-domain content as H1745 (diversion program, penalties)",
+    "H4115": "Diversion program, penalty changes, and coercive-control provisions (abuse-prevention-order law)",
+    "H4241": "Same as H4115 (engrossed vehicle)",
+    "H4744": "2024 c.118 out-of-domain content: coercive-control definitions (abuse-order law, incl. threatening to publish sensitive personal information as an abuse element), minor-sexting diversion (c.119 s.39N), penalty increases, related procedural sections",
 }

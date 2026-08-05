@@ -9,7 +9,6 @@ P-007,consent-request-standards,comprehensive,"Standalone, symmetric, non-infera
 P-008,privacy-by-design,comprehensive,Duty to maintain reasonable risk-mitigating policies scaled to size and sensitivity,4
 P-009,anti-retaliation-pricing,comprehensive,No retaliation or price/quality difference for exercising rights; loyalty-program exception,4
 P-010,privacy-policy-transparency,comprehensive,"Public privacy policy with categories, purposes, transferees, brokers, retention; change notice",4
-P-011,individual-data-rights,comprehensive,"Rights to access, correct, delete, and export covered data with response deadlines",4
 P-012,opt-out-rights-transfers-ads,comprehensive,Rights to withdraw consent and opt out of third-party transfers and targeted advertising,4
 P-013,profiling-opt-out,comprehensive,Right to opt out of profiling in furtherance of decisions with legal or similarly significant effects,2
 P-014,authorized-agents-opt-out-signals,comprehensive,Rights exercisable through authorized agents and browser/device opt-out preference signals,2
@@ -32,7 +31,6 @@ P-032,gdpr-lawful-basis,comprehensive,"Processing lawful only on enumerated base
 P-033,gdpr-privacy-notice,comprehensive,"Mandatory point-of-collection privacy notice of categories, purposes, sales, retention",3
 P-034,mipsa-optout-sale-ads,comprehensive,"Opt-out of sale, targeted cross-contextual and first-party advertising, honored via universal opt-out signal",2
 P-035,gdpr-sensitive-info-gate,comprehensive,Sensitive/special-category information processable only with opt-in consent or enumerated exceptions,3
-P-036,gdpr-right-access-portability,comprehensive,Right to access processed personal information and receive it in portable format,3
 P-037,gdpr-right-delete,comprehensive,Right to deletion/erasure with downstream notification and retention exceptions,3
 P-038,gdpr-right-correct,comprehensive,Right to correction/rectification of inaccurate personal information,3
 P-039,mipsa-right-revoke-consent,comprehensive,Right to revoke previously given consent via easy conspicuous mechanism,2
@@ -91,11 +89,11 @@ P-098,93h-notify-fbi,data-security,Add the FBI as a mandatory breach-notificatio
 P-099,93h-security-program-mandate,data-security,Statutory comprehensive written information security program requirement via OCABR regulations,1
 P-100,93h-personal-info-public-records-exclusion,data-security,Exclude lawfully obtained public information from c.93H personal information,1
 P-101,breach-reporting-insurance-protection,data-security,Contracts and cyber-insurance may not prohibit/limit reporting incidents or breaches to government,1
-P-121,location-consent-regime,location,Device location information collectible only for permissible purposes with per-purpose opt-in consent and expiry,4
+P-121,location-consent-regime,location,Device location information collectible only for permissible purposes with per-purpose opt-in consent and expiry,5
 P-122,location-targeted-ad-optout,location,Opt-out of location processing for targeted advertising,4
-P-123,location-minimization,location,"No more precise, longer-retained, or further-inferred location data than the purpose requires",4
-P-124,location-sale-disclosure-ban,location,Ban on sale/rent/trade/lease of location information and unnecessary third-party disclosure,4
-P-125,location-govt-access-warrant-gate,location,"No disclosure of location information to government absent warrant, exigency, legal mandate, or subject request",4
+P-123,location-minimization,location,"No more precise, longer-retained, or further-inferred location data than the purpose requires",5
+P-124,location-sale-disclosure-ban,location,Ban on sale/rent/trade/lease of location information and unnecessary third-party disclosure,5
+P-125,location-govt-access-warrant-gate,location,"No disclosure of location information to government absent warrant, exigency, legal mandate, or subject request",5
 P-126,location-govt-monetization-ban,location,Government entities may not monetize location information,4
 P-127,location-privacy-policy-duty,location,Mandatory Location Privacy Policy with enumerated contents and change re-consent,4
 P-128,location-warrant-transparency-reports,location,Annual aggregate reporting to AG of location warrants and mandated disclosures,2
@@ -191,7 +189,6 @@ P-239,ad-network-ag-enforcement,advertising,"AG enforcement with $1,000 statutor
 P-241,chd-privacy-policy,health,Consumer Health Data Privacy Policy published on homepage; no collection beyond it without fresh consent,2
 P-242,chd-optin-consent,health,Opt-in consent (separate for collection and sharing) before handling consumer health data,2
 P-243,chd-nonretaliation,health,No discrimination against consumers exercising health-data rights,2
-P-244,chd-consumer-rights,health,"Rights to know, withdraw consent, and 30-day deletion with third-party flow-down",2
 P-245,chd-security-minimization,health,Need-based access restriction and reasonable security for consumer health data,2
 P-246,chd-sale-ban,health,Flat ban on selling consumer health data,2
 P-247,psc-data-processing-standards,health,Pregnancy services centers may process personal information only with consent under fair-processing principles,2
@@ -206,4 +203,13 @@ P-258,firearm-records-destruction,govt-records,Mandate to destroy existing firea
 P-259,firearm-records-harm-relief,govt-records,Relief mechanism for persons harmed by prior release of firearm records,1
 P-260,waiting-room-confidentiality-right,health,Patient confidentiality guarantee extended to common areas and waiting rooms,1
 P-261,waiting-room-anonymity-system,health,No announcing patient names; numbering or pager systems required,1
-P-265,care-location-consent-regime,location,"Ban on collecting/processing reproductive or gender-affirming-care location information except with privacy policy, consent, and permissible purpose; 93A/AG enforcement",1
+P-266,ndii-distribution-ban,interpersonal,"Criminal offense to distribute (or threaten to distribute) identifiable nude or sexual visual material without consent, with intent to harm or reckless disregard; enacted version adds deepfake 'digitization' coverage",6
+P-267,ai-training-data-consent-rulemaking,comprehensive,"Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training, plus deletion or de-identification on request",1
+P-271,comp-right-access,comprehensive,Right to access covered data collected about the individual (24-month lookback as filed),4
+P-272,comp-right-correct,comprehensive,Right to correct verifiable substantial inaccuracies in covered data,4
+P-273,comp-right-delete,comprehensive,Right to delete covered data about the individual,4
+P-274,comp-right-export,comprehensive,"Right to export covered data in a portable, machine-readable format",4
+P-275,gdpr-right-access,comprehensive,Right to obtain the specific pieces of personal information processed about the individual,3
+P-276,gdpr-right-portability,comprehensive,Right to receive personal information in a structured machine-readable format and transmit it,3
+P-277,chd-right-know,health,Consumer right to know what consumer health data is collected and shared,2
+P-278,chd-right-delete,health,Consumer right to 30-day deletion of consumer health data with third-party flow-down,2
