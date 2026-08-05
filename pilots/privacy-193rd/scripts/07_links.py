@@ -87,6 +87,7 @@ KINSHIPS = [
     ("P-246", "P-124", "Sale bans: consumer health data vs location information", "memo/atomization/family-health-govrecords.md; family-location.md"),
     ("P-035", "P-242", "Sensitive-data opt-in: comprehensive-bill gates vs consumer-health-data chapter", "memo/atomization/family-mipsa-internet.md; family-health-govrecords.md"),
     ("P-234", "P-006", "Sensitive data in advertising: ad-network opt-in (H395) vs MDPPA flat ban", "memo/atomization/family-driver-commercial.md; family-comprehensive-mdppa.md"),
+    ("P-265", "P-121", "Care-location consent regime (H4844) is a narrowed variant of the general location-shield consent regime (H357/S148): same mechanism restricted to care-related location data; official lineage runs through budget bill H4496, not the shield bills", "data/h4844_text.txt; memo/atomization/family-location.md"),
 ]
 
 # Judgment calls and anomalies for the same review queue.

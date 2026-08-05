@@ -239,8 +239,8 @@ PROPS = {
     "P-259": ("firearm-records-harm-relief", "govt-records", "Relief mechanism for persons harmed by prior release of firearm records"),
     "P-260": ("waiting-room-confidentiality-right", "health", "Patient confidentiality guarantee extended to common areas and waiting rooms"),
     "P-261": ("waiting-room-anonymity-system", "health", "No announcing patient names; numbering or pager systems required"),
-    # --- H4844 (location shield redraft; text pending) ---
-    "P-265": ("care-location-shield", "location", "Protections for reproductive/gender-affirming-care location information (H4844 redraft; text pending verification)"),
+    # --- H4844 (care-location shield, carved from FY24 supplemental budget H4496) ---
+    "P-265": ("care-location-consent-regime", "location", "Ban on collecting/processing reproductive or gender-affirming-care location information except with privacy policy, consent, and permissible purpose; 93A/AG enforcement"),
 }
 
 # (bill, prop_id, section_cite, note)
@@ -597,7 +597,7 @@ edges("S1368",
     ("P-260", "SECTION 1 (c.111 s.70E)", ""),
     ("P-261", "SECTION 2", ""),
 )
-edges("H4844", ("P-265", "text pending", "reported on a part of H4496; House-passed text to be verified from attachment/journal"))
+edges("H4844", ("P-265", "c.93M ss.1-4 (text: data/h4844_text.txt, from official PDF)", "narrowed location-shield variant: care-location data only, no PRA, no sale-ban section; reported on a part of H4496"))
 
 EDGES = E
 

@@ -586,3 +586,5 @@
 {"url": "https://malegislature.gov/Bills/193/S27/SimilarBills", "path": "raw/cache/1694fe9d5201f492380ff7fd2129bc92dd76e0e1.bin", "fetched_at": "2026-08-05T03:44:53.617947+00:00", "status": 200}
 {"url": "https://malegislature.gov/Bills/193/S343/SimilarBills", "path": "raw/cache/7ba918da0568bd1bf91e0dd68a42d8d2d919397c.bin", "fetched_at": "2026-08-05T03:44:57.826091+00:00", "status": 200}
 {"url": "https://malegislature.gov/Bills/193/S844/SimilarBills", "path": "raw/cache/12d0b0b30ddc244eab6f93cabaa271e35f027515.bin", "fetched_at": "2026-08-05T03:45:02.930814+00:00", "status": 200}
+{"url": "https://malegislature.gov/Bills/193/H4844/BillText", "path": "raw/cache/f42607ec46ba5c56ce28cea46fcc9f1401ef2eb2.bin", "fetched_at": "2026-08-05T11:49:33.871194+00:00", "status": 200}
+{"url": "https://malegislature.gov/Bills/193/H4844.pdf", "path": "raw/cache/4f7ee8b3b4cb6766033eb376dbe457b5a6f2e77d.bin", "fetched_at": "2026-08-05T11:49:56.621447+00:00", "status": 200}
