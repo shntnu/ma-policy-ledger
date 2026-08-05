@@ -168,6 +168,14 @@ OVERRIDES: dict[str, tuple[str, str, str]] = {
     "H72": ("exclude", "EX-ADJACENT", "deepfake criminal offense"),
     "H3818": ("exclude", "EX-ADJACENT", "online exploitation criminal offense"),
     "H81": ("exclude", "EX-ADJACENT", "broadband in public housing"),
+    # --- widened-term fallthroughs from the legacy candidate net (decided
+    # after the fourth-pass term widening; consistent with the enacted-side
+    # adjudication rows for the same mechanisms)
+    "H255": ("exclude", "EX-PROGRAM-INCIDENT", "online-lottery bill; player-data nondisclosure incident to the program (2024 c.140 s.7 verdict class)"),
+    "S170": ("exclude", "EX-PROGRAM-INCIDENT", "online-lottery bill; same as H255"),
+    "H3372": ("exclude", "EX-PROGRAM-INCIDENT", "third-party delivery data reporting; restaurant/platform business data confidentiality incident to the reporting scheme"),
+    "S2367": ("exclude", "EX-PROGRAM-INCIDENT", "companion of H3372"),
+    "S419": ("exclude", "EX-PROGRAM-INCIDENT", "early electronic municipal voting; voter-application information clause incident to the voting procedure"),
     # --- excludes: procedural filings, not legislation
     "H4299": ("exclude", "EX-PROCEDURAL", "committee extension order"),
     "H4536": ("exclude", "EX-PROCEDURAL", "committee extension order"),
