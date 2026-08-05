@@ -1,0 +1,456 @@
+bill_number,docket_number,title,docket_only,primary_sponsor,domain_title_terms,broad_title_terms,committee_net,url
+,SD21,Worcester DA 2022 Wiretap Report,no,Worcester District Attorney,wiretap_interception,,,
+,SD22,AGO 2022 Wiretap Report,no,Office of the Attorney General,wiretap_interception,,,
+,SD310,Norfolk DA 2022 Wiretap Report,no,Norfolk District Attorney,wiretap_interception,,,
+,SD831,Middlesex DA 2022 Wiretap Report,no,Middlesex District Attorney,wiretap_interception,,,
+,HD3452,An Act relative to student and educator data privacy,no,Kate Lipper-Garabedian,privacy;data_privacy_protection,data,,
+,HD3466,An Act relative to student and educator data privacy,no,Kate Lipper-Garabedian,privacy;data_privacy_protection,data,,
+,SD2120,Northwestern DA 2022 Wiretap Report,no,Northwestern District Attorney,wiretap_interception,,,
+,SD2260,Essex County DA 2022 Wiretap Report,no,Essex County District Attorney,wiretap_interception,,,
+,HD3911,An Act relevant to the surveillance and reporting of Long COVID,no,Mindy Domb,surveillance,,,
+,HD4087,A report of the District Attorney of the Cape and Islands District (under Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2022,no,Cape and Islands District Attorney,wiretap_interception,,,
+,HD4088,A communication from the District Attorney of Essex County (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2022,no,Essex County District Attorney,wiretap_interception,,,
+,HD4089,A report of the Middlesex District Attorney (under Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2022,no,Middlesex District Attorney,wiretap_interception,,,
+,HD4090,A communication from the District Attorney of Norfolk County (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2022,no,Norfolk District Attorney,wiretap_interception,,,
+,HD4091,A communication from the Northwestern District Attorney’s Office (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2022,no,Northwestern District Attorney,wiretap_interception,,,
+,HD4092,A report of the District Attorney of Worcester County (under Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2022,no,Worcester District Attorney,wiretap_interception,,,
+,HD4125,A communication from the Hampden County District Attorney’s Office (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2022,no,Hampden District Attorney,wiretap_interception,,,
+,HD4265,Special report of the Special Commission to Evaluate Government Use of Facial Recognition Technology (under Section 105 of Chapter 253 of the Acts of 2020 and most recently revived and continued by Section70 of Chapter 2 of the Acts of 2023) submitting its final report and appendices,no,Facial Recognition Technology,facial_recognition,technology,,
+,HD4787,The annual report of the Norfolk County District Attorney’s Office (under Section 99(R) of Chapter 272 of the General Laws) submitting its report relative to wiretaps for calendar year 2023,no,Norfolk District Attorney,wiretap_interception,,,
+,HD4795,A report of the District Attorney of Essex County (under Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2023,no,Essex County District Attorney,wiretap_interception,,,
+,HD4819,A communication from the Hampden County District Attorney’s Office (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2023,no,Hampden District Attorney,wiretap_interception,,,
+,SD2967,Annual report of wiretap interceptions for the 2023 calendar year,no,Cape and Islands District Attorney,wiretap_interception,,,
+,HD4833,A communication from the District Attorney of the Cape and Islands District (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2023,no,Cape and Islands District Attorney,wiretap_interception,,,
+,SD2973,Worcester DA 2023 Wiretap Report,no,Worcester District Attorney,wiretap_interception,,,
+,SD3008,2023 Norfolk DA Wiretap Report,no,Norfolk District Attorney,wiretap_interception,,,
+,HD4920,A report of the District Attorney of Worcester County (under Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2023,no,Worcester District Attorney,wiretap_interception,,,
+,SD3014,Middlesex District Attorney 2023 Wiretap Report,no,Middlesex District Attorney,wiretap_interception,,,
+,SD3031,Northwestern DA 2023 Wiretap Report,no,Northwestern District Attorney,wiretap_interception,,,
+,SD3038,Modernizing information technology and enhancing cybersecurity,no,Executive Office of Technology Services & Security,cybersecurity,information;technology,,
+,HD4960,A communication from the Northwestern District Attorney’s Office (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2023,no,Northwestern District Attorney,wiretap_interception,,,
+,SD3051,Bristol District Attorney 2023 Wiretap Report,no,Bristol District Attorney,wiretap_interception,,,
+,HD5020,A communication from the Bristol County District Attorney’s Office (see Section 99 of Chapter 272 of the General Laws) submitting a report relative to wiretaps for calendar year 2023,no,Bristol District Attorney,wiretap_interception,,,
+H1049,HD1900,An Act protecting consumers' privacy in mortgage applications,no,Daniel J. Hunt,privacy,,,https://malegislature.gov/Bills/193/H1049
+H131,HD668,An Act fast-tracking adoptions for children in DCF custody,no,"Donald R. Berthiaume, Jr.",tracking,,,https://malegislature.gov/Bills/193/H131
+H1428,HD265,An Act relative to personal information,no,Edward F. Coppinger,personal_information,information,,https://malegislature.gov/Bills/193/H1428
+H1442,HD3920,An Act to protect the privacy of 911 callers,no,Michael S. Day,privacy,,,https://malegislature.gov/Bills/193/H1442
+H1455,HD517,An Act relative to the tracking of certain electronic devices,no,Marjorie C. Decker,tracking,electronic,,https://malegislature.gov/Bills/193/H1455
+H1556,HD465,An Act relative to safety and privacy for elected officials,no,Steven S. Howitt,privacy,,,https://malegislature.gov/Bills/193/H1556
+H1572,HD1746,An Act prohibiting motor vehicle tracking devices without consent,no,"Bradley H. Jones, Jr.",tracking,,,https://malegislature.gov/Bills/193/H1572
+H1672,HD301,An Act to ensure backyard privacy,no,Joseph D. McKenna,privacy,,,https://malegislature.gov/Bills/193/H1672
+H1707,HD1852,An Act relative to the malicious doxing of personal information,no,Tram T. Nguyen,personal_information,information,,https://malegislature.gov/Bills/193/H1707
+H1722,HD2652,An Act relative to wiretapping in the Commonwealth,no,Edward R. Philips,wiretap_interception,,,https://malegislature.gov/Bills/193/H1722
+H1728,HD2304,An Act to implement the recommendations of the special commission on facial recognition technology,no,Orlando Ramos,facial_recognition,technology,,https://malegislature.gov/Bills/193/H1728
+H1760,HD178,An Act to establish a DNA exception rule for victims of rape,no,Adam J. Scanlon,genetic,,,https://malegislature.gov/Bills/193/H1760
+H1786,HD2291,An Act modernizing the Massachusetts wiretap law,no,Jeffrey Rosario Turco,wiretap_interception,,,https://malegislature.gov/Bills/193/H1786
+H1809,HD2076,An Act prohibiting electronic tracking of motor vehicles,no,Marcus S. Vaughn,tracking,electronic,,https://malegislature.gov/Bills/193/H1809
+H1893,HD2850,An Act relative to social media privacy protection,no,Kenneth I. Gordon,privacy;social_media,,,https://malegislature.gov/Bills/193/H1893
+H1976,HD4075,"An Act to improve the quality of mental health services, and rights of patients, by providing for sufficient privacy.",no,Michael S. Day,privacy,,,https://malegislature.gov/Bills/193/H1976
+H1986,HD3653,Resolve relative to children’s mental health in social media,no,Denise C. Garlick,social_media,,,https://malegislature.gov/Bills/193/H1986
+H2334,HD2935,"An Act relative to tracking, tracing and stopping illegal firearms",no,Carlos González,tracking,,,https://malegislature.gov/Bills/193/H2334
+H2336,HD835,An Act relative to the expansion of the state DNA database,no,Danielle W. Gregoire,genetic,,,https://malegislature.gov/Bills/193/H2336
+H2342,HD736,An Act relative to lawfully owed DNA,no,Natalie M. Higgins,genetic,,,https://malegislature.gov/Bills/193/H2342
+H326,HD545,An Act to prohibit negative option sales and disclosure of financial and personal information without a consumer’s express agreement,no,Steven S. Howitt,personal_information,information,,https://malegislature.gov/Bills/193/H326
+H3404,HD2360,An Act establishing driver privacy protections,no,Sarah K. Peake,privacy,,,https://malegislature.gov/Bills/193/H3404
+H3434,HD428,An Act relative to all-electronic tolling data privacy,no,William M. Straus,privacy;data_privacy_protection,data;electronic,,https://malegislature.gov/Bills/193/H3434
+H357,HD3698,"An Act protecting reproductive health access, LGBTQ lives, religious liberty, and freedom of movement by banning the sale of cell phone location information",no,Kate Lipper-Garabedian,location_data,information,,https://malegislature.gov/Bills/193/H357
+H377,HD1850,An Act to protect patient privacy and prevent unfair and deceptive advertising of pregnancy-related services,no,Tram T. Nguyen,privacy,,,https://malegislature.gov/Bills/193/H377
+H4299,HD4855,"Extension Order - Advanced Information Technology, the Internet and Cybersecurity",no,Tricia Farley-Bouvier,cybersecurity,information;internet;technology,,https://malegislature.gov/Bills/193/H4299
+H4323,,An Act to protect the privacy of 911 callers,no,Joint Committee on the Judiciary,privacy,,,https://malegislature.gov/Bills/193/H4323
+H4359,,An Act to implement the recommendations of the special commission on facial recognition technology,no,Joint Committee on the Judiciary,facial_recognition,technology,,https://malegislature.gov/Bills/193/H4359
+H4536,HD5027,"Extension Order - Advanced Information Technology, the Internet and Cybersecurity",no,Tricia Farley-Bouvier,cybersecurity,information;internet;technology,,https://malegislature.gov/Bills/193/H4536
+H4632,,An Act establishing the Massachusetts Data Privacy Act,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",privacy;data_privacy_protection,data,J33,https://malegislature.gov/Bills/193/H4632
+H4836,,An Act to establish a DNA exception rule for victims of rape,no,Joint Committee on the Judiciary,genetic,,,https://malegislature.gov/Bills/193/H4836
+H4844,,An Act providing protections for reproductive or gender-affirming care location information,no,House Committee on Ways and Means,location_data,information,,https://malegislature.gov/Bills/193/H4844
+H532,HD3448,An Act relative to student and educator data privacy,no,Kate Lipper-Garabedian,privacy;data_privacy_protection,data,,https://malegislature.gov/Bills/193/H532
+H60,HD3263,An Act establishing the Massachusetts information privacy and security act,no,Daniel R. Carey,privacy,information,J33,https://malegislature.gov/Bills/193/H60
+H63,HD3053,An Act to protect biometric information,no,Dylan A. Fernandes,biometric,information,J33,https://malegislature.gov/Bills/193/H63
+H655,HD3256,"An Act requiring dignity, privacy, and safety for residents in nursing homes and rest homes",no,Thomas P. Walsh,privacy,,,https://malegislature.gov/Bills/193/H655
+H73,HD2683,An Act relative to the interception of wire and oral communications,no,Christopher M. Markey,wiretap_interception,,J33,https://malegislature.gov/Bills/193/H73
+H76,HD1851,An Act relative to protecting sensitive information from security breaches,no,Tram T. Nguyen,data_security_breach,information,J33,https://malegislature.gov/Bills/193/H76
+H80,HD2325,An Act relative to internet privacy rights for children,no,David M. Rogers,privacy,internet,J33,https://malegislature.gov/Bills/193/H80
+H83,HD2281,An Act to establish the Massachusetts data privacy protection act,no,Andres X. Vargas,privacy;data_privacy_protection,data,J33,https://malegislature.gov/Bills/193/H83
+S1022,SD994,An Act to protect the privacy of 911 callers,no,Jason M. Lewis,privacy,,,https://malegislature.gov/Bills/193/S1022
+S1060,SD2144,An Act to provide a DNA exception for statute of limitations on sex offenses,no,Mark C. Montigny,genetic,,,https://malegislature.gov/Bills/193/S1060
+S1075,SD1869,An Act updating the Commonwealth's wiretap statutes,no,Michael O. Moore,wiretap_interception,,,https://malegislature.gov/Bills/193/S1075
+S1093,SD1973,"An Act providing a defense to prosecution for violations of the wiretap law for interceptions made to make a record of threats, harassment or other crimes",no,Patrick M. O'Connor,wiretap_interception,,,https://malegislature.gov/Bills/193/S1093
+S1123,SD91,An Act relative to the tracking of medical malpractice cases,no,Bruce E. Tarr,tracking,,,https://malegislature.gov/Bills/193/S1123
+S1128,SD425,An Act updating the wiretap statutes in the Commonwealth,no,Bruce E. Tarr,wiretap_interception,,,https://malegislature.gov/Bills/193/S1128
+S1141,SD1911,An Act relative to the length of wiretap warrants,no,John C. Velis,wiretap_interception,,,https://malegislature.gov/Bills/193/S1141
+S1368,SD839,An Act relative to patient identity and privacy protection in waiting rooms,no,Paul R. Feeney,privacy,,,https://malegislature.gov/Bills/193/S1368
+S140,SD1466,An Act relative to protecting biometric information under the security breach law,no,Michael J. Barrett,biometric;data_security_breach,information,,https://malegislature.gov/Bills/193/S140
+S148,SD1857,"An Act protecting reproductive health access, LGBTQ lives, religious liberty, and freedom of movement by banning the sale of cell phone location information",no,Cynthia Stone Creem,location_data,information,,https://malegislature.gov/Bills/193/S148
+S1528,SD882,An Act permitting familial searching and partial DNA matches in investigating certain unsolved crimes,no,Anne M. Gobi,genetic,,,https://malegislature.gov/Bills/193/S1528
+S1551,SD2225,An Act to promote transparency of facial recognition and driver's license photos,no,Mark C. Montigny,facial_recognition,,,https://malegislature.gov/Bills/193/S1551
+S1554,SD1493,An Act relative to lawfully owed DNA,no,Michael O. Moore,genetic,,,https://malegislature.gov/Bills/193/S1554
+S1587,SD53,An Act relative to the expansion of the state DNA database,no,Bruce E. Tarr,genetic,,,https://malegislature.gov/Bills/193/S1587
+S174,SD1432,An Act to protect patient privacy and prevent unfair and deceptive advertising of pregnancy-related services,no,Barry R. Finegold,privacy,,,https://malegislature.gov/Bills/193/S174
+S1892,SD1711,An Act taxing the mental health impacts of social media,no,Susan L. Moran,social_media,,,https://malegislature.gov/Bills/193/S1892
+S1896,SD1768,An Act to increase accountability in the sale of personal data,no,Susan L. Moran,personal_information,data,,https://malegislature.gov/Bills/193/S1896
+S194,SD2164,An Act to protect the privacy of lottery winners,no,Mark C. Montigny,privacy,,,https://malegislature.gov/Bills/193/S194
+S195,SD2218,An Act to protect personal biometric data,no,Mark C. Montigny,biometric,data,J33,https://malegislature.gov/Bills/193/S195
+S209,SD1588,An Act to ensure driver privacy with electronic tolling,no,Jacob R. Oliveira,privacy,electronic,,https://malegislature.gov/Bills/193/S209
+S218,SD2386,An Act ensuring internet security and privacy,no,Bruce E. Tarr,privacy,internet,,https://malegislature.gov/Bills/193/S218
+S227,SD1971,An Act establishing the Massachusetts Information Privacy and Security Act,no,Barry R. Finegold,privacy,information,J33,https://malegislature.gov/Bills/193/S227
+S25,SD745,An Act establishing the Massachusetts Data Privacy Protection Act,no,Cynthia Stone Creem,privacy;data_privacy_protection,data,J33,https://malegislature.gov/Bills/193/S25
+S2539,,An Act relative to cybersecurity and artificial intelligence,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",cybersecurity,artificial_intelligence,J33,https://malegislature.gov/Bills/193/S2539
+S2770,,An Act establishing the Massachusetts Data Privacy Act,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",privacy;data_privacy_protection,data,J33,https://malegislature.gov/Bills/193/S2770
+S280,SD1797,An Act relative to student and educator data privacy,no,Barry R. Finegold,privacy;data_privacy_protection,data,,https://malegislature.gov/Bills/193/S280
+S2811,,Enhancing Cybersecurity Protections and Response in the Commonwealth,no,Michael O. Moore,cybersecurity,,,https://malegislature.gov/Bills/193/S2811
+S30,SD1303,An Act relative to protecting sensitive information from security breaches,no,Barry R. Finegold,data_security_breach,information,J33,https://malegislature.gov/Bills/193/S30
+S36,SD1516,An Act establishing a Cybersecurity Control and Review Commission,no,Michael O. Moore,cybersecurity,,J33,https://malegislature.gov/Bills/193/S36
+S560,SD1732,An Act establishing tracking and reporting requirements for Massachusetts transportation fuels and associated greenhouse gas emissions,no,Marc R. Pacheco,tracking,,,https://malegislature.gov/Bills/193/S560
+S927,SD750,An Act to implement the recommendations of the special commission on facial recognition technology,no,Cynthia Stone Creem,facial_recognition,technology,,https://malegislature.gov/Bills/193/S927
+S938,SD1511,An Act to protect the privacy of crime victims,no,Cynthia Stone Creem,privacy,,,https://malegislature.gov/Bills/193/S938
+S961,SD1583,An Act strengthening identity theft laws,no,Ryan C. Fattman,identity_theft,,,https://malegislature.gov/Bills/193/S961
+S971,SD1269,An Act relative to the malicious doxing of personal information,no,Barry R. Finegold,personal_information,information,,https://malegislature.gov/Bills/193/S971
+,HD249,An Act relative to access to a decedent's electronic mail accounts,no,Jeffrey N. Roy,,electronic,,
+,SD499,An Act to promote housing data reporting,no,Sal N. DiDomenico,,data,,
+,HD2109,An Act expanding opportunities for individuals in the criminal offender record information system,no,David M. Rogers,,information,,
+,SD2100,An Act regarding death certificates online,no,Anne M. Gobi,,online,,
+,SD2102,An Act regarding death certificates online,no,Anne M. Gobi,,online,,
+,HD3904,An Act supporting the dissemination of public information on Long COVID,no,Mindy Domb,,information,,
+,HD4093,A quarterly report of the Sheriff’s Department of Plymouth County (under Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Plymouth County Correctional Facility for the fourth quarter of the calendar year 2022,no,Plymouth County Sheriff,,data,,
+,HD4095,"A communication from the Office of the Norfolk County Registry of Deeds (see Section 2KKK of Chapter 29 of the General Laws) submitting the County Registers Technology Fund fifty-first planned expenditure [copies of the communication were forwarded to the committees on Ways and Means and Post Audit and Oversight, as required by said law]",no,Norfolk County Registry of Deeds,,technology,,
+,HD4148,A communication from the Massachusetts District Attorneys Association (see item 0340-2100 of Chapter 126 of the Acts of 2022) submitting its data from the District Attorneys relative to their criminal prosecutions and workloads for calendar year 2022,no,Massachusetts District Attorneys Association,,data,,
+,SD2482,EOLWD Online Delivery System for UI Benefits 6th Report,no,Executive Office of Labor and Workforce Development,,online,,
+,HD4201,A communication from the Massachusetts Technology Transfer Center (Mass Ventures) (see Section 45B of Chapter 75 of the General Laws) submitting the Acorn Innovation Fund Report for fiscal year 2023,no,MassVentures,,technology,,
+,HD4207,"A communication from the Lowell Regional Transit Authority (under Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year 2022",no,Lowell Regional Transit Authority,,information,,
+,HD4211,The sixth quarterly report of the Executive Office of Labor and Workforce Development (under item 1790-3009 of Section 2 of Chapter 151 of the Acts of 2020) regarding the comprehensive modernization and transformation for the deployment of an online delivery system for unemployment insurance compensation benefits,no,Executive Office of Labor and Workforce Development,,online,,
+,HD30,"A statement of available resources and expenditures - statutory basis - and additional information regarding the joint accounts of the General Court for the Fiscal Year ended June 30, 2019",no,CliftonAllenLarson LLP,,information,,
+,SD2528,DCJIS FY22 Criminal Offender Record Information Annual Report,no,Department of Criminal Justice Information Services,,information,,
+,HD4235,"A communication from the Greater Attleboro-Taunton Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year 2022",no,Greater Attleboro-Taunton Regional Transit Authority,,information,,
+,HD4236,"A communication from the Montachusett Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year 2022",no,Montachusett Regional Transit Authority,,information,,
+,HD4245,Annual report of the Department of Criminal Justice Information Services (under Section 168 of Chapter 6 of the General Laws) summarizing the status of the complaints reviewed by the Criminal Record Review Board,no,Department of Criminal Justice Information Services,,information,,
+,HD4246,Annual report of the Department of Criminal Justice Information Services (under Section 168 of Chapter 6 of the General Laws) submitting the Commissioner Approved Access to Criminal Offender Record Information (CORI),no,Department of Criminal Justice Information Services,,information,,
+,HD4249,A report of the Massachusetts District Attorneys Association (under item 0340-2100 of Chapter 24 of the Acts of 2021) submitting the amended and final Disabled Persons Protection Commission data for fiscal year 2022,no,Massachusetts District Attorneys Association,,data,,
+,HD4277,A quarterly report of the Sheriff’s Department of Plymouth County (under Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Plymouth County Correctional Facility for the first quarter of the calendar year 2023,no,Plymouth County Sheriff,,data,,
+,HD4318,"A communication from the State Retiree Benefits Trust (“HST”) Board (see Section 24(f) of Chapter 32A of the General Laws) submitting the approved budget for said board for fiscal year 2024 [a copy of the communication was forwarded to the committee on Public Service, for their information]",no,State Retiree Benefits Trust Fund Board of Trustees,,information,,
+,HD4340,A communication from the Executive Office of Health and Human Services (see Section 15 of Chapter 118I of the General Laws) submitting the annual report of the Health Information Technology Council for the calendar year 2022,no,Executive Office of Health and Human Services,,information;technology,,
+,HD4380,A report of the MetroWest Regional Transit Authority (under Section 8(g) of Chapter 161B of the General Laws) submitting financial statements and supplementary information for fiscal year 2022,no,MetroWest Regional Transit Authority,,information,,
+,HD4427,The annual report of the Executive Office of Technology Services and Security (under Section 13 of Chapter 69 of the Acts of 2018) on data collection and reporting in the criminal justice system,no,Executive Office of Technology Services & Security,,data;technology,,
+,SD2667,JRPOB FY23 Criminal Justice System Data Report,no,Justice Reinvestment Policy Oversight Board,,data,,
+,SD2703,DPH 2020 Birth Data Annual Report,no,Department of Public Health,,data,,
+,HD4488,A quarterly report of the Sheriff’s Department of Plymouth County (under Section 84 of Chapter 69 of the Acts of 2018) submitting the aggregate data on the population of the Plymouth County Correctional Facility for the second quarter of calendar year 2023,no,Plymouth County Sheriff,,data,,
+,HD4518,A communication from the Department of Transitional Assistance (see Section 2 of Chapter 18 of the General Laws) submitting a report entitled: Electronic Benefit Transfer (EBT) Photo Requirements Exemptions,no,Department of Transitional Assistance,,electronic,,
+,SD2724,Plymouth County Sheriff 2023 Q2 Population Data Report,no,Plymouth County Sheriff,,data,,
+,SD2730,EOLWD Online Delivery System for UI Benefits 7th Report,no,Executive Office of Labor and Workforce Development,,online,,
+,HD4549,A quarterly report of the Executive Office of Labor and Workforce Development (under item 1790-3009 of Section 2 of Chapter 151 of the Acts of 2020) submitting its seventh quarterly report relative to the comprehensive modernization and transformation for the deployment of an online delivery system for unemployment insurance compensation benefits,no,Executive Office of Labor and Workforce Development,,online,,
+,SD2753,DPH 2021 Birth Data Annual Report,no,Department of Public Health,,data,,
+,HD4573,A communication from the Department of Public Health (see Section 2 of Chapter 111 of the General Laws) submitting a report summarizing the birth data and statistics for calendar year 2021,no,Department of Public Health,,data,,
+,HD4629,"A communication from the Department of Energy Resources (see Section 10 of Chapter 25B of the General Laws) of the effectiveness of energy efficiency in the Commonwealth [a copy of the report was forwarded to the committee on Telecommunications, Utilities and Energy, as required by said law]",no,Department of Energy Resources,,telecommunications,,
+,SD2806,Plymouth County Sheriff 2023 Q3 Population Data Report,no,Plymouth County Sheriff,,data,,
+,HD4640,"A communication from the Berkshire Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting its financial statements and supplementary information for fiscal years ending June 30, 2022, and June 30, 2023",no,Berkshire Regional Transit Authority,,information,,
+,HD4641,"A communication from the Berkshire Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year ending June 30, 2023",no,Berkshire Regional Transit Authority,,information,,
+,HD4644,A quarterly report of the Sheriff’s Department of Plymouth County (under Section 40 of Chapter126 of the General Laws) submitting the aggregate data on the population of the Plymouth County Correctional Facility for the third quarter of calendar year 2023,no,Plymouth County Sheriff,,data,,
+,HD4648,A communication from the Massachusetts Technology Development Corporation (Mass Ventures) (see Section 6 of Chapter 40G of the General Laws) submitting financial statements for fiscal year 2023,no,MassVentures,,technology,,
+,HD4649,"A communication from the Pioneer Valley Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting its financial statements and supplementary information for fiscal years ending June 30, 2022, and June 30, 2023",no,Pioneer Valley Transit Authority,,information,,
+,HD4650,"A communication from the Pioneer Valley Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year ending June 30, 2023",no,Pioneer Valley Transit Authority,,information,,
+,SD2834,EOLWD Online Delivery System for UI Benefits 8th Report,no,Executive Office of Labor and Workforce Development,,online,,
+,HD4674,A quarterly report of the Executive Office of Labor and Workforce Development (under item 1790-3009 of Section 2 of Chapter 151 of the Acts of 2020) submitting its eighth quarterly report relative to the comprehensive modernization and transformation for the deployment of an online delivery system for unemployment insurance compensation benefits,no,Executive Office of Labor and Workforce Development,,online,,
+,HD4679,A communication from the Department of Telecommunications and Cable (see Section 6 of Chapter 25C of the General Laws) submitting the annual report for said department for fiscal year 2023,no,Department of Telecommunications and Cable,,telecommunications,,
+,HD4683,A communication from the Executive Office of Public Safety and Security (see item 8900-0001 of Chapter 28 of the Acts of 2023) submitting the second quarterly data report of the Massachusetts Department of Correction for fiscal year 2023,no,Executive Office of Public Safety and Security,,data,,
+,HD4693,A communication from the Executive Office of Public Safety and Security (see item 8900-0001 of Section 2 of Chapter 28 of the Acts of 2023) submitting the fourth quarter data report of the Department of Correction for calendar year 2022,no,Executive Office of Public Safety and Security,,data,,
+,SD2861,Communication from the Department of Correction (pursuant to item 8900-0001 of Section 2 of Chapter 126 of the Acts of 2022) submitting its quarterly corrections data report for the fourth quarter of calendar year 2022,no,Department of Correction,,data,,
+,HD4699,An Act relating to access to motor vehicle data by the owner or designee of a motor vehicle,no,Daniel J. Hunt,,data,,
+,SD2872,EOPSS 2021 Electronic Control Weapons Report,no,Executive Office of Public Safety and Security,,electronic,,
+,HD4703,A communication from the Executive Office of Public Safety and Security (see Section 2 of Chapter 170 of the Acts of 2004) submitting its annual report examining data reported by Massachusetts law enforcement agencies with approved electronic control weapons training programs for calendar year 2021,no,Executive Office of Public Safety and Security,,data;electronic,,
+,HD4726,"A statement of available resources and expenditures - statutory basis - and additional information regarding the House of Representatives for the Fiscal Year ended June 30, 2021",no,CliftonAllenLarson LLP,,information,,
+,HD4727,"A statement of available resources and expenditures - statutory basis - and additional information regarding the joint accounts of the General Court for the Fiscal Year ended June 30, 2021",no,CliftonAllenLarson LLP,,information,,
+,SD2934,Plymouth County Sheriff 2023 Q4 Population Data Report,no,Plymouth County Sheriff,,data,,
+,SD2936,DPH 2023 Priority Public Health Trends from the Public Health Data Warehouse Report,no,Department of Public Health,,data,,
+,HD4786,A report of the Department of Public Health (under Section 237 of Chapter 111 of the General Laws) submitting its 2023 Report on Priority Public Health Trends from the Public Health Data Warehouse,no,Department of Public Health,,data,,
+,HD4788,An Act relative to artificial intelligence disclosure,no,Steven S. Howitt,,artificial_intelligence,,
+,HD4791,A communication from the Executive Office of Public Safety and Security (see item 8900-0001 of Chapter 28 of the Acts of 2023) submitting the third quarter data report of the Department of Correction for fiscal year 2023,no,Department of Correction,,data,,
+,SD2957,Communication from the Department of Correction (pursuant to item 8900-0001 of Section 2 of Chapter 28 of the Acts of 2023) submitting its quarterly corrections data report for the third quarter of calendar year 2023,no,Department of Correction,,data,,
+,HD4796,A report of the Massachusetts District Attorneys Association (under item 0340-2100 of Section 2 of Chapter 28 of the Acts of 2023) submitting its data from the District Attorneys relative to their criminal prosecutions and workloads for calendar year 2023,no,Massachusetts District Attorneys Association,,data,,
+,HD4798,A quarterly report of the Sheriff’s Department of Plymouth County (under Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Plymouth County Correctional Facility for the fourth quarter of calendar year 2023,no,Plymouth County Sheriff,,data,,
+,HD4841,A communication from the Center for Health Information and Analysis (see Section 24 of Chapter 12C of the General Laws) submitting its continuous skilled nursing (CSN) care biennial report,no,Center for Health Information and Analysis,,information,,
+,HD4915,"A communication from the Cape Cod Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year ending June 30, 2023",no,Cape Cod Regional Transit Authority,,information,,
+,HD4916,"A communication from the Nantucket Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year ending June 30, 2023 and 2022",no,Nantucket Regional Transit Authority,,information,,
+,HD4929,A communication from the Massachusetts Department of Transportation (see Section 6C of Chapter 25 of the General Laws) submitting its annual report of the project information system and performance measurement report for calendar year 2023,no,Department of Transportation,,information,,
+,HD4947,A communication from the Executive Office of Technology Services and Security (see item 1790-0100 of Section 2 of Chapter 28 of the Acts of 2023) submitting its annual report on data collection and reporting in the criminal justice system,no,Executive Office of Technology Services & Security,,data;technology,,
+,SD3083,EOLWD Online Delivery System for UI Benefits 9th Report,no,Executive Office of Labor and Workforce Development,,online,,
+,HD4995,A report of the Massachusetts District Attorneys Association (under item 0340-2100 of Section 2 of Chapter 28 of the Acts of 2023) submitting Disabled Persons Protection Commission data for fiscal year 2023,no,Massachusetts District Attorneys Association,,data,,
+,HD4997,A quarterly report of the Executive Office of Labor and Workforce Development (under item 1790-3009 of Section 2 of Chapter 151 of the Acts of 2020) submitting its ninth quarterly report relative to the comprehensive modernization and transformation for the deployment of an online delivery system for unemployment insurance compensation benefits,no,Executive Office of Labor and Workforce Development,,online,,
+,HD5016,A communication from the Massachusetts Technology Transfer Center (Mass Ventures) (see Section 45B of Chapter 75 of the General Laws) submitting the Acorn Innovation Fund Report for fiscal year 2024,no,Massachusetts Technology Transfer Center,,technology,,
+,SD3136,Communication from the Department of Correction (pursuant to item 8900-0001 of Section 2 of Chapter 28 of the Acts of 2023) submitting its quarterly corrections data report for the fourth quarter of calendar year 2023,no,Department of Correction,,data,,
+,HD5032,A communication from the Executive Office of Public Safety and Security (see item 8900-0001 Section 2 of Chapter 28 of the Acts of 2023) submitting the fourth quarter data report of the Department of Correction for calendar year 2023,no,Executive Office of Public Safety and Security,,data,,
+,HD5037,"A communication from the Merrimack Valley Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year 2023",no,Merrimack Valley Regional Transit Authority,,information,,
+,HD5038,A quarterly report of the Sheriff’s Department of Plymouth County (under Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Plymouth County Correctional Facility for the first quarter of calendar year 2024,no,Plymouth County Sheriff,,data,,
+,SD3235,Communication from the Department of Economic Research relative to its May 2024 Unemployment Insurance Trust Fund data,no,Department of Economic Research,,data,,
+,HD5115,"A communication from the Greater Attleboro-Taunton Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year 2023",no,Greater Attleboro-Taunton Regional Transit Authority,,information,,
+,HD5141,"A communication from the Office of the Bristol County Registry of Deeds, Southern District (see Section 2KKK of Chapter 29 of the General Laws) submitting the County Registers Technology Fund request for funds [copies of the communication were forwarded to the committee on Ways and Means and the committee on Post Audit and Oversight, as required by said law]",no,Bristol County Registry of Deeds,,technology,,
+,HD5163,A communication from the Executive Office of Health and Human Services (see Section 15 of Chapter 118I of the General Laws) submitting the annual report of the Health Information Technology Council for the calendar year 2023,no,Executive Office of Health and Human Services,,information;technology,,
+,SD3265,Order relative to procedures to be followed when considering the House Bill to provide for the future information technology needs of Massachusetts,no,Michael J. Rodrigues,,information;technology,,
+,HD5176,"A communication from the Barnstable County Registry of Deeds (see Section 2KKK of Chapter 29 of the General Laws) submitting the County Registers Technology Fund plan for expenditure of funds [copies of the communication were forwarded to the committees on Ways and Means and Post Audit and Oversight, as required by said law]",no,Barnstable County Registry of Deeds,,technology,,
+,HD5187,The annual report of the MetroWest Regional Transit Authority (under Section 8(g) of Chapter 161B of the General Laws) submitting financial statements and supplementary information for fiscal year 2023,no,MetroWest Regional Transit Authority,,information,,
+,HD5195,A communication from the Massachusetts Gaming Commission submitting its 2023 annual report (see S2824 for electronic copy),no,Massachusetts Gaming Commission,,electronic,,
+,HD5214,"A communication from the State Retiree Benefits Trust (“HST”) Board (see Section 24(f) of Chapter 32A of the General Laws) submitting the approved budget for said board for fiscal year 2025 [a copy of the communication was forwarded to the committee on Public Service, for their information]",no,State Retiree Benefits Trust Fund Board of Trustees,,information,,
+,HD5260,A quarterly report of the Sheriff’s Department of Plymouth County (under Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Plymouth County Correctional Facility for the second quarter of calendar year 2024,no,Plymouth County Sheriff,,data,,
+,HD5266,A communication from the Justice Reinvestment Policy Oversight Board (see Section 11 of Chapter 7D of the General Laws) submitting the annual report on the collection of data and the compliance with justice reinvestment policies for fiscal year 2024,no,Justice Reinvestment Policy Oversight Board,,data,,
+,HD5376,"A statement of available resources and expenditures - statutory basis and supplementary information regarding the House of Representatives for the Fiscal Year ended June 30, 2022",no,CliftonAllenLarson LLP,,information,,
+,HD5383,"A statement of available resources and expenditures - statutory basis - and supplementary information regarding the joint accounts of the General Court for the Fiscal Year ended June 30, 2022",no,CliftonAllenLarson LLP,,information,,
+,HD5411,"A communication from the Berkshire Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting its financial statements and supplementary information for fiscal years ending June 30, 2023, and June 30, 2024",no,Berkshire Regional Transit Authority,,information,,
+,HD5412,"A communication from the Berkshire Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year ending June 30, 2024",no,Berkshire Regional Transit Authority,,information,,
+,HD5413,"A communication from the Franklin Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting its financial statements and supplementary information for fiscal years ending June 30, 2023, and June 30, 2024",no,Franklin Regional Transit Authority,,information,,
+,HD5414,"A communication from Franklin Regional Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year ending June 30, 2024",no,Franklin Regional Transit Authority,,information,,
+,HD5418,A quarterly report of the Sheriff’s Department of Plymouth County (under Section 40 of Chapter 126 of the General Laws) submitting the aggregate data on the population of the Plymouth County Correctional Facility for the third quarter of calendar year 2024,no,Plymouth County Sheriff,,data,,
+,HD5439,"A communication from the Department of Energy Resources (see Section 10 of Chapter 25B of the General Laws) of the effectiveness of energy efficiency in the Commonwealth [a copy of the report was forwarded to the committee on Telecommunications, Utilities and Energy, as required by said law]",no,Department of Energy Resources,,telecommunications,,
+,HD5450,A communication from the Massachusetts Technology Development Corporation (Mass Ventures) (see Section 6 of Chapter 40G of the General Laws) submitting financial statements for fiscal year 2024,no,Massachusetts Technology Development Corporation,,technology,,
+,HD5479,"A communication from the Pioneer Valley Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting its financial statements and supplementary information for fiscal years ending June 30, 2023, and June 30, 2024",no,Pioneer Valley Transit Authority,,information,,
+,HD5480,"A communication from the Pioneer Valley Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year ending June 30, 2024",no,Pioneer Valley Transit Authority,,information,,
+,SD3520,Department of Telecommunications and Cable FY24 Annual Report,no,Department of Telecommunications and Cable,,telecommunications,,
+,HD5489,A communication from the Department of Telecommunications and Cable (see Section 6 of Chapter 25C of the General Laws) submitting its annual report for fiscal year 2024,no,Department of Telecommunications and Cable,,telecommunications,,
+,SD3555,Communication from the Executive Office of Public Safety and Security relative to the appointment of Jeff Farnsworth (pursuant to Chapter 135 of the Acts of 2024) to the Special Commission on Emerging Firearms Technology,no,Executive Office of Public Safety and Security,,technology,,
+,HD5525,"A communication from the Martha’s Vineyard Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting its financial statements and supplementary information for fiscal years ending June 30, 2023, and June 30, 2024",no,Martha's Vineyard Regional Transit Authority,,information,,
+,HD5526,"A communication from the Martha’s Vineyard Transit Authority (see Section 8(g) of Chapter 161B of the General Laws) submitting financial statements, supplementary information, and a schedule of expenditures of federal awards and OMB uniform guidance auditors’ reports for fiscal year ending June 30, 2024",no,Martha's Vineyard Regional Transit Authority,,information,,
+,SD3590,FY23 Charter School Data Annual Report,no,Department of Elementary and Secondary Education,,data,,
+,SD3591,FY24 Charter School Data Annual Report,no,Department of Elementary and Secondary Education,,data,,
+,HD5563,A communication from the Department of Elementary and Secondary Education (see Section 89(kk) of Chapter 71 of the General Laws) submitting the Charter School Data annual report for fiscal year 2024,no,Department of Elementary and Secondary Education,,data,,
+,HD5564,A communication from the Department of Elementary and Secondary Education (see Section 89(kk) of Chapter 71 of the General Laws) submitting the Charter School Data annual report for fiscal year 2023,no,Department of Elementary and Secondary Education,,data,,
+,HD5570,A communication from the Department of Public Health (see Section 2 of Chapter 111 of the General Laws) submitting a report summarizing the birth data and statistics for calendar year 2022,no,Department of Public Health,,data,,
+,HD5571,A communication from the Department of Public Health (see Section 2 of Chapter 111 of the General Laws) submitting a report summarizing mortality data and statistics for calendar year 2022,no,Department of Public Health,,data,,
+,HD5587,"A report of the Southeastern Regional Transit Authority (under Section 8(g) of Chapter 161B of the General Laws) submitting its financial statements and supplementary information for fiscal years ending June 30, 2023, and June 30, 2024",no,Southeastern Regional Transit Authority,,information,,
+,SD3612,Data Collection for Government Assisted Housing in Massachusetts FY24 Report,no,Executive Office of Housing and Livable Communities,,data,,
+H105,HD3149,An Act relative to data transparency in the cannabis industry,no,Daniel M. Donahue,,data,,https://malegislature.gov/Bills/193/H105
+H1051,HD1715,An Act relative to establishing a financial technology task force,no,"Bradley H. Jones, Jr.",,technology,,https://malegislature.gov/Bills/193/H1051
+H1059,HD2040,An Act relative to electronic automobile insurance charges,no,"Bradley H. Jones, Jr.",,electronic,,https://malegislature.gov/Bills/193/H1059
+H1131,HD1778,"An Act relating to patient cost, benefit and coverage information, choice, and price transparency",no,Jeffrey N. Roy,,information,,https://malegislature.gov/Bills/193/H1131
+H1169,HD1544,An Act providing Medicaid coverage for tobacco cessation programs and information,no,Christine P. Barber,,information,,https://malegislature.gov/Bills/193/H1169
+H1212,HD2354,An Act relative to determination of need of new technology,no,Meghan K. Kilcoyne,,technology,,https://malegislature.gov/Bills/193/H1212
+H1222,HD3260,An Act to ensure uniform and transparent reporting of medical debt data,no,John J. Mahoney,,data,,https://malegislature.gov/Bills/193/H1222
+H1238,HD2828,An Act to improve patient care through integrated electronic health records,no,Daniel J. Ryan,,electronic,,https://malegislature.gov/Bills/193/H1238
+H1283,HD3629,An Act protecting public higher education student information,no,Michael J. Moran,,information,,https://malegislature.gov/Bills/193/H1283
+H1338,HD1939,An Act relative to electronic meetings and voting in condominiums,no,Kevin G. Honan,,electronic,,https://malegislature.gov/Bills/193/H1338
+H1349,HD2259,An Act improving municipal access to general existing housing data,no,Kate Lipper-Garabedian,,data,,https://malegislature.gov/Bills/193/H1349
+H1394,HD1243,An Act relative to law enforcement access to prescription monitoring data,no,F. Jay Barrows,,data,,https://malegislature.gov/Bills/193/H1394
+H1405,HD1618,An Act relative to uniform real property electronic recordings,no,Daniel Cahill,,electronic,,https://malegislature.gov/Bills/193/H1405
+H1422,HD3344,An Act relative to Trial Court data collection,no,Tackey Chan,,data,,https://malegislature.gov/Bills/193/H1422
+H1433,HD135,An Act relative to the free flow of information,no,Josh S. Cutler,,information,,https://malegislature.gov/Bills/193/H1433
+H1490,HD3137,An Act relative to authorizing electronic signatures for criminal complaints,no,Carole A. Fiola,,electronic,,https://malegislature.gov/Bills/193/H1490
+H1519,HD1368,An Act relative to locating missing persons via mobile data  (Kelsey's Bill),no,Colleen M. Garry,,data,,https://malegislature.gov/Bills/193/H1519
+H1522,HD219,An Act relative to the Uniform Electronic Legal Material Act,no,Carmine Lawrence Gentile,,electronic,,https://malegislature.gov/Bills/193/H1522
+H1545,HD93,An Act to simplify the administrative aspect of evidentiary use of medical information,no,Christopher Hendricks,,information,,https://malegislature.gov/Bills/193/H1545
+H1555,HD3245,An Act establishing an internet bill of rights,no,Russell E. Holmes,,internet,,https://malegislature.gov/Bills/193/H1555
+H1580,HD2039,An Act relative to the release of sex offender information to victims,no,"Bradley H. Jones, Jr.",,information,,https://malegislature.gov/Bills/193/H1580
+H1582,HD2045,An Act relative to the enticement of children online,no,"Bradley H. Jones, Jr.",,online,,https://malegislature.gov/Bills/193/H1582
+H1627,HD2193,An Act requiring the inclusion of certain civil rights offense information in the statewide domestic violence recordkeeping system,no,David Paul Linsky,,information,,https://malegislature.gov/Bills/193/H1627
+H1641,HD1772,An Act for uniform fiduciary access to digital assets,no,Jay D. Livingstone,,digital,,https://malegislature.gov/Bills/193/H1641
+H1653,HD2773,"An Act to protect private electronic communication, browsing and other activity",no,Jay D. Livingstone,,electronic,,https://malegislature.gov/Bills/193/H1653
+H170,HD143,An Act requiring licensure for use of graduated electronic decelerators,no,William C. Galvin,,electronic,,https://malegislature.gov/Bills/193/H170
+H1719,HD874,An Act relative to criminal offender record information checks,no,Edward R. Philips,,information,,https://malegislature.gov/Bills/193/H1719
+H1723,HD109,An Act relative to legal advertisements in online-only newspapers,no,Smitty Pignatelli,,online,,https://malegislature.gov/Bills/193/H1723
+H1733,HD1572,An Act expanding opportunities for individuals in the criminal offender record information system,no,David M. Rogers,,information,,https://malegislature.gov/Bills/193/H1733
+H1748,HD343,An Act relative to access to a decedent's electronic mail accounts,no,Jeffrey N. Roy,,electronic,,https://malegislature.gov/Bills/193/H1748
+H1762,HD3481,An Act relative to civil asset forfeiture transparency and data reporting,no,Danillo A. Sena,,data,,https://malegislature.gov/Bills/193/H1762
+H1769,HD420,An Act relative to the use of administrative subpoenas to obtain telephone and internet records without judicial review,no,William M. Straus,,internet,,https://malegislature.gov/Bills/193/H1769
+H1787,HD3444,An Act automatically sealing cannabis records and promoting uniform digital record keeping,no,Chynah Tyler,,digital,,https://malegislature.gov/Bills/193/H1787
+H1802,HD1707,An Act improving juvenile justice data collection,no,Andres X. Vargas,,data,,https://malegislature.gov/Bills/193/H1802
+H1841,HD1657,An Act protecting wages of employees who receive wages through an electronic wage card,no,Tackey Chan,,electronic,,https://malegislature.gov/Bills/193/H1841
+H1859,HD195,An Act relative to improving PFML data reporting,no,Josh S. Cutler,,data,,https://malegislature.gov/Bills/193/H1859
+H1862,HD1421,An Act relative to workforce data accessibility,no,Josh S. Cutler,,data,,https://malegislature.gov/Bills/193/H1862
+H190,HD3257,An Act creating an electronic backpack for foster children’s educational records,no,Kay Khan,,electronic,,https://malegislature.gov/Bills/193/H190
+H1939,HD3014,An Act relative to the confidentiality of communications of information of labor organizations,no,David Allen Robertson,,information,,https://malegislature.gov/Bills/193/H1939
+H1974,HD676,An Act regulating the use of artificial intelligence (AI) in providing mental health services,no,Josh S. Cutler,,artificial_intelligence,,https://malegislature.gov/Bills/193/H1974
+H2015,HD3971,An Act relative to the limited sharing of medical information with the family of mentally ill patients in emergency situations,no,Steven George Xiarhos,,information,,https://malegislature.gov/Bills/193/H2015
+H210,HD914,An Act relative to the use of electronic benefit transfer cards with regard to online grocery delivery services,no,Edward R. Philips,,electronic;online,,https://malegislature.gov/Bills/193/H210
+H2169,HD158,An Act relative to patient access to information regarding breast reconstructive surgery,no,William C. Galvin,,information,,https://malegislature.gov/Bills/193/H2169
+H2307,HD499,An Act relative to crime gun data reporting and analysis,no,Marjorie C. Decker,,data,,https://malegislature.gov/Bills/193/H2307
+H2332,HD1367,An Act relative to electronic defensive devices,no,Colleen M. Garry,,electronic,,https://malegislature.gov/Bills/193/H2332
+H2341,HD87,An Act relative to the transparency of electronic weapons and devices,no,Christopher Hendricks,,electronic,,https://malegislature.gov/Bills/193/H2341
+H2377,HD1247,An Act relative to armed private security information,no,Paul McMurtry,,information,,https://malegislature.gov/Bills/193/H2377
+H2385,HD3375,An Act establishing a smart gun technology task force,no,Alice Hanlon Peisch,,technology,,https://malegislature.gov/Bills/193/H2385
+H2453,HD3046,An Act relative to documentary material or data received by retirement boards,no,Daniel Cahill,,data,,https://malegislature.gov/Bills/193/H2453
+H255,HD3034,An Act relative to establishing an online lottery,no,Daniel Cahill,,online,,https://malegislature.gov/Bills/193/H255
+H2671,HD1035,An Act relative to electronic monitoring department personnel pension group classification,no,Steven Ultrino,,electronic,,https://malegislature.gov/Bills/193/H2671
+H2751,HD261,An Act relative to the electronic filing of certain forms used in property valuation,no,Edward F. Coppinger,,electronic,,https://malegislature.gov/Bills/193/H2751
+H2773,HD3991,An Act providing incentives to the digital interactive media/entertainment industries,no,Daniel M. Donahue,,digital,,https://malegislature.gov/Bills/193/H2773
+H2787,HD3052,An Act relative to taxation of digital advertising services,no,Dylan A. Fernandes,,digital,,https://malegislature.gov/Bills/193/H2787
+H2792,HD3371,An Act relative to qualified data centers in the Commonwealth,no,Michael J. Finn,,data,,https://malegislature.gov/Bills/193/H2792
+H281,HD3727,An Act relative to the security of personal financial information,no,Michael S. Day,,information,,https://malegislature.gov/Bills/193/H281
+H2814,HD3719,An Act relative to smart gun technology tax incentive program,no,Carlos González,,technology,,https://malegislature.gov/Bills/193/H2814
+H2821,HD1507,An Act to establish a digital advertising revenue commission,no,Richard M. Haggerty,,digital,,https://malegislature.gov/Bills/193/H2821
+H2828,HD3230,An Act establishing a tax for online advertising,no,Russell E. Holmes,,online,,https://malegislature.gov/Bills/193/H2828
+H2847,HD1717,An Act relative to exempting small businesses from the telecommunications tax,no,"Bradley H. Jones, Jr.",,telecommunications,,https://malegislature.gov/Bills/193/H2847
+H290,HD3509,An Act relative to the right to repair motor vehicle data law,no,Michael J. Finn,,data,,https://malegislature.gov/Bills/193/H290
+H2930,HD1683,An Act establishing a tax for online advertising,no,David M. Rogers,,online,,https://malegislature.gov/Bills/193/H2930
+H2966,HD3144,An Act establishing a tax on local revenues from digital advertising,no,Erika Uyterhoeven,,digital,,https://malegislature.gov/Bills/193/H2966
+H2972,HD662,An Act relative to preserving information content of historic resources with community preservation funds,no,David T. Vieira,,information,,https://malegislature.gov/Bills/193/H2972
+H2993,HD2280,An Act relative to civil asset forfeiture data reporting,no,Nicholas A. Boldyga,,data,,https://malegislature.gov/Bills/193/H2993
+H3021,HD2485,An Act relative to the technology fund,no,Kate Donaghue,,technology,,https://malegislature.gov/Bills/193/H3021
+H3064,HD2057,An Act relative to online posting of CMRs,no,"Bradley H. Jones, Jr.",,online,,https://malegislature.gov/Bills/193/H3064
+H3082,HD2231,An Act regarding information governance,no,Kate Lipper-Garabedian,,information,,https://malegislature.gov/Bills/193/H3082
+H3179,HD1702,An Act relative to internet service provider data,no,"Bradley H. Jones, Jr.",,data;internet,,https://malegislature.gov/Bills/193/H3179
+H319,HD94,An Act to clarify the Consumer Protection Act,no,Christopher Hendricks,,consumer_protection,,https://malegislature.gov/Bills/193/H319
+H3191,HD1575,An Act encouraging advanced leak repair technology and renewable thermal energy infrastructure,no,Joan Meschino,,technology,,https://malegislature.gov/Bills/193/H3191
+H3217,HD2804,An Act relative to consumer access to residential energy information,no,Jeffrey N. Roy,,information,,https://malegislature.gov/Bills/193/H3217
+H3239,HD3425,An Act empowering library access to electronic books and digital audiobooks,no,Ruth B. Balser,,electronic;digital,,https://malegislature.gov/Bills/193/H3239
+H3278,HD154,An Act relative to electronic license plates,no,Daniel Cahill,,electronic,,https://malegislature.gov/Bills/193/H3278
+H329,HD557,An Act relative to disclosure notice in the right to repair motor vehicle data law,no,Steven S. Howitt,,data,,https://malegislature.gov/Bills/193/H329
+H3309,HD1616,An Act establishing an auction or online transfer for low number registration plates in the Registry of Motor Vehicles,no,Ann-Margaret Ferrante,,online,,https://malegislature.gov/Bills/193/H3309
+H3358,HD179,An Act relative to airplane noise data collection and Good Neighbor Policy,no,Sally P. Kerans,,data,,https://malegislature.gov/Bills/193/H3358
+H3372,HD3081,An Act relative to third party delivery data reporting,no,Jay D. Livingstone,,data,,https://malegislature.gov/Bills/193/H3372
+H3445,HD3181,An Act relative to automobile technology,no,William M. Straus,,technology,,https://malegislature.gov/Bills/193/H3445
+H3469,HD2920,An Act relative to electronic toll payments,no,Tommy Vitolo,,electronic,,https://malegislature.gov/Bills/193/H3469
+H351,HD2217,An Act relative to consumer protection on online automobile franchise transactions,no,Jack Patrick Lewis,,online;consumer_protection,,https://malegislature.gov/Bills/193/H351
+H3561,HD1688,An Act relative to posting information about the National Human Trafficking Resource Center hotline,no,Tackey Chan,,information,,https://malegislature.gov/Bills/193/H3561
+H3585,HD1241,An Act relative to telehealth and digital equity for patients,no,Vanna Howard,,digital,,https://malegislature.gov/Bills/193/H3585
+H360,HD3826,An Act relative to digital right to repair,no,Adrian C. Madaro,,digital,,https://malegislature.gov/Bills/193/H360
+H3700,HD3029,An Act relative to consumer protection and private utility lines and poles,no,Dylan A. Fernandes,,consumer_protection,,https://malegislature.gov/Bills/193/H3700
+H3763,HD2876,An Act relative to healthcare proxy information,no,Sally P. Kerans,,information,,https://malegislature.gov/Bills/193/H3763
+H3780,HD3439,"An Act related to the resiliency, public safety and quality of broadband in Massachusetts",no,Kip A. Diggs,,,J33,https://malegislature.gov/Bills/193/H3780
+H3818,HD3784,An Act preventing rampant online technological exploitation and criminal trafficking,no,Manny Cruz,,online,,https://malegislature.gov/Bills/193/H3818
+H383,HD2815,An Act allowing electronic delivery receipts for certain bulk sale customers,no,Jeffrey N. Roy,,electronic,,https://malegislature.gov/Bills/193/H383
+H3831,HD967,An Act to establish public internet service,no,David Henry Argosky LeBoeuf,,internet,J33,https://malegislature.gov/Bills/193/H3831
+H3847,HD4315,"Communication from the Department of Energy Resources of the Executive Office of Energy and Environmental Affairs (under the provisions of section 12 of Chapter 25A of the General Laws) submitting regulations 225 CMR 24.00 – Municipal Fossil Fuel Free Building Construction and Renovation Demonstration Project, and also establishing data reporting requirements and assessment procedures to measure impacts of fossil fuel free building code requirements",no,Department of Energy Resources,,data,,https://malegislature.gov/Bills/193/H3847
+H386,HD3855,An Act relative to consumer health data,no,Lindsay N. Sabadosa,,data,,https://malegislature.gov/Bills/193/H386
+H3863,HD4122,An Act relative to the dangerous release of personal civil rights information,no,Susan Williams Gifford,,information,,https://malegislature.gov/Bills/193/H3863
+H395,HD3195,An Act relative to online advertising,no,William M. Straus,,online,,https://malegislature.gov/Bills/193/H395
+H4021,HD4285,An Act requiring employers to post information on veterans' benefits and services,no,Peter Capano,,information,,https://malegislature.gov/Bills/193/H4021
+H4024,,An Act establishing a commission on automated decision-making by government in the Commonwealth,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",,,J33,https://malegislature.gov/Bills/193/H4024
+H4027,HD4478,An Act allowing print free digital legal notices for the town of Arlington,no,Sean Garballey,,digital,,https://malegislature.gov/Bills/193/H4027
+H4132,,An Act allowing electronic delivery receipts for certain bulk sale customers,no,Joint Committee on Consumer Protection and Professional Licensure,,electronic,,https://malegislature.gov/Bills/193/H4132
+H4154,HD4505,An Act relative to stores offering digital coupons,no,Jeffrey Rosario Turco,,digital,,https://malegislature.gov/Bills/193/H4154
+H419,HD936,"An Act establishing an advisory commission on science, technology, engineering, and mathematics",no,Edward R. Philips,,technology,,https://malegislature.gov/Bills/193/H419
+H4222,HD4730,An Act advancing grid enhancement technology,no,Jeffrey N. Roy,,technology,,https://malegislature.gov/Bills/193/H4222
+H4242,HD4781,An Act to provide for the future information technology needs of Massachusetts,no,Maura T. Healey,,information;technology,,https://malegislature.gov/Bills/193/H4242
+H4266,,An Act protecting public higher education student information,no,Joint Committee on Higher Education,,information,,https://malegislature.gov/Bills/193/H4266
+H431,HD1146,An Act to expand the Massachusetts School Building Authority and create a new program to assist public school districts with 21st century technology upgrades,no,Bruce J. Ayers,,technology,,https://malegislature.gov/Bills/193/H431
+H4331,,An Act relative to authorizing electronic signatures for criminal complaints,no,Joint Committee on the Judiciary,,electronic,,https://malegislature.gov/Bills/193/H4331
+H4332,,An Act to simplify the administrative aspect of evidentiary use of medical information,no,Joint Committee on the Judiciary,,information,,https://malegislature.gov/Bills/193/H4332
+H4345,HD4885,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4345
+H4346,HD4886,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4346
+H4347,HD4887,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4347
+H4348,HD4888,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4348
+H4349,HD4889,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4349
+H4378,HD4905,"Extension Order - Telecommunications, Utilities and Energy",no,Jeffrey N. Roy,,telecommunications,,https://malegislature.gov/Bills/193/H4378
+H4406,,An Act establishing a task force on the use of deepfake and digital content forgery,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",,digital,J33,https://malegislature.gov/Bills/193/H4406
+H4411,,"An Act relating to patient cost, benefit and coverage information, choice, and price transparency",no,Joint Committee on Financial Services,,information,,https://malegislature.gov/Bills/193/H4411
+H4421,,An Act establishing an education-to-career data center,no,Joint Committee on Education,,data,,https://malegislature.gov/Bills/193/H4421
+H4456,HD4863,An Act relative to financial technology services,no,Mark J. Cusack,,technology,,https://malegislature.gov/Bills/193/H4456
+H4538,HD5029,"Extension Order - Telecommunications, Utilities and Energy",no,Jeffrey N. Roy,,telecommunications,,https://malegislature.gov/Bills/193/H4538
+H4571,HD5070,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4571
+H4578,,Study Order,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",,,J33,https://malegislature.gov/Bills/193/H4578
+H459,HD3522,An Act relative to creating statutes relating to requiring school boards to make information about learning materials and educational activities used for pupil instruction available to the public,no,David F. DeCoste,,information,,https://malegislature.gov/Bills/193/H459
+H4631,,An Act to modernize funding for community media programming,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",,,J33,https://malegislature.gov/Bills/193/H4631
+H4642,,An Act to provide for the future information technology needs of Massachusetts.,no,House Committee on Ways and Means,,information;technology,,https://malegislature.gov/Bills/193/H4642
+H4648,,An Act to provide for the future information technology needs of Massachusetts.,no,,,information;technology,,https://malegislature.gov/Bills/193/H4648
+H4650,HD5097,"An Act allowing ""print free"" digital legal notices for the town of Lexington",no,Michelle L. Ciccolo,,digital,,https://malegislature.gov/Bills/193/H4650
+H4664,HD5101,"An Act allowing ""print-free"" digital legal notices for the town of Lincoln",no,Alice Hanlon Peisch,,digital,,https://malegislature.gov/Bills/193/H4664
+H4776,HD5205,"Extension Order - Telecommunications, Utilities and Energy",no,Jeffrey N. Roy,,telecommunications,,https://malegislature.gov/Bills/193/H4776
+H4798,HD5223,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4798
+H4802,,An Act addressing challenges facing public libraries and digital resource collections,no,"Joint Committee on Tourism, Arts and Cultural Development",,digital,,https://malegislature.gov/Bills/193/H4802
+H4832,,An Act relative to civil rights and technology,no,Joint Committee on the Judiciary,,technology,,https://malegislature.gov/Bills/193/H4832
+H4838,,An Act relative to airplane noise data collection and Good Neighbor Policy,no,Joint Committee on Transportation,,data,,https://malegislature.gov/Bills/193/H4838
+H4889,,An Act to provide for the future information technology needs of Massachusetts,no,Future Information Technology Needs,,information;technology,,https://malegislature.gov/Bills/193/H4889
+H4955,HD5288,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4955
+H4961,HD5294,Extension Order - Consumer Protection and Professional Licensure,no,Tackey Chan,,consumer_protection,,https://malegislature.gov/Bills/193/H4961
+H530,HD3666,An Act establishing an education-to-career data center,no,Kate Lipper-Garabedian,,data,,https://malegislature.gov/Bills/193/H530
+H59,HD1983,An Act relative to the oversight of cable contracts,no,"John Barrett, III",,,J33,https://malegislature.gov/Bills/193/H59
+H61,HD2792,An Act relative to filing slander against anonymous parties on the internet,no,Tackey Chan,,internet,J33,https://malegislature.gov/Bills/193/H61
+H62,HD2777,An Act establishing the Massachusetts open data standard,no,Dylan A. Fernandes,,data,J33,https://malegislature.gov/Bills/193/H62
+H64,HD2261,An Act establishing a commission on automated decision-making by government in the Commonwealth,no,Sean Garballey,,,J33,https://malegislature.gov/Bills/193/H64
+H65,HD3013,An Act relative to efficient access to the affordable connectivity program,no,Carlos González,,,J33,https://malegislature.gov/Bills/193/H65
+H659,HD573,An Act relative to candidate information on ballots,no,Natalie M. Blais,,information,,https://malegislature.gov/Bills/193/H659
+H66,HD1741,An Act relative to cyberattack response in Massachusetts,no,"Bradley H. Jones, Jr.",,,J33,https://malegislature.gov/Bills/193/H66
+H67,HD2047,An Act creating a task force to study the use of the internet by sex offenders,no,"Bradley H. Jones, Jr.",,internet,J33,https://malegislature.gov/Bills/193/H67
+H678,HD3516,An Act relative to random placement for candidate names and removal of incumbent information on primary and state ballots,no,Mindy Domb,,information,,https://malegislature.gov/Bills/193/H678
+H68,HD248,An Act relative to internet service outages,no,David Henry Argosky LeBoeuf,,internet,J33,https://malegislature.gov/Bills/193/H68
+H69,HD2256,An Act establishing a special commission on blockchain and cryptocurrency,no,Kate Lipper-Garabedian,,,J33,https://malegislature.gov/Bills/193/H69
+H70,HD3962,An Act providing for consumer protection in a digital economy,no,Kate Lipper-Garabedian,,digital;consumer_protection,J33,https://malegislature.gov/Bills/193/H70
+H704,HD193,An Act relative to honest online political advertisement disclosure and election interference,no,David Henry Argosky LeBoeuf,,online,,https://malegislature.gov/Bills/193/H704
+H71,HD3960,An Act creating a pilot program to explore digital innovation in government,no,Kate Lipper-Garabedian,,digital,J33,https://malegislature.gov/Bills/193/H71
+H72,HD2298,An Act to protect against deep fakes used to facilitate criminal or torturous conduct,no,Jay D. Livingstone,,,J33,https://malegislature.gov/Bills/193/H72
+H728,HD2073,An Act relative to public information requests,no,Marcus S. Vaughn,,information,,https://malegislature.gov/Bills/193/H728
+H74,HD215,An Act to modernize funding for community media programming,no,Joan Meschino,,,J33,https://malegislature.gov/Bills/193/H74
+H75,HD464,An Act creating the Massachusetts digital equity broadband adoption program,no,Frank A. Moran,,digital,J33,https://malegislature.gov/Bills/193/H75
+H77,HD296,An Act relative to the Office of Information Technology considering cloud computing service options under certain circumstances,no,"Angelo J. Puppolo, Jr.",,information;technology,J33,https://malegislature.gov/Bills/193/H77
+H78,HD2987,An Act relative to assuring a jumpstart in investments in telecoms to preserve access to the internet,no,David Allen Robertson,,internet,J33,https://malegislature.gov/Bills/193/H78
+H79,HD1985,An Act relative to providing for net neutrality and consumer protection,no,David M. Rogers,,consumer_protection,J33,https://malegislature.gov/Bills/193/H79
+H81,HD1003,An Act establishing free broadband internet access in public housing,no,Danillo A. Sena,,internet,J33,https://malegislature.gov/Bills/193/H81
+H82,HD260,An Act relative to protecting the residents of the Commonwealth,no,Michael J. Soter,,,J33,https://malegislature.gov/Bills/193/H82
+H84,HD1079,An Act relative to electronic security for the Commonwealth,no,Marcus S. Vaughn,,electronic,J33,https://malegislature.gov/Bills/193/H84
+H85,HD661,An Act internet access on private ways,no,David T. Vieira,,internet,J33,https://malegislature.gov/Bills/193/H85
+H86,HD3197,"Resolve establishing a special commission to review advancements in educational technology, digital/online learning and related programs",no,Thomas P. Walsh,,digital;online;technology,J33,https://malegislature.gov/Bills/193/H86
+H871,HD2731,"An Act to require producer responsibility for collection, reuse and recycling of discarded electronic products",no,Steven Owens,,electronic,,https://malegislature.gov/Bills/193/H871
+H933,HD1199,An Act providing mortgage customers additional mandatory information regarding their accounts,no,Bruce J. Ayers,,information,,https://malegislature.gov/Bills/193/H933
+H954,HD1603,"An Act protecting the use of bank names, trade names and trademarks in electronic communications",no,Daniel Cahill,,electronic,,https://malegislature.gov/Bills/193/H954
+H972,HD1633,An Act to require financial institutions to pay late fees when it fails to conduct an electronic transfer,no,Tackey Chan,,electronic,,https://malegislature.gov/Bills/193/H972
+H986,HD3511,An Act relative to telehealth and digital equity for patients,no,Marjorie C. Decker,,digital,,https://malegislature.gov/Bills/193/H986
+H994,HD3984,An Act to increase access and transparency of health insurance data,no,Mindy Domb,,data,,https://malegislature.gov/Bills/193/H994
+S1106,SD881,An Act specifying an electronic system to ensure that sales of certain products containing pseudoephedrine (PSE) do not exceed limits established under federal law,no,Pavel Payano,,electronic,,https://malegislature.gov/Bills/193/S1106
+S1111,SD1328,An Act relative to civil asset forfeiture transparency and data reporting,no,Rebecca L. Rausch,,data,,https://malegislature.gov/Bills/193/S1111
+S1115,SD2280,An Act to protect the free flow of information in Massachusetts,no,Rebecca L. Rausch,,information,,https://malegislature.gov/Bills/193/S1115
+S1137,SD953,An Act relative to legal advertisements in online-only newspapers,no,John C. Velis,,online,,https://malegislature.gov/Bills/193/S1137
+S1187,SD954,An Act to make data on workforce development outcomes public and accessible,no,Patricia D. Jehlen,,data,,https://malegislature.gov/Bills/193/S1187
+S1378,SD2205,An Act regarding death certificates online,no,Anne M. Gobi,,online,,https://malegislature.gov/Bills/193/S1378
+S1386,SD1887,An Act relative to the determination of need of new technology,no,John F. Keenan,,technology,,https://malegislature.gov/Bills/193/S1386
+S142,SD793,An Act relative to digital right to repair,no,Michael D. Brady,,digital,,https://malegislature.gov/Bills/193/S142
+S1433,SD2060,An Act relative to stroke data reporting,no,Michael O. Moore,,data,,https://malegislature.gov/Bills/193/S1433
+S1470,SD621,An Act relative to personal health information portability and accessibility,no,Bruce E. Tarr,,information,,https://malegislature.gov/Bills/193/S1470
+S1492,SD659,An Act relative to crime gun data reporting and analysis,no,Cynthia Stone Creem,,data,,https://malegislature.gov/Bills/193/S1492
+S150,SD619,An Act relative to consumer protection on online automobile franchise transactions,no,Brendan P. Crighton,,online;consumer_protection,,https://malegislature.gov/Bills/193/S150
+S156,SD227,An Act relative to the safe use of electronic devices by children,no,Julian Cyr,,electronic,,https://malegislature.gov/Bills/193/S156
+S1567,SD1901,Resolve establishing a special commission to study technology to monitor and protect individuals in law enforcement custody,no,Michael O. Moore,,technology,,https://malegislature.gov/Bills/193/S1567
+S170,SD1791,An Act establishing an online lottery,no,Paul R. Feeney,,online,,https://malegislature.gov/Bills/193/S170
+S184,SD2118,An Act relative to consumer health data,no,Robyn K. Kennedy,,data,,https://malegislature.gov/Bills/193/S184
+S1846,SD1439,An Act establishing a tax on local revenues from digital advertising,no,Patricia D. Jehlen,,digital,,https://malegislature.gov/Bills/193/S1846
+S1877,SD2132,An Act clarifying occupancy excise and internet hotel room resellers,no,Mark C. Montigny,,internet,,https://malegislature.gov/Bills/193/S1877
+S193,SD2162,An Act to protect life-saving electronic health records from reckless corporate greed and corruption,no,Mark C. Montigny,,electronic,,https://malegislature.gov/Bills/193/S193
+S1958,SD1199,An Act relative to qualified data centers in the Commonwealth,no,John C. Velis,,data,,https://malegislature.gov/Bills/193/S1958
+S198,SD1515,An Act protecting personal identifying information,no,Michael O. Moore,,information,J33,https://malegislature.gov/Bills/193/S198
+S2060,SD364,An Act regarding information governance,no,Rebecca L. Rausch,,information,,https://malegislature.gov/Bills/193/S2060
+S2188,SD69,An Act modernizing library access to electronic books and digital audiobooks,no,Anne M. Gobi,,electronic;digital,,https://malegislature.gov/Bills/193/S2188
+S2210,SD464,An Act relative to increasing operational safety for keyless ignition technology in motor vehicles,no,Brendan P. Crighton,,technology,,https://malegislature.gov/Bills/193/S2210
+S2235,SD2289,An Act to remediate and reopen the visitor information center on I-95 in Northern Bristol County for traveler safety and convenience and to promote regional tourism and economic development,no,Paul R. Feeney,,information,,https://malegislature.gov/Bills/193/S2235
+S2261,SD1159,An Act relative to online driver education,no,Joan B. Lovely,,online,,https://malegislature.gov/Bills/193/S2261
+S2367,SD2241,An Act relative to third party delivery data reporting,no,Brendan P. Crighton,,data,,https://malegislature.gov/Bills/193/S2367
+S2478,,An Act relative to digital right to repair,no,Joint Committee on Consumer Protection and Professional Licensure,,digital,,https://malegislature.gov/Bills/193/S2478
+S26,SD805,An Act relative to the modernization of state agency information technology systems,no,Brendan P. Crighton,,information;technology,J33,https://malegislature.gov/Bills/193/S26
+S2620,SD3002,"Telecommunications, Utilities, and Energy - Extension Order",no,Michael J. Barrett,,telecommunications,,https://malegislature.gov/Bills/193/S2620
+S2630,,"Order relative to authorizing the joint committee on Consumer Protection and Professional Licensure, to make an investigation and study of certain current Senate documents relative to consumer protection and professional licensure matters",no,Joint Committee on Consumer Protection and Professional Licensure,,consumer_protection,,https://malegislature.gov/Bills/193/S2630
+S2637,,"An Act relating to patient cost, benefit and coverage information, choice, and price transparency",no,Joint Committee on Financial Services,,information,,https://malegislature.gov/Bills/193/S2637
+S2666,,An Act establishing an education-to-career data center,no,Joint Committee on Education,,data,,https://malegislature.gov/Bills/193/S2666
+S27,SD1217,"An Act to protect private electronic communication, browsing and other activity",no,James B. Eldridge,,electronic,J33,https://malegislature.gov/Bills/193/S27
+S2718,SD3146,"Telecommunications, Utilities and Energy - Extension Order",no,Michael J. Barrett,,telecommunications,,https://malegislature.gov/Bills/193/S2718
+S2719,,"Order relative to authorizing the joint committee on Telecommunications, Utilities and Energy to make an investigation and study of certain current Senate documents relative to matters of telecommunications, utilities and energy.",no,"Joint Committee on Telecommunications, Utilities and Energy",,telecommunications,,https://malegislature.gov/Bills/193/S2719
+S2730,SD2932,An Act relative to deceptive and fraudulent deepfakes in election communications,no,Barry R. Finegold,,,J33,https://malegislature.gov/Bills/193/S2730
+S275,SD1703,An Act relative to licensed care and financial resource information for parents of newborns,no,Paul R. Feeney,,information,,https://malegislature.gov/Bills/193/S275
+S2771,,An Act to modernize funding for community media programming,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",,,J33,https://malegislature.gov/Bills/193/S2771
+S28,SD2028,An Act to ensure a free and open internet in the commonwealth,no,James B. Eldridge,,internet,J33,https://malegislature.gov/Bills/193/S28
+S2806,,An Act to provide for the future information technology needs of Massachusetts.,no,Senate Committee on Ways and Means,,information;technology,,https://malegislature.gov/Bills/193/S2806
+S2810,SD2985,An Act relative to fusion investment and research for sustainable technology to be known as the FIRST Act,no,Susan L. Moran,,technology,,https://malegislature.gov/Bills/193/S2810
+S2814,,An Act to provide for the future information technology needs of Massachusetts,no,,,information;technology,,https://malegislature.gov/Bills/193/S2814
+S2831,,An Act relative to disinformation in elections,no,"Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",,,J33,https://malegislature.gov/Bills/193/S2831
+S2832,SD3303,"Telecommunications, Utilities, and Energy - Extension Order",no,Michael J. Barrett,,telecommunications,,https://malegislature.gov/Bills/193/S2832
+S29,SD1301,An Act establishing a special commission on blockchain and cryptocurrency,no,Barry R. Finegold,,,J33,https://malegislature.gov/Bills/193/S29
+S2907,,"Order relative to authorizing the joint committee on Consumer Protection and Professional Licensure, to make an investigation and study of a certain current Senate document relative to online lottery",no,Joint Committee on Consumer Protection and Professional Licensure,,online;consumer_protection,,https://malegislature.gov/Bills/193/S2907
+S293,SD946,An Act relative to student assessment data,no,Patricia D. Jehlen,,data,,https://malegislature.gov/Bills/193/S293
+S31,SD1827,An Act drafted with the help of ChatGPT to regulate generative artificial intelligence models like ChatGPT,no,Barry R. Finegold,,artificial_intelligence,J33,https://malegislature.gov/Bills/193/S31
+S32,SD2404,An Act relative to cyber incident response,no,Barry R. Finegold,,,J33,https://malegislature.gov/Bills/193/S32
+S33,SD996,An Act establishing a commission on automated decision-making by government in the commonwealth,no,Jason M. Lewis,,,J33,https://malegislature.gov/Bills/193/S33
+S34,SD1343,An Act to modernize funding for community media programming,no,Jason M. Lewis,,,J33,https://malegislature.gov/Bills/193/S34
+S343,SD2288,An Act establishing an education-to-career data center,no,Pavel Payano,,data,,https://malegislature.gov/Bills/193/S343
+S35,SD1955,An Act protecting against cyber ransom,no,Paul W. Mark,,,J33,https://malegislature.gov/Bills/193/S35
+S37,SD1992,An Act relative to protecting the residents of the Commonwealth,no,Patrick M. O'Connor,,,J33,https://malegislature.gov/Bills/193/S37
+S38,SD1346,"Resolve establishing a special commission to review advancements in educational technology, digital/online learning and related programs in order to provide the Commonwealth with the most current research and information",no,Walter F. Timilty,,information;digital;online;technology,J33,https://malegislature.gov/Bills/193/S38
+S419,SD2011,An Act establishing an early electronic voting option for municipal elections,no,Barry R. Finegold,,electronic,,https://malegislature.gov/Bills/193/S419
+S46,SD1719,An Act relative to the Farm Technology Review Commission,no,Susan L. Moran,,technology,,https://malegislature.gov/Bills/193/S46
+S554,SD1031,"An Act to require producer responsibility for collection, reuse and recycling of discarded electronic products",no,Jacob R. Oliveira,,electronic,,https://malegislature.gov/Bills/193/S554
+S616,SD375,"An Act relating to patient cost, benefit and coverage information, choice, and price transparency",no,Julian Cyr,,information,,https://malegislature.gov/Bills/193/S616
+S62,SD780,An Act relative to data transparency in the cannabis industry,no,John C. Velis,,data,,https://malegislature.gov/Bills/193/S62
+S63,SD1434,An Act to require closed captioning in telecommunications in public areas,no,Michael J. Barrett,,telecommunications,,https://malegislature.gov/Bills/193/S63
+S655,SD1984,An Act relative to telehealth and digital equity for patients,no,Adam Gomez,,digital,,https://malegislature.gov/Bills/193/S655
+S743,SD1586,An Act to ensure uniform and transparent reporting of medical debt data,no,Lydia Edwards,,data,,https://malegislature.gov/Bills/193/S743
+S78,SD2015,An Act updating the juvenile justice policy and data board,no,Sal N. DiDomenico,,data,,https://malegislature.gov/Bills/193/S78
+S80,SD2076,An Act creating an electronic backpack for foster children’s educational records,no,Ryan C. Fattman,,electronic,,https://malegislature.gov/Bills/193/S80
+S801,SD1600,An Act strengthening health spending accountability processes within the health policy commission and the center for health information and analysis,no,Rebecca L. Rausch,,information,,https://malegislature.gov/Bills/193/S801
+S81,SD1146,An Act requiring licensure for use of graduated electronic decelerators,no,Paul R. Feeney,,electronic,,https://malegislature.gov/Bills/193/S81
+S844,SD343,An Act protecting public higher education student information,no,Jacob R. Oliveira,,information,,https://malegislature.gov/Bills/193/S844
+S865,SD1742,An Act improving municipal access to general existing housing data,no,Sal N. DiDomenico,,data,,https://malegislature.gov/Bills/193/S865
+S87,SD190,An Act providing for coordinated data and assistance to address family homelessness,no,Adam Gomez,,data,,https://malegislature.gov/Bills/193/S87
+S900,SD1534,An Act relative to electronic meetings and voting in condominiums,no,Rebecca L. Rausch,,electronic,,https://malegislature.gov/Bills/193/S900
+S930,SD802,An Act relative to access to a decedent's electronic mail accounts,no,Cynthia Stone Creem,,electronic,,https://malegislature.gov/Bills/193/S930
+S931,SD815,An Act improving juvenile justice data collection,no,Cynthia Stone Creem,,data,,https://malegislature.gov/Bills/193/S931
+S974,SD1822,An Act relative to fiduciary access to digital assets,no,Barry R. Finegold,,digital,,https://malegislature.gov/Bills/193/S974
