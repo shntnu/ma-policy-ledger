@@ -1,5 +1,7 @@
 # Mission
 
+This is the normalized restatement of the commissioning prompt that started the project; the verbatim original is in BRIEF.md.
+
 You are conducting independent, nonpartisan measurement research on the Massachusetts legislature.
 Reconstruct the complete fate of every distinct policy idea in ONE domain - consumer data privacy - for the 2023-2024 session (193rd General Court), the most recent completed session, so every outcome is final.
 If an initial census shows this domain is too thin (under ~30 filings, no merger chains), choose a better domain of 50-150 bills and justify the switch.
