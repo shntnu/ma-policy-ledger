@@ -44,7 +44,16 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1199"
+   },
+   {
+    "general_court": 189,
+    "bill": "H1445"
+   }
+  ]
  },
  "H1428": {
   "actions": [
@@ -73,7 +82,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "H3257"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1496"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1741"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1729"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3815"
+   }
+  ]
  },
  "H1442": {
   "actions": [
@@ -102,7 +132,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1643"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4634"
+   },
+   {
+    "general_court": 190,
+    "bill": "H765"
+   },
+   {
+    "general_court": 191,
+    "bill": "H3273"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1513"
+   }
+  ]
  },
  "H1455": {
   "actions": [
@@ -131,7 +182,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "H1380"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1527"
+   },
+   {
+    "general_court": 189,
+    "bill": "H1256"
+   },
+   {
+    "general_court": 190,
+    "bill": "H768"
+   },
+   {
+    "general_court": 194,
+    "bill": "H666"
+   }
+  ]
  },
  "H1572": {
   "actions": [
@@ -160,7 +232,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1773"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1221"
+   },
+   {
+    "general_court": 194,
+    "bill": "S3159"
+   },
+   {
+    "general_court": 190,
+    "bill": "S1253"
+   },
+   {
+    "general_court": 193,
+    "bill": "S1098"
+   }
+  ]
  },
  "H1707": {
   "actions": [
@@ -189,7 +282,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1915"
+   },
+   {
+    "general_court": 193,
+    "bill": "S971"
+   },
+   {
+    "general_court": 194,
+    "bill": "S265"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1210"
+   },
+   {
+    "general_court": 194,
+    "bill": "S250"
+   }
+  ]
  },
  "H1728": {
   "actions": [
@@ -218,7 +332,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1946"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4640"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4359"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1053"
+   },
+   {
+    "general_court": 194,
+    "bill": "H88"
+   }
+  ]
  },
  "H1809": {
   "actions": [
@@ -247,7 +382,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H2036"
+   },
+   {
+    "general_court": 192,
+    "bill": "HD4546"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3603"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1166"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3741"
+   }
+  ]
  },
  "H1893": {
   "actions": [
@@ -276,7 +432,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 190,
+    "bill": "H158"
+   },
+   {
+    "general_court": 191,
+    "bill": "H1628"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1982"
+   },
+   {
+    "general_court": 191,
+    "bill": "H3695"
+   },
+   {
+    "general_court": 194,
+    "bill": "H385"
+   }
+  ]
  },
  "H1986": {
   "actions": [
@@ -305,7 +482,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H2236"
+   },
+   {
+    "general_court": 190,
+    "bill": "S547"
+   },
+   {
+    "general_court": 191,
+    "bill": "S1154"
+   },
+   {
+    "general_court": 192,
+    "bill": "S1297"
+   },
+   {
+    "general_court": 192,
+    "bill": "S1270"
+   }
+  ]
  },
  "H326": {
   "actions": [
@@ -352,7 +550,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H389"
+   },
+   {
+    "general_court": 188,
+    "bill": "H244"
+   },
+   {
+    "general_court": 189,
+    "bill": "H223"
+   },
+   {
+    "general_court": 190,
+    "bill": "H165"
+   },
+   {
+    "general_court": 191,
+    "bill": "H261"
+   }
+  ]
  },
  "H3404": {
   "actions": [
@@ -387,7 +606,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H3755"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1810"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2297"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2326"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3518"
+   }
+  ]
  },
  "H3434": {
   "actions": [
@@ -422,7 +662,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 190,
+    "bill": "H3439"
+   },
+   {
+    "general_court": 191,
+    "bill": "H3148"
+   },
+   {
+    "general_court": 192,
+    "bill": "H3601"
+   },
+   {
+    "general_court": 194,
+    "bill": "S2357"
+   },
+   {
+    "general_court": 186,
+    "bill": "S1931"
+   }
+  ]
  },
  "H357": {
   "actions": [
@@ -504,7 +765,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "S174"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1532"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1227"
+   },
+   {
+    "general_court": 188,
+    "bill": "H1909"
+   },
+   {
+    "general_court": 189,
+    "bill": "H1900"
+   }
+  ]
  },
  "H4323": {
   "actions": [
@@ -533,7 +815,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1643"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4634"
+   },
+   {
+    "general_court": 190,
+    "bill": "H765"
+   },
+   {
+    "general_court": 191,
+    "bill": "H3273"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1513"
+   }
+  ]
  },
  "H4359": {
   "actions": [
@@ -562,7 +865,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1946"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4640"
+   },
+   {
+    "general_court": 193,
+    "bill": "H1728"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1053"
+   },
+   {
+    "general_court": 194,
+    "bill": "H88"
+   }
+  ]
  },
  "H4632": {
   "actions": [
@@ -591,7 +915,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H83"
+   },
+   {
+    "general_court": 194,
+    "bill": "H104"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1843"
+   },
+   {
+    "general_court": 194,
+    "bill": "H128"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3821"
+   }
+  ]
  },
  "H4844": {
   "actions": [
@@ -668,7 +1013,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H4496"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4790"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4799"
+   },
+   {
+    "general_court": 193,
+    "bill": "H5049"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4034"
+   }
+  ]
  },
  "H532": {
   "actions": [
@@ -703,7 +1069,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H633"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4405"
+   },
+   {
+    "general_court": 192,
+    "bill": "H127"
+   },
+   {
+    "general_court": 194,
+    "bill": "H104"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1926"
+   }
+  ]
  },
  "H60": {
   "actions": [
@@ -756,7 +1143,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1915"
+   },
+   {
+    "general_court": 193,
+    "bill": "S227"
+   },
+   {
+    "general_court": 194,
+    "bill": "S265"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1210"
+   },
+   {
+    "general_court": 194,
+    "bill": "S250"
+   }
+  ]
  },
  "H63": {
   "actions": [
@@ -809,7 +1217,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 189,
+    "bill": "S124"
+   },
+   {
+    "general_court": 194,
+    "bill": "S187"
+   },
+   {
+    "general_court": 194,
+    "bill": "S43"
+   },
+   {
+    "general_court": 189,
+    "bill": "H225"
+   },
+   {
+    "general_court": 190,
+    "bill": "H1985"
+   }
+  ]
  },
  "H76": {
   "actions": [
@@ -850,7 +1279,16 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H93"
+   },
+   {
+    "general_court": 193,
+    "bill": "S30"
+   }
+  ]
  },
  "H80": {
   "actions": [
@@ -903,7 +1341,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H98"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1668"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1859"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1704"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2440"
+   }
+  ]
  },
  "H83": {
   "actions": [
@@ -956,7 +1415,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H4632"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1843"
+   },
+   {
+    "general_court": 194,
+    "bill": "H128"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3821"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2688"
+   }
+  ]
  },
  "S1022": {
   "actions": [
@@ -985,7 +1465,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S1156"
+   },
+   {
+    "general_court": 190,
+    "bill": "S886"
+   },
+   {
+    "general_court": 191,
+    "bill": "S968"
+   },
+   {
+    "general_court": 192,
+    "bill": "S1074"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1643"
+   }
+  ]
  },
  "S1368": {
   "actions": [
@@ -1026,7 +1527,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S1532"
+   },
+   {
+    "general_court": 192,
+    "bill": "S1435"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2232"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1156"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2421"
+   }
+  ]
  },
  "S140": {
   "actions": [
@@ -1073,7 +1595,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S187"
+   },
+   {
+    "general_court": 190,
+    "bill": "S95"
+   },
+   {
+    "general_court": 191,
+    "bill": "S98"
+   },
+   {
+    "general_court": 192,
+    "bill": "S161"
+   },
+   {
+    "general_court": 189,
+    "bill": "S124"
+   }
+  ]
  },
  "S148": {
   "actions": [
@@ -1120,7 +1663,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S197"
+   },
+   {
+    "general_court": 193,
+    "bill": "H357"
+   },
+   {
+    "general_court": 194,
+    "bill": "H103"
+   },
+   {
+    "general_court": 194,
+    "bill": "S260"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1156"
+   }
+  ]
  },
  "S1551": {
   "actions": [
@@ -1173,7 +1737,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S1731"
+   },
+   {
+    "general_court": 191,
+    "bill": "S1429"
+   },
+   {
+    "general_court": 192,
+    "bill": "S1608"
+   },
+   {
+    "general_court": 190,
+    "bill": "S1963"
+   },
+   {
+    "general_court": 191,
+    "bill": "H1538"
+   }
+  ]
  },
  "S174": {
   "actions": [
@@ -1208,7 +1793,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H377"
+   },
+   {
+    "general_court": 194,
+    "bill": "H190"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3118"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3089"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3263"
+   }
+  ]
  },
  "S1896": {
   "actions": [
@@ -1243,7 +1849,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 192,
+    "bill": "S1938"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2687"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1679"
+   },
+   {
+    "general_court": 194,
+    "bill": "S33"
+   },
+   {
+    "general_court": 192,
+    "bill": "S461"
+   }
+  ]
  },
  "S194": {
   "actions": [
@@ -1278,7 +1905,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S260"
+   },
+   {
+    "general_court": 189,
+    "bill": "S172"
+   },
+   {
+    "general_court": 190,
+    "bill": "S139"
+   },
+   {
+    "general_court": 191,
+    "bill": "S166"
+   },
+   {
+    "general_court": 192,
+    "bill": "S223"
+   }
+  ]
  },
  "S195": {
   "actions": [
@@ -1337,7 +1985,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S43"
+   },
+   {
+    "general_court": 192,
+    "bill": "S220"
+   },
+   {
+    "general_court": 190,
+    "bill": "H1985"
+   },
+   {
+    "general_court": 191,
+    "bill": "H287"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2242"
+   }
+  ]
  },
  "S209": {
   "actions": [
@@ -1384,7 +2053,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "S161"
+   },
+   {
+    "general_court": 192,
+    "bill": "S214"
+   },
+   {
+    "general_court": 194,
+    "bill": "H190"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4247"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2690"
+   }
+  ]
  },
  "S218": {
   "actions": [
@@ -1431,7 +2121,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S289"
+   },
+   {
+    "general_court": 190,
+    "bill": "S2053"
+   },
+   {
+    "general_court": 194,
+    "bill": "H101"
+   },
+   {
+    "general_court": 194,
+    "bill": "H75"
+   },
+   {
+    "general_court": 194,
+    "bill": "H73"
+   }
+  ]
  },
  "S227": {
   "actions": [
@@ -1502,7 +2213,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S301"
+   },
+   {
+    "general_court": 192,
+    "bill": "S2687"
+   },
+   {
+    "general_court": 192,
+    "bill": "S46"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1658"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1050"
+   }
+  ]
  },
  "S25": {
   "actions": [
@@ -1555,7 +2287,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S45"
+   },
+   {
+    "general_court": 194,
+    "bill": "S29"
+   },
+   {
+    "general_court": 194,
+    "bill": "S33"
+   },
+   {
+    "general_court": 194,
+    "bill": "S2516"
+   },
+   {
+    "general_court": 194,
+    "bill": "S2608"
+   }
+  ]
  },
  "S2539": {
   "actions": [
@@ -1584,7 +2337,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S49"
+   },
+   {
+    "general_court": 194,
+    "bill": "S39"
+   },
+   {
+    "general_court": 191,
+    "bill": "S1887"
+   },
+   {
+    "general_court": 192,
+    "bill": "S2088"
+   },
+   {
+    "general_court": 192,
+    "bill": "S51"
+   }
+  ]
  },
  "S2770": {
   "actions": [
@@ -1613,7 +2387,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S45"
+   },
+   {
+    "general_court": 194,
+    "bill": "S2516"
+   },
+   {
+    "general_court": 194,
+    "bill": "S2608"
+   },
+   {
+    "general_court": 194,
+    "bill": "S2619"
+   },
+   {
+    "general_court": 194,
+    "bill": "S29"
+   }
+  ]
  },
  "S280": {
   "actions": [
@@ -1648,7 +2443,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H633"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4405"
+   },
+   {
+    "general_court": 192,
+    "bill": "H127"
+   },
+   {
+    "general_court": 193,
+    "bill": "H532"
+   },
+   {
+    "general_court": 194,
+    "bill": "S364"
+   }
+  ]
  },
  "S30": {
   "actions": [
@@ -1689,7 +2505,16 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H93"
+   },
+   {
+    "general_court": 193,
+    "bill": "H76"
+   }
+  ]
  },
  "S927": {
   "actions": [
@@ -1718,7 +2543,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1946"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1053"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4640"
+   },
+   {
+    "general_court": 193,
+    "bill": "H1728"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4359"
+   }
+  ]
  },
  "S938": {
   "actions": [
@@ -1783,7 +2629,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "S890"
+   },
+   {
+    "general_court": 192,
+    "bill": "S958"
+   },
+   {
+    "general_court": 189,
+    "bill": "H1616"
+   },
+   {
+    "general_court": 192,
+    "bill": "S810"
+   },
+   {
+    "general_court": 186,
+    "bill": "S2351"
+   }
+  ]
  },
  "S971": {
   "actions": [
@@ -1812,7 +2679,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1915"
+   },
+   {
+    "general_court": 193,
+    "bill": "H1707"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1108"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1252"
+   },
+   {
+    "general_court": 193,
+    "bill": "S1116"
+   }
+  ]
  },
  "H1283": {
   "actions": [
@@ -1841,7 +2729,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 190,
+    "bill": "H2230"
+   },
+   {
+    "general_court": 191,
+    "bill": "H1237"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1353"
+   },
+   {
+    "general_court": 191,
+    "bill": "H4420"
+   },
+   {
+    "general_court": 192,
+    "bill": "H4553"
+   }
+  ]
  },
  "H1519": {
   "actions": [
@@ -1870,7 +2779,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1715"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1580"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2732"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2657"
+   },
+   {
+    "general_court": 187,
+    "bill": "S1184"
+   }
+  ]
  },
  "H1555": {
   "actions": [
@@ -1899,7 +2829,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1754"
+   },
+   {
+    "general_court": 192,
+    "bill": "H4152"
+   },
+   {
+    "general_court": 194,
+    "bill": "H101"
+   },
+   {
+    "general_court": 194,
+    "bill": "H75"
+   },
+   {
+    "general_court": 194,
+    "bill": "H73"
+   }
+  ]
  },
  "H1653": {
   "actions": [
@@ -1928,7 +2879,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H3755"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2326"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2116"
+   },
+   {
+    "general_court": 194,
+    "bill": "H124"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2020"
+   }
+  ]
  },
  "H281": {
   "actions": [
@@ -1975,7 +2947,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H358"
+   },
+   {
+    "general_court": 190,
+    "bill": "H2813"
+   },
+   {
+    "general_court": 191,
+    "bill": "H223"
+   },
+   {
+    "general_court": 192,
+    "bill": "H349"
+   },
+   {
+    "general_court": 189,
+    "bill": "S545"
+   }
+  ]
  },
  "H3179": {
   "actions": [
@@ -2016,7 +3009,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H3510"
+   },
+   {
+    "general_court": 191,
+    "bill": "H382"
+   },
+   {
+    "general_court": 192,
+    "bill": "H521"
+   },
+   {
+    "general_court": 194,
+    "bill": "S3090"
+   },
+   {
+    "general_court": 194,
+    "bill": "S3190"
+   }
+  ]
  },
  "H3217": {
   "actions": [
@@ -2063,7 +3077,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 190,
+    "bill": "H4371"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2504"
+   },
+   {
+    "general_court": 194,
+    "bill": "S1481"
+   },
+   {
+    "general_court": 194,
+    "bill": "S219"
+   },
+   {
+    "general_court": 186,
+    "bill": "S77"
+   }
+  ]
  },
  "H3431": {
   "actions": [
@@ -2092,7 +3127,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 190,
+    "bill": "H1902"
+   },
+   {
+    "general_court": 191,
+    "bill": "H3141"
+   },
+   {
+    "general_court": 192,
+    "bill": "H3597"
+   },
+   {
+    "general_court": 189,
+    "bill": "H3102"
+   },
+   {
+    "general_court": 192,
+    "bill": "H3564"
+   }
+  ]
  },
  "H3831": {
   "actions": [
@@ -2133,7 +3189,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1843"
+   },
+   {
+    "general_court": 194,
+    "bill": "H128"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3821"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2688"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2677"
+   }
+  ]
  },
  "H386": {
   "actions": [
@@ -2180,7 +3257,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S250"
+   },
+   {
+    "general_court": 193,
+    "bill": "S184"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2233"
+   },
+   {
+    "general_court": 194,
+    "bill": "H340"
+   },
+   {
+    "general_court": 194,
+    "bill": "H789"
+   }
+  ]
  },
  "H3863": {
   "actions": [
@@ -2292,7 +3390,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 190,
+    "bill": "H200"
+   },
+   {
+    "general_court": 191,
+    "bill": "H349"
+   },
+   {
+    "general_court": 192,
+    "bill": "H460"
+   },
+   {
+    "general_court": 189,
+    "bill": "H274"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3126"
+   }
+  ]
  },
  "H4266": {
   "actions": [
@@ -2339,7 +3458,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 190,
+    "bill": "H2230"
+   },
+   {
+    "general_court": 191,
+    "bill": "H1237"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1353"
+   },
+   {
+    "general_court": 193,
+    "bill": "H1283"
+   },
+   {
+    "general_court": 191,
+    "bill": "H4420"
+   }
+  ]
  },
  "H4421": {
   "actions": [
@@ -2368,36 +3508,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
- },
- "H4832": {
-  "actions": [
+  "similar": [
    {
-    "Date": "2024-07-10T11:28:20.2666667",
-    "Branch": "House",
-    "Action": "Reported from the committee on The Judiciary",
-    "IsStricken": false
+    "general_court": 193,
+    "bill": "H530"
    },
    {
-    "Date": "2024-07-10T11:28:20.2666667",
-    "Branch": "House",
-    "Action": "New draft of S2483, H1488 and H4103",
-    "IsStricken": false
+    "general_court": 194,
+    "bill": "H630"
    },
    {
-    "Date": "2024-07-10T11:28:20.2666667",
-    "Branch": "House",
-    "Action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
-    "IsStricken": false
+    "general_court": 193,
+    "bill": "S343"
    },
    {
-    "Date": "2024-12-31T23:59:00",
-    "Branch": "House",
-    "Action": "No further action taken",
-    "IsStricken": false
+    "general_court": 194,
+    "bill": "S50"
+   },
+   {
+    "general_court": 193,
+    "bill": "S2666"
    }
-  ],
-  "similar": []
+  ]
  },
  "H530": {
   "actions": [
@@ -2426,7 +3558,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H4421"
+   },
+   {
+    "general_court": 194,
+    "bill": "H630"
+   },
+   {
+    "general_court": 193,
+    "bill": "S343"
+   },
+   {
+    "general_court": 194,
+    "bill": "S50"
+   },
+   {
+    "general_court": 193,
+    "bill": "S2666"
+   }
+  ]
  },
  "S1557": {
   "actions": [
@@ -2485,7 +3638,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S1734"
+   },
+   {
+    "general_court": 190,
+    "bill": "S1348"
+   },
+   {
+    "general_court": 191,
+    "bill": "S1446"
+   },
+   {
+    "general_court": 192,
+    "bill": "S1619"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3749"
+   }
+  ]
  },
  "S184": {
   "actions": [
@@ -2532,7 +3706,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S250"
+   },
+   {
+    "general_court": 194,
+    "bill": "H461"
+   },
+   {
+    "general_court": 193,
+    "bill": "H386"
+   },
+   {
+    "general_court": 194,
+    "bill": "HD5406"
+   },
+   {
+    "general_court": 192,
+    "bill": "S1495"
+   }
+  ]
  },
  "S198": {
   "actions": [
@@ -2585,7 +3780,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S265"
+   },
+   {
+    "general_court": 191,
+    "bill": "S170"
+   },
+   {
+    "general_court": 192,
+    "bill": "S225"
+   },
+   {
+    "general_court": 190,
+    "bill": "S2504"
+   },
+   {
+    "general_court": 194,
+    "bill": "H252"
+   }
+  ]
  },
  "S2666": {
   "actions": [
@@ -2620,7 +3836,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H630"
+   },
+   {
+    "general_court": 193,
+    "bill": "S343"
+   },
+   {
+    "general_court": 193,
+    "bill": "H530"
+   },
+   {
+    "general_court": 194,
+    "bill": "S50"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4421"
+   }
+  ]
  },
  "S27": {
   "actions": [
@@ -2661,7 +3898,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1879"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3755"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1643"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3283"
+   },
+   {
+    "general_court": 194,
+    "bill": "H633"
+   }
+  ]
  },
  "S343": {
   "actions": [
@@ -2690,7 +3948,28 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H630"
+   },
+   {
+    "general_court": 193,
+    "bill": "S2666"
+   },
+   {
+    "general_court": 193,
+    "bill": "H530"
+   },
+   {
+    "general_court": 194,
+    "bill": "S50"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4421"
+   }
+  ]
  },
  "S844": {
   "actions": [
@@ -2719,6 +3998,27 @@
     "IsStricken": false
    }
   ],
-  "similar": []
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S947"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1356"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1451"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4653"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2843"
+   }
+  ]
  }
 }

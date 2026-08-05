@@ -1,7 +1,40 @@
 # Codebook: consumer data privacy, 193rd General Court (2023-2024)
 
-Status: draft, atomization stage.
-Later stages (linking, fate classification) will extend this file.
+Status: draft, link-graph stage.
+Fate classification will extend this file.
+
+## Link rules (Goal 3)
+
+Link types in `data/links.csv`, with the confidence vocabulary:
+
+- `redraft_of` (verified-official-record): the bill's official history says
+  "New draft of X, Y and Z"; the successor bill points at every named parent.
+- `superseded_by` (verified-official-record): the parent's history says
+  "Accompanied a new draft, see X."
+- `sent_to_study` (verified-official-record): "Accompanied a study order,
+  see X" - the standard death-by-study mechanism; X is the study order.
+- `reported_from_part_of` (verified-official-record): "Reported on a part
+  of X" - a committee carved this bill out of vehicle X.
+- `official_similar` (verified-official-record): a listing on the bill's
+  Similar Bills tab; includes cross-session entries (refilings) where the
+  site records them.
+- `companion_identical` (verified-text-comparison): normalized 8-gram
+  Jaccard similarity >= 0.85 between the two official texts, computed by
+  `scripts/07_links.py` from the cached texts.
+- `companion_near_identical` (verified-text-comparison): Jaccard in
+  [0.50, 0.85) - substantially the same text with drafting variations
+  (for example H83 vs S25, where one chamber's numbering style shreds
+  8-grams; the atomization notes verified them substantively identical).
+- `proposition_kinship` (inferred-needs-review): hand-proposed link between
+  two DIFFERENT propositions sharing a goal but not a mechanism.
+  Every kinship link sits in `data/verification_queue.csv` with a pointer
+  to the side-by-side excerpts in `memo/atomization/`.
+
+Proposition identity across bills (the same P-NNN appearing on several
+bills in `data/bill_propositions.csv`) is itself a link claim; its
+confidence is verified-text-comparison when the bills are companions or
+redrafts confirmed by diff, and the variant notes on each edge record
+stricter/weaker deltas.
 
 ## Atomization rules (Goal 2)
 
