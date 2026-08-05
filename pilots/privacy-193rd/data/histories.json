@@ -9673,5 +9673,361 @@
     "bill": "S1721"
    }
   ]
+ },
+ "H4450": {
+  "actions": [
+   {
+    "Date": "2024-03-07T16:43:38.85",
+    "Branch": "House",
+    "Action": "Reported from the committee on Transportation",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-07T16:43:38.85",
+    "Branch": "House",
+    "Action": "New draft of S2275, H3306, H3336, H3375 and H3440",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-07T16:43:38.85",
+    "Branch": "House",
+    "Action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H4940",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Read second",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Amended (as recommended by the committee on House Ways and Means) adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "New draft substituted, see H4940",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "H2998"
+   },
+   {
+    "general_court": 192,
+    "bill": "H3440"
+   },
+   {
+    "general_court": 193,
+    "bill": "H3306"
+   },
+   {
+    "general_court": 192,
+    "bill": "H4478"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4940"
+   }
+  ]
+ },
+ "H4940": {
+  "actions": [
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Reported from the committee on House Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Pending new draft of H4450",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "New draft of H4450",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Ordered to a third reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-30T00:00:00",
+    "Branch": "House",
+    "Action": "Read third and passed to be engrossed",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-08-05T11:05:58.7633333",
+    "Branch": "Senate",
+    "Action": "Read; and referred to the committee on Senate Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T12:09:22.0266667",
+    "Branch": "Senate",
+    "Action": "Committee recommended ought to pass with an amendment, striking out all after the enacting clause and inserting in place thereof the text of S3005",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "Senate",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "Senate",
+    "Action": "Read second, amended (as recommended by the committee on Senate Ways and Means) and ordered to a third reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T00:00:00",
+    "Branch": "Senate",
+    "Action": "Taken out of the Orders of the Day",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T12:45:00.4566667",
+    "Branch": "Senate",
+    "Action": "Read third and passed to be engrossed",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T00:00:00",
+    "Branch": "House",
+    "Action": "Referred to the committee on Bills in the Third Reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T00:00:00",
+    "Branch": "House",
+    "Action": "House concurred in the Senate amendment",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T21:26:29.8966667",
+    "Branch": "House",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T21:51:09.6833333",
+    "Branch": "Senate",
+    "Action": "Emergency preamble adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T00:00:00",
+    "Branch": "House",
+    "Action": "Enacted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-30T22:04:25.8333333",
+    "Branch": "Senate",
+    "Action": "Enacted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2025-01-01T00:00:00",
+    "Branch": "Senate",
+    "Action": "Laid before the Governor",
+    "IsStricken": false
+   },
+   {
+    "Date": "2025-01-10T10:28:00",
+    "Branch": "Executive",
+    "Action": "Signed by the Governor, Chapter 399 of the Acts of 2024",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "H2998"
+   },
+   {
+    "general_court": 192,
+    "bill": "H3440"
+   },
+   {
+    "general_court": 193,
+    "bill": "H3306"
+   },
+   {
+    "general_court": 192,
+    "bill": "H4478"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4450"
+   }
+  ]
+ },
+ "S1136": {
+  "actions": [
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on The Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-05T17:28:22.29",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 09/12/2023 from 01:00 PM-05:00 PM in A-2                              ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-08T11:11:05.39",
+    "Branch": "Senate",
+    "Action": "Accompanied a study order, see S2612",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S1281"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2031"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2146"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1838"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1729"
+   }
+  ]
+ },
+ "S1503": {
+  "actions": [
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on Public Safety and Homeland Security",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-12-04T16:11:32.7666667",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 12/11/2023 from 11:00 AM-04:00 PM in A-1                                   ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-25T14:18:06.6133333",
+    "Branch": "Senate",
+    "Action": "Reporting date extended to Monday April 8, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-04T13:00:46.5",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-16T11:12:25.4433333",
+    "Branch": "Senate",
+    "Action": "Reporting date extended to Wednesday May 8, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-25T13:06:11.36",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-05-20T11:01:54.0533333",
+    "Branch": "Senate",
+    "Action": "Bill reported favorably by committee and referred to the committee on Senate Rules",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-31T23:59:00",
+    "Branch": "Senate",
+    "Action": "No further action taken",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "S1665"
+   },
+   {
+    "general_court": 194,
+    "bill": "H101"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2919"
+   },
+   {
+    "general_court": 194,
+    "bill": "H606"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1606"
+   }
+  ]
  }
 }

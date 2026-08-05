@@ -937,8 +937,8 @@ PROPS.update({
     "P-356": ("fusion-sar-audit-purge", "surveillance-tech", "Independent audit of suspicious-activity reports with purge of noncompliant records"),
     "P-346": ("fusion-subject-access", "surveillance-tech", "Subject right of access to personal data held in criminal intelligence systems"),
     # P-347 retired 2026-08-05: split into P-357/P-358/P-359.
-    "P-357": ("client-data-bank-system", "govt-data", "State-run centralized data bank of nonprofit service-provider client personal data (creation and operation)"),
-    "P-362": ("client-data-bank-membership-conditions", "govt-data", "State grant/loan/contract eligibility conditioned on data-bank membership; client ID-card acceptance rules"),
+    "P-357": ("client-data-bank-system", "govt-data", "State-run centralized client data bank with standardized application, client ID-card issuance, and provider-acceptance duties"),
+    "P-362": ("client-data-bank-membership-conditions", "govt-data", "Nonprofit providers' state grant/loan eligibility conditioned on data-bank participation, with an application fee set by the secretary"),
     "P-358": ("client-data-bank-consent-gate", "govt-data", "Written informed client consent required before the data bank discloses client personal data, with c.66A protection duties"),
     "P-359": ("client-data-bank-records-exclusion", "govt-data", "Data-bank client information excluded from the public-records definition"),
 })
@@ -1022,8 +1022,8 @@ edges("H3637",
     ("P-356", "new c.66A s.2D", ""),
     ("P-346", "new c.66A s.2F", ""))
 edges("H219",
-    ("P-357", "new c.6A s.16DD(d)", ""),
-    ("P-362", "new c.6A s.16DD(b)-(c)", ""),
+    ("P-357", "new c.6A s.16DD(d)", "system, standardized application, ID card"),
+    ("P-362", "new c.6A s.16DD(b)-(c)", "application fee (b); provider eligibility conditioning (c)"),
     ("P-358", "new c.6A s.16DD(e)", ""),
     ("P-359", "new c.6A s.16DD(a)", ""))
 edges("S23", ("P-291", "SECTION 30 (new c.222 s.29)", "Senate supplemental-budget vehicle carrying the notary restriction"))
@@ -1100,12 +1100,17 @@ QUOTES.update({
 PROPS.update({
     "P-360": ("immunization-exemption-record-confidentiality", "health", "Medical immunization-exemption certifications confidential; no disclosure outside the school health program"),
     "P-363": ("immunization-exemption-inadmissibility", "health", "Immunization-exemption certifications inadmissible in proceedings absent written parental consent"),
-    "P-364": ("immunization-exemption-physician-shield", "health", "Certifications may not be used against the certifying physician's rating or professional standing"),
+    "P-364": ("immunization-exemption-physician-shield", "health", "Certifications may not be used against the certifying physician's rating or standing with employers, insurers, or affiliations"),
+    "P-370": ("immunization-certifier-disciplinary-immunity", "health", "Certifying physicians immune from licensing or disciplinary action absent manifest bad faith"),
+    # camera lineage successors (fixed-point traversal; H4940 enacted as 2024 c.399)
+    "P-368": ("dv-report-confidentiality-study", "govt-records", "Task force to review domestic-violence report confidentiality laws and recommend survivor protections"),
+    "P-369": ("victim-notice-protected-report-access", "govt-records", "Victim must be notified when an advocate or counselor not specifically authorized requests access to a protected police report"),
 })
 edges("H582",
     ("P-360", "SECTION 1 (rewritten c.76 s.15, confidentiality clause)", ""),
     ("P-363", "SECTION 1 (admissibility clause)", ""),
-    ("P-364", "SECTION 1 (physician-protection clause)", ""))
+    ("P-364", "SECTION 1 (rating/standing clause)", ""),
+    ("P-370", "SECTION 1 (manifest-bad-faith immunity clause)", ""))
 for b, cite, note in (
     ("H57", "inserted c.222 s.29 (bill lines 673-677)", "Governor's FY23 supplemental filing carrying the notary restriction"),
     ("S24", "s.19 (new c.222 s.29)", "Senate Ways and Means FY23 supplemental stage"),
@@ -1163,4 +1168,26 @@ edges("H1939", ("P-367", "new section (b)-(d)", "privilege with subsection (c)-(
 QUOTES.update({
     ("H4731", "P-366"): "shall not be made public and shall be maintained by the police department that responds to such fatality",
     ("S2809", "P-366"): "shall not be made public and shall be maintained by the police department that responds to such fatality",
+})
+
+
+# Sixth-pass admissions: camera-lineage successor stages (H4450 redraft of
+# H3336/H3375; H4940 enacted as 2024 c.399 per its official history - the
+# SessionLaws API list omits this chapter, see the adjudication note) and
+# two term-form-independent primary-object filings.
+edges("H4450",
+    ("P-302", "school-bus camera section (municipal ownership; vendor no-other-use)", "redraft of H3336/H3375; RMV-vendor security regime (P-333) not carried"),
+    ("P-332", "destruction clauses (30-day non-violation / 1-year post-disposition)", "redraft of H3336/H3375"))
+edges("H4940",
+    ("P-301", "notice-of-liability clause (no frontal images; no operator/passenger/contents identification)", "ENACTED as 2024 c.399"),
+    ("P-302", "ownership/vendor clause (images property of municipality; vendor no-other-use)", "ENACTED as 2024 c.399"),
+    ("P-332", "destruction clauses (30-day / 1-year with annual attestation to the state secretary)", "ENACTED as 2024 c.399"))
+edges("S1136", ("P-368", "new c.41 s.97D1/2", "sole section"))
+edges("S1503", ("P-369", "c.41 s.97D amendment (sole section)", ""))
+QUOTES.update({
+    ("H4450", "P-302"): "shall be the property of the municipality under agreement with a vendor and shall not be used by a vendor for any other purpose",
+    ("H4940", "P-302"): "shall be the property of the municipality under agreement with a vendor and shall not be used by a vendor for any other purpose",
+    ("H4450", "P-332"): "destroyed ... within 30 days of the date the image was recorded ... destroyed within 1 year of final disposition",
+    ("H4940", "P-332"): "destroyed ... within 30 days of the date the image was recorded ... destroyed within 1 year of final disposition",
+    ("H4940", "P-301"): "shall not include a frontal view photograph or video image ... or images that identify the operator, passengers or contents of the vehicle",
 })

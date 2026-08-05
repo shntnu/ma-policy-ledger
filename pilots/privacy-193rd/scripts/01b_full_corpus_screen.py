@@ -32,7 +32,7 @@ DATA = PILOT / "data"
 
 def main() -> None:
     docs = json.loads((DATA / "documents_193.json").read_text())
-    titles = {d["BillNumber"]: (d.get("Title") or "").strip() for d in docs if d.get("BillNumber")}
+    titles = {d["BillNumber"]: re.sub(r"\s+", " ", (d.get("Title") or "")).strip() for d in docs if d.get("BillNumber")}
     rows = []
     unscanned = []
     for i, bn in enumerate(sorted(titles), 1):

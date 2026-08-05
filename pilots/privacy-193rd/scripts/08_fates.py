@@ -168,6 +168,9 @@ ADJUDICATIONS = {
     (2024, "252"): [
         ("c.150F s.5(A) and related", "EX-PROGRAM-INCIDENT", "driver-record public-records exemption and list-sharing incident to the bargaining board the act creates"),
     ],
+    (2024, "399"): [
+        ("school-bus camera act (destruction, ownership/vendor-use, no-identification clauses)", "IN-CORE", "camera-data rules (P-301, P-302, P-332 variants); enacted vehicle H4940 per its official history (Signed ... Chapter 399 of the Acts of 2024); NOTE: the /api/SessionLaws/2024 list omits this chapter - evidence is the bill history, the recovered official PDF text, and the chapter page (cached)"),
+    ],
     (2024, "363"): [
         ("s.1 (c.4 s.7 cl.26(w)); c.90K s.5", "IN-CORE", "bus-camera records exemption (P-299), litigation limits (P-300), occupant-ID ban (P-301), vendor confidentiality (P-302); enacted vehicle S2884 (found by the widened scan)"),
     ],

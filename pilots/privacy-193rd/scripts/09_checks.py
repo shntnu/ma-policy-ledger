@@ -100,9 +100,14 @@ check(r.returncode == 0, f"05c runs offline from committed cache ({r.stderr.stri
 # determinism: rerunning 06/07/08 must not change outputs
 snap = {}
 for name in ("bill_propositions.csv", "links.csv", "verification_queue.csv",
-             "proposition_fates.csv", "bill_fates.csv"):
+             "proposition_fates.csv", "bill_fates.csv", "corpus_scan.csv",
+             "census.csv", "sessionlaw_scan.csv", "enacted_probe.csv",
+             "enacted_adjudication.csv", "study_order_status.csv",
+             "propositions.csv"):
     snap[name] = (DATA / name).read_bytes()
-for script in ("06_compile_atoms.py", "07_links.py", "08_fates.py"):
+for script in ("03_sessionlaws.py", "01b_full_corpus_screen.py",
+               "04_inclusion.py", "06_compile_atoms.py", "07_links.py",
+               "08_fates.py"):
     subprocess.run([sys.executable, script], cwd=PILOT / "scripts",
                    check=True, capture_output=True)
 for name, before in snap.items():

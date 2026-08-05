@@ -66,9 +66,29 @@ def main() -> None:
     targets.update(ENACTED_ORIGINS)
 
     out = {}
-    for bn in sorted(targets):
-        out[bn] = fetch_doc(bn)
-        print(f"  {bn}: {out[bn]['Title'][:70]}")
+    frontier2 = sorted(targets)
+    seen_refs = set(census_bills) | set(frontier2)
+    while frontier2:
+        bn = frontier2.pop(0)
+        if bn not in out:
+            out[bn] = fetch_doc(bn)
+            print(f"  {bn}: {out[bn]['Title'][:70]}")
+        # fixed point: follow this target's own successor/parent references
+        for a in out[bn]["actions"]:
+            refs = []
+            s = actions.successor_of(a["Action"])
+            if s:
+                refs.append(s[0])
+            pa = actions.parents_of(a["Action"])
+            if pa:
+                refs.extend(pa[0])
+            so = actions.study_order_of(a["Action"])
+            if so:
+                refs.append(so)
+            for ref in refs:
+                if ref not in seen_refs:
+                    seen_refs.add(ref)
+                    frontier2.append(ref)
 
     # follow "Reported (in part) X" from study orders (review finding 9):
     # a study order that reported something out is not terminal until the

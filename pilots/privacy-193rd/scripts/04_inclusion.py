@@ -222,6 +222,14 @@ ADDITIONS = {
     "H5077": ("An Act making appropriations for fiscal year 2024 (supplemental-closeout)", "IN-ENACTED-VEHICLE", "enacted as 2024 c.248; carries the SFI withholding expansion (s.27)"),
     "H4799": ("An Act making appropriations for fiscal year 2024 (closeout supplemental)", "IN-ENACTED-VEHICLE", "enacted as 2024 c.206; carries the TNC trip-data regime (s.15)"),
     "S2884": ("An Act relative to bus lane enforcement", "IN-ENACTED-VEHICLE", "enacted as 2024 c.363; bus-camera data rules (found by the widened enacted-side scan)"),
+    # Camera-lineage successors found by fixed-point traversal (sixth-pass
+    # review finding 1). H4940's history records enactment as 2024 c.399,
+    # a chapter the SessionLaws API list omits.
+    "H4450": ("An Act concerning the safety of school children embarking and disembarking school buses", "IN-ENACTED-FEEDBACK", "redraft of census camera bills H3336/H3375; carries vendor-use and destruction rules"),
+    "H4940": ("An Act concerning the safety of school children embarking and disembarking school buses", "IN-ENACTED-VEHICLE", "enacted as 2024 c.399 per its official history; carries camera-data rules"),
+    # Term-form-independent primary-object filings (sixth-pass finding 2)
+    "S1136": ("An Act establishing a task force to review domestic violence reports and confidentiality", "IN-CORPUS-SCREEN", "confidentiality-law review task force; found by independent construction screen, not the term regex"),
+    "S1503": ("An Act relative to victim notification of protected police-report access requests", "IN-CORPUS-SCREEN", "access-notification rule on protected reports; found by independent construction screen"),
 }
 
 
@@ -303,12 +311,16 @@ def main() -> None:
                 "decision": dec, "reason": reason, "note": note,
             })
             counts[dec] = counts.get(dec, 0) + 1
+        needed = DATA / "corpus_triage_needed.csv"
         if missing:
-            with (DATA / "corpus_triage_needed.csv").open("w", newline="") as f:
+            with needed.open("w", newline="") as f:
                 w = csvutil.writer(f)
                 w.writerow(["bill"])
                 for bn in sorted(missing):
                     w.writerow([bn])
+        elif needed.exists():
+            needed.unlink()
+        if missing:
             raise SystemExit(
                 f"corpus-screen hits without triage verdicts: {len(missing)} "
                 f"(worklist written to data/corpus_triage_needed.csv): {sorted(missing)[:10]}")
