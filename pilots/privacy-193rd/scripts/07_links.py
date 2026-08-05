@@ -23,6 +23,10 @@ Outputs: data/links.csv, data/verification_queue.csv
 """
 
 import csv
+
+import actions
+
+import csvutil
 import hashlib
 import json
 import re
@@ -224,6 +228,7 @@ FLAGS = [
     ("H1986", "P-165", "Marginal census include: study resolve with data-practice charges.", "memo/codebook.md"),
     ("H4744", "P-266", "Boundary revision: interpersonal disclosure restrictions (doxing, NDII) are in-domain regardless of civil/criminal mechanism; reversal of the initial criminal-harassment carve-out, recorded in the codebook.", "memo/codebook.md"),
     ("2024 c.166", "", "Judgment call: parentage-case impoundment (c.209C ss.28I, 28O) and surrogacy-record confidentiality (s.28B(a)(ix)) ruled EX-ADJACENT as procedure-incident, in tension with the IN verdict for c.118 s.43A(b)(5); reviewer should check the distinction (protects case papers vs protects the regulated material itself).", "data/enacted_adjudication.csv"),
+    ("2024 c.221 / H3735", "", "Judgment call contested by external review: the Truro disability-proof nondisclosure clause is ruled program-incident (symmetric on filed and enacted sides); the reviewer reads the codebook's government-records subdomain as covering it. If reversed, both H3735 and 2024 c.221 enter and the enacted count rises by one.", "data/enacted_adjudication.csv"),
     ("2024 c.238/c.343/c.252/c.186/c.178", "", "Judgment call: program-incident data provisions (registries, compact data system, mortality reviews, TND board records, burn-pit registry) excluded SYMMETRICALLY from both filed and enacted sides; see codebook program-incident rule.", "data/enacted_adjudication.csv"),
 ]
 
@@ -242,23 +247,21 @@ def main() -> None:
             "evidence": evidence, "evidence_url": url,
         })
 
-    for bn, d in hist.items():
+    for bn in sorted(hist):
+        d = hist[bn]
         hurl = f"https://malegislature.gov/Bills/193/{bn}"
         for a in d["actions"]:
             act = a["Action"].strip()
-            m = re.match(r"New draft of (.+)", act)
-            if m:
-                for parent in re.findall(r"[HS]\d+", m.group(1)):
-                    add(bn, parent, "redraft_of", "verified-official-record", act, hurl)
-            m = re.search(r"Accompanied a new draft, see ([HS]\d+)", act)
-            if m:
-                add(bn, m.group(1), "superseded_by", "verified-official-record", act, hurl)
-            m = re.search(r"Accompanied a study order, see ([HS]\d+)", act)
-            if m:
-                add(bn, m.group(1), "sent_to_study", "verified-official-record", act, hurl)
-            m = re.search(r"Reported on a part of ([HS]\d+)", act)
-            if m:
-                add(bn, m.group(1), "reported_from_part_of", "verified-official-record", act, hurl)
+            p = actions.parents_of(act)
+            if p:
+                for parent in p[0]:
+                    add(bn, parent, p[1], "verified-official-record", act, hurl)
+            s = actions.successor_of(act)
+            if s:
+                add(bn, s[0], s[1], "verified-official-record", act, hurl)
+            so = actions.study_order_of(act)
+            if so:
+                add(bn, so, "sent_to_study", "verified-official-record", act, hurl)
         for s in d.get("similar", []):
             add(bn, f"{s['general_court']}:{s['bill']}", "official_similar",
                 "verified-official-record", "Similar Bills tab",
@@ -327,7 +330,7 @@ def main() -> None:
                 "url": f"https://malegislature.gov/Bills/193/{so}",
             })
     with (DATA / "study_order_status.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["study_order", "terminal_actions", "reported_out", "url"])
+        w = csvutil.dict_writer(f, fieldnames=["study_order", "terminal_actions", "reported_out", "url"])
         w.writeheader()
         w.writerows(study_rows)
 
@@ -351,14 +354,14 @@ def main() -> None:
         add(pa, pb, "proposition_kinship", "inferred-needs-review", why, src)
 
     with (DATA / "links.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["source", "target", "link_type", "confidence", "evidence", "evidence_url"])
+        w = csvutil.dict_writer(f, fieldnames=["source", "target", "link_type", "confidence", "evidence", "evidence_url"])
         w.writeheader()
         w.writerows(links)
 
     # verification queue: kinship links with side-by-side excerpts, analytic
     # identity merges from bill_propositions.csv, and judgment flags
     with (DATA / "verification_queue.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csvutil.writer(f)
         w.writerow(["item_type", "a", "b", "question", "excerpt_a", "excerpt_b", "sources"])
         for pa, pb, why, ex_a, ex_b, src in KINSHIPS:
             w.writerow(["proposition_kinship", pa, pb, why, ex_a, ex_b, src])

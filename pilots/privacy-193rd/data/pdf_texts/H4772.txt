@@ -1,0 +1,639 @@
+HOUSE . . . . . . . No. 4772 
+ 
+The Commonwealth of Massachusetts 
+______________________________________ 
+ 
+ HOUSE OF REPRESENTATIVES, June 18, 2024. 
+ 
+The committee on Ways and Means, to whom was referred the Bill to 
+modernize the Massachusetts insurer’s insolvency fund (House, No. 962), 
+reports recommending that the same ought to pass with an amendment 
+substituting therefor the accompanying bill (House, No. 4772). 
+ 
+For the committee, 
+ 
+AARON MICHLEWITZ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 of 27 
+ FILED ON: 6/18/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4772 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act to modernize the Massachusetts insurer’s insolvency fund. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1 SECTION 1. Chapter 175D of the General Laws is hereby amended by striking out 
+2 sections 1 and 2 and inserting in place thereof the following 2 sections:- 
+3 Section 1. (a) As used in this chapter, the following words shall, unless the context 
+4 clearly requires otherwise, have the following meanings: 
+5 “Affiliate”, a person who directly or indirectly, through 1 or more intermediaries, 
+6 controls, is controlled by or is under common control with another person on December 31 of the 
+7 year immediately preceding the date a member insurer becomes an insolvent member insurer. 
+8 “Association similar to the Fund”, any guaranty association, security fund or other 
+9 insolvency mechanism that affords protection similar to that of the Fund, including, but not 
+10 limited to, any property and casualty insolvency mechanism that obtains assessments or other 
+11 contributions from insurers on a pre-insolvency basis. 
+2 of 27 
+12 “Claimant”, any person instituting a covered claim; provided, that no person who is an 
+13 affiliate of the insolvent member insurer shall be a claimant. 
+14 “Commissioner”, the commissioner of insurance. 
+15 “Control”, the possession, direct or indirect, of the power to direct or cause the direction 
+16 of the management and policies of a person, whether through the ownership of voting securities, 
+17 by contract other than a commercial contract for goods or non-management services, or 
+18 otherwise, unless the power is the result of an official position with or corporate office held by 
+19 the person. Control shall be presumed to exist if a person, directly or indirectly, owns, controls, 
+20 holds with the power to vote or holds proxies representing, not less than 10 per cent of the voting 
+21 securities of any other person; provided, that this presumption may be rebutted by a showing that 
+22 control does not exist in fact. 
+23 “Covered claim”, an unpaid claim, including a claim for unearned premiums, submitted 
+24 by a claimant, which arises out of, and is within the coverage and is subject to the applicable 
+25 limits of, an insurance policy to which this chapter applies issued by a member insurer, if the 
+26 member insurer becomes an insolvent member insurer after July 1, 2025 and: (i) the claimant or 
+27 insured is a resident of the commonwealth at the time of the insured event; provided, that for 
+28 entities other than an individual, the residence or principal place of business of a claimant, 
+29 insured or policyholder shall be located in the commonwealth at the time of the insured event; or 
+30 (ii) the claim is a first-party claim for damage to property with a permanent location in the 
+31 commonwealth. Unless otherwise provided in this chapter, “covered claim” shall not include: 
+32 (A) any amount awarded as punitive or exemplary damages; 
+33 (B) any amount sought as a return of premium under any retrospective rating plan; 
+3 of 27 
+34 (C) any amount due any reinsurer, insurer, insurance pool or underwriting association, 
+35 health maintenance organization, hospital plan corporation, professional health service 
+36 corporation or self-insurer as subrogation recoveries, reinsurance recoveries, contribution, 
+37 indemnification or otherwise; provided, that no claim for any amount due any reinsurer, insurer, 
+38 insurance pool, underwriting association, health maintenance organization, hospital plan 
+39 corporation, professional health service corporation or self-insurer shall be asserted against a 
+40 person insured under a policy issued by an insolvent member insurer other than to the extent the 
+41 claim exceeds the association obligation limitations set forth in section 5; 
+42 (D) any claims excluded pursuant to section 10 due to the high net worth of an insured; 
+43 (E) any first-party claims by an insured that is an affiliate of the insolvent member 
+44 insurer; 
+45 (F) any fee or other amount relating to goods or services sought by or on behalf of any 
+46 attorney or other provider of goods or services retained by the insolvent member insurer or an 
+47 insured prior to the date it was determined to be insolvent; 
+48 (G) any fee or other amount sought by or on behalf of any attorney or other provider of 
+49 goods or services retained by any insured or claimant in connection with the assertion or 
+50 prosecution of any claim, covered or otherwise, against the Fund; 
+51 (H) any claims for interest; or 
+52 (I) any claim filed with the Fund or a liquidator for protection afforded under the 
+53 insured’s policy for incurred-but-not-reported losses. 
+4 of 27 
+54 “Cybersecurity insurance”, insurance that provides first- and third-party coverage, in a 
+55 policy or endorsement, written on a direct, admitted basis, providing indemnity for losses or loss 
+56 mitigation arising out of or relating to data privacy breaches, unauthorized information network 
+57 security intrusions, computer viruses, ransomware, cyber extortion, identity theft and similar 
+58 exposures. 
+59 “Director”, an individual serving on behalf of an insurer member of the board of directors 
+60 or an insurance producer representative on the board of directors. 
+61 “Fund”, the Massachusetts Insurers Insolvency Fund established by section 3. 
+62 “High net worth insured”, any insured whose net worth exceeds $25 million on 
+63 December 31 of the year prior to the year in which the insurer becomes an insolvent member 
+64 insurer; provided, that an insured’s net worth on that date shall be deemed to include the 
+65 aggregate net worth of the insured and all of its subsidiaries and affiliates as calculated on a 
+66 consolidated basis; and provided further, that high net worth insured shall not include a federal, 
+67 state or local government entity. 
+68 “Insolvent member insurer”, a member insurer against whom a final order of liquidation, 
+69 which has not been stayed and to which there is no further right of appeal, has been entered with 
+70 a finding of insolvency by a court of competent jurisdiction in the insurer’s state of domicile 
+71 after July 1, 2025. 
+72 “Insured”, any named insured, any additional insured, any vendor, lessor or any other 
+73 party identified as an insured under the policy. 
+5 of 27 
+74 “Member insurer”, any person, except as provided in the ninth paragraph of section 6 of 
+75 chapter 362 of the acts of 1975, who: (i) writes any kind of insurance to which this chapter 
+76 applies, including the exchange of reciprocal or inter-insurance contracts; and (ii) is licensed to 
+77 transact insurance in the commonwealth. An insurer shall cease to be a member insurer in the 
+78 Fund effective on the day following the termination or expiration of its license to transact the 
+79 kinds of insurance to which this chapter applies; provided, however, that the insurer shall remain 
+80 liable as a member insurer for any and all obligations, including obligations for assessments 
+81 levied prior to the termination or expiration of the insurer’s license and assessments levied after 
+82 the termination or expiration, which relate to any insurer that became an insolvent member 
+83 insurer prior to the termination or expiration of the insurer’s license. 
+84 “Net direct written premiums”, direct gross premiums written in the commonwealth on 
+85 insurance policies to which this chapter applies, including policy and membership fees, less 
+86 return premiums thereon, and dividends paid or credited to policy holders on such direct 
+87 business. Premiums written by any insurer on policies issued to self-insurers, whether or not 
+88 designated reinsurance contracts, shall be deemed net direct written premiums. For workers’ 
+89 compensation policies issued with deductibles under paragraph (4) of section 25A of chapter 
+90 152, net direct written premiums shall be deemed to be an amount equal to standard premium 
+91 plus any applicable all risk adjustment program amounts. Net direct written premiums shall not 
+92 include premiums on contracts between insurers or reinsurers. 
+93 “Novation”, a transaction whereby existing policy obligations became the direct 
+94 obligations of another insurer through consent of the policyholder and that thereafter the ceding 
+95 insurer or entity initially obligated under the claims or policies is released by the policyholder 
+6 of 27 
+96 from performing its claim or policy obligations. Consent may be express or implied based upon 
+97 the circumstances, notice provided and conduct of the parties. 
+98 “Person”, any individual, aggregation of individuals, corporation, partnership or other 
+99 legal entity, including, but not limited to, governmental entities. 
+100 “Receiver”, a liquidator, rehabilitator, conservator or ancillary receiver, as the context 
+101 requires, including, but not limited to, any receiver appointed pursuant to section 180C of 
+102 chapter 175. 
+103 “Self-insurer”, a person that covers its liability through a qualified individual or group 
+104 self-insurance program or any other formal program created for the specific purpose of covering 
+105 liabilities typically covered by insurance. 
+106 Section 2. This chapter shall apply to all kinds of direct insurance, including, but not 
+107 limited to, cybersecurity insurance. This chapter shall not apply to: 
+108 (i) life, annuity, health, accident or disability insurance; 
+109 (ii) mortgage guaranty, financial guaranty or other forms of insurance offering protection 
+110 against investment risks; 
+111 (iii) fidelity or surety bonds or any other bonding obligations; 
+112 (iv) credit insurance, vendors’ single interest insurance, collateral protection insurance or 
+113 any similar insurance protecting the interests of a creditor arising out of a creditor-debtor 
+114 transaction; 
+7 of 27 
+115 (v) insurance of warranties or service contracts, including insurance that provides for the 
+116 repair, replacement or service of goods or property, indemnification for repair, replacement or 
+117 service for the operational or structural failure of the goods or property due to a defect in 
+118 materials, workmanship or normal wear and tear or that provides reimbursement for the liability 
+119 incurred by the issuer of agreements or service contracts that provide such benefits; 
+120 (vi) title insurance; 
+121 (vii) ocean marine insurance; 
+122 (viii) any transaction or combination of transactions between a person, including affiliates 
+123 of such person, and an insurer, including affiliates of such insurer, which involves the transfer of 
+124 investment or credit risk unaccompanied by transfer of insurance risk; or 
+125 (ix) any insurance provided by or guaranteed by the government. 
+126 SECTION 2. Section 3 of said chapter 175D, as appearing in the 2022 Official Edition, is 
+127 hereby amended by striking out the word “six” and inserting in place thereof the following 
+128 figure:- 7. 
+129 SECTION 3. Said chapter 175D is hereby further amended by striking out sections 4 to 
+130 17, inclusive, and inserting in place thereof the following 17 sections:- 
+131 Section 4. (a) The board of directors of the Fund shall consist of not less than 5 nor more 
+132 than 9 persons serving terms as established in the plan of operation pursuant to section 7. The 
+133 insurer members of the board shall be selected by member insurers subject to the approval of the 
+134 commissioner; provided, however, that 1 member of the board shall be appointed by the 
+135 commissioner as representative of the insurance producers. Vacancies on the board shall be filled 
+8 of 27 
+136 for the remaining period of the term by a majority vote of the remaining insurer members subject 
+137 to the approval of the commissioner. 
+138 (b) In approving selections to the board, the commissioner shall consider whether all 
+139 member insurers are fairly represented. 
+140 (c) Members of the board of directors may be reimbursed from the assets of the Fund for 
+141 reasonable expenses incurred by them as members of the board of directors. 
+142 (d) Any director who is an insurer in receivership shall be terminated as a director, 
+143 effective as of the date of the entry of the order of receivership. Any resulting vacancies on the 
+144 board shall be filled for the remaining period of the term in accordance with the provisions of 
+145 subsection (a). 
+146 (e) A director shall be deemed unable to satisfactorily perform the designated functions 
+147 as a director by missing 3 consecutive board meetings, including, but not limited to, for illness, 
+148 nonattendance or any other reason, and the board of directors may declare the office vacant and 
+149 the director shall be replaced in accordance with subsection (a). 
+150 (f) If the commissioner has reasonable cause to believe that a director failed to disclose a 
+151 known conflict of interest with their duties on the board, failed to take appropriate action based 
+152 on a known conflict of interest with their duties on the board or has been indicted or charged 
+153 with a felony or a misdemeanor involving moral turpitude, the commissioner may suspend the 
+154 director pending the outcome of an investigation or hearing by the commissioner or the 
+155 conclusion of any criminal proceedings. A member insurer with a director elected to the board 
+156 may replace a suspended director representing the member insurer prior to the completion of an 
+157 investigation, hearing or criminal proceeding. In the event that the allegations are substantiated at 
+9 of 27 
+158 the conclusion of an investigation, hearing or criminal proceeding, the position shall be declared 
+159 vacant and the member or director shall be replaced in accordance with subsection (a). 
+160 Section 5. (a)(1) The Fund shall be obligated to pay covered claims existing prior to an 
+161 order of liquidation of a member insurer, arising within 30 days after the order of liquidation, or 
+162 before the policy expiration date if less than 30 days after the order of liquidation, or before the 
+163 insured replaces the policy or causes its cancellation, if the insured does so within 30 days of the 
+164 order of liquidation. The obligation shall be satisfied by paying to the claimant an amount as 
+165 follows: 
+166 (i) the full amount of a covered claim for benefits under a workers’ compensation 
+167 insurance coverage; 
+168 (ii) for liquidations commencing after January 1, 2023, an amount not exceeding $50,000 
+169 per policy for a covered claim for the return of unearned premium; 
+170 (iii) for liquidations commencing after January 1, 2023, an amount not exceeding 
+171 $500,000 per claimant for all other covered claims; or 
+172 (iv) for liquidations commencing after January 1, 2023, an amount not exceeding 
+173 $1,000,000 for all first-party property loss claims arising from a single occurrence under a policy 
+174 covering commercial or residential property. 
+175 (2) In no event shall the Fund be obligated to pay an amount in excess of $500,000 for all 
+176 first- and third-party claims under a policy or endorsement providing or that is found to provide 
+177 cybersecurity insurance coverage and arising out of or related to a single insured event, 
+178 regardless of the number of claims made or the number of claimants. 
+10 of 27 
+179 (3) In no event shall the Fund be obligated to pay a claimant an amount in excess of the 
+180 obligation of the insolvent member insurer under the policy or coverage from which the claim 
+181 arises. Notwithstanding any other provision of this chapter, for liquidations commencing after 
+182 January 1, 2023, a covered claim shall not include a claim filed with the Fund after the final date 
+183 set by the court for the filing of claims against the liquidator or receiver of an insolvent member 
+184 insurer. 
+185 (4) For the purpose of filing a claim under this section, notice of claims to the liquidator 
+186 of the insolvent member insurer shall be deemed notice to the Fund or its agent and a list of 
+187 claims shall be periodically submitted to the Fund or association similar to the Fund in another 
+188 state by the liquidator. 
+189 (5) Any obligation of the Fund to defend an insured shall cease upon the Fund’s payment 
+190 or tender of an amount equal to the lesser of the Fund’s covered claim obligation limit or the 
+191 applicable policy limit. 
+192 (b) The Fund shall be deemed the insurer to the extent of its obligation on the covered 
+193 claims and to that extent, subject to the limitations provided in this chapter, including, but not 
+194 limited to, section 15, shall have all rights, duties and policy obligations of the insolvent member 
+195 insurer as if the insurer had not become insolvent, including but not limited to, the right to pursue 
+196 and retain salvage and subrogation recoverable on covered claim obligations to the extent paid 
+197 by the Fund. The Fund shall not be deemed the insolvent member insurer for the purpose of 
+198 conferring jurisdiction or for any reason not expressly stated in this chapter. The extent of the 
+199 Fund’s subrogation rights and any other rights of reimbursement with respect to its covered 
+11 of 27 
+200 claims payments shall not be limited as if the Fund were the insolvent member insurer but shall 
+201 be determined independently by taking into account the Fund’s rights under section 11. 
+202 (c)(1) The Fund shall assess insurers amounts necessary to pay the obligations of the 
+203 Fund under subsection (a) subsequent to an insolvency, the expenses of handling covered claims 
+204 subsequent to an insolvency and other expenses authorized by this chapter. The assessments of 
+205 each member insurer shall be in the proportion that the net direct written premiums of the 
+206 member insurer for the calendar year preceding the assessment bears to the net direct written 
+207 premiums of all member insurers for the calendar year preceding the assessment. Each member 
+208 insurer shall be notified of the assessment not later than 30 days before it is due. A member 
+209 insurer may not be assessed in any 1 year on any account an amount greater than 2 per cent of 
+210 that member insurer’s net direct written premiums for the calendar year preceding the 
+211 assessment. A member insurer may be also subject to an additional assessment determined by the 
+212 board, not to exceed $1,000 in any 1 year, for the purpose of covering administrative and other 
+213 expenses of the Fund. If the maximum assessment, together with the other assets of the Fund, 
+214 does not provide in any 1 year an amount sufficient to make all necessary payments, the Fund’s 
+215 available assets shall be pro-rated and the unpaid portion shall be paid as soon thereafter as 
+216 additional assets become available. 
+217 (2) The Fund may exempt or defer, in whole or in part, the assessment of a member 
+218 insurer, if the assessment would cause the member insurer’s financial statement to reflect 
+219 amounts of capital or surplus less than the minimum amounts required for a certificate of 
+220 authority by a jurisdiction in which the member insurer is authorized to transact insurance; 
+221 provided, however, that during the period of deferment no dividends shall be paid to 
+222 shareholders or policyholders. Deferred assessments shall be paid when the payment will not 
+12 of 27 
+223 reduce capital or surplus below required minimums. Payments shall be refunded to those 
+224 companies receiving larger assessments by virtue of such deferment, or at the election of the 
+225 member insurer, credited against future assessments. 
+226 (d) The Fund shall investigate claims brought against the Fund and adjust, compromise, 
+227 settle and pay covered claims to the extent of the Fund’s obligation and deny all other claims. 
+228 The Fund shall pay claims in any order that it may deem reasonable, including the payment of 
+229 claims as they are received from the claimants or in groups or categories of claims. The Fund 
+230 shall have the right to appoint, to substitute and to direct legal counsel for the defense of covered 
+231 claims. 
+232 (e) The Fund shall notify claimants in the commonwealth as deemed necessary by the 
+233 commissioner and upon the commissioner’s request, to the extent records are available to the 
+234 Fund. 
+235 (f)(1) The Fund shall have the right to review and contest as set forth in this subsection 
+236 settlements, releases, compromises, waivers and judgments to which the insolvent member 
+237 insurer or its insureds were parties prior to the entry of the order of liquidation. In an action to 
+238 enforce settlements, releases and judgments to which the insolvent member insurer or its 
+239 insureds were parties prior to the entry of the order of liquidation, the Fund shall have the right to 
+240 assert the following defenses, in addition to the defenses available to the insurer: 
+241 (i) The Fund shall not be bound by a settlement, release, compromise or waiver executed 
+242 by an insured or the insurer, or any judgment entered against an insured or the insurer by consent 
+243 or through a failure to exhaust all appeals, if the settlement, release, compromise, waiver or 
+244 judgment was: (A) executed or entered within 12 months prior to the entry of an order of 
+13 of 27 
+245 liquidation; or (B) executed by or taken against an insured or the insurer based on default, fraud, 
+246 collusion or the insurer’s failure to defend. 
+247 (ii) If a court of competent jurisdiction finds that the Fund is not bound by a settlement, 
+248 release, compromise, waiver or judgment for any of the reasons described in clause (i) or any 
+249 other legally sufficient reason, the settlement, release, compromise, waiver or judgment shall be 
+250 set aside, and the Fund shall be permitted to defend any covered claim on the merits. The 
+251 settlement, release, compromise, waiver or judgment shall not be considered as evidence of 
+252 liability or damages in connection with any claim brought against the Fund or any other party 
+253 under this chapter. 
+254 (iii) The Fund shall have the right to assert any statutory defenses or rights of offset 
+255 against any settlement, release, compromise or waiver executed by an insured or the insurer, or 
+256 any judgment taken against the insured or the insurer. 
+257 (2) As to any covered claims arising from a judgment under any decision, verdict or 
+258 finding based on the default of the insolvent member insurer or its failure to defend, the Fund, 
+259 either on its own behalf or on behalf of an insured may apply to have the judgment, order, 
+260 decision, verdict or finding set aside by the same court or administrator that entered the 
+261 judgment, order, decision, verdict or finding and such judgement shall be vacated and the Fund 
+262 shall be permitted to defend the claim on the merits. 
+263 (g) The Fund shall handle claims through its own employees, 1 or more insurers, or other 
+264 persons designated as servicing facilities, which may include the receiver for an insolvent 
+265 member insurer. Designation of a servicing facility shall be subject to the approval of the 
+266 commissioner, but the designation may be declined by a member insurer. 
+14 of 27 
+267 (h) The Fund shall reimburse each servicing facility for obligations of the Fund paid by 
+268 the facility and for expenses incurred by the facility while handling claims on behalf of the Fund 
+269 and shall pay the other expenses of the Fund authorized by this chapter. 
+270 (i) The Fund shall submit, not later than 90 days after the end of the Fund’s fiscal year, a 
+271 financial report for the preceding fiscal year in a form approved by the commissioner. 
+272 (j) The Fund may: 
+273 (i) employ or retain persons as are necessary to handle claims, provide covered policy 
+274 benefits, and perform other duties of the Fund; 
+275 (ii) borrow funds necessary to effect the purposes of this chapter in accordance with the 
+276 plan of operation; provided, that the board of directors shall have the authority to pledge all or an 
+277 appropriate portion of future assessments as necessary to secure a loan that may be needed to pay 
+278 covered claims; and provided further, that until all loans secured by any pledged assessments are 
+279 fully satisfied, the board of directors shall assess the maximum allowable under subsection (c); 
+280 (iii) sue or be sued, including but not limited to, taking any legal action to collect unpaid 
+281 assessments from member insurers, any amounts due for subrogation or salvage, other insurance 
+282 recoveries, large deductible reimbursements or to recover any amount due from a high net worth 
+283 policyholder; provided, that the Fund’s power to sue shall include, but not be limited to, the 
+284 power and right to intervene as a party to the proceedings before any court that has jurisdiction 
+285 over an insolvent member insurer when the Fund is a creditor or potential creditor of the 
+286 insolvent member insurer’s estate; 
+15 of 27 
+287 (iv) negotiate and become a party to contracts necessary to carry out the purpose of this 
+288 chapter; 
+289 (v) refund to the member insurers in proportion to the contribution of each member 
+290 insurer that amount by which the assets of the Fund exceed the liabilities, if at the end of any 
+291 calendar year, the board of directors finds that the assets of the Fund exceed the reasonable 
+292 amounts the board determines are appropriate to assure that the Fund has sufficient capacity to 
+293 fulfill its statutory duties; and 
+294 (vi) perform other acts necessary or proper to effectuate the purpose of this chapter. 
+295 Section 6. Except for actions by the receiver, all actions relating to or arising out of this 
+296 chapter against the Fund shall be brought in the courts in the commonwealth. The courts shall 
+297 have exclusive jurisdiction over all actions relating to or arising out of this chapter against the 
+298 Fund. 
+299 The exclusive venue in any action by or against the Fund shall be in the business 
+300 litigation session of the Superior court for Suffolk county. The Fund may waive venue as to 
+301 specific actions filed by or against it. 
+302 Section 7. (a)(1) The Fund shall submit to the commissioner a plan of operation and any 
+303 amendments to the plan of operation necessary or suitable to assure the fair, reasonable and 
+304 equitable administration of the Fund. The plan of operation and any amendments shall become 
+305 effective upon approval in writing by the commissioner. 
+306 (2) If the Fund fails to submit a suitable plan of operation within 90 days after July 1, 
+307 2025, or if at any time thereafter the Fund fails to submit suitable amendments to the plan, the 
+16 of 27 
+308 commissioner shall, after notice and hearing, adopt reasonable rules necessary or advisable to 
+309 effectuate this chapter. The rules shall continue in force until modified by the commissioner or 
+310 superseded by a plan submitted by the Fund and approved by the commissioner. 
+311 (b) All member insurers shall comply with the plan of operation. 
+312 (c) The plan of operation shall establish: 
+313 (i) procedures for the performance of the powers and duties of the Fund under section 5; 
+314 (ii) procedures for handling assets of the Fund; 
+315 (iii) written procedures for the disposition of liquidating dividends or other monies 
+316 received from the estate of an insolvent member insurer; 
+317 (iv) written procedures to designate the amount and method of reimbursing members of 
+318 the board of directors under section 4 for reasonable expenses occurred in the performance of 
+319 their duties; 
+320 (v) procedures by which claims may be filed with the Fund and acceptable forms of proof 
+321 of covered claims; 
+322 (vi) regular places and times for meetings of the board of directors; 
+323 (vii) written procedures for records to be kept of all financial transactions of the Fund, its 
+324 agents and the board of directors; 
+325 (viii) an option for any member insurer aggrieved by any final action or decision of the 
+326 Fund to appeal to the commissioner within 30 days after the action or decision; 
+17 of 27 
+327 (ix) procedures under which selections for the board of directors shall be submitted to the 
+328 commissioner; and 
+329 (x) any additional provisions necessary or proper for the execution of the powers and 
+330 duties of the Fund. 
+331 (3) The plan of operation may provide that any or all powers and duties of the Fund, 
+332 except those provided under subsection (c) of section 5 and clause (ii) of subsection (j) of section 
+333 5, shall be delegated to a corporation, association similar to the Fund or other organization which 
+334 performs or will perform functions similar to those of the Fund or its equivalent in 2 or more 
+335 states. The corporation, association similar to the Fund or organization shall be reimbursed as a 
+336 servicing facility would be reimbursed and shall be paid for its performance of any other 
+337 functions of the Fund. A delegation under this paragraph shall take effect only with the approval 
+338 of both the board of directors and the commissioner, and may be made only to a corporation, 
+339 association or organization that extends protection not substantially less favorable and effective 
+340 than that provided by this chapter. 
+341 Section 8. (a) The commissioner shall: 
+342 (i) notify the Fund of an insolvent member insurer not later than 3 days after the 
+343 commissioner receives notice of the determination of the insolvency and furnish to the Fund a 
+344 copy of any complaint seeking an order of liquidation with a finding of insolvency against a 
+345 member insurer at the same time that the complaint is filed with a court of competent 
+346 jurisdiction; and 
+347 (ii) provide the Fund with a statement of the net direct written premiums of each member 
+348 insurer upon request of the board of directors. 
+18 of 27 
+349 (b) The commissioner may: 
+350 (i) suspend or revoke, after notice and hearing, the certificate of authority to transact 
+351 insurance in the commonwealth of a member insurer that fails to pay an assessment when due or 
+352 fails to comply with the plan of operation; provided, however, that, as an alternative, the 
+353 commissioner may levy a fine on a member insurer that fails to pay an assessment when due. 
+354 The fine shall not exceed 5 per cent of the unpaid assessment per month; provided, that a fine 
+355 shall be not less than $200 per month; 
+356 (ii) revoke the designation of a servicing facility if the commissioner finds claims are 
+357 being handled unsatisfactorily; and 
+358 (iii) examine, audit, or otherwise regulate the Fund in accordance with the 
+359 commissioner’s authority under section 4 of chapter 175 as if it were a domestic company, as 
+360 defined in section 1 of chapter 175. 
+361 (c) An order of the commissioner under this chapter shall be subject to a public hearing 
+362 and further judicial review in superior court. 
+363 Section 9. (a) The Fund may join 1 or more organizations associations similar to the Fund 
+364 to further the purposes and administer the powers and duties of the Fund. The Fund may 
+365 designate 1 or more of these organizations to act as a liaison for the Fund and, to the extent the 
+366 Fund authorizes, to bind the Fund in agreements or settlements with receivers of insolvent 
+367 insurance companies or their designated representatives. 
+368 (b) The Fund, in cooperation with associations similar to the Fund, or their designated 
+369 representatives, shall reasonably coordinate and cooperate with receivers and regulators, or their 
+19 of 27 
+370 designated representatives, in the commonwealth and other states to promote efficiency and 
+371 uniformity, including the use of Uniform Data Standards as promulgated or approved by the 
+372 National Association of Insurance Commissioners. The Fund may also authorize receivers to 
+373 collect on its behalf amounts due to the Fund from policyholders and others persons. 
+374 Section 10. (a) Any person recovering under this chapter shall be deemed to have 
+375 assigned any rights under the policy to the Fund to the extent of their recovery from the Fund but 
+376 shall retain the right to recover from the liquidator of the insolvent member insurer any amount 
+377 of the claim covered by the policy but not paid by the Fund. Every insured or claimant seeking 
+378 the protection of this chapter shall cooperate with the Fund to the same extent as the person 
+379 insured or claimant would have been required to cooperate with the insolvent member insurer. 
+380 The Fund shall have no cause of action against the insured of the insolvent member insurer for 
+381 sums it has paid out except any causes of action as the insolvent member insurer would have had 
+382 if the sums had been paid by the insolvent member insurer, including, but not limited to, large 
+383 deductible reimbursements provided in the policy, and except as provided in subsection (b) and 
+384 in section 12. 
+385 (b) The Fund shall have the right to recover from any person who is an affiliate of the 
+386 insolvent member insurer all amounts paid by the Fund on behalf of that person pursuant to this 
+387 chapter, whether for indemnity, defense or otherwise. 
+388 (c) The Fund and any association similar to the Fund in another state shall be entitled to 
+389 file a claim in the liquidation of an insolvent member insurer for any amounts paid by the Fund 
+390 or association similar to the fund on covered claim obligations as determined under this chapter 
+20 of 27 
+391 or similar laws in other states and shall receive dividends and other distributions at the priority of 
+392 distribution set forth in section 180F of chapter 175. 
+393 (d) The Fund shall periodically file with the receiver or liquidator of the insolvent 
+394 member insurer statements of the covered claims paid by the Fund and estimates of anticipated 
+395 claims on the Fund, which shall preserve the rights of the Fund against the assets of the insolvent 
+396 member insurer in the commonwealth and other states and jurisdictions. 
+397 (e) The receiver, liquidator or statutory successor of an insolvent member insurer shall be 
+398 bound by settlements of claims by the Fund and shall grant, against the assets of the insolvent 
+399 member insurer, priority equal to that which the claimant would have been entitled in the 
+400 absence of this chapter. 
+401 Section 11. (a) Any person having a claim against a member insurer shall be required first 
+402 to exhaust all coverage provided by any other policy, including the right to a defense under the 
+403 other policy, if the claim under the other policy arises from the same facts, injury or loss that 
+404 gave rise to the covered claim against the Fund. The requirement to exhaust shall apply without 
+405 regard to whether the other insurance policy is a policy written by a member insurer; provided, 
+406 however, that no person shall be required to exhaust any right under the policy of an insolvent 
+407 member insurer or any right under a life insurance policy. If the Fund pays a covered claim 
+408 without the exhaustion of all other coverage that could have been exhausted under this section, 
+409 the Fund shall have an independent right of recovery against each insurer whose coverage was 
+410 not exhausted in the amount the Fund would not have had to pay if that insurer’s coverage had 
+411 been exhausted first. 
+21 of 27 
+412 (b)(1) Any amount payable on a covered claim under this chapter shall be reduced by the 
+413 full applicable limits stated in the other insurance policy, or by the amount of the recovery under 
+414 the other insurance policy as provided herein. The Fund shall receive a full credit for the stated 
+415 limits, unless the claimant demonstrates that the claimant used reasonable efforts to exhaust all 
+416 coverage and limits applicable under the other insurance policy. If the claimant demonstrates that 
+417 the claimant used reasonable efforts to exhaust all coverage and limits applicable under the other 
+418 insurance policy, or if there are no applicable stated limits under the policy, the Fund shall 
+419 receive a full credit for the total recovery. The credit shall be deducted from the lesser of: (i) the 
+420 Fund’s covered claim limit in section 5; (ii) the amount of the judgment or settlement of the 
+421 claim; or (iii) the policy limits of the policy of the insolvent member insurer; provided, however, 
+422 that in no case, shall the obligation of the Fund exceed the covered claim limit established in 
+423 section 5. 
+424 (2) Except to the extent that the claimant has a contractual right to claim defense under an 
+425 insurance policy issued by another insurer, nothing in this section shall relieve the Fund of the 
+426 duty to defend under the policy issued by the insolvent member insurer; provided, however, that 
+427 this duty shall be limited by any other limitation on the duty to defend provided in this chapter. 
+428 (3) A claim under a policy providing liability coverage to a person who may be jointly 
+429 and severally liable as a joint tortfeasor with the person covered under the policy of the insolvent 
+430 member insurer that gives rise to the covered claim shall be considered to be a claim arising from 
+431 the same facts, injury or loss that gave rise to the covered claim against the Fund. 
+432 (c) For purposes of this section, a claim under an insurance policy other than a life 
+433 insurance policy shall include, but shall not be limited to: 
+22 of 27 
+434 (1) a claim against a health maintenance organization, a hospital plan corporation, a 
+435 professional health service corporation or a disability insurance policy; and 
+436 (2) any amount payable by or on behalf of a self-insurer. 
+437 (d) The person insured by the insolvent member insurer’s policy may not be pursued by 
+438 or found liable to a third-party claimant for any amount paid to the third party by which the 
+439 Fund’s obligation is reduced pursuant to this section. 
+440 (e) Any person having a claim that may be recovered under more than 1 association 
+441 similar to the Fund or its equivalent shall seek recovery first from the association of the place of 
+442 residence of the insured; provided, that if it is a first-party claim for damage to property with a 
+443 permanent location, the person shall seek recovery first from the association of the location of 
+444 the property. If it is a workers’ compensation claim, the person shall seek recovery first from the 
+445 association of the residence of the claimant. Any recovery under this chapter shall be reduced by 
+446 the amount of recovery from another insurance guaranty association or its equivalent. 
+447 Section 12. (a) The Fund shall not be obligated to pay any first-party claims by a high net 
+448 worth insured. 
+449 (b)(1) Subject to paragraph (2), the Fund shall not be obligated to pay any third-party 
+450 claim relating to a policy of a high net worth insured. This exclusion shall not apply to third-
+451 party claims against the high net worth insured where: (i) the insured has applied for or 
+452 consented to the appointment of a receiver, trustee or liquidator for all or a substantial part of its 
+453 assets; (ii) the insured has filed a voluntary petition in bankruptcy, filed a petition or an answer 
+454 seeking a reorganization or arrangement with creditors or to take advantage of any insolvency 
+455 law; or (iii) an order, judgment, or decree is entered by a court of competent jurisdiction, on the 
+23 of 27 
+456 application of a creditor, adjudicating the insured bankrupt or insolvent or approving a petition 
+457 seeking reorganization of the insured or of all or substantial part of its assets. 
+458 (2) In the Fund’s sole discretion and without assuming a duty to do so, the Fund may pay 
+459 any cybersecurity insurance claims, workers’ compensation claims, personal injury protection 
+460 claims, no-fault claims and any other claims for ongoing medical payments to third-party 
+461 claimants or their providers when covered by a policy of an insolvent insured on behalf of a high 
+462 net worth insured. 
+463 (c) In all cases where the Fund pays any claim on behalf of a high net worth insured, the 
+464 Fund shall have the right to recover from the high net worth insured all amounts paid by the 
+465 Fund to or on behalf of such insured, whether for indemnity, defense or otherwise, as well as all 
+466 allocated adjustment expenses related to such claims, and the Fund’s reasonable legal fees and 
+467 court costs in any action necessary to collect the Fund’s reimbursement under this section. 
+468 (d) The Fund shall not be obligated to pay any claim that would otherwise be a covered 
+469 claim that is an obligation to or on behalf of a person who has a net worth greater than that 
+470 allowed by the insurance guaranty association law of the state of residence of the claimant at the 
+471 time specified by that state’s applicable law, and which association has denied coverage to that 
+472 claimant on that basis. 
+473 (e) The Fund shall establish reasonable procedures subject to the approval of the 
+474 commissioner for requesting financial information from insureds on a confidential basis for 
+475 purposes of applying this section; provided, that the financial information may be shared with 
+476 any other association similar to the Fund and the liquidator for the insolvent member insurer on 
+477 the same confidential basis. Any request to an insured seeking financial information shall advise 
+24 of 27 
+478 the insured of the consequences of failing to provide the financial information. If an insured 
+479 refuses to provide the requested financial information where it is requested and available, the 
+480 Fund may, until such time as the information is provided, provisionally deem the insured to be a 
+481 high net worth insured for the purpose of denying a claim under subsections (a) and (b). 
+482 (f) In any lawsuit contesting the applicability of this section where the insured has refused 
+483 to provide financial information under the procedure established pursuant to subsection (e), the 
+484 insured shall bear the burden of proof concerning its net worth at the relevant time. If the insured 
+485 fails to prove that its net worth at the relevant time was less than the applicable amount, the court 
+486 shall award the Fund its full costs, expenses and reasonable attorneys’ fees in contesting the 
+487 claim. 
+488 Section 13. The Fund shall be exempt from payment of all fees and all taxes levied by the 
+489 commonwealth or any of its subdivisions except taxes levied on real or personal property. 
+490 Section 14. (a) To aid in the detection and prevention of insurer insolvencies, the board of 
+491 directors may, upon majority vote: (i) make recommendations to the commissioner on matters 
+492 generally related to improving or enhancing regulation for solvency; and (ii) at the conclusion of 
+493 any domestic insurer insolvency in which the Fund was obligated to pay covered claims, prepare 
+494 and submit to the commissioner a report on the history and causes of the insolvency, based on 
+495 the information available to the Fund. 
+496 (b) Reports and recommendations provided under this section shall not be considered 
+497 public documents pursuant to clause twenty-sixth of section 7 of chapter 4. 
+498 Section 15. The rates and premiums charged for insurance policies to which this chapter 
+499 applies shall include amounts sufficient to recoup over a reasonable length of time a sum equal to 
+25 of 27 
+500 the amounts paid to the Fund by the member insurer less any amounts returned to the member 
+501 insurer by the Fund. 
+502 Section 16. There shall be no liability on the part of, and no cause of action of any nature 
+503 shall arise against, a member insurer, the Fund or its agents or employees, the board of directors, 
+504 any person serving as an alternate or substitute representative of any director, the commissioner 
+505 or the commissioner’s representatives for any action taken or any failure to act in the 
+506 performance of their powers and duties under this chapter. 
+507 Section 17. (a) All proceedings in which the insolvent member insurer is a party or is 
+508 obligated to defend a party in any court of the commonwealth shall, subject to waiver by the 
+509 Fund in specific cases involving covered claims, be stayed for 6 months and such additional time 
+510 as may be determined by the court from the date the insolvency is determined or an ancillary 
+511 proceeding is instituted in the commonwealth, whichever is later, to permit proper defense by the 
+512 Fund of all pending causes of action. 
+513 (b) The liquidator, receiver or statutory successor of an insolvent member insurer covered 
+514 by this chapter shall permit access by the board or its authorized representative to such of the 
+515 insolvent member insurer’s records that are necessary for the board in carrying out its functions 
+516 under this chapter with regard to covered claims. The liquidator, receiver or statutory successor 
+517 shall provide the board or its representative with copies of those records upon the request by the 
+518 board and at the expense of the board. 
+519 Section 18. (a) Notwithstanding any other provision in this chapter, an insurance policy 
+520 issued by a member insurer and later allocated, transferred, assumed by or otherwise made the 
+521 sole responsibility of another insurer, pursuant to a statute of the commonwealth providing for 
+26 of 27 
+522 the division of an insurance company or the statutory assumption or transfer of designated 
+523 policies and under which there is no remaining obligation to the transferring entity by court order 
+524 or novation, shall be considered to have been issued by a member insurer which is an insolvent 
+525 member insurer for the purposes of this chapter in the event that the insurer to which the policy 
+526 has been allocated, transferred, assumed or otherwise made the sole responsibility of is placed in 
+527 liquidation. 
+528 (b) An insurance policy that was issued by a non-member insurer and later allocated, 
+529 transferred, assumed by or otherwise made the sole responsibility of a member insurer under a 
+530 state statute described in subsection (a) or by novation shall not be considered to have been 
+531 issued by a member insurer for the purposes of this chapter. 
+532 Section 19. The Fund may bring an action against any third-party administrator, agent, 
+533 attorney or other representative of the insolvent member insurer to obtain custody and control of 
+534 all claims information, including files, records and electronic data, related to an insolvent 
+535 member insurer that are appropriate or necessary for the Fund, or an association similar to the 
+536 Fund in other states, to carry out its duties under this chapter. In such an action, the Fund shall 
+537 have the absolute right through emergency equitable relief to obtain custody and control of all 
+538 such claims information in the custody or control of such third-party administrator, agent, 
+539 attorney or other representative of the insolvent member insurer, regardless of where such claims 
+540 information may be physically located. In bringing such an action, the Fund shall not be subject 
+541 to any defense, lien, whether possessory or otherwise, or other legal or equitable ground 
+542 whatsoever for refusal to surrender such claims information that might be asserted against the 
+543 liquidator of the insolvent member insurers. To the extent that litigation is required for the Fund 
+544 to obtain custody of the claims information requested and it results in the relinquishment of 
+27 of 27 
+545 claims information to the Fund after refusal to provide the same in response to a written demand, 
+546 the court shall award the Fund its costs, expenses and reasonable attorney’s fees incurred in 
+547 bringing the action. This section shall have no effect on the rights and remedies that the 
+548 custodian of such claims information may have against the insolvent member insurers, so long as 
+549 such rights and remedies do not conflict with the rights of the Fund to custody and control of the 
+550 claims information under this chapter. 
+551 Section 20. No person shall make, publish or circulate, or cause to be made, published, or 
+552 circulated, any statement that uses the existence of the Fund for the purposes of sale, solicitation 
+553 or inducement to purchase any form of insurance within the scope of this chapter. 
+554 SECTION 4. The exemptions provided in section 12 of chapter 175D of the General 
+555 Laws, inserted by section 3, shall apply to all liquidations commencing on or after July 1, 2025.

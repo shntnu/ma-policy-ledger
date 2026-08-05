@@ -10,6 +10,8 @@ terms keep their text evidence for the codebook.
 """
 
 import csv
+
+import csvutil
 import re
 from pathlib import Path
 
@@ -42,6 +44,9 @@ TEXT_TERMS = {
     "electronic_monitoring": r"electronic(ally)? monitor",
     "right_to_privacy": r"right (to|of) privacy",
     "privacy_generic": r"privac(y|ies)",
+    # widened 2026-08-05 (fourth-pass review finding 1): confidentiality,
+    # nondisclosure, and public-record-exclusion language
+    "record_nondisclosure": r"shall not be (?:a )?public record|not be deemed (?:a )?public record|not be open to (?:the )?public inspection|exempt(?:ed)? from (?:the )?(?:provisions of )?(?:chapter 66|section 10 of chapter 66|the public records law)|shall (?:be|remain) confidential|shall not be disclosed|shall be kept confidential",
 }
 
 
@@ -94,7 +99,7 @@ def main() -> None:
         "text_terms", "snippet",
     ]
     with (DATA / "text_scan.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        w = csvutil.dict_writer(f, fieldnames=fields, extrasaction="ignore")
         w.writeheader()
         w.writerows(out)
     print(f"wrote {len(out)} rows to data/text_scan.csv")

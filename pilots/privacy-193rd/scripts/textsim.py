@@ -34,3 +34,17 @@ def jaccard(a: set, b: set) -> float:
     if not a or not b:
         return 0.0
     return len(a & b) / len(a | b)
+
+
+def full_text(bn: str):
+    """Best available official text: API DocumentText, else recovered PDF
+    text (data/pdf_texts/), else None (caller must record as unscanned)."""
+    t = bill_text(bn)
+    if len(t.strip()) >= 50:
+        return t
+    pdf = PILOT / "data" / "pdf_texts" / (bn + ".txt")
+    if pdf.exists():
+        t2 = re.sub(r"\s+", " ", pdf.read_text()).lower()
+        if len(t2.strip()) >= 50:
+            return t2
+    return None

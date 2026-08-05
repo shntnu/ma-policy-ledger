@@ -313,6 +313,10 @@ RETIRED = {
     "P-222": "H3217 excluded under the symmetric program-incident rule",
     "P-290": "split into P-295/P-296 (third-pass review finding 4)",
     "P-292": "split into P-297/P-298 (third-pass review finding 4)",
+    "P-318": "split into P-350/P-351 (fourth-pass review finding 5)",
+    "P-319": "split into P-352/P-353 (fourth-pass review finding 5)",
+    "P-345": "split into P-354/P-355/P-356 (fourth-pass review finding 5)",
+    "P-347": "split into P-357/P-358/P-359 (fourth-pass review finding 5)",
 }
 
 # (bill, prop_id, section_cite, note)
@@ -902,8 +906,11 @@ PROPS.update({
     "P-315": ("worker-data-disclosure-limits", "workplace", "Worker-data disclosure only by contract with security duties; biometric/health third-party transfer ban; government-sharing limits"),
     "P-316": ("worker-biometric-health-destruction", "workplace", "Mandatory destruction of worker biometric and health data"),
     "P-317": ("worker-data-employment-use-bans", "workplace", "Bans on using worker data for enumerated employment decisions"),
-    "P-318": ("worker-data-security-breach-notice", "workplace", "Worker-data security safeguards and breach notification to workers and the department"),
-    "P-319": ("worker-data-vendor-duties", "workplace", "Vendor compliance duties, joint liability, and return-and-delete for worker data and ADS vendors"),
+    # P-318/P-319 retired 2026-08-05 (fourth-pass review finding 5): split.
+    "P-350": ("worker-data-security-safeguards", "workplace", "Employer duty to maintain security safeguards for worker data"),
+    "P-351": ("worker-data-breach-notice", "workplace", "Breach notification to affected workers and the department"),
+    "P-352": ("worker-vendor-compliance-liability", "workplace", "Vendor compliance duties and joint employer-vendor liability for worker data and ADS"),
+    "P-353": ("worker-vendor-return-delete", "workplace", "Vendor duty to return and delete worker data at end of service"),
     "P-320": ("workplace-monitoring-notice", "workplace", "Notice regimes for workplace electronic monitoring (advance, change, and inventory notices)"),
     "P-321": ("workplace-monitoring-limits", "workplace", "Allowable-purpose, strictly-necessary, least-invasive limits on electronic monitoring with prohibited practices (off-duty, private areas, facial/gait/emotion recognition)"),
     "P-322": ("workplace-monitoring-data-use-limits", "workplace", "Limits on using monitoring data for employment decisions; no sole reliance"),
@@ -923,9 +930,15 @@ PROPS.update({
     "P-342": ("pi-rmv-data-access-grant", "govt-records", "Licensed private investigators added to authorized users of RMV computer data, with misuse prohibitions and license revocation"),
     "P-343": ("pi-facial-recognition-access-ban", "surveillance-tech", "Private investigators barred from accessing the RMV facial recognition system, on pain of license revocation"),
     "P-344": ("fusion-collection-dissemination-limits", "surveillance-tech", "Ban on collecting or disseminating protected information absent criminal nexus, with accuracy vetting, dissemination logs, five-year file review and destruction; private right of action attaches"),
-    "P-345": ("fusion-audit-oversight", "surveillance-tech", "Annual internal data audits, IG access and biennial compliance reports, independent audit of suspicious-activity reports with purge of noncompliant records"),
+    # P-345 retired 2026-08-05: split into P-354/P-355/P-356.
+    "P-354": ("fusion-internal-data-audits", "surveillance-tech", "Annual internal audits of each fusion-center database (users, access levels, data quantities, sources)"),
+    "P-355": ("fusion-ig-oversight", "surveillance-tech", "Inspector General access to criminal intelligence systems with biennial compliance reports"),
+    "P-356": ("fusion-sar-audit-purge", "surveillance-tech", "Independent audit of suspicious-activity reports with purge of noncompliant records"),
     "P-346": ("fusion-subject-access", "surveillance-tech", "Subject right of access to personal data held in criminal intelligence systems"),
-    "P-347": ("nonprofit-client-data-bank", "govt-data", "State-run centralized data bank of nonprofit service-provider client personal data with written informed consent before disclosure, c.66A protection duties, and public-records exclusion"),
+    # P-347 retired 2026-08-05: split into P-357/P-358/P-359.
+    "P-357": ("client-data-bank-system", "govt-data", "State-run centralized data bank of nonprofit service-provider client personal data (system, ID card, compelled membership condition)"),
+    "P-358": ("client-data-bank-consent-gate", "govt-data", "Written informed client consent required before the data bank discloses client personal data, with c.66A protection duties"),
+    "P-359": ("client-data-bank-records-exclusion", "govt-data", "Data-bank client information excluded from the public-records definition"),
 })
 
 edges("H1566",
@@ -943,8 +956,10 @@ edges("H1873",
     ("P-312", "c.149B s.2B", ""), ("P-313", "c.149B s.2C(a)-(d)", ""),
     ("P-314", "c.149B s.2C(e)", "includes de-identified worker data"),
     ("P-315", "c.149B s.2C(f)-(h)", ""), ("P-316", "c.149B s.2C(i)", ""),
-    ("P-317", "c.149B s.2C(j)-(k)", ""), ("P-318", "c.149B s.2D", ""),
-    ("P-319", "c.149B ss.2E,4E", ""), ("P-320", "c.149B ss.3-3B", ""),
+    ("P-317", "c.149B s.2C(j)-(k)", ""),
+    ("P-350", "c.149B s.2D(a)", ""), ("P-351", "c.149B s.2D(b)", ""),
+    ("P-352", "c.149B ss.2E(a)-(c),4E", ""), ("P-353", "c.149B s.2E(d)", ""),
+    ("P-320", "c.149B ss.3-3B", ""),
     ("P-321", "c.149B s.3C", ""), ("P-322", "c.149B s.3D", ""),
     ("P-324", "c.149B ss.4-4B", ""), ("P-325", "c.149B ss.4C-4D", ""),
     ("P-326", "c.149B s.5, s.5C", ""))
@@ -999,9 +1014,14 @@ for b in ("H3289", "S2250"):
         ("P-343", "c.147 s.30 para 13", "companions; license revocation attaches"))
 edges("H3637",
     ("P-344", "new c.66A s.2C", "private right of action (s.2C(b)(6)) attaches"),
-    ("P-345", "new c.66A ss.2A-2B, 2D-2E", ""),
+    ("P-354", "new c.66A s.2A", ""),
+    ("P-355", "new c.66A s.2B", "s.2E transparency attaches"),
+    ("P-356", "new c.66A s.2D", ""),
     ("P-346", "new c.66A s.2F", ""))
-edges("H219", ("P-347", "new c.6A s.16DD", "compelled membership condition attaches"))
+edges("H219",
+    ("P-357", "new c.6A s.16DD(c)-(d)", "compelled membership condition attaches"),
+    ("P-358", "new c.6A s.16DD(e)", ""),
+    ("P-359", "new c.6A s.16DD(a)", ""))
 edges("S23", ("P-291", "SECTION 30 (new c.222 s.29)", "Senate supplemental-budget vehicle carrying the notary restriction"))
 edges("S2703",
     ("P-266", "SECTION 6 (c.265 s.43A(b))", "Senate redraft in the NDII lineage"),
@@ -1045,4 +1065,78 @@ QUOTES.update({
     ("S2250", "P-342"): "adds PIs to authorized RMV computer-data users; prohibition on use of RMV data inconsistent with c.147 s.22",
     ("H3289", "P-343"): "prohibits accessing the RMV facial recognition system, with mandatory license revocation",
     ("S2250", "P-343"): "prohibition on accessing the RMV facial recognition system; mandatory license revocation",
+})
+
+# Fourth-pass review corrections: filed carriers of the TNC trip-data regime
+# (section-level comparison against 2024 c.206 s.15) and the H1791 companion
+# of S938.
+for b in ("S666", "H1099", "H1158", "S627"):
+    edges(b,
+        ("P-303", "c.159A1/2 s.12(a)-(c) (within the bill's TNC/TND provisions)", "filed carrier of the regime enacted at 2024 c.206 s.15"),
+        ("P-304", "c.159A1/2 s.12(d)-(e)", "filed carrier of the regime enacted at 2024 c.206 s.15"))
+edges("H1791", ("P-255", "c.258C s.15 (sole section)", "companion-grade match to S938 (Jaccard 0.827)"))
+QUOTES.update({
+    ("S666", "P-303"): "the geographic position of the vehicle during the entire duration of the pre-arranged ride, provided at intervals of not less than every 60 seconds",
+    ("H4799", "P-303"): "the geographic position of the vehicle during the entire duration of the pre-arranged ride, provided at intervals of not less than every 60 seconds (2024 c.206 s.15)",
+    ("S666", "P-304"): "shall not be considered a public record ... shall not be disclosed to any person or entity other than those listed",
+    ("H4799", "P-304"): "shall not be considered a public record ... de-identified trip data (2024 c.206 s.15)",
+    ("H1099", "P-303"): "trip-level data ... at intervals of not less than every 60 seconds",
+    ("H1158", "P-303"): "trip-level data ... at intervals of not less than every 60 seconds",
+    ("S627", "P-303"): "trip-level data ... at intervals of not less than every 60 seconds",
+    ("H1099", "P-304"): "shall not be considered a public record; de-identified sharing under agreements",
+    ("H1158", "P-304"): "shall not be considered a public record; de-identified sharing under agreements",
+    ("S627", "P-304"): "shall not be considered a public record; de-identified sharing under agreements",
+    ("H1791", "P-255"): "shall be confidential and privileged, and shall not be disclosed by the division",
+    ("S938", "P-255"): "shall be confidential and privileged, and shall not be disclosed by the division",
+})
+
+# Second corpus-triage pass (widened confidentiality screen + recovered PDF
+# texts): nine vehicle-stage carriers of existing enacted propositions and
+# one new record-class protection.
+PROPS.update({
+    "P-360": ("immunization-exemption-record-confidentiality", "health", "Medical immunization-exemption certifications confidential; no disclosure outside the school health program; inadmissible without written parental consent"),
+})
+edges("H582", ("P-360", "SECTION 1 (rewritten c.76 s.15)", "includes use restriction protecting certifying physician"))
+for b, cite, note in (
+    ("H57", "inserted c.222 s.29 (bill lines 673-677)", "Governor's FY23 supplemental filing carrying the notary restriction"),
+    ("S24", "s.19 (new c.222 s.29)", "Senate Ways and Means FY23 supplemental stage"),
+    ("H3548", "inserted c.222 s.29 (amendment lines 740-744)", "House further-amendment stage of the FY23 supplemental"),
+):
+    edges(b, ("P-291", cite, note))
+for b, note in (("S2888", "Senate supplemental stage; pre-geolocation drafting variant"),
+                ("S2891", "Senate supplemental reprint (text adopted by H4799)")):
+    edges(b,
+        ("P-303", "s.14/s.15 (c.159A1/2 s.12(a)-(b))", note),
+        ("P-304", "s.14/s.15 (c.159A1/2 s.12(d))", note))
+edges("H4138",
+    ("P-295", "SECTION 47 (new c.239 s.15(a)-(d))", "Affordable Homes filing stage; sealing regime variant"),
+    ("P-296", "SECTION 47 (c.239 s.15 consumer-report provisions)", "Affordable Homes filing stage"))
+for b, sec in (("H5049", "SECTION 70"), ("H5132", "SECTION 27")):
+    edges(b, ("P-294", f"{sec} (amending c.268B s.3)", "closeout-supplemental stage carrying the withholding expansion"))
+edges("H5154",
+    ("P-299", "SECTION 1 (c.4 s.7 cl.26(w)); c.90K s.5(b)", "House redraft of S2884"),
+    ("P-300", "c.90K s.5(a)", "House redraft of S2884"),
+    ("P-301", "c.90K s.5(c)", "House redraft of S2884"),
+    ("P-302", "c.90K s.5(d)", "House redraft of S2884"))
+QUOTES.update({
+    ("H57", "P-291"): "prohibition on notary use, sale, or transfer of personal information obtained in remote notarization (c.222 s.29)",
+    ("S24", "P-291"): "notary may not use, sell, or transfer personal information identifying a remotely-located individual (s.19, c.222 s.29)",
+    ("H3548", "P-291"): "prohibition on notary use, sale, or transfer of personal information obtained in remote notarization (c.222 s.29)",
+    ("S2888", "P-303"): "mandatory trip-level data reporting to the DPU division incl. driver universally-unique identifier",
+    ("S2888", "P-304"): "sharing only of de-identified trip-level data under confidential data-sharing agreements; not a public record",
+    ("S2891", "P-303"): "trip-level data reporting mandate incl. driver UUID and residence (s.15)",
+    ("S2891", "P-304"): "de-identified sharing under confidential data-sharing agreements only; not a public record (s.15)",
+    ("H4138", "P-295"): "eviction-record sealing with petition right (SECTION 47, new c.239 s.15)",
+    ("H4138", "P-296"): "consumer-report inquiry duties with AG warning enforcement (SECTION 47)",
+    ("H5049", "P-294"): "personal email, personal/home telephone, and family-member name and home address withheld (SECTION 70)",
+    ("H5132", "P-294"): "personal email, personal/home telephone, and family-member name and home address withheld (SECTION 27)",
+    ("H5154", "P-299"): "public-records exemption for photographs/PII collected under new c.90K",
+    ("H5154", "P-302"): "confidentiality and no use/disclosure/sale of camera data by enforcing authorities and vendors",
+})
+QUOTES.update({
+    ("H5154", "P-300"): "non-discoverability/non-admissibility of camera evidence absent court order (c.90K s.5(a))",
+    ("H5154", "P-301"): "ban on using photographs to identify operator/passengers/contents plus redaction duty (c.90K s.5(c))",
+})
+QUOTES.update({
+    ("H3375", "P-301"): "no frontal photographs; avoid identifying operator, passengers or contents (s.8(d))",
 })

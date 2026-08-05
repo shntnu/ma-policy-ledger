@@ -8,6 +8,8 @@ any text term, with hit counts and a snippet.
 """
 
 import csv
+
+import csvutil
 import importlib
 import re
 from pathlib import Path
@@ -58,7 +60,7 @@ def main() -> None:
                 }
             )
     with (DATA / "sessionlaw_scan.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        w = csvutil.dict_writer(f, fieldnames=list(rows[0].keys()))
         w.writeheader()
         w.writerows(rows)
     print(f"{total} session laws scanned, {len(rows)} match at least one term")

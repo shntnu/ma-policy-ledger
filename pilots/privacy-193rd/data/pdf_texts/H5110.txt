@@ -1,0 +1,540 @@
+VIA EMAIL AND HAND DELIVERY 
+ 
+November 18, 2024 
+ 
+TO: Clerk of the House of Representatives 
+CC: Chairs of the Joint Committee on Telecommunications, Utilities, and Energy 
+RE: Submission of Building Energy Reporting Regulations (225 CMR 27.00) 
+ 
+Dear Clerk: 
+ 
+Pursuant to M.G.L. Chapter 25A, Section 12 (Section 12), please find enclosed: 
+ 225 CMR 27.00 - Building Energy Reporting 
+ Summary of the proposed regulation in layman's terms 
+ 
+In the development of amendments to 225 CMR 27.00, the pertinent provisions of Chapter 30A, 
+except section five, have been complied with. 
+ 
+In addition to the requirements of Section 12, the Department of Energy Resources has made 
+additional information available to the public regarding these proposed regulations. That 
+information is accessible through the Department’s website: 
+ 
+https://www.mass.gov/info-details/large-building-energy-reporting 
+ 
+Please direct questions and comments on these proposed regulations to: 
+ 
+Maliha Khan 
+Government Affairs Manager 
+857-286-0690 
+maliha.khan@mass.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMMONWEALTH OF MASSACHUSETTS 
+EXECUTIVE OFFICE OF 
+ENERGY AND ENVIRONMENTAL AFFAIRS 
+DEPARTMENT OF ENERGY RESOURCES 
+100 CAMBRIDGE ST., 9th FLOOR 
+BOSTON, MA 02114 
+Telephone: 617-626-7300 
+ 
+ 
+Maura T. Healey 
+Governor 
+ 
+Kimberley Driscoll 
+Lt. Governor 
+ 
+ 
+ Rebecca L. Tepper 
+Secretary 
+ 
+Elizabeth Mahony 
+Commissioner 
+ 
+ 
+
+Sincerely, 
+ 
+ 
+ 
+Elizabeth Mahony 
+Commissioner, Department of Energy Resources 
+ 
+Enclosures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Layman’s Summary of Proposed 225 CMR 27.00 
+ 
+On August 11, 2022, the legislature passed An Act Driving Clean Energy and Offshore 
+Wind (St. 2022, c. 179) (Act). Section 41 of the Act, codified as G.L. c. 25A, § 20, requires 
+utilities for and building owners of “Large Buildings” in the Commonwealth to report the total 
+amounts of energy consumed on an annual basis to the Department of Energy Resources 
+(DOER) for inclusion in a public facing database on DOER’s website. 
+ 
+DOER’s understanding is that the Statute was modeled on the Building Emissions 
+Reduction and Disclosure (BERDO) ordinance in Boston and the Building Energy Use 
+Disclosure Ordinance (BEUDO) in Cambridge. However, in Boston and Cambridge, building 
+owners are responsible for the reporting of all energy use data. In contrast, the Statute and 225 
+CMR 27.00 requires utilities to provide the majority of energy use data, with building owners 
+only responsible for delivered fuels or other sources of consumption not provided by a utility. 
+ 
+The regulations cover which properties are subject to building energy reporting 
+requirements, the reporting process for utilities and building owners, alternative compliance 
+pathways, the enforcement provisions for entities that fail to comply with their reporting 
+obligations, the treatment of personally identifying information that is reported to DOER, and 
+other provisions related to the administration of these regulations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HOUSE . . . . . . . . . . . . . . . No. 5110 
+Communication from the Department of Energy Resources of the Executive Office of Energy 
+and Environmental Affairs (under the provisions of section 12 of Chapter 25A of the General 
+Laws) submitting proposed amendments to regulations 225 CMR 27.00 – governing the 
+Building Energy Reporting. Telecommunications, Utilities and Energy. 
+ The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+ _______________ 
+ 
+1 225 CMR 27.00: BUILDING ENERGY REPORTING 
+2 Section 
+3 27.01: Purpose and Application 
+4 27.02: Definitions 
+5 27.03: Covered Buildings List 
+6 27.04: Reporting Requirements and Process 
+7 27.05: Reporting Exemptions 
+8 27.06: Building Ownership Changes and Designations 
+9 27.07: Disputing Inclusion in Covered Buildings List, Alternative Compliance Pathways, and 
+10 Reporting Options 
+11 27.08: Data Verification 
+12 27.09: Personally Identifying Building Owner and Lessee Information 
+13 27.10: Annual Building Database and Report 
+14 27.11: Enforcement and Penalties 
+15 27.12: Inspection 
+16 27.13: Severability 
+17 
+18 27.01 Purpose and Application 
+19 
+20 The purpose of 225 CMR 27.00 is to establish a process for Distribution Companies, 
+21 Municipal Utilities, and Building Owners to report the Energy Usage of Buildings to the 
+22 Department for publication on the Department’s website. 
+23 
+24 27.02 Definitions 
+25 Building. An energy consuming structure located within a Parcel or a single, continuous 
+26 energy-consuming structure that spans multiple Parcels. 
+27 Building Owner. The person, persons, entity, or entities listed in the Covered Buildings 
+28 List as the owner or Designated Building Owner of a Covered Building. 
+29 Building Use. The primary or combination of primary ways a Building is used. 
+30 Campus. A collection of Buildings on one or more Parcels served by a single energy 
+31 meter or plant. 
+32 Compliance Year. The calendar year in which the previous Reported Year’s Energy 
+33 Usage must be reported to the Department pursuant to 225 CMR 27.04. 
+34 Covered Buildings List. The list of Large Buildings for which the Department requires 
+35 Energy Usage disclosure that is published pursuant to 225 CMR 27.03. 
+36 Covered Building. A Large Building that is included on the Covered Buildings List. 
+37 Department. The Department of Energy Resources, established by M.G.L. c. 25A. 
+38 Designated Building Owner. A person or entity that has been designated by the Building 
+39 Owner pursuant to 225 CMR 27.06(2)-(3) as responsible for compliance with 225 CMR 
+40 27.00. 
+41 Distribution Company. A distribution company, gas company, or steam distribution 
+42 company as those terms are defined in M.G.L. 164, § 1, provided, however, a 
+43 Distribution Company shall not include a Municipal Utility. 
+44 
+45 Energy. Electricity, natural gas, steam, hot or chilled water, heating oil, propane, 
+46 renewable, or other products as approved by the Department that are used for heating, 
+47 cooling, lighting, industrial and manufacturing processes, water heating, cooking, clothes 
+48 drying, emergency or backup generation, or other purposes as approved by the 
+49 Department. 
+50 Energy Usage. For the listed reporting entities, Energy Usage shall mean: 
+51 (a) for a Distribution Company, the amount of Energy measured by a Distribution 
+52 Company’s meter; 
+53 (b) for a Municipal Utility, the amount of Energy measured by a Municipal Utility’s 
+54 meter; or 
+55 (c) for a Building Owner, all other Energy that is not provided by a Distribution 
+56 Company or Municipal Utility, including, but not limited to, any on-site 
+57 generation, delivered fuel, or other sources consumed for any Building including 
+58 Energy delivered to individual lessees and common areas of a Building in 
+59 aggregate. 
+60 Gross Floor Area. The total floor area contained within a Building measured to the 
+61 external face of the external walls. Further clarification on the definition of Gross Floor 
+62 Area may be established by the Department in the Department’s Gross Floor Area 
+63 Guideline. 
+64 Guideline. A set of clarifications, interpretations, procedures, and forms developed by the 
+65 Department to assist in compliance with the requirements of 225 CMR 27.00. The 
+66 Department may issue new or revised Guidelines after providing notice and a minimum 
+67 of twenty-one-day public comment period on a draft version. Each Guideline shall be 
+68 effective on its date of issuance or on such date as specified therein, except as otherwise 
+69 provided in 225 CMR 27.00. 
+70 Large Building. A Building located on one or more Parcels with a Gross Floor Area equal 
+71 to or greater than 20,000 square feet. 
+72 Municipal Utility. A municipal lighting plant established pursuant to the provisions of 
+73 M.G.L. c. 164, including municipal lighting plants that provide gas or gas and electric 
+74 service. 
+75 Parcel. The plot boundaries of a piece of land. 
+76 Personally Identifying Information. Information that could reasonably be used to identify 
+77 a person including but not limited to name, address, telephone number, email address, 
+78 Social Security number, birth date, utility account information, or any combination of 
+79 information that could be used to identify a person, provided that a Building Owner’s or 
+80 Designated Building Owner’s name and business address shall not be included in this 
+81 definition. 
+82 Reporting Entity. A person or entity that has been designated by the Building Owner 
+83 pursuant to 225 CMR 27.06(4) as the entity responsible for reporting Covered Building 
+84 Energy Usage to the Department. 
+85 Reported Year. The calendar year for Covered Building Energy Usage reported to the 
+86 Department pursuant to 225 CMR 27.04. 
+87 Steam Distribution Company. A steam distribution company as defined in M.G.L. 164, § 
+88 1. 
+89 27.03: Covered Buildings List 
+90 (1) Covered Buildings List. Annually by March 30, the Department shall publish a Covered 
+91 Buildings List on the Department’s website that includes all Large Buildings in the 
+92 Commonwealth subject to the provisions of 225 CMR 27.00. 
+93 
+94 The Covered Buildings List shall include the building address, Gross Floor Area, 
+95 Building Owner, Building Owner’s business address, Building Use, and any additional 
+96 information deemed relevant by the Department to effectuate the goals of 225 CMR 
+97 27.00. 
+98 
+99 (2) Newly Constructed Buildings. A newly constructed building shall be included on the 
+100 Covered Buildings List in a Compliance Year if the Temporary Certificate of Occupancy 
+101 for the Building or Certificate of Occupancy for the Building was issued at any point 
+102 prior to that Compliance Year’s Reported Year. 
+103 
+104 (3) Creation of Covered Buildings List. The Department will determine a process for 
+105 identifying Large Buildings and generate the Covered Buildings List using that process. 
+106 The Department will utilize information sources that may include but are not limited to, 
+107 municipal assessor databases, MassGIS assessor data, and other state or municipal 
+108 sources of property data. 
+109 
+110 (4) Building Owner Notice of Inclusion on the Covered Buildings List. In addition to the 
+111 publication of the Covered Building List pursuant to 225 CMR 27.03(1), the Department 
+112 shall send notice to Building Owners of their reporting obligations under 225 CMR 
+113 27.00. Such notice shall include the Covered Building(s) subject to reporting 
+114 requirements, reporting deadlines, instructions for reporting, and other relevant 
+115 information regarding a Building Owner’s obligations under 225 CMR 27.00. Failure of 
+116 a Building Owner to receive such notice shall not relieve the Building Owner of any 
+117 reporting obligations under 225 CMR 27.04(3). 
+118 
+119 (5) Designating Buildings as a Campus. A Building Owner may submit a request to have a 
+120 group of Buildings designated as a Campus and report its Energy Usage pursuant to 225 
+121 CMR 27.04(5). Such request must detail how the group of Buildings meet the definition 
+122 of a Campus, the extent to which reporting can be done at the Building level, and include 
+123 a proposal for how the Campus will report Energy Usage pursuant to 225 CMR 27.04(5). 
+124 The Department shall evaluate such requests and associated Campus reporting plans on a 
+125 case-by-case basis. 
+126 
+127 27.04: Reporting Requirements and Process 
+128 
+129 (1) Distribution Companies. Annually by May 30, each Distribution Company shall report to 
+130 the Department all Energy Usage provided by the Distribution Company for all Covered 
+131 Buildings for the previous calendar year. Such Energy Usage shall be reported at the 
+132 meter level for each Covered Building unless an exception is approved pursuant to 225 
+133 CMR 27.04(1)(c). Such Energy Usage shall be provided for each Covered Building and 
+134 shall be submitted in a manner established by the Department in the Department’s 
+135 Distribution Company Reporting Guideline. 
+136 
+137 (a) Additional Reporting Requirement for Steam Distribution Companies. Annually 
+138 by May 30, Steam Distribution Companies shall also provide the volume of steam 
+139 produced by each generation source for the previous calendar year. 
+140 
+141 (b) Compliance Year 2025. For Compliance Year 2025, the reporting deadline for 
+142 225 CMR 27.04(1) and 225 CMR 27.04(1)(a) shall be June 30, 2025. 
+143 
+144 (c) Request to Submit Building Level Energy Usage. A Distribution Company may 
+145 request to submit Energy Usage aggregated to the Building level for a Covered 
+146 Building or group of Covered Buildings. Such a request shall detail why the 
+147 submission of meter level data for the Covered Buildings is not possible or 
+148 practicable. The Department shall review such requests on a case-by-case basis. 
+149 
+150 (2) Municipal Utilities. Annually by May 30, each Municipal Utility shall report to the 
+151 Department all Energy Usage provided by the Municipal Utilities for all Covered 
+152 Buildings for the previous calendar year. Such Energy Usage shall be reported at the 
+153 meter level for each Covered Building unless an exception is approved pursuant to 225 
+154 CMR 27.04(2)(b). Such Energy Usage shall be provided for each Covered Building and 
+155 shall be submitted in a manner established by the Department in the Department’s 
+156 Municipal Utility Reporting Guideline. 
+157 
+158 (a) Compliance Year 2025. For Compliance Year 2025, the reporting deadline for 
+159 225 CMR 27.04(2) shall be June 30, 2025. 
+160 
+161 (b) Request to Submit Building Level Energy Usage. A Municipal Utility may 
+162 request to submit Energy Usage aggregated to the Building level for a Covered 
+163 Building or group of Covered Buildings. Such a request shall detail why the 
+164 submission of meter level data for the Covered Buildings is not possible or 
+165 practicable. The Department shall review such requests on a case-by-case basis. 
+166 
+167 (3) Building Owners. Annually by June 30, Building Owners shall provide all Energy Usage 
+168 that is not provided by a Distribution Company or Municipal Utility for all Covered 
+169 Buildings where they are listed on the Covered Buildings List as the Building Owner. 
+170 
+171 Energy Usage shall be reported using Energy Star Portfolio Manager or any other 
+172 Department approved program in a manner to be specified by the Department in the 
+173 Department’s Building Owner Reporting Guideline. 
+174 
+175 (a) Exemptions for Energy Usage from an Unresponsive Lessee. A Building Owner 
+176 shall not be penalized for failing to report any Energy ordered by, delivered to and 
+177 charged directly to a lessee if the owner sends a written request for Energy Usage 
+178 information to the lessee not later than April 30 of a Compliance Year, does not 
+179 receive a response from the lessee by June 25 of the same year and provides 
+180 evidence of the request to the Department. 
+181 
+182 (4) Additional Building Owner Supplied Information. 
+183 
+184 (a) Verification of Distribution Company or Municipal Utility Covered Building 
+185 Energy Usage Data by Building Owner. The Department will provide Building 
+186 Owners with access to aggregated Energy Usage information provided by 
+187 Distribution Companies or Municipal Utilities for their Covered Buildings. A 
+188 Building Owner may verify, submit a correction to, or identify a discrepancy in 
+189 the submitted Energy Usage information on or before August 31 of a Compliance 
+190 Year for consideration in that Compliance Year’s Annual Building Database and 
+191 Report. Such submission shall contain any relevant documentation. 
+192 
+193 (b) Additional Owner Disclosures. The Department may issue an Additional Owner 
+194 Disclosure Guideline detailing a method to account for additional or offsetting 
+195 Building Energy Usage attributable to operational resilience or emissions 
+196 mitigation. Examples of additional owner disclosures may include, but are not 
+197 limited to, subtracting electricity used by electric vehicles, accounting for use of a 
+198 battery storage system, solar produced using various metering configurations, and 
+199 other distributed generation. 
+200 
+201 (5) Campus Reporting. Building Owners that have received approval to designate a 
+202 collection of Buildings as a Campus pursuant to 225 CMR 27.03(5) shall report Energy 
+203 Usage for all Buildings on that Campus pursuant to the plan approved by the Department 
+204 under 225 CMR 27.03(5). 
+205 27.05: Reporting Exemptions 
+206 (1) Buildings Exempt from Reporting Requirements. 
+207 
+208 (a) Covered Buildings that meet any of the below criteria shall not need to have their 
+209 Energy Usage reported pursuant to 225 CMR 27.04: 
+210 1. the Building was vacant for a full calendar year; 
+211 2. the Building was demolished during the previous calendar year; 
+212 3. the Building was vacant for more than 50% of the year due to natural 
+213 causes, including but not limited to fire, flood, and wind damage; 
+214 4. the Building Owner has filed or been dissolved in bankruptcy; 
+215 5. other unique or unforeseen circumstances that warrant an exclusion as 
+216 determined by the Department from the Building Energy Reporting 
+217 Requirements. 
+218 
+219 (b) If a Building meets one or more of the criteria listed in 225 CMR 27.05(1)(a)1.-5., 
+220 the Building Owner may submit a letter to the Department by March 15 of the 
+221 Compliance Year stating which criteria the Building meets and providing any 
+222 applicable documentation. The Department will remove exempted Buildings 
+223 from the Covered Buildings List prior to the March 30 publication date. 
+224 
+225 (2) Exempt Building Uses. The Department may issue an Exempt Building Uses Guideline 
+226 that details the types of Building Uses that are exempt from reporting under 225 CMR 
+227 27.05(a)(5). Any such Guideline issued by the Department shall include a process for 
+228 Building Owners to submit a request for a Covered Building’s Building Use to be 
+229 updated to an exempt Building Use. 
+230 27.06: Building Ownership Changes and Designations 
+231 (1) Change in Ownership. 
+232 (a) An existing or new Building Owner shall notify the Department of any changes in 
+233 ownership for a Covered Building. Such notice shall include: 
+234 1. evidence sufficient to demonstrate the transfer of the rights and obligations 
+235 to the new owner; and 
+236 2. the name, business address, and contact information of the new owner. 
+237 
+238 (b) Upon review and approval of such notice, the Department shall update the new 
+239 owner to be the Building Owner for purposes of 225 CMR 27.00. 
+240 
+241 (c) If the Department does not receive notice that complies with 225 CMR 
+242 27.06(1)(a), all compliance obligations under 225 CMR 27.00 shall remain with 
+243 the Building Owner listed in the Covered Buildings List. 
+244 
+245 (2) Designation of Third-Party as Building Owner. A Building Owner seeking to designate a 
+246 third-party as Building Owner for purposes of compliance with 225 CMR 27.00 shall 
+247 submit notice to the Department by April 30 of the Compliance Year. Such notice must 
+248 be signed by the Building Owner and designee and state that the designee accepts full 
+249 responsibility for compliance with the provisions of 225 CMR 27.00 including any 
+250 penalties for non-compliance. Upon review and approval of such notice, the Department 
+251 shall update the designee to be the Building Owner for purposes of 225 CMR 27.00. 
+252 
+253 (3) Change in Designated Building Owner. A Designated Building Owner wishing to change 
+254 their designation as Building Owner shall submit notice to the Department by April 30 of 
+255 the Compliance Year. Such notice shall be signed by the Designated Building Owner 
+256 and the new designee and state that the new designee accepts full responsibility for 
+257 compliance with the provisions of 225 CMR 27.00 including any penalties for non-
+258 compliance. Upon review and approval of such notice, the Department shall update the 
+259 designee to be the Building Owner for purposes of 225 CMR 27.00. 
+260 
+261 (4) Designation of Third-Party as Reporting Entity. A Building Owner seeking to designate a 
+262 third-party as reporting entity for purposes of reporting Building Energy Usage pursuant 
+263 to 225 CMR 27.04(3) shall submit notice to the Department by April 30 of the 
+264 Compliance Year. Such notice must be signed by the Building Owner and the Reporting 
+265 Entity and state that the Reporting Entity accepts responsibility for reporting Energy Use 
+266 in accordance with 225 CMR 27.00. Upon review and approval of such notice, the 
+267 Department shall update the designee to be the Reporting Entity for purposes of 225 
+268 CMR 27.00. Responsibility for compliance with 225 CMR 27.00, including any 
+269 penalties for non-compliance, shall remain with the Building Owner. 
+270 27.07: Disputing Inclusion in Covered Buildings List, Alternative Compliance Pathways, and 
+271 Reporting Options 
+272 (1) Disputing Inclusion in Covered Buildings List. If a Distribution Company, Municipal 
+273 Utility, or Building Owner wishes to dispute the inclusion of a Large Building on the 
+274 Covered Buildings List or any information regarding that Large Building or Parcel 
+275 contained in the Covered Buildings List, such entity shall submit a request to the 
+276 Department detailing their basis and supporting documentation for such exception not 
+277 later than April 30 of the compliance year. 
+278 
+279 (2) Alternative Compliance Pathways and Reporting Options 
+280 
+281 (a) Deadline Extension. A Distribution Company, Municipal Utility, or Building 
+282 Owner may submit a request for an extension of the deadline to report the 
+283 information required under 225 CMR 27.04. Such deadline extension request 
+284 must include an explanation of why the entity is not reasonably able to comply 
+285 with the June 30 reporting deadline and include a proposed extension date. The 
+286 Department shall review such requests on a case-by-case basis. 
+287 
+288 (b) Requested Modification of Reporting Requirements. A Distribution Company, 
+289 Municipal Utility, or Building Owner may submit a request for a modification of 
+290 any of the requirements under 225 CMR 27.00. Such a request must include an 
+291 explanation of why the entity is not reasonably able to comply with the relevant 
+292 provision of 225 CMR 27.00. The Department shall review such requests on a 
+293 case-by-case basis. 
+294 
+295 (c) Covered Buildings Subject to Municipal Benchmarking Policies or Performance 
+296 Standards. If a Building Owner is responsible for reporting the energy use of a 
+297 Covered Building under Boston’s Building Emissions Reduction and Disclosure 
+298 Ordinance, Cambridge’s Building Energy Use Disclosure Ordinance, or other 
+299 approved municipal ordinance or by-law, the Building Owner may satisfy their 
+300 reporting requirement under 225 CMR 27.04(3) by submitting the same 
+301 information they submit to the municipality for the Covered Building to the 
+302 Department. 
+303 
+304 27.08: Data Verification 
+305 All Building Owners shall self-certify all Energy Usage data submitted by the Building 
+306 Owner pursuant to 225 CMR 27.04(3). 
+307 27.09 Personally Identifying Building Owner and Lessee Information 
+308 Personally Identifying Information regarding Building Owners and lessees submitted to 
+309 the Department pursuant to 225 CMR 27.00 shall be excluded from any reports published 
+310 by the Department and shall not be deemed public records as defined in M.G.L. c. 4, § 7, 
+311 clause twenty-sixth; provided however that aggregates of such information may be 
+312 included in reports published by the Department and such reports shall be public records. 
+313 27.10 Annual Building Database and Report 
+314 (1) Annually by October 31, the Department shall make available on its website energy use 
+315 information and the associated greenhouse gas emissions for the Reported Year for each 
+316 Covered Building. The information shall be published in database format, fully text-
+317 searchable and readily sortable by municipality, zip code and all the data elements in the 
+318 database. The information shall also be published in map format. 
+319 (2) Annually by October 31, the Department shall make available on its website an annual 
+320 comprehensive report on Large Building Energy Usage utilizing the information and data 
+321 collected under 225 CMR 27.00. 
+322 (3) The Department may issue a Methodology for Calculating Greenhouse Gas Emissions 
+323 Guideline for calculating the associated greenhouse gas emissions from reported Building 
+324 Energy Usage on the Department’s website. 
+325 
+326 27.11: Enforcement and Penalties 
+327 
+328 (1) Distribution Companies. If a Distribution Company fails to provide Energy Usage 
+329 required under section 225 CMR 27.04(1) for one or more Covered Buildings, the 
+330 Department may take the following enforcement measures: 
+331 (a) The Department provides notice to the Distribution Company of all Buildings for 
+332 which it is missing Energy Usage data. 
+333 (b) A Distribution Company shall respond to the notice in subpart (a) within 30 days 
+334 of receipt, or at a later date approved by the Department, with a plan detailing 
+335 how it intends to provide the missing Energy Usage data. 
+336 (c) If a Distribution Company (i) fails to comply with subpart (b) or (ii), within 90 
+337 days of the issuance of the written notification in subpart (a), fails to make a good 
+338 faith effort to progress its plan provided pursuant to subpart (b), the Department 
+339 may issue a fine of up to $150.00 per Covered Building per day that the missing 
+340 Energy Usage information is not provided. 
+341 
+342 (2) Municipal Utilities. If a Municipal Utility fails to provide Energy Usage required under 
+343 section 225 CMR 27.04(2) for one or more Covered Buildings, the Department may take 
+344 the following enforcement measures: 
+345 (a) The Department shall provide notice to the Municipal Utility of all Buildings for 
+346 which it is missing Energy Usage data. 
+347 (b) A Municipal Utility shall respond to the notice in subpart (a) within 30 days of 
+348 receipt, or at a later date approved by the Department, with a plan detailing how it 
+349 intends to provide the missing Energy Usage data. 
+350 (c) If a Municipal Utility (i) fails to comply with subpart (b), or (ii) within 90 days of 
+351 the issuance of the written notification in subpart (a), fails to make a good faith 
+352 effort to progress its plan provided pursuant to subpart (b), the Department may 
+353 issue a fine of up to $150.00 per Covered Building per day that the missing 
+354 Energy Usage information is not provided. 
+355 
+356 (3) Building Owners. 
+357 (a) If a Building Owner fails to provide Energy Usage information required under 
+358 section 225 CMR 27.04(3), the Department may take the following enforcement 
+359 measures: 
+360 1. The Department shall provide notice to the Building Owner of their failure 
+361 to provide Energy Usage information. 
+362 2. If, after 30 days from the issuance of the written notification in subpart (a), 
+363 the Building Owner does not submit the missing Energy Usage 
+364 Information, the Department may issue a fine of up to $150.00 per day 
+365 that the missing Energy Usage information is not provided. 
+366 a. A Building Owner may not pass through a fine assessed pursuant 
+367 to 225 CMR 27.11(3)(a)2. to a lessee of a unit within a Covered 
+368 Building that comprises less than 5 per cent of the total Gross 
+369 Floor Area of the Building. 
+370 
+371 (4) Lessees. If a lessee that comprises greater than 5% of the total gross floor area of a 
+372 Covered Building fails to respond within 30 days to a written request for Energy Usage 
+373 information submitted by a Building Owner pursuant to 225 CMR 27.04(3)(a), the 
+374 Department may take the following enforcement actions: 
+375 (a) The Department shall provide notice to the lessee of their failure to provide 
+376 Energy Usage information. 
+377 (b) If, after 30 days from the issuance of the written notification in subpart (a), the 
+378 lessee does not submit the missing Energy Usage information, the Department 
+379 may issue a fine of up to $150.00 per day that the missing Energy Usage 
+380 information is not provided. 
+381 
+382 27.12: Inspection 
+383 (1) Document Inspection. The Department may audit the accuracy of all information 
+384 submitted pursuant to 225 CMR 27.00 for the five calendar years following a Reported 
+385 Year. The Department may request and obtain from any Building Owner, Municipal 
+386 Utility, or Distribution Company information that the Department determines necessary 
+387 to monitor compliance with and enforcement of 225 CMR 27.00. 
+388 (2) Audit and Site Inspection. Upon reasonable notice to a Building Owner or designee, 
+389 the Department may conduct audits, which may include inspection and copying of 
+390 records and/or site visits to a Building including, but not limited to, all files and 
+391 documents that the Department determines are related to compliance with 225 CMR 
+392 27.00. 
+393 27.13 Severability 
+394 If any provision of 225 CMR 27.00 is declared invalid, such invalidity shall not affect 
+395 other provisions or applications that can be given effect without the invalid provision or 
+396 application. 
+397 
+398 REGULATORY AUTHORITY 
+399 225 CMR 27.00: M.G.L. c. 25A, § 20 and M.G.L. c. 25A, § 6.

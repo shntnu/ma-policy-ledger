@@ -27,6 +27,8 @@ the codebook):
 """
 
 import csv
+
+import csvutil
 import json
 import re
 from pathlib import Path
@@ -175,7 +177,7 @@ def main() -> None:
 
     rows.sort(key=lambda r: (r["domain_title_terms"] == "", r["bill_number"]))
     with (DATA / "census_candidates.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        w = csvutil.dict_writer(f, fieldnames=list(rows[0].keys()))
         w.writeheader()
         w.writerows(rows)
     n_dom = sum(1 for r in rows if r["domain_title_terms"])

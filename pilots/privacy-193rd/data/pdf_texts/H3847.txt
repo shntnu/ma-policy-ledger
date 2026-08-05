@@ -1,0 +1,520 @@
+VIA EMAIL AND HAND DELIVERY 
+May 10, 2023 
+Steven T. James, Clerk of the House of Representatives 
+24 Beacon Street 
+Room 145 
+Boston, MA 02133 
+ 
+RE: Submission of DOER regulations for Fossil Fuel-Free demonstration project 
+Dear Mr. Clerk: 
+On behalf of the Massachusetts Department of Energy Resources (DOER) and in accordance 
+with M.G.L. Chapter 25A Section 12, please find enclosed the draft regulations for the Fossil 
+Fuel-Free demonstration project as required by Section 84 of Chapter 179 of the Acts of 2022. 
+ 
+In addition to the requirements of M.G.L. Ch. 25A Sec. 12, DOER has made additional 
+information, including response to public comments received, available to the public regarding 
+these draft regulations. That information is accessible through the Department’s website: 
+https://www.mass.gov/info-details/municipal-fossil-fuel-free-building-demonstration-program 
+Please direct questions and comments on this regulation to: 
+Johannes Buchanan 
+Assistant Secretary of Government Affairs 
+857-268-0011 
+Johannes.K.Buchanan2@mass.gov 
+ 
+COMMONWEALTH OF MASSACHUSETTS 
+EXECUTIVE OFFICE OF 
+ENERGY AND ENVIRONMENTAL AFFAIRS 
+DEPARTMENT OF ENERGY RESOURCES 
+100 CAMBRIDGE ST., 9th FLOOR 
+BOSTON, MA 02114 
+Telephone: 617-626-7300 
+ 
+Maura T. Healey 
+Governor 
+ 
+Kimberley Driscoll 
+Lt. Governor 
+ 
+Rebecca L. Tepper 
+Secretary 
+ 
+Elizabeth Mahony 
+Commissioner 
+
+2 of 12 
+Sincerely, 
+ 
+ 
+Elizabeth Mahony 
+Commissioner 
+ 
+CC: 
+Chairman Michael Barrett, Joint Committee on Telecommunications, Utilities and 
+Energy 
+Chairman Jeffrey Roy, Joint Committee on Telecommunications, Utilities and Energy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3 of 12 
+Regulation Summary 
+ 
+Summary of Draft DOER Municipal Fossil Fuel Free Building Construction and Renovation 
+Demonstration Project 
+An Act Driving Clean Energy and Offshore Wind (St. 2022, c. 179, § 84) requires the 
+Massachusetts Department of Energy Resources (DOER) to establish a demonstration project in 
+which cities and towns may adopt and amend general or zoning ordinances or by-laws that 
+require new building construction or major renovation projects to be fossil fuel-free. The 
+purpose of 225 CMR 24.00 is to establish the framework, requirements, and timeline for cities 
+and towns to participate in the DOER's Municipal Fossil Fuel Free Building Construction and 
+Renovation Demonstration Project as authorized by St. 2022, c. 179, § 84. 
+The regulation also establishes data reporting requirements and assessment procedures to 
+measure impacts of fossil fuel free building code requirements. 
+In response to public comment, DOER made a series of changes to clarify requirements, 
+streamline application requirements and processes, update the review and approval process, and 
+further define certain terms, including the application of city or town by-law or ordinance to 
+major renovations as well as new construction. The DOER has provided a Response to 
+Comments document on its website that describes public comments, responses, and changes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 of 12 
+HOUSE . . . . . . . . . . . . . . . No. 3847 
+Communication from the Department of Energy Resources of the Executive Office of Energy 
+and Environmental Affairs (under the provisions of section 12 of Chapter 25A of the General 
+Laws) submitting regulations 225 CMR 24.00 – Municipal Fossil Fuel Free Building 
+Construction and Renovation Demonstration Project, and also establishing data reporting 
+requirements and assessment procedures to measure impacts of fossil fuel free building code 
+requirements. Telecommunications, Utilities and Energy. 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+ 
+ 
+ 
+1 225 CMR 24.00 – Municipal Fossil Fuel Free Building Construction and Renovation 
+2 Demonstration Project 
+3 
+4 Sections: 
+5 
+6 24.01: Purpose and Application 
+7 24.02: Definitions 
+8 24.03: Prioritized Communities 
+9 24.04: Application Materials and Review Process 
+10 24.05: Eligibility Criteria 
+11 24.06: Substitute Communities 
+12 24.07: Reporting and Assessment of Results 
+13 24.08: Specialized Municipal Opt-in Energy Code and Model Rule 
+14 24.09: Severability 
+15 
+16 24.01 Purpose and Application 
+17 
+18 The purpose of 225 CMR 24.00 is to establish the framework, requirements, and timeline 
+19 for cities and towns to participate in the Department’s Municipal Fossil Fuel Free 
+20 Building Construction and Renovation Demonstration Project as authorized by St. 2022, 
+21 c. 179, § 84. 
+5 of 12 
+22 
+23 24.02 Definitions 
+24 
+25 Comparable Municipalities. Municipalities designated by the Department for data 
+26 collection and reporting purposes that share similar relevant characteristics to 
+27 Participating Communities. 
+28 Demonstration Project. Not more than 10 cities or towns as approved by the Department 
+29 pursuant to 225 CMR 24.00 that may, notwithstanding chapter 40A of the General Laws, 
+30 section 13 of chapter 142 of the General Laws and chapter 164 of the General Laws or 
+31 any other general or special law to the contrary, adopt and amend general or zoning 
+32 ordinances or by-laws that require new building construction or Major Renovation 
+33 projects to be fossil fuel-free, and enforce restrictions and prohibitions on new building 
+34 construction and Major Renovation projects that are not fossil fuel-free, including 
+35 through the withholding or conditioning of building permits. 
+36 DHCD. The Massachusetts Department of Housing and Community Development, as 
+37 established by M.G.L. c. 23B. 
+38 Department. The Massachusetts Department of Energy Resources, as established by 
+39 M.G.L. c. 25A. 
+40 Fossil Fuel-free. As defined by a city or town to include, but not be limited to, an entire 
+41 building or entire condominium unit that does not, in support of its operation after 
+42 construction, utilize coal, oil, natural gas, other fuel hydrocarbons, including synthetic 
+43 equivalents, or other fossil fuels. 
+44 Home Rule Petition - A petition submitted to the General Court pursuant to § 8 of art. 89 
+45 of the Amendments to the Constitution of the Commonwealth. 
+46 Hospitals or Medical Offices. A facility licensed or approved by the Department of 
+47 Public Health to provide health care, including clinics licensed as health care facilities 
+48 and facilities that provide substance use disorder treatment services, including outpatient 
+49 withdrawal management, opioid treatment programs, office-based opioid treatment 
+50 programs, acute treatment services (inpatient detoxification), and clinical stabilization 
+51 services. 
+52 Local Approval. By a majority vote of the: (i) city council with the approval of the mayor 
+53 in the case of a city with a mayor elected to serve as the chief executive officer of the 
+54 city; (ii) city council in every other city; (iii) annual town meeting or a special town 
+55 meeting called for that purpose in the case of a municipality with a town meeting form of 
+56 government; or (iv) town council in the case of a municipality with a town council form 
+57 of government. 
+6 of 12 
+58 Major Renovation. Major renovation is defined as (a) low-rise residential additions over 
+59 1,000 square feet and additions exceeding 100% of the conditioned floor area of the 
+60 existing dwelling unit, (b) additions over 20,000 square feet and additions that exceed 
+61 100% of the conditioned floor areas of the existing building for all building use types 
+62 except low-rise residential, (c) Level 3 Alterations as defined in the International Existing 
+63 Building Code (IEBC 2021) (which exceed 50% of the existing conditioned floor area) 
+64 exceeding 1,000 square feet for low rise residential, or exceeding 20,000 square feet for 
+65 all other building uses, or (d) Change of use of over 1,000 square feet per International 
+66 Energy Conservation Code (IECC 2021) Sections R505, or (e) change of use of over 
+67 20,000 square feet or change of use of 100% of the conditioned floor areas of the existing 
+68 building for all building use types except low-rise residential, International Energy 
+69 Conservation Code (IECC 2021) Sections C505. 
+70 Participating Community. A city of town approved by the Department for participation in 
+71 the Demonstration Project. 
+72 Prioritized Community. One of the first ten communities to file a home rule petition with 
+73 the general court and listed in 225 CMR 24.03(1); provided, however, that a city or town 
+74 that submits a letter of withdrawal pursuant to 225 CMR 24.03(2) shall no longer be 
+75 considered a Prioritized Community. 
+76 Process load. Energy demand in commercial or industrial buildings that is not covered by 
+77 the Massachusetts building energy code. 
+78 
+79 Research laboratories for scientific or medical research. A building where a laboratory 
+80 procedure or research activity occurs, where the building has an average ventilation at 
+81 full occupancy greater than 0.5 cfm/sf. Such buildings shall provide the ventilation design 
+82 documentation described Section C103.2 of 225 CMR 23.00 at the time of building 
+83 permitting. 
+84 
+85 Substitute Community. A city or town that applies to the Department for participation in 
+86 the Demonstration Project that is not a Prioritized Community listed in 225 CMR 
+87 24.03(1). 
+88 
+89 24.03 Prioritized Communities 
+90 
+91 (1) Prioritized Communities. As established by St. 2022, c. 179, § 84, the Department will 
+92 prioritize the following 10 Prioritized Communities, being the first 10 communities to 
+93 have filed home rule petitions with the general court in the following order: 
+94 
+Order Filed Town Filing Date 
+1 Arlington 4/22/2021 
+7 of 12 
+2 Lexington 5/05/2021 
+3 Brookline 6/01/2021 
+4 Acton 8/27/2021 
+5 Concord 9/01/2021 
+6 Cambridge 4/06/2022 
+7 Lincoln 4/19/2022 
+8 Newton 4/20/2022 
+9 West Tisbury 6/14/2022 
+10 Aquinnah 6/14/2022 
+95 
+96 
+97 (2) Letter of Withdrawal. Any Prioritized Community that will not apply to participate in the 
+98 Demonstration Project must submit a letter of withdrawal to the Department not later 
+99 than September 1, 2023, and will no longer be considered a Prioritized Community. 
+100 (a) This letter must be: 
+101 1. signed by an authorized representative of the city or town, and 
+102 2. affirm the city or town’s intention not to participate in the Demonstration 
+103 Project. 
+104 (b) The Department will post letters of withdrawal to its website. 
+105 
+106 24.04 Application Materials and Review Process 
+107 (1) Application Materials. Applications must be submitted in a manner and form to be 
+108 determined by the Department, and shall include all of the following information: 
+109 (a) Copy of home rule petition and date submitted and proof of Local Approval. 
+110 1. Home rule petitions previously filed and associated Local Approvals do not 
+111 need to be updated or resubmitted to the general court to be eligible for 
+112 participation in the Demonstration Project. 
+113 (b) Copy of proposed by-law or ordinance for participation in the Demonstration 
+114 Project. If the city or town proposes a by-law or ordinance that is not the model 
+115 rule , the application must include an explanation of differences and provide the 
+116 applicant’s rationale for any differences. 
+117 (c) An implementation plan, including: 
+118 1. If Local Approval of the community’s proposed by-law or ordinance has not 
+119 been acquired, the community’s plan, including any associated timelines, for 
+120 acquiring Local Approval of the proposed by-law or ordinance; 
+121 2. If Local Approval of the community’s proposed by-law or ordinance has been 
+122 acquired, timeline and effective dates of the by-law or ordinance’s provisions 
+123 or requirements; 
+124 3. A demonstrated commitment to collaborate with the Department on data 
+125 collection, reporting, and outreach/training; 
+8 of 12 
+126 4. Description of the current process within each city and town for storing 
+127 building permit data and certificates of occupancy; 
+128 5. Description of how the by-law or ordinance will affect the use of fossil fuels 
+129 for commercial and industrial Process Load in buildings subject to the by-law 
+130 or ordinance, including but not limited to, restaurants, dry cleaners, and 
+131 manufacturing uses; 
+132 6. Description of exemption or waiver process from any requirements, if any, to 
+133 be included in the by-law or ordinance. 
+134 (d) Documentation sufficient to demonstrate that the applicant has achieved at least 
+135 one of the three housing production eligibility thresholds set forth in 24.05(2). 
+136 1. Prioritized and Substitute Communities that do not meet one of the three 
+137 housing production and eligibility thresholds set forth in 24.05(2) at the time 
+138 of application may submit an application but must include an explanation of 
+139 its current status and the applicant’s plan to meet such criteria on or before 
+140 February 11, 2024. 
+141 2. Prioritized and Substitute Communities that do not meet one of the housing 
+142 production and eligibility thresholds set forth in 24.05(2) at the time of 
+143 application must provide updates at regular intervals, to be established by the 
+144 Department, on its status and progress in meeting such criteria on or before 
+145 February 11, 2024. 
+146 (2) Additional Materials for Substitute Communities. In addition to the above components, 
+147 an application from a Substitute Community must include a description of the actions it 
+148 has taken or will take after the adoption of the proposed by-law or ordinance, to 
+149 encourage the production of multi-family housing. This description should include, but is 
+150 not limited to: 
+151 (a) The community’s progress toward creation of a multi-family zoning district 
+152 compliant with Sec. 3A of G.L. Ch. 40A, if applicable. 
+153 (b) Initiatives taken by the community to support the preservation and production of 
+154 housing units, including multi-family housing. 
+155 (c) Substitute Communities may submit letters of support from community leaders 
+156 and/or community members. 
+157 (3) Review Process. The Department will review and approve applications from Prioritized 
+158 Communities on a rolling basis. 
+159 (a) The Department shall withhold approval of an application submitted by any 
+160 Prioritized Community that does not, at the time of application, contain all 
+161 application materials listed in 24.04(1), until such time as that community submits 
+162 all materials listed in 24.04(1), or until September 1, 2023, as provided in 
+163 24.04(3)(d). 
+164 (b) The Department shall issue a conditional approval and withhold final approval of 
+165 an application submitted by any Prioritized Community that does not, at the time 
+166 of application, meet the housing production eligibility requirements set forth in 
+9 of 12 
+167 24.05(2), until such time as that community demonstrates compliance with such 
+168 requirements, or until February 11, 2024, as described in 24.04(3)(g). 
+169 1. In the event the Department conditionally approves an application on this 
+170 basis, the Department will provide written notice to such applicant, and 
+171 proceed with review and approval of Prioritized Communities that meet all 
+172 applicable requirements. 
+173 (c) The Department will provide feedback on completeness of application materials 
+174 and notify applicant if any requirements are not met, or if any clarifications are 
+175 needed for approval. 
+176 (d) Prioritized Communities may update and re-submit applications through 
+177 September 1, 2023 based on Department feedback. 
+178 (e) September 1, 2023 is the final deadline for Prioritized Communities to submit a 
+179 complete application. If a Prioritized Community fails to submit a complete 
+180 application by September 1, 2023, the community will not be considered for 
+181 participation in the Demonstration Project. 
+182 (f) Substitute Communities may update and re-submit applications through 
+183 November 10, 2023. 
+184 (g) November 10, 2023 is the final deadline for Substitute Communities to submit a 
+185 complete application. 
+186 (h) February 11, 2024 is the final deadline to meet all eligibility requirements listed in 
+187 225 CMR 24.05. After such date, the application of any Prioritized or Substitute 
+188 Community shall expire and be deemed void. 
+189 (4) Final By-Law or Ordinance. If a Prioritized or Substitute Community does not have Local 
+190 Approval of their proposed by-law or ordinance at the time of application, the 
+191 community shall provide the Department with a copy of the final by-law or ordinance 
+192 once Local Approval is acquired. The Department reserves the right to revoke a 
+193 community’s Participating Community status if the final by-law or ordinance conflicts 
+194 with the requirements of St. 2022, c. 179, § 84. 
+195 (a) Final by-laws or ordinances must be submitted to the Department not later than 
+196 July 1, 2024. A community may request an extension of this deadline for good cause 
+197 shown, which the Department will consider on a case-by-case basis. 
+198 
+199 24.05 Eligibility Requirements 
+200 (1) Application Requirements. All Prioritized and Substitute Communities must meet the 
+201 following requirements prior to submissions of application to the Department: 
+202 (a) Home Rule Petition filed with the general court on the subject matter of these 
+203 regulations; and 
+204 (b) Local Approval of Home Rule Petition. 
+10 of 12 
+205 (2) Housing Eligibility Thresholds. On or before February 11, 2024, the applicant must 
+206 demonstrate that it has achieved one of the following housing eligibility thresholds: 
+207 (a) The municipality has met the 10 per cent housing affordability threshold set 
+208 under chapter 40B of the General Laws as of December 21, 2020 or in a 
+209 subsequent update from DHCD; or 
+210 (b) The municipality has been granted safe harbor status through a valid Housing 
+211 Production Plan that DHCD has certified in accordance with 760 CMR 
+212 56.03(4); or 
+213 (c) The municipality has approved a zoning ordinance or by-law that provides for 
+214 at least 1 district of reasonable size in which multi-family housing is permitted 
+215 as of right; provided, that such multi-family housing shall be without age 
+216 restrictions and shall be suitable for families with children, as evidenced by a 
+217 determination of district compliance issued by the department of housing and 
+218 community development pursuant to its guidelines implementing section 3A 
+219 of chapter 40A of the General Laws. 
+220 24.06 Substitute Communities 
+221 (1) Application Submission. Substitute Communities may submit applications starting on 
+222 the effective date of these regulations. 
+223 (a) The Department will not review applications from Substitute Communities 
+224 until: 
+225 1. Receipt of a Letter of Withdrawal from one or more Prioritized 
+226 Communities forfeiting their prioritized status, or 
+227 2. Failure of one or more of the Prioritized Communities to meet the 
+228 requirements of 225 CMR 24.05(2). 
+229 (b) The Department will notify and work with applicants to update applications if 
+230 missing information or for which clarifications are required. 
+231 (c) Substitute Communities must meet all requirements set forth in 225 CMR 
+232 24.04 and 225 CMR 24.05 prior to submitting applications to the Department. 
+233 
+234 (2) Timeline of Review. Substitute Communities applications will be considered if less 
+235 than 10 of the Prioritized Communities participate in the Demonstration Project. The 
+236 Department will not issue approvals for any Substitute Communities before March 1, 
+237 2024. 
+238 (3) Selection Criteria. In addition to ensuring that Substitute Communities meet the 
+239 requirements set forth in 225 CMR 24.04 and 225 CMR 24.05, the Department will 
+240 consider the following factors when evaluating applications and selecting Substitute 
+241 Communities for participation up to a total of 10 Participating Communities and may 
+242 consider such additional factors as the Department deems appropriate. 
+11 of 12 
+243 (a) Contribution to the overall Demonstration Project, including diversity of 
+244 Participating Communities which includes but is not limited to gateway cities, 
+245 environmental justice communities, diversity of demographics, diversity of 
+246 size, scale of building development, and type of housing development; 
+247 (b) Ability to meet Department reporting requirements and effectively monitor 
+248 and ensure code compliance and implementation; 
+249 (c) Consistency of proposed by-law or ordinance to the model rule provided by 
+250 the Department; 
+251 (d) A preference for cities and towns that meet the compliance guidelines 
+252 implementing section 3A of chapter 40A of the General Laws through an 
+253 approved zoning ordinance or, in the case of a town that must seek by-law 
+254 approval from the Attorney General (AGO) pursuant to G.L. c.40 § 32, an 
+255 AGO-approved by-law that provides for at least 1 district of reasonable size 
+256 in which multi-family housing is permitted as right, or, if not applicable, a 
+257 similar commitment to multi-family housing production as determined by the 
+258 Department, in consultation with the Executive Office of Housing and 
+259 Economic Development; 
+260 (e) Localized electric grid investments needed to support the Demonstration 
+261 Project as determined through consultation between the Department and 
+262 electric distribution companies; 
+263 (f) Demonstrated support from community members and municipal leaders. 
+264 
+265 (4) Selection. The Department will issue a determination letter upon approval of any 
+266 application of a Substitute Community documenting its selection as a Participating 
+267 Community and the basis therefor. The Department will publish determination letters 
+268 on its website. 
+269 
+270 24.07 Reporting and Assessment of Results 
+271 
+272 (1) Department Reporting. Not later than September 30, 2025, and every 2 years 
+273 thereafter, the Department shall compile a report to be filed with the Senate and 
+274 House Committees on Ways and Means, the Joint Committee on Housing, and the 
+275 Joint Committee on Telecommunications, Utilities and Energy. The report shall 
+276 include, but not be limited to, the following components: 
+277 
+278 (a) Description of Demonstration Project and list of Participating Communities; 
+279 (b) Description of the Department’s process for selecting Comparable 
+280 Municipalities as a comparison group for the Demonstration Project; 
+281 (c) An analysis of the net reduction in emissions: 
+282 1. for each newly constructed building or Major Renovation project subject 
+283 to the Demonstration Project in each municipality participating in the 
+284 Demonstration Project; and 
+12 of 12 
+285 2. for each comparable newly constructed building or Major Renovation 
+286 project in a number of Comparable Municipalities, as selected by the 
+287 Department, not participating in the Demonstration Project; 
+288 (d) An analysis of impacts on: housing production, if any; housing affordability, 
+289 if any, including electric bills, heating bills and other operating costs; housing 
+290 affordability for persons of low and moderate income, if any, including 
+291 electric bills, heating bills and other operating costs; 
+292 (e) Recommendations for the continuation or termination of the Demonstration 
+293 Project. 
+294 
+295 (3) Reporting Requirements for Participating Communities. Annually, not later than June 
+296 30th, Participating Communities shall submit the following data, in a timely and accurate 
+297 manner, and in an accessible format as established by the Department, to the appropriate 
+298 electric and gas distribution companies, or other designees as determined by the 
+299 Department: 
+300 
+301 (a) For each applicant for a building permit, the applicant’s name, street address, 
+302 building usage type, square footage, and estimated construction cost. 
+303 (b) Electronic copies of any third-party energy reporting on new construction and 
+304 Major Renovation projects that illustrate the expected energy use for each 
+305 major end use. These include but are not limited to relevant sections of: final 
+306 Home Energy Reporting System rating reports; Passive house certification 
+307 reports; building energy modeling reports used to demonstrate commercial 
+308 energy code compliance through ASHRAE 90.1 or Thermal Energy Demand 
+309 Intensity (TEDI) building code compliance pathway. 
+310 
+311 (2) Reporting Requirements for Electric and Gas Utilities. Each year beginning in 2024, 
+312 not later than September 30th, all electric and gas distribution companies serving 
+313 customers in Participating Communities or the Comparable Municipalities shall, in an 
+314 accessible and standardized format approved by the Department, report the following 
+315 data: 
+316 
+317 (a) Monthly kWh and therm usage, monthly electric costs, broken down by cost 
+318 category, and monthly gas costs, broken down by cost category. 
+319 
+320 (b) The information above shall be submitted by account, with an associated 
+321 anonymized account identifier to track information over time. Each account 
+322 shall be submitted with an associated rate class, and street address, and be 
+323 linked to a permit number provided through 225 CMR 24.07(2). 
+324 
+325 (4) Comparable Municipalities. The Department will identify and designate Comparable 
+326 Municipalities in a manner to be determined by the Department. Comparable 
+327 Municipalities shall report data as set forth in 225 CMR 24.07(2). The Department 
+13 of 12 
+328 will coordinate with Comparable Municipalities on the method and process of data 
+329 collection and reporting. 
+330 
+331 24.08 Specialized Municipal Opt-in Energy Code and Model Rule 
+332 
+333 (1) Recommended Process. The Department has published a model rule and other 
+334 guidance in order to assist Participating Communities in achieving the objectives of 
+335 the Demonstration Project. The Department recommends that cities or towns seeking 
+336 to participate in the Demonstration Project: 
+337 
+338 (a) Adopt the Specialized Municipal Opt-in Energy Code, as established in 225 CMR 
+339 22.00 and 225 CMR 23.00, and 
+340 (b) Adopt through Local Approval the model rule published by the Department. 
+341 
+342 (2) Model Rule. The model rule published by the Department ensures appropriate 
+343 integration with the Massachusetts Specialized Municipal Opt-in Energy Code. If a 
+344 Participating Community determines that adoption of a local by-law or ordinance 
+345 that differs from the model rule published by the Department is necessary, the 
+346 Participating Community shall provide information as described in 225 CMR 
+347 24.04(1)(b) in its application. 
+348 
+349 (a) A Participating Community may modify the model rule provided by the 
+350 Department, provided such modifications do not conflict with the requirements of 
+351 225 CMR 24.00 or the requirements of St. 2022, c. 179, § 84. 
+352 (b) Deviations from the model rule provided by the Department must include 
+353 exemptions from fossil fuel free requirements for Research Laboratories for 
+354 Scientific or Medical Research, or for Hospitals or Medical Offices. 
+355 
+356 24.09 Severability 
+357 If any provision of 225 CMR 24.00 is declared invalid, such invalidity shall not affect 
+358 other provisions or applications that can be given effect without the invalid provision or 
+359 application. 
+360 
+361 REGULATORY AUTHORITY 
+362 St. 2022, c. 179, § 84.

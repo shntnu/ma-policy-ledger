@@ -11,10 +11,13 @@ Checks:
 """
 
 import csv
+
+import csvutil
 import json
 import re
 from pathlib import Path
 
+import actions
 import atoms
 import textsim
 
@@ -36,30 +39,10 @@ def identity_bases(carriers: dict) -> dict:
       07_links.py)
     """
     hist = json.loads((DATA / "histories.json").read_text())
-    lineage = set()
-    for bn, d in hist.items():
-        for a in d["actions"]:
-            for pat in (r"Accompanied a new draft, see ([HS]\d+)",
-                        r"New draft of (.+)", r"Reported on ([HS]\d+)",
-                        r"Reprinted as amended, see ([HS]\d+)",
-                        r"Reported \(in part\) by ([HS]\d+)",
-                        r"Substituted (?:as a new text )?for ([HS]\d+)"):
-                m = re.search(pat, a["Action"])
-                if m:
-                    for other in re.findall(r"[HS]\d+", m.group(1)):
-                        lineage.add(frozenset((bn, other)))
-    targets = {}
+    lineage = actions.lineage_pairs(hist)
     lt_path = DATA / "link_targets.json"
     if lt_path.exists():
-        targets = json.loads(lt_path.read_text())
-        for bn, d in targets.items():
-            for a in d["actions"]:
-                for pat in (r"Accompanied a new draft, see ([HS]\d+)",
-                            r"New draft of (.+)", r"Reported on ([HS]\d+)"):
-                    m = re.search(pat, a["Action"])
-                    if m:
-                        for other in re.findall(r"[HS]\d+", m.group(1)):
-                            lineage.add(frozenset((bn, other)))
+        lineage |= actions.lineage_pairs(json.loads(lt_path.read_text()))
 
     sh = {}
     def get_sh(b):
@@ -125,7 +108,7 @@ def main() -> None:
         raise SystemExit(1)
 
     with (DATA / "propositions.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csvutil.writer(f)
         w.writerow(["prop_id", "slug", "subdomain", "description", "n_bills"])
         counts = {}
         for b, p, _, _ in atoms.EDGES:
@@ -139,14 +122,14 @@ def main() -> None:
         prop_bills.setdefault(p, set()).add(b)
     bases = identity_bases(prop_bills)
     with (DATA / "bill_propositions.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csvutil.writer(f)
         w.writerow(["bill", "prop_id", "sections", "note", "identity_basis", "bill_url"])
         for b, p, cite, note in sorted(atoms.EDGES):
             w.writerow([b, p, cite, note, bases[(p, b)],
                         f"https://malegislature.gov/Bills/193/{b}"])
 
     with (DATA / "out_of_domain_content.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csvutil.writer(f)
         w.writerow(["bill", "excluded_content"])
         for b in sorted(atoms.OUT_OF_DOMAIN):
             w.writerow([b, atoms.OUT_OF_DOMAIN[b]])

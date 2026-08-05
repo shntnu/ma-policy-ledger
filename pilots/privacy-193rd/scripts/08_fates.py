@@ -27,10 +27,13 @@ All selections iterate in sorted order (deterministic output).
 """
 
 import csv
+
+import csvutil
 import json
 import re
 from pathlib import Path
 
+import actions
 import fetchlib
 
 PILOT = Path(__file__).resolve().parent.parent
@@ -110,7 +113,7 @@ ADJUDICATIONS = {
         ("other line items", "EX-FALSEPOS", "term matches without new handling rules"),
     ],
     (2024, "206"): [
-        ("s.15 (c.159A1/2 s.12 TNC trip-data regime)", "IN-CORE", "trip-data reporting mandate (P-303) and confidentiality rules (P-304); outside section carried by enacted vehicle H4799; no standalone filed antecedent"),
+        ("s.15 (c.159A1/2 s.12 TNC trip-data regime)", "IN-CORE", "trip-data reporting mandate (P-303) and confidentiality rules (P-304); enacted vehicle H4799 (text adopted from S2888, reprinted as S2891); filed carriers S666/H1099/H1158/S627"),
         ("collective bargaining agreement funding", "EX-FALSEPOS", "lottery commission labor agreement"),
     ],
     (2024, "248"): [
@@ -144,6 +147,18 @@ ADJUDICATIONS = {
         ("assisted-living oversight confidentiality", "EX-PROGRAM-INCIDENT", "inspection-report and business-information confidentiality incident to the licensure program"),
         ("s.17 (LGBTQI+ resident protections)", "EX-ADJACENT", "dignity/anti-discrimination and physical privacy without a data-handling rule"),
     ],
+    (2024, "221"): [
+        ("Truro tax-reduction program: disability-proof documents not a public record", "EX-PROGRAM-INCIDENT", "nondisclosure clause incident to a local benefit program the act creates (same verdict class as burn-pit registry, TND board records); filed parent H3735 receives the identical symmetric verdict; the fourth-pass reviewer's contrary reading is noted and queued"),
+    ],
+    (2024, "285"): [
+        ("health-professional recovery program participation records", "EX-PROGRAM-INCIDENT", "participation-record confidentiality incident to the treatment program the act creates (burn-pit-registry verdict class)"),
+    ],
+    (2024, "312"): [
+        ("money-transmitter examination records confidentiality", "EX-FALSEPOS", "business regulatory records (examination reports, financial statements), not personal data"),
+    ],
+    (2024, "342"): [
+        ("CHIA/PBM data confidentiality clauses", "EX-FALSEPOS", "payer/PBM business data confidentiality, not personal data"),
+    ],
     (2024, "238"): [
         ("s.225 (Parkinson's registry)", "EX-PROGRAM-INCIDENT", "confidentiality/de-identification incident to a registry the section creates"),
         ("s.229 (nurse licensure compact data system)", "EX-PROGRAM-INCIDENT", "PII sharing/expungement rules incident to the compact's licensure system; fingerprint checks are licensure procedure"),
@@ -166,7 +181,7 @@ ADJUDICATIONS = {
 }
 
 
-def bill_status(actions):
+def bill_status(acts):
     stage = "referred"
     def bump(s):
         nonlocal stage
@@ -176,7 +191,7 @@ def bill_status(actions):
     terminal = "died_no_further_action"
     terminal_ref = ""
     last_real = None
-    for a in actions:
+    for a in acts:
         if a.get("IsStricken"):
             continue
         act = a["Action"].strip()
@@ -206,18 +221,12 @@ def bill_status(actions):
             if re.search(rx, act):
                 roll_calls.append(f"{d} {act.splitlines()[0][:80]}")
                 break
-        m = re.search(r"Accompanied a new draft, see ([HS]\d+)", act)
-        if m:
-            terminal, terminal_ref = "superseded_by_redraft", m.group(1)
-        m = re.search(r"New draft substituted, see ([HS]\d+)", act)
-        if m:
-            terminal, terminal_ref = "superseded_by_redraft", m.group(1)
-        m = re.search(r"Reported by ([HS]\d+)", act)
-        if m:
-            terminal, terminal_ref = "superseded_by_redraft", m.group(1)
-        m = re.search(r"Accompanied a study order, see ([HS]\d+)", act)
-        if m:
-            terminal, terminal_ref = "sent_to_study", m.group(1)
+        s = actions.successor_of(act)
+        if s:
+            terminal, terminal_ref = "superseded_by_redraft", s[0]
+        so = actions.study_order_of(act)
+        if so:
+            terminal, terminal_ref = "sent_to_study", so
         if "no further action taken" not in low:
             last_real = f"{d} {act[:100]}"
     return stage, terminal, terminal_ref, roll_calls, last_real
@@ -250,11 +259,11 @@ def run_probe():
         else:
             r["verdict"] = "UNADJUDICATED"
     with (DATA / "enacted_probe.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["family", "phrase", "year", "chapter", "title", "snippet", "verdict", "url"])
+        w = csvutil.dict_writer(f, fieldnames=["family", "phrase", "year", "chapter", "title", "snippet", "verdict", "url"])
         w.writeheader()
         w.writerows(rows)
     with (DATA / "enacted_adjudication.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csvutil.writer(f)
         w.writerow(["year", "chapter", "sections", "verdict", "note", "url"])
         for (year, ch) in sorted(ADJUDICATIONS):
             for sec, verdict, note in ADJUDICATIONS[(year, ch)]:
@@ -278,33 +287,22 @@ def main() -> None:
 
     statuses = {bn: bill_status(hist[bn]["actions"]) for bn in sorted(hist)}
     with (DATA / "bill_fates.csv").open("w", newline="") as f:
-        w = csv.writer(f)
+        w = csvutil.writer(f)
         w.writerow(["bill", "furthest_stage", "terminal_class", "terminal_ref", "roll_calls", "last_recorded_action", "history_url"])
         for bn in sorted(statuses):
             st = statuses[bn]
             w.writerow([bn, st[0], st[1], st[2], "; ".join(st[3]), st[4],
                         f"https://malegislature.gov/Bills/193/{bn}"])
 
-    successor = {}
-    for bn in sorted(hist):
-        for a in hist[bn]["actions"]:
-            for pat in (r"Accompanied a new draft, see ([HS]\d+)",
-                        r"New draft substituted, see ([HS]\d+)",
-                        r"Reprinted as amended, see ([HS]\d+)",
-                        r"Reported \(in part\) by ([HS]\d+)",
-                        r"Substituted (?:as a new text )?for ([HS]\d+)",
-                        r"^See ([HS]\d+)$",
-                        r"Reported by ([HS]\d+)"):
-                m = re.search(pat, a["Action"])
-                if m:
-                    successor[bn] = m.group(1)
+    successor = actions.successor_map(hist)
 
     out = []
     for pid in sorted(carriers):
         bills = sorted(carriers[pid])
         finals = sorted(
             b for b in bills
-            if not (successor.get(b) and successor[b] in bills)
+            if statuses[b][0] == "enacted"
+            or not (successor.get(b) and successor[b] in bills)
         )
         terms = {b: statuses[b][1] for b in finals}
         stage = max((statuses[b][0] for b in finals), key=lambda s: ORDER[s])
@@ -382,7 +380,7 @@ def main() -> None:
             "stage_citation": f"https://malegislature.gov/Bills/193/{stage_bill}",
         })
     with (DATA / "proposition_fates.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(out[0].keys()))
+        w = csvutil.dict_writer(f, fieldnames=list(out[0].keys()))
         w.writeheader()
         w.writerows(out)
 

@@ -1,0 +1,280 @@
+1 of 12 
+ FILED ON: 5/16/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4648 
+House bill No. 4642, as amended and passed to be engrossed by the House. May 15, 2024. 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act to provide for the future information technology needs of Massachusetts.. 
+ 
+ Whereas, The deferred operation of this act would tend to defeat its purpose, which is to 
+provide forthwith for the information technology and security needs of the commonwealth and 
+deploy broadband access to the citizens of the commonwealth, therefore it is hereby declared to 
+be an emergency law, necessary for the immediate preservation of the public convenience. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1 SECTION 1. To provide for a program of capital investments for information technology 
+2 and data and cyber-security improvements to various state programs, services, agencies, 
+3 institutions and properties and to fund technology infrastructure, the sums set forth in sections 
+4 2A, 2B and 2C of this act, for the several purposes and subject to the conditions specified in this 
+5 act, are hereby made available through December 31, 2030, subject to the laws regulating the 
+6 disbursement of public funds, which sums shall be in addition to any other amounts previously 
+7 appropriated for these purposes; provided, that the amounts specified for a particular project may 
+8 be adjusted in order to facilitate projects authorized in this act. 
+9 SECTION 2A. 
+10 EXECUTIVE OFFICE OF TECHNOLOGY SERVICES AND SECURITY 
+2 of 12 
+11 Office of the Secretary 
+12 1790-3014 For costs associated with initiatives, projects and expenditures to make 
+13 improvements to the quality, consistency, efficiency and delivery of any service or program for 
+14 the benefit of the public and the interactions between residents and state agencies and 
+15 instrumentalities of the commonwealth, including, but not limited to, planning and studies, the 
+16 preparation of plans and specifications, purchase, procurement, acquisition, licensing and 
+17 implementation of information technology, telecommunications and data-security-related 
+18 equipment, hardware, software, systems, intellectual property and related projects for various 
+19 state agencies of the commonwealth; provided, that for projects the secretary of administration 
+20 and finance certifies to the comptroller directly or indirectly generate state revenue or budgetary 
+21 savings, the comptroller shall transfer such revenue or budgetary savings to the state treasurer for 
+22 payment of debt service related to those projects; provided further, that any federal 
+23 reimbursement received by a state agency in connection with projects funded from this item may 
+24 be retained by the state agency or the executive office of technology services and security and 
+25 expended for the purposes of the project, without further appropriation, in addition to the 
+26 amounts appropriated in this item………………………………………………..…..$750,000,000 
+27 1790-3015 For costs associated with initiatives, projects and expenditures to make 
+28 improvements to the quality, consistency, efficiency and delivery of any service or program to 
+29 support, improve, extend, secure or maintain technology or telecommunications infrastructure, 
+30 including, but not limited to, planning and studies, the preparation of plans and specifications, 
+31 purchase, procurement, acquisition, licensing and implementation of information technology, 
+32 telecommunications and data-security-related equipment, hardware, software, systems, 
+33 intellectual property and related projects for various state agencies of the commonwealth; 
+3 of 12 
+34 provided, that for projects the secretary of administration and finance certifies to the comptroller 
+35 directly or indirectly generate state revenue or budgetary savings, the comptroller shall transfer 
+36 such revenue or budgetary savings to the state treasurer for payment of debt service related to 
+37 those projects; provided further, that any federal reimbursement received by a state agency in 
+38 connection with projects funded from this item may be retained by the state agency or the 
+39 executive office of technology services and security and expended for the purposes of the 
+40 project, without further appropriation, in addition to the amounts appropriated in this 
+41 item………………………………………………………………………………...$200,000,000 
+42 1790-3016 For costs associated with planning and studies, the preparation of plans 
+43 and specifications, purchase, procurement, acquisition, licensing and implementation of 
+44 information technology, telecommunications and data-security-related equipment, hardware, 
+45 software, systems, intellectual property and related projects for various state agencies and public 
+46 instrumentalities of the commonwealth to mitigate, avoid or respond to risks to the security of 
+47 the commonwealth’s technology and telecommunications infrastructure or operations; provided, 
+48 that for projects the secretary of administration and finance certifies to the comptroller directly or 
+49 indirectly generate state revenue or budgetary savings, the comptroller shall transfer such 
+50 revenue or budgetary savings to the state treasurer for payment of debt service related to those 
+51 projects; provided further, that any federal reimbursement received by a state agency in 
+52 connection with projects funded from this item may be retained by the state agency or the 
+53 executive office of technology services and security and expended for the purposes of the 
+54 project, without further appropriation, in addition to the amounts appropriated in this 
+55 item……….…………………………………………………………………….……$200,000,000 
+4 of 12 
+56 1790-3017 For costs associated with planning and studies, the preparation of plans 
+57 and specifications, purchase, procurement, acquisition, licensing and implementation of 
+58 information technology, telecommunications and data-security-related equipment, hardware, 
+59 software, systems, intellectual property and related projects for various state agencies of the 
+60 commonwealth, including, but not limited to, executing strategic initiatives, improving business 
+61 intelligence and modernizing governmental functions; provided, that for projects the secretary of 
+62 administration and finance certifies to the comptroller directly or indirectly generate state 
+63 revenue or budgetary savings, the comptroller shall transfer such revenue or budgetary savings to 
+64 the state treasurer for payment of debt service related to those projects; provided further, that any 
+65 federal reimbursement received by a state agency in connection with projects funded from this 
+66 item may be retained by the state agency or the executive office of technology services and 
+67 security and expended for the purposes of the project, without further appropriation, in addition 
+68 to the amounts appropriated in this item…………………………………………..…$250,000,000 
+69 SECTION 2B. 
+70 EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE 
+71 Office of the Secretary 
+72 1100-2519 For costs associated with initiatives, projects and expenditures to the 
+73 quality, efficiency and delivery of any service or program for the benefit of the public and the 
+74 interactions between residents and state agencies and instrumentalities of the commonwealth, 
+75 including, but not limited to, planning and studies, the preparation of plans and specifications, 
+76 purchase, procurement, acquisition, licensing and implementation of artificial intelligence and 
+77 machine learning systems for the various state agencies of the commonwealth; provided, that 
+5 of 12 
+78 such initiatives, projects and expenditures shall be in accordance with enterprise security policies 
+79 and other applicable administrative directives issued under section 3 of chapter 7D of the 
+80 General Laws and approved by the executive office of technology services and security; 
+81 provided further, that for projects the secretary of administration and finance certifies to the 
+82 comptroller directly or indirectly generate state revenue or budgetary savings, the comptroller 
+83 shall transfer such revenue or budgetary savings to the state treasurer for payment of debt service 
+84 related to those projects; and provided further, that any federal reimbursement received by a state 
+85 agency in connection with projects funded from this item may be retained by the state agency or 
+86 the executive office of technology services and security and expended for the purposes of this 
+87 project, without further appropriation, in addition to the amounts appropriated in this 
+88 item……………………………………………………………………………………$25,000,000 
+89 1599-1953 For a competitive, matching grant program to be administered by the 
+90 executive office for administration and finance, in consultation with the secretary of technology 
+91 services and security, to assist municipalities and tribal governments with the construction of 
+92 fiber broadband infrastructure and related projects and expenditures; provided, that priority for 
+93 grants shall be given to completely unserved premises …………………………...…$30,000,000 
+94 SECTION 2C. 
+95 EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE 
+96 Office of the Secretary 
+97 1100-2518 For capital funding for eligible cities, towns, regional organizations, 
+98 including regional school districts and regional vocational technical high schools, whose 
+99 membership is exclusively composed of municipal governments, tribes, local governmental 
+6 of 12 
+100 agencies, authorities or subdivisions, quasi-state agencies, public authorities and institutions and 
+101 similar governmental agencies, for purposes, including, but not limited to, addressing threats to 
+102 information systems, managing and reducing systemic risk, improving security of critical 
+103 technology infrastructure and improving resilience; provided, that investments may include, but 
+104 shall not be limited to, planning and studies, improvement to government efficiency and 
+105 effectiveness, preparation of plans and specifications, asset modernization, information 
+106 technology equipment and technical assistance.………………………………....…..$150,000,000 
+107 Department of Revenue 
+108 1201-0003 For the division of local services within the department of revenue, for 
+109 grants to carry out the community compact information technology grant program established in 
+110 conjunction with executive order 554 …………………………………………………$25,000,000 
+111 SECTION 2D. 
+112 EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE 
+113 Office of the Secretary 
+114 1599-1954 For local information technology projects; provided, that not less than 
+115 $300,000 shall be expended for information technology upgrades for Gloucester city hall in the 
+116 city of Gloucester; provided further, that not less than $100,000 shall be expended for the city of 
+117 Worcester’s division of inspectional services to administer the online fire safety, health code and 
+118 rental registry programs; provided further, that not less than $100,000 shall be expended for the 
+119 city of Worcester to study and implement software improvements to operate the electrical 
+120 distribution gear at the municipal water treatment facility; provided further, that not less than 
+7 of 12 
+121 $100,000 shall be expended for the city of Worcester to procure technology and electronic 
+122 security improvement upgrades at the Park avenue and Webster square fire stations; provided 
+123 further, that not less than $50,000 shall be expended for the Worcester public schools to study 
+124 and implement electronic security improvement upgrades at schools that service students in the 
+125 Main South neighborhood; provided further, that not less than $250,000 shall be expended for 
+126 the city of Worcester to modernize traffic signal systems to improve the flow of traffic and 
+127 increase safety for drivers, pedestrians and cyclists; provided further, that not less than $750,000 
+128 shall be expended to and disbursed equally among the town of Canton, the town of Stoughton 
+129 and the town of Avon for information technology upgrades; provided further, that not less than 
+130 $43,000 shall be expended to the Medford fire department for the purchase of headset 
+131 communication devices; provided further, that not less than $150,000 shall be expended to the 
+132 city of Medford for the payment portal to increase accessibility to city services; provided further, 
+133 that not less than $100,000 shall be expended to the town of Leicester to procure and install 
+134 workstations and data servers for use by municipal and public safety departments that are 
+135 compliant with updated data security standards; provided further, that not less than $200,000 
+136 shall be expended to the city of Medford for improvement and renovation of the network 
+137 infrastructure; provided further, that not less than $50,000 shall be expended to the town of 
+138 Leicester for a more user-friendly customer service portal to facilitate compliance with business, 
+139 planning and zoning ordinances; provided further, that not less than $500,000 shall be expended 
+140 for data center modernization upgrades in the city of Worcester; provided further, that not less 
+141 than $100,000 shall be expended to the town of Hingham for the South Shore Regional 
+142 Emergency Communications Center to run fiber optic cable for emergency dispatch 
+143 communications and to replace aging dispatch work stations; provided further, that not less than 
+8 of 12 
+144 $150,000 shall be expended for the incorporation of artificial intelligence into business processes 
+145 in the city of Worcester; provided further, that not less than $17,000 shall be expended for 
+146 improvements to the Frances Perkins Library in the city of Worcester; provided further, that not 
+147 less than $200,000 shall be expended for municipal fiber and communications improvements to 
+148 municipal buildings in the town of West Boylston; provided further, that not less than $500,000 
+149 shall be expended for information technology upgrades for the city known as the town of 
+150 Braintree; provided further, that not less than $250,000 shall be expended for information 
+151 technology upgrades for the town of Holbrook; provided further, that not less than $20,000 shall 
+152 be expended for the city of Worcester’s Regional Emergency Communications Center to install 
+153 audio-visual gate and access controls to improve security by offering visual confirmation of 
+154 access requests to both the building and site, as well as automated entry on the site; provided 
+155 further, that not less than $50,000 shall be expended for the city of Worcester’s Meade street 
+156 office building to acquire door access controls and cameras; provided further, that not less than 
+157 $250,000 shall be expended for the city of Worcester information technology department to 
+158 develop a data lake and data warehouse model to improve local operations and efficacy; 
+159 provided further, that not less than $50,000 shall be expended for the Worcester public schools 
+160 for the purchase of software for the tracking of facilities master plans and deferred maintenance 
+161 projects to allow for the development of 5-year capital plans, maintenance spending and major 
+162 renovation or replacement projects; provided further, that not less than $100,000 shall be 
+163 expended for the Worcester public schools to upgrade their database servers to the latest version 
+164 to better deliver services and maintain security protocols; provided further, that not less than 
+165 $6,000 shall be expended for purchase of a new server in the town of Plympton; provided 
+166 further, that not less than $50,000 shall be expended to the town of Hull to upgrade the 
+9 of 12 
+167 communications and technology infrastructure to outfit its new location; provided further, that 
+168 not less than $55,000 shall be expended for website upgrades and to allow for acceptance of 
+169 online payments in the town of Kingston; provided further, that not less than $200,000 shall be 
+170 expended for website upgrades and digitization of records for public viewing in the town of 
+171 Halifax; provided further, that not less than $160,000 shall be expended to the town of Wayland 
+172 to improve its cybersecurity and resiliency posture through improvements in their endpoint 
+173 security systems, development of both a comprehensive incident response plan and disaster 
+174 recovery plan and implementation of off-site disaster recovery infrastructure; provided further, 
+175 that not less than $85,000 shall be expended to the town of Lincoln to reconfigure and separate 
+176 the Lincoln public safety department’s information technology network so that it meets the 
+177 department of criminal justice information services’ security requirements; provided further, that 
+178 not less than $125,000 shall be expended to the town of Sudbury for information technology 
+179 improvements for the Sudbury public schools; provided further, that not less than $150,000 shall 
+180 be expended to the Darrell Lee Jenkins Jr. Resource Center, Inc. in the city of Springfield for 
+181 technology resources that provide support services to families who have been impacted by gun 
+182 violence; provided further, that not less than $500,000 shall be expended to New North Citizens 
+183 Council, Inc. in the city of Springfield for information technology infrastructure in the Barbara 
+184 Rivera Community Center to enable its delivery of community support services; provided 
+185 further, that not less than $500,000 shall be expended for Springfield Commonwealth Academy 
+186 in the city of Springfield for resources that provide technology and financial education to inner-
+187 city residents; provided further, that not less than $250,000 shall be expended for information 
+188 technology upgrades and digitization of records for the Ferreira-Mendes Portuguese-American 
+189 Archives at University of Massachusetts at Dartmouth; provided further, that not less than 
+10 of 12 
+190 $250,000 shall be expended for internet upgrades including wi-fi for the New Bedford free 
+191 public library; provided further, that not less than $200,000 shall be expended for information 
+192 technology upgrades at Fitchburg city hall in the city of Fitchburg; provided further, that not less 
+193 than $100,000 shall be expended to the town of Lunenburg for cybersecurity improvements for 
+194 the Lunenburg public schools; provided further, that not less than $15,000 shall be expended for 
+195 municipal technology upgrades to accommodate remote work in the town of Blackstone; 
+196 provided further, that not less than $30,000 shall be expended for increasing security and 
+197 detection measures to prevent identity-driven breaches in the town of Arlington; provided 
+198 further, that not less than $300,000 shall be expended for network upgrades to increase access 
+199 and connectivity for public meetings and events in the town of Arlington; provided further, that 
+200 not less than $100,000 shall be expended for information technology improvements in the city of 
+201 West Springfield; and provided further, that not less than $43,000 shall be expended for 
+202 electronic voting technology upgrades in the town of Sharon……………………..$7,499,000 
+203 LEGISLATURE 
+204 House of Representatives 
+205 9600-2024 For necessary information technology upgrades for the house of 
+206 representatives.................................................................................................................$5,000,000 
+207 SECTION 3. Chapter 29 of the General Laws is hereby amended by inserting after 
+208 section 2DDDDDD the following section:- 
+209 Section 2EEEEEE. (a) There shall be established and set up on the books of the 
+210 commonwealth a separate, non-budgeted special revenue fund known as the Information 
+211 Technology Federal Reimbursement Fund, which shall be administered by the secretary of 
+11 of 12 
+212 technology services and security. The secretary shall expend money in the fund for information 
+213 technology projects related to the commonwealth’s health and human services. There shall be 
+214 credited to the fund: (i) amounts equal to any federal financial participation revenues claimed 
+215 and received by the commonwealth for eligible expenditures made from this fund or from 
+216 eligible expenditures made in direct connection with eligible expenditures made from this fund; 
+217 and (ii) interest earned on any money in the fund. Amounts credited to the fund shall be 
+218 expended without further appropriation. 
+219 (b) To accommodate timing discrepancies between the receipt of revenue and related 
+220 expenditures, the comptroller may certify for payment amounts not to exceed the most recent 
+221 revenue estimates as certified by the secretary to be transferred, credited or deposited under this 
+222 section. Money remaining in the fund at the end of a fiscal year shall not revert to the General 
+223 Fund and shall be available for expenditure in subsequent fiscal years. 
+224 SECTION 4. To meet the expenditures necessary to carry out sections 2A and 2B, the 
+225 state treasurer shall, upon request of the governor, issue and sell bonds of the commonwealth in 
+226 an amount to be specified by the governor from time to time, but not exceeding, in the aggregate, 
+227 $1,055,000,000. All bonds issued by the commonwealth under this section shall be designated on 
+228 their face, “FutureTech Act of 2024”, and shall be issued for a maximum term of years, not 
+229 exceeding 10 years, as the governor may recommend to the general court under section 3 of 
+230 Article LXII of the Amendments to the Constitution. All such bonds shall be payable not later 
+231 than June 30, 2039. 
+232 SECTION 5. To meet the expenditures necessary to carry out section 2C, the state 
+233 treasurer shall, upon request of the governor, issue and sell bonds of the commonwealth in an 
+12 of 12 
+234 amount to be specified by the governor from time to time, but not exceeding, in the aggregate, 
+235 $175,000,000. All bonds issued by the commonwealth under this section shall be designated on 
+236 their face, “FutureTech Act of 2024”, and shall be issued for a maximum term of years, not 
+237 exceeding 30 years, as the governor may recommend to the general court under section 3 of 
+238 Article LXII of the Amendments to the Constitution. All such bonds shall be payable not later 
+239 than June 30, 2059. 
+240 SECTION 6. To meet the expenditures necessary to carry out section 2D, the state 
+241 treasurer shall, upon request of the governor, issue and sell bonds of the commonwealth in an 
+242 amount to be specified by the governor from time to time, but not exceeding, in the aggregate, 
+243 $12,499,000. All bonds issued by the commonwealth under this section shall be designated on 
+244 their face, “FutureTech Act of 2024”, and shall be issued for a maximum term of years, not 
+245 exceeding 10 years, as the governor may recommend to the general court under section 3 of 
+246 Article LXII of the Amendments to the Constitution. All such bonds shall be payable not later 
+247 than June 30, 2039.

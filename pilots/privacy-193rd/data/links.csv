@@ -1,12 +1,32 @@
 source,target,link_type,confidence,evidence,evidence_url
 H1049,194:H1199,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1049/SimilarBills
 H1049,189:H1445,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1049/SimilarBills
+H1099,H5047,sent_to_study,verified-official-record,"Accompanied a study order, see H5047",https://malegislature.gov/Bills/193/H1099
+H1099,194:H2066,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1099/SimilarBills
+H1099,194:H1339,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1099/SimilarBills
+H1099,194:H3470,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1099/SimilarBills
+H1099,194:H1251,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1099/SimilarBills
+H1099,194:S2253,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1099/SimilarBills
+H1158,H5047,sent_to_study,verified-official-record,"Accompanied a study order, see H5047",https://malegislature.gov/Bills/193/H1158
+H1158,194:H1339,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1158/SimilarBills
+H1283,H4266,superseded_by,verified-official-record,"Accompanied a new draft, see H4266",https://malegislature.gov/Bills/193/H1283
+H1283,190:H2230,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
+H1283,191:H1237,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
+H1283,192:H1353,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
+H1283,191:H4420,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
+H1283,192:H4553,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
 H1428,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1428
 H1428,191:H3257,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1428/SimilarBills
 H1428,192:H1496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1428/SimilarBills
 H1428,194:H1741,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1428/SimilarBills
 H1428,194:H1729,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1428/SimilarBills
 H1428,194:H3815,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1428/SimilarBills
+H1438,H4833,superseded_by,verified-official-record,"Accompanied a new draft, see H4833",https://malegislature.gov/Bills/193/H1438
+H1438,194:H1635,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
+H1438,191:H3274,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
+H1438,192:H1519,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
+H1438,194:H1929,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
+H1438,194:H2672,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
 H1442,H4323,superseded_by,verified-official-record,"Accompanied a new draft, see H4323",https://malegislature.gov/Bills/193/H1442
 H1442,194:H1643,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1442/SimilarBills
 H1442,194:H4634,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1442/SimilarBills
@@ -19,12 +39,48 @@ H1455,192:H1527,official_similar,verified-official-record,Similar Bills tab,http
 H1455,189:H1256,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1455/SimilarBills
 H1455,190:H768,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1455/SimilarBills
 H1455,194:H666,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1455/SimilarBills
+H1519,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1519
+H1519,194:H1715,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
+H1519,192:H1580,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
+H1519,194:H2732,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
+H1519,194:H2657,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
+H1519,187:S1184,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
+H1525,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1525
+H1525,193:S943,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
+H1525,194:H91,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
+H1525,194:H932,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
+H1525,194:H158,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
+H1525,194:H163,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
+H1555,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1555
+H1555,194:H1754,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
+H1555,192:H4152,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
+H1555,194:H101,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
+H1555,194:H75,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
+H1555,194:H73,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
+H1566,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1566
+H1566,192:H1893,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
+H1566,188:H1372,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
+H1566,188:H298,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
+H1566,188:H1948,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
+H1566,194:H1766,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
 H1572,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1572
 H1572,194:H1773,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1572/SimilarBills
 H1572,194:S1221,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1572/SimilarBills
 H1572,194:S3159,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1572/SimilarBills
 H1572,190:S1253,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1572/SimilarBills
 H1572,193:S1098,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1572/SimilarBills
+H1653,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1653
+H1653,194:H3755,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
+H1653,194:H2326,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
+H1653,194:H2116,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
+H1653,194:H124,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
+H1653,194:H2020,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
+H1690,H4356,superseded_by,verified-official-record,"Accompanied a new draft, see H4356",https://malegislature.gov/Bills/193/H1690
+H1690,192:H1808,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
+H1690,192:H4505,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
+H1690,193:H4356,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
+H1690,191:H3566,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
+H1690,191:H4934,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
 H1707,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1707
 H1707,194:H1915,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1707/SimilarBills
 H1707,193:S971,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1707/SimilarBills
@@ -37,12 +93,25 @@ H1728,194:H4640,official_similar,verified-official-record,Similar Bills tab,http
 H1728,193:H4359,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1728/SimilarBills
 H1728,194:S1053,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1728/SimilarBills
 H1728,194:H88,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1728/SimilarBills
+H1745,H4115,superseded_by,verified-official-record,"Accompanied a new draft, see H4115",https://malegislature.gov/Bills/193/H1745
+H1745,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
+H1745,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
+H1745,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
+H1745,193:S1012,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
+H1745,189:H1567,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
+H1791,H5032,sent_to_study,verified-official-record,"Accompanied a study order, see H5032",https://malegislature.gov/Bills/193/H1791
+H1791,191:H3455,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1791/SimilarBills
+H1791,192:H1906,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1791/SimilarBills
+H1791,192:S1093,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1791/SimilarBills
+H1791,191:S995,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1791/SimilarBills
+H1791,191:S2493,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1791/SimilarBills
 H1809,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1809
 H1809,194:H2036,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1809/SimilarBills
 H1809,192:HD4546,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1809/SimilarBills
 H1809,194:H3603,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1809/SimilarBills
 H1809,194:H1166,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1809/SimilarBills
 H1809,194:H3741,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1809/SimilarBills
+H1873,H5046,sent_to_study,verified-official-record,"Accompanied a study order, see H5046",https://malegislature.gov/Bills/193/H1873
 H1893,H4570,sent_to_study,verified-official-record,"Accompanied a study order, see H4570",https://malegislature.gov/Bills/193/H1893
 H1893,190:H158,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1893/SimilarBills
 H1893,191:H1628,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1893/SimilarBills
@@ -55,342 +124,33 @@ H1986,190:S547,official_similar,verified-official-record,Similar Bills tab,https
 H1986,191:S1154,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1986/SimilarBills
 H1986,192:S1297,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1986/SimilarBills
 H1986,192:S1270,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1986/SimilarBills
-H326,194:H389,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
-H326,188:H244,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
-H326,189:H223,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
-H326,190:H165,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
-H326,191:H261,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
-H3404,194:H3755,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
-H3404,194:H1810,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
-H3404,194:H2297,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
-H3404,194:H2326,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
-H3404,194:H3518,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
-H3434,190:H3439,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
-H3434,191:H3148,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
-H3434,192:H3601,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
-H3434,194:S2357,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
-H3434,186:S1931,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
-H377,H4680,sent_to_study,verified-official-record,"Accompanied a study order, see H4680",https://malegislature.gov/Bills/193/H377
-H377,193:S174,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
-H377,194:S1532,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
-H377,194:S1227,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
-H377,188:H1909,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
-H377,189:H1900,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
-H4323,S1022,redraft_of,verified-official-record,New draft of S1022 and H1442,https://malegislature.gov/Bills/193/H4323
-H4323,H1442,redraft_of,verified-official-record,New draft of S1022 and H1442,https://malegislature.gov/Bills/193/H4323
-H4323,194:H1643,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
-H4323,194:H4634,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
-H4323,190:H765,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
-H4323,191:H3273,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
-H4323,192:H1513,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
-H4359,S927,redraft_of,verified-official-record,New draft of S927 and H1728,https://malegislature.gov/Bills/193/H4359
-H4359,H1728,redraft_of,verified-official-record,New draft of S927 and H1728,https://malegislature.gov/Bills/193/H4359
-H4359,194:H1946,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
-H4359,194:H4640,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
-H4359,193:H1728,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
-H4359,194:S1053,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
-H4359,194:H88,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
-H4632,S227,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
-H4632,H60,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
-H4632,H63,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
-H4632,H80,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
-H4632,H83,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
-H4632,193:H83,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
-H4632,194:H104,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
-H4632,194:H1843,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
-H4632,194:H128,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
-H4632,194:H3821,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
-H4844,H4496,reported_from_part_of,verified-official-record,Reported on a part of H4496,https://malegislature.gov/Bills/193/H4844
-H4844,193:H4496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
-H4844,193:H4790,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
-H4844,193:H4799,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
-H4844,193:H5049,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
-H4844,193:H4034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
-H532,194:H633,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
-H532,194:H4405,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
-H532,192:H127,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
-H532,194:H104,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
-H532,194:H1926,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
-H60,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/H60
-H60,194:H1915,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
-H60,193:S227,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
-H60,194:S265,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
-H60,194:S1210,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
-H60,194:S250,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
-H63,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/H63
-H63,189:S124,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
-H63,194:S187,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
-H63,194:S43,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
-H63,189:H225,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
-H63,190:H1985,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
-H76,S2539,superseded_by,verified-official-record,"Accompanied a new draft, see S2539",https://malegislature.gov/Bills/193/H76
-H76,194:H93,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H76/SimilarBills
-H76,193:S30,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H76/SimilarBills
-H80,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/H80
-H80,194:H98,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
-H80,194:H1668,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
-H80,194:H1859,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
-H80,194:H1704,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
-H80,194:H2440,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
-H83,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/H83
-H83,193:H4632,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
-H83,194:H1843,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
-H83,194:H128,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
-H83,194:H3821,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
-H83,194:H2688,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
-S1022,H4323,superseded_by,verified-official-record,"Accompanied a new draft, see H4323",https://malegislature.gov/Bills/193/S1022
-S1022,194:S1156,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
-S1022,190:S886,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
-S1022,191:S968,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
-S1022,192:S1074,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
-S1022,194:H1643,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
-S1368,S2648,sent_to_study,verified-official-record,"Accompanied a study order, see S2648",https://malegislature.gov/Bills/193/S1368
-S1368,194:S1532,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
-S1368,192:S1435,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
-S1368,194:H2232,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
-S1368,194:H1156,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
-S1368,194:H2421,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
-S140,194:S187,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
-S140,190:S95,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
-S140,191:S98,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
-S140,192:S161,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
-S140,189:S124,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
-S148,194:S197,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
-S148,193:H357,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
-S148,194:H103,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
-S148,194:S260,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
-S148,194:S1156,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
-S1551,S2777,sent_to_study,verified-official-record,"Accompanied a study order, see S2777",https://malegislature.gov/Bills/193/S1551
-S1551,194:S1731,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
-S1551,191:S1429,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
-S1551,192:S1608,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
-S1551,190:S1963,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
-S1551,191:H1538,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
-S174,S2630,sent_to_study,verified-official-record,"Accompanied a study order, see S2630",https://malegislature.gov/Bills/193/S174
-S174,193:H377,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
-S174,194:H190,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
-S174,194:H3118,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
-S174,194:H3089,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
-S174,194:H3263,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
-S1896,192:S1938,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
-S1896,194:H2687,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
-S1896,194:S1679,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
-S1896,194:S33,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
-S1896,192:S461,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
-S194,S2630,sent_to_study,verified-official-record,"Accompanied a study order, see S2630",https://malegislature.gov/Bills/193/S194
-S194,194:S260,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
-S194,189:S172,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
-S194,190:S139,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
-S194,191:S166,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
-S194,192:S223,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
-S195,194:S43,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
-S195,192:S220,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
-S195,190:H1985,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
-S195,191:H287,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
-S195,194:H2242,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
-S209,191:S161,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
-S209,192:S214,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
-S209,194:H190,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
-S209,194:H4247,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
-S209,194:H2690,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
-S218,194:S289,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
-S218,190:S2053,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
-S218,194:H101,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
-S218,194:H75,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
-S218,194:H73,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
-S227,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/S227
-S227,194:S301,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
-S227,192:S2687,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
-S227,192:S46,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
-S227,194:H1658,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
-S227,194:S1050,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
-S25,S2770,superseded_by,verified-official-record,"Accompanied a new draft, see S2770",https://malegislature.gov/Bills/193/S25
-S25,194:S45,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
-S25,194:S29,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
-S25,194:S33,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
-S25,194:S2516,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
-S25,194:S2608,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
-S2539,S26,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,S30,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,S31,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,S32,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,S35,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,S36,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,S37,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,S198,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,H66,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,H76,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,H77,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,H82,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,H84,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
-S2539,194:S49,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
-S2539,194:S39,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
-S2539,191:S1887,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
-S2539,192:S2088,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
-S2539,192:S51,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
-S2770,S25,redraft_of,verified-official-record,New draft of S25,https://malegislature.gov/Bills/193/S2770
-S2770,194:S45,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
-S2770,194:S2516,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
-S2770,194:S2608,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
-S2770,194:S2619,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
-S2770,194:S29,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
-S280,194:H633,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
-S280,194:H4405,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
-S280,192:H127,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
-S280,193:H532,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
-S280,194:S364,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
-S30,S2539,superseded_by,verified-official-record,"Accompanied a new draft, see S2539",https://malegislature.gov/Bills/193/S30
-S30,194:H93,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S30/SimilarBills
-S30,193:H76,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S30/SimilarBills
-S927,H4359,superseded_by,verified-official-record,"Accompanied a new draft, see H4359",https://malegislature.gov/Bills/193/S927
-S927,194:H1946,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
-S927,194:S1053,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
-S927,194:H4640,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
-S927,193:H1728,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
-S927,193:H4359,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
-S938,S2926,sent_to_study,verified-official-record,"Accompanied a study order, see S2926",https://malegislature.gov/Bills/193/S938
-S938,191:S890,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
-S938,192:S958,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
-S938,189:H1616,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
-S938,192:S810,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
-S938,186:S2351,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
-S971,S2612,sent_to_study,verified-official-record,"Accompanied a study order, see S2612",https://malegislature.gov/Bills/193/S971
-S971,194:H1915,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
-S971,193:H1707,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
-S971,194:S1108,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
-S971,194:S1252,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
-S971,193:S1116,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
-H1283,H4266,superseded_by,verified-official-record,"Accompanied a new draft, see H4266",https://malegislature.gov/Bills/193/H1283
-H1283,190:H2230,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
-H1283,191:H1237,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
-H1283,192:H1353,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
-H1283,191:H4420,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
-H1283,192:H4553,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1283/SimilarBills
-H1519,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1519
-H1519,194:H1715,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
-H1519,192:H1580,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
-H1519,194:H2732,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
-H1519,194:H2657,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
-H1519,187:S1184,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1519/SimilarBills
-H1555,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1555
-H1555,194:H1754,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
-H1555,192:H4152,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
-H1555,194:H101,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
-H1555,194:H75,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
-H1555,194:H73,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1555/SimilarBills
-H1653,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1653
-H1653,194:H3755,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
-H1653,194:H2326,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
-H1653,194:H2116,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
-H1653,194:H124,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
-H1653,194:H2020,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1653/SimilarBills
+H219,H4711,sent_to_study,verified-official-record,"Accompanied a study order, see H4711",https://malegislature.gov/Bills/193/H219
 H281,194:H358,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H281/SimilarBills
 H281,190:H2813,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H281/SimilarBills
 H281,191:H223,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H281/SimilarBills
 H281,192:H349,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H281/SimilarBills
 H281,189:S545,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H281/SimilarBills
+H2991,H4675,sent_to_study,verified-official-record,"Accompanied a study order, see H4675",https://malegislature.gov/Bills/193/H2991
+H2991,194:H3294,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
+H2991,192:H3109,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
+H2991,194:H3386,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
+H2991,194:S2193,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
+H2991,189:H2732,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
+H3003,191:H2681,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
+H3003,192:H3115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
+H3003,194:H693,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
+H3003,194:HD4441,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
+H3003,194:H1614,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
 H3179,194:H3510,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3179/SimilarBills
 H3179,191:H382,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3179/SimilarBills
 H3179,192:H521,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3179/SimilarBills
 H3179,194:S3090,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3179/SimilarBills
 H3179,194:S3190,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3179/SimilarBills
-H3431,H4714,sent_to_study,verified-official-record,"Accompanied a study order, see H4714",https://malegislature.gov/Bills/193/H3431
-H3431,190:H1902,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
-H3431,191:H3141,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
-H3431,192:H3597,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
-H3431,189:H3102,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
-H3431,192:H3564,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
-H3831,H4578,sent_to_study,verified-official-record,"Accompanied a study order, see H4578",https://malegislature.gov/Bills/193/H3831
-H3831,194:H1843,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
-H3831,194:H128,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
-H3831,194:H3821,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
-H3831,194:H2688,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
-H3831,194:H2677,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
-H386,194:S250,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
-H386,193:S184,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
-H386,194:H2233,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
-H386,194:H340,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
-H386,194:H789,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
-H3863,H4902,sent_to_study,verified-official-record,"Accompanied a study order, see H4902",https://malegislature.gov/Bills/193/H3863
-H395,H4680,sent_to_study,verified-official-record,"Accompanied a study order, see H4680",https://malegislature.gov/Bills/193/H395
-H395,190:H200,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
-H395,191:H349,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
-H395,192:H460,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
-H395,189:H274,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
-H395,194:H3126,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
-H4266,S844,redraft_of,verified-official-record,New draft of S844 and H1283,https://malegislature.gov/Bills/193/H4266
-H4266,H1283,redraft_of,verified-official-record,New draft of S844 and H1283,https://malegislature.gov/Bills/193/H4266
-H4266,190:H2230,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
-H4266,191:H1237,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
-H4266,192:H1353,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
-H4266,193:H1283,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
-H4266,191:H4420,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
-H4421,H530,redraft_of,verified-official-record,New draft of H530,https://malegislature.gov/Bills/193/H4421
-H4421,193:H530,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
-H4421,194:H630,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
-H4421,193:S343,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
-H4421,194:S50,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
-H4421,193:S2666,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
-H530,H4421,superseded_by,verified-official-record,"Accompanied a new draft, see H4421",https://malegislature.gov/Bills/193/H530
-H530,193:H4421,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
-H530,194:H630,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
-H530,193:S343,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
-H530,194:S50,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
-H530,193:S2666,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
-S1557,194:S1734,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
-S1557,190:S1348,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
-S1557,191:S1446,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
-S1557,192:S1619,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
-S1557,194:H3749,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
-S184,194:S250,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
-S184,194:H461,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
-S184,193:H386,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
-S184,194:HD5406,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
-S184,192:S1495,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
-S198,S2539,superseded_by,verified-official-record,"Accompanied a new draft, see S2539",https://malegislature.gov/Bills/193/S198
-S198,194:S265,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
-S198,191:S170,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
-S198,192:S225,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
-S198,190:S2504,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
-S198,194:H252,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
-S2666,S343,redraft_of,verified-official-record,New draft of S343,https://malegislature.gov/Bills/193/S2666
-S2666,194:H630,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
-S2666,193:S343,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
-S2666,193:H530,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
-S2666,194:S50,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
-S2666,193:H4421,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
-S27,H4578,sent_to_study,verified-official-record,"Accompanied a study order, see H4578",https://malegislature.gov/Bills/193/S27
-S27,194:H1879,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
-S27,194:H3755,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
-S27,194:H1643,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
-S27,194:H3283,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
-S27,194:H633,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
-S343,S2666,superseded_by,verified-official-record,"Accompanied a new draft, see S2666",https://malegislature.gov/Bills/193/S343
-S343,194:H630,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
-S343,193:S2666,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
-S343,193:H530,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
-S343,194:S50,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
-S343,193:H4421,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
-S844,H4266,superseded_by,verified-official-record,"Accompanied a new draft, see H4266",https://malegislature.gov/Bills/193/S844
-S844,194:S947,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
-S844,192:H1356,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
-S844,194:H1451,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
-S844,194:H4653,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
-S844,194:H2843,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
-H1438,H4833,superseded_by,verified-official-record,"Accompanied a new draft, see H4833",https://malegislature.gov/Bills/193/H1438
-H1438,194:H1635,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
-H1438,191:H3274,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
-H1438,192:H1519,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
-H1438,194:H1929,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
-H1438,194:H2672,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1438/SimilarBills
-H1566,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1566
-H1566,192:H1893,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
-H1566,188:H1372,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
-H1566,188:H298,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
-H1566,188:H1948,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
-H1566,194:H1766,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1566/SimilarBills
-H1873,H5046,sent_to_study,verified-official-record,"Accompanied a study order, see H5046",https://malegislature.gov/Bills/193/H1873
-H219,H4711,sent_to_study,verified-official-record,"Accompanied a study order, see H4711",https://malegislature.gov/Bills/193/H219
+H326,194:H389,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
+H326,188:H244,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
+H326,189:H223,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
+H326,190:H165,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
+H326,191:H261,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H326/SimilarBills
 H3289,H5022,sent_to_study,verified-official-record,"Accompanied a study order, see H5022",https://malegislature.gov/Bills/193/H3289
 H3289,194:H3640,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3289/SimilarBills
 H3289,194:H2687,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3289/SimilarBills
@@ -419,6 +179,27 @@ H3393,192:H2532,official_similar,verified-official-record,Similar Bills tab,http
 H3393,192:H2426,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3393/SimilarBills
 H3393,194:H3728,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3393/SimilarBills
 H3393,194:H3768,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3393/SimilarBills
+H3404,194:H3755,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
+H3404,194:H1810,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
+H3404,194:H2297,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
+H3404,194:H2326,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
+H3404,194:H3518,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3404/SimilarBills
+H3431,H4714,sent_to_study,verified-official-record,"Accompanied a study order, see H4714",https://malegislature.gov/Bills/193/H3431
+H3431,190:H1902,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
+H3431,191:H3141,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
+H3431,192:H3597,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
+H3431,189:H3102,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
+H3431,192:H3564,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3431/SimilarBills
+H3434,190:H3439,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
+H3434,191:H3148,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
+H3434,192:H3601,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
+H3434,194:S2357,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
+H3434,186:S1931,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3434/SimilarBills
+H3548,192:H4911,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3548/SimilarBills
+H3548,192:H5394,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3548/SimilarBills
+H3548,193:H3545,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3548/SimilarBills
+H3548,193:H47,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3548/SimilarBills
+H3548,193:H57,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3548/SimilarBills
 H3597,H4570,sent_to_study,verified-official-record,"Accompanied a study order, see H4570",https://malegislature.gov/Bills/193/H3597
 H3637,H4877,sent_to_study,verified-official-record,"Accompanied a study order, see H4877",https://malegislature.gov/Bills/193/H3637
 H3637,194:H3191,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3637/SimilarBills
@@ -426,24 +207,248 @@ H3637,194:H2103,official_similar,verified-official-record,Similar Bills tab,http
 H3637,194:H1294,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3637/SimilarBills
 H3637,194:H209,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3637/SimilarBills
 H3637,194:H338,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3637/SimilarBills
+H377,H4680,sent_to_study,verified-official-record,"Accompanied a study order, see H4680",https://malegislature.gov/Bills/193/H377
+H377,193:S174,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
+H377,194:S1532,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
+H377,194:S1227,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
+H377,188:H1909,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
+H377,189:H1900,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H377/SimilarBills
+H3831,H4578,sent_to_study,verified-official-record,"Accompanied a study order, see H4578",https://malegislature.gov/Bills/193/H3831
+H3831,194:H1843,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
+H3831,194:H128,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
+H3831,194:H3821,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
+H3831,194:H2688,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
+H3831,194:H2677,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3831/SimilarBills
+H386,194:S250,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
+H386,193:S184,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
+H386,194:H2233,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
+H386,194:H340,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
+H386,194:H789,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H386/SimilarBills
+H3863,H4902,sent_to_study,verified-official-record,"Accompanied a study order, see H4902",https://malegislature.gov/Bills/193/H3863
+H395,H4680,sent_to_study,verified-official-record,"Accompanied a study order, see H4680",https://malegislature.gov/Bills/193/H395
+H395,190:H200,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
+H395,191:H349,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
+H395,192:H460,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
+H395,189:H274,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
+H395,194:H3126,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H395/SimilarBills
+H4040,H3901,reported_from_part_of,verified-official-record,Reported on a part of H3901,https://malegislature.gov/Bills/193/H4040
+H4040,193:H1,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4040,193:H3900,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4040,193:H3901,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4040,194:H610,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4040,194:H714,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
+H4115,S1012,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
+H4115,S1077,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
+H4115,S1097,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
+H4115,S1139,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
+H4115,H1542,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
+H4115,H1547,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
+H4115,H1745,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
+H4115,H3856,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
+H4115,H4241,superseded_by,verified-official-record,"New draft substituted, see H4241",https://malegislature.gov/Bills/193/H4115
+H4115,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
+H4115,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
+H4115,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
+H4115,189:H1567,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
+H4115,190:H948,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
+H4138,H4707,superseded_by,verified-official-record,"New draft substituted, see H4707",https://malegislature.gov/Bills/193/H4138
+H4138,193:H4977,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4138/SimilarBills
+H4138,193:H4707,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4138/SimilarBills
+H4138,193:H4726,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4138/SimilarBills
+H4138,194:H101,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4138/SimilarBills
+H4138,194:H3164,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4138/SimilarBills
 H4166,H4716,sent_to_study,verified-official-record,"Accompanied a study order, see H4716",https://malegislature.gov/Bills/193/H4166
 H4166,194:H3308,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4166/SimilarBills
 H4166,194:H1651,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4166/SimilarBills
 H4166,194:H4134,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4166/SimilarBills
 H4166,194:H4145,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4166/SimilarBills
 H4166,194:H4157,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4166/SimilarBills
+H4241,H4115,redraft_of,verified-official-record,New draft of H4115,https://malegislature.gov/Bills/193/H4241
+H4241,S2703,text_adopted_from,verified-official-record,"Committee recommended ought to pass with an amendment, inserting in place thereof the text of S2703",https://malegislature.gov/Bills/193/H4241
+H4241,S2703,text_adopted_from,verified-official-record,Amended by striking out all after the enacting clause and inserting in place thereof the text of S2703,https://malegislature.gov/Bills/193/H4241
+H4241,H4744,reported_by,verified-official-record,Reported by H4744,https://malegislature.gov/Bills/193/H4241
+H4241,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
+H4241,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
+H4241,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
+H4241,189:H1567,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
+H4241,190:H948,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
+H4266,S844,redraft_of,verified-official-record,New draft of S844 and H1283,https://malegislature.gov/Bills/193/H4266
+H4266,H1283,redraft_of,verified-official-record,New draft of S844 and H1283,https://malegislature.gov/Bills/193/H4266
+H4266,190:H2230,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
+H4266,191:H1237,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
+H4266,192:H1353,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
+H4266,193:H1283,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
+H4266,191:H4420,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4266/SimilarBills
 H4287,194:H3905,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4287/SimilarBills
 H4287,191:H4245,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4287/SimilarBills
 H4287,194:H4091,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4287/SimilarBills
 H4287,194:H3907,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4287/SimilarBills
 H4287,194:H4007,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4287/SimilarBills
+H4323,S1022,redraft_of,verified-official-record,New draft of S1022 and H1442,https://malegislature.gov/Bills/193/H4323
+H4323,H1442,redraft_of,verified-official-record,New draft of S1022 and H1442,https://malegislature.gov/Bills/193/H4323
+H4323,194:H1643,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
+H4323,194:H4634,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
+H4323,190:H765,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
+H4323,191:H3273,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
+H4323,192:H1513,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4323/SimilarBills
+H4356,S956,redraft_of,verified-official-record,New draft of S956 and H1690,https://malegislature.gov/Bills/193/H4356
+H4356,H1690,redraft_of,verified-official-record,New draft of S956 and H1690,https://malegislature.gov/Bills/193/H4356
+H4356,192:H1808,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
+H4356,193:H1690,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
+H4356,192:H4505,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
+H4356,191:H3566,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
+H4356,191:H4934,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
+H4359,S927,redraft_of,verified-official-record,New draft of S927 and H1728,https://malegislature.gov/Bills/193/H4359
+H4359,H1728,redraft_of,verified-official-record,New draft of S927 and H1728,https://malegislature.gov/Bills/193/H4359
+H4359,194:H1946,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
+H4359,194:H4640,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
+H4359,193:H1728,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
+H4359,194:S1053,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
+H4359,194:H88,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4359/SimilarBills
+H4421,H530,redraft_of,verified-official-record,New draft of H530,https://malegislature.gov/Bills/193/H4421
+H4421,193:H530,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
+H4421,194:H630,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
+H4421,193:S343,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
+H4421,194:S50,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
+H4421,193:S2666,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4421/SimilarBills
+H4632,S227,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
+H4632,H60,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
+H4632,H63,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
+H4632,H80,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
+H4632,H83,redraft_of,verified-official-record,"New draft of S227, H60, H63, H80 and H83",https://malegislature.gov/Bills/193/H4632
+H4632,193:H83,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
+H4632,194:H104,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
+H4632,194:H1843,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
+H4632,194:H128,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
+H4632,194:H3821,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4632/SimilarBills
+H4744,H4241,reported_on,verified-official-record,Reported on H4241,https://malegislature.gov/Bills/193/H4744
+H4744,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
+H4744,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
+H4744,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
+H4744,189:H1567,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
+H4744,190:H948,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
+H4799,S2888,text_adopted_from,verified-official-record,"Committee recommended ought to pass with an amendment, inserting in place thereof the text of S2888",https://malegislature.gov/Bills/193/H4799
+H4799,S2888,text_adopted_from,verified-official-record,Amended by striking out all after the enacting clause and inserting in place thereof the text of S2888,https://malegislature.gov/Bills/193/H4799
+H4799,S2891,superseded_by,verified-official-record,"Reprinted as amended, see S2891",https://malegislature.gov/Bills/193/H4799
+H4799,193:H4496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+H4799,193:H4790,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+H4799,193:H4844,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+H4799,193:H5049,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+H4799,193:H4034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+H4844,H4496,reported_from_part_of,verified-official-record,Reported on a part of H4496,https://malegislature.gov/Bills/193/H4844
+H4844,193:H4496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
+H4844,193:H4790,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
+H4844,193:H4799,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
+H4844,193:H5049,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
+H4844,193:H4034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4844/SimilarBills
+H4977,H4726,reported_on,verified-official-record,Reported on H4726,https://malegislature.gov/Bills/193/H4977
+H4977,193:H4707,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H4977,193:H4726,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H4977,193:H4138,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H4977,194:H1551,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H4977,194:H101,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
+H5049,193:H5077,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5049/SimilarBills
+H5049,193:H4496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5049/SimilarBills
+H5049,193:H4034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5049/SimilarBills
+H5049,193:H4790,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5049/SimilarBills
+H5049,193:H4844,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5049/SimilarBills
+H5077,H5049,reported_from_part_of,verified-official-record,Reported on a part of H5049,https://malegislature.gov/Bills/193/H5077
+H5077,S2968,text_adopted_from,verified-official-record,Committee recommended ought to pass with an amendment striking out all after the enacting clause and inserting in place thereof the text of S2968,https://malegislature.gov/Bills/193/H5077
+H5077,S2968,text_adopted_from,verified-official-record,Amended by striking out all after the enacting clause and inserting in place thereof the text of S2968,https://malegislature.gov/Bills/193/H5077
+H5077,S2974,superseded_by,verified-official-record,"Reprinted as amended, see S2974",https://malegislature.gov/Bills/193/H5077
+H5077,193:H5049,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H5077,193:H4496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H5077,193:H4034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H5077,193:H4790,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H5077,193:H4844,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
+H5132,H5077,see,verified-official-record,See H5077,https://malegislature.gov/Bills/193/H5132
+H5132,193:H3936,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5132/SimilarBills
+H5132,194:H51,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5132/SimilarBills
+H5132,194:H4003,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5132/SimilarBills
+H5132,194:H55,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5132/SimilarBills
+H5132,194:H4429,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5132/SimilarBills
+H5154,192:H2494,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5154/SimilarBills
+H5154,194:H507,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5154/SimilarBills
+H5154,194:H1606,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5154/SimilarBills
+H5154,194:H2677,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5154/SimilarBills
+H5154,194:H2034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5154/SimilarBills
+H530,H4421,superseded_by,verified-official-record,"Accompanied a new draft, see H4421",https://malegislature.gov/Bills/193/H530
+H530,193:H4421,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
+H530,194:H630,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
+H530,193:S343,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
+H530,194:S50,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
+H530,193:S2666,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H530/SimilarBills
+H532,194:H633,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
+H532,194:H4405,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
+H532,192:H127,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
+H532,194:H104,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
+H532,194:H1926,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H532/SimilarBills
+H57,H47,reported_from_part_of,verified-official-record,Reported on a part of H47,https://malegislature.gov/Bills/193/H57
+H57,192:H4911,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H57/SimilarBills
+H57,192:H5394,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H57/SimilarBills
+H57,193:H3545,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H57/SimilarBills
+H57,193:H47,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H57/SimilarBills
+H57,193:H3548,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H57/SimilarBills
+H58,S23,text_adopted_from,verified-official-record,"Committee recommended ought to pass with an amendment, inserting in place thereof the text of S23",https://malegislature.gov/Bills/193/H58
+H58,S23,text_adopted_from,verified-official-record,"Amended by striking out all after the enacting clause and inserting in place thereof the text of S23, amended",https://malegislature.gov/Bills/193/H58
+H58,S24,superseded_by,verified-official-record,"Reprinted as amended, see S24",https://malegislature.gov/Bills/193/H58
+H58,192:H4911,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H58,192:H5394,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H58,193:H3545,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H58,193:H47,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H58,193:H3548,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
+H582,H4739,sent_to_study,verified-official-record,"Accompanied a study order, see H4739",https://malegislature.gov/Bills/193/H582
+H582,194:H2541,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H582/SimilarBills
+H582,192:H706,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H582/SimilarBills
+H582,186:S279,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H582/SimilarBills
+H582,194:S347,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H582/SimilarBills
+H582,194:H210,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H582/SimilarBills
+H60,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/H60
+H60,194:H1915,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
+H60,193:S227,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
+H60,194:S265,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
+H60,194:S1210,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
+H60,194:S250,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H60/SimilarBills
+H63,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/H63
+H63,189:S124,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
+H63,194:S187,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
+H63,194:S43,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
+H63,189:H225,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
+H63,190:H1985,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H63/SimilarBills
 H637,S2604,superseded_by,verified-official-record,"Accompanied a new draft, see S2604",https://malegislature.gov/Bills/193/H637
+H76,S2539,superseded_by,verified-official-record,"Accompanied a new draft, see S2539",https://malegislature.gov/Bills/193/H76
+H76,194:H93,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H76/SimilarBills
+H76,193:S30,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H76/SimilarBills
+H80,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/H80
+H80,194:H98,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
+H80,194:H1668,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
+H80,194:H1859,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
+H80,194:H1704,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
+H80,194:H2440,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H80/SimilarBills
+H83,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/H83
+H83,193:H4632,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
+H83,194:H1843,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
+H83,194:H128,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
+H83,194:H3821,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
+H83,194:H2688,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H83/SimilarBills
+S1012,H4115,superseded_by,verified-official-record,"Accompanied a new draft, see H4115",https://malegislature.gov/Bills/193/S1012
+S1012,193:S1139,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
+S1012,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
+S1012,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
+S1012,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
+S1012,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
 S1013,S2612,sent_to_study,verified-official-record,"Accompanied a study order, see S2612",https://malegislature.gov/Bills/193/S1013
 S1013,194:H252,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1013/SimilarBills
 S1013,194:H4191,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1013/SimilarBills
 S1013,194:S516,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1013/SimilarBills
 S1013,194:S926,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1013/SimilarBills
 S1013,194:S1218,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1013/SimilarBills
+S1022,H4323,superseded_by,verified-official-record,"Accompanied a new draft, see H4323",https://malegislature.gov/Bills/193/S1022
+S1022,194:S1156,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
+S1022,190:S886,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
+S1022,191:S968,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
+S1022,192:S1074,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
+S1022,194:H1643,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1022/SimilarBills
 S1116,S2612,sent_to_study,verified-official-record,"Accompanied a study order, see S2612",https://malegislature.gov/Bills/193/S1116
 S1116,194:S1252,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1116/SimilarBills
 S1116,194:H1915,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1116/SimilarBills
@@ -454,12 +459,34 @@ S1133,192:S1151,official_similar,verified-official-record,Similar Bills tab,http
 S1133,194:H1810,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1133/SimilarBills
 S1133,194:H2297,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1133/SimilarBills
 S1133,194:H3755,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1133/SimilarBills
+S1139,H4115,superseded_by,verified-official-record,"Accompanied a new draft, see H4115",https://malegislature.gov/Bills/193/S1139
+S1139,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
+S1139,193:S1012,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
+S1139,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
+S1139,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
+S1139,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
 S1228,S2633,sent_to_study,verified-official-record,"Accompanied a study order, see S2633",https://malegislature.gov/Bills/193/S1228
 S1228,186:S712,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1228/SimilarBills
 S1228,189:H1772,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1228/SimilarBills
 S1228,194:H789,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1228/SimilarBills
 S1228,189:S998,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1228/SimilarBills
 S1228,190:S1039,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1228/SimilarBills
+S1368,S2648,sent_to_study,verified-official-record,"Accompanied a study order, see S2648",https://malegislature.gov/Bills/193/S1368
+S1368,194:S1532,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
+S1368,192:S1435,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
+S1368,194:H2232,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
+S1368,194:H1156,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
+S1368,194:H2421,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1368/SimilarBills
+S140,194:S187,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
+S140,190:S95,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
+S140,191:S98,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
+S140,192:S161,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
+S140,189:S124,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S140/SimilarBills
+S148,194:S197,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
+S148,193:H357,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
+S148,194:H103,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
+S148,194:S260,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
+S148,194:S1156,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S148/SimilarBills
 S1483,S2777,sent_to_study,verified-official-record,"Accompanied a study order, see S2777",https://malegislature.gov/Bills/193/S1483
 S1483,194:S3021,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1483/SimilarBills
 S1483,191:S2071,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1483/SimilarBills
@@ -472,19 +499,108 @@ S151,194:S2998,official_similar,verified-official-record,Similar Bills tab,https
 S151,187:S123,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S151/SimilarBills
 S151,186:S2346,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S151/SimilarBills
 S151,190:H1976,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S151/SimilarBills
+S1551,S2777,sent_to_study,verified-official-record,"Accompanied a study order, see S2777",https://malegislature.gov/Bills/193/S1551
+S1551,194:S1731,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
+S1551,191:S1429,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
+S1551,192:S1608,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
+S1551,190:S1963,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
+S1551,191:H1538,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1551/SimilarBills
+S1557,194:S1734,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
+S1557,190:S1348,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
+S1557,191:S1446,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
+S1557,192:S1619,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
+S1557,194:H3749,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1557/SimilarBills
+S174,S2630,sent_to_study,verified-official-record,"Accompanied a study order, see S2630",https://malegislature.gov/Bills/193/S174
+S174,193:H377,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
+S174,194:H190,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
+S174,194:H3118,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
+S174,194:H3089,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
+S174,194:H3263,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S174/SimilarBills
+S184,194:S250,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
+S184,194:H461,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
+S184,193:H386,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
+S184,194:HD5406,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
+S184,192:S1495,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S184/SimilarBills
+S1896,192:S1938,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
+S1896,194:H2687,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
+S1896,194:S1679,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
+S1896,194:S33,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
+S1896,192:S461,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1896/SimilarBills
+S194,S2630,sent_to_study,verified-official-record,"Accompanied a study order, see S2630",https://malegislature.gov/Bills/193/S194
+S194,194:S260,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
+S194,189:S172,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
+S194,190:S139,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
+S194,191:S166,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
+S194,192:S223,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S194/SimilarBills
+S195,194:S43,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
+S195,192:S220,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
+S195,190:H1985,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
+S195,191:H287,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
+S195,194:H2242,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S195/SimilarBills
+S198,S2539,superseded_by,verified-official-record,"Accompanied a new draft, see S2539",https://malegislature.gov/Bills/193/S198
+S198,194:S265,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
+S198,191:S170,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
+S198,192:S225,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
+S198,190:S2504,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
+S198,194:H252,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S198/SimilarBills
+S209,191:S161,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
+S209,192:S214,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
+S209,194:H190,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
+S209,194:H4247,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
+S209,194:H2690,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S209/SimilarBills
+S218,194:S289,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
+S218,190:S2053,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
+S218,194:H101,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
+S218,194:H75,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
+S218,194:H73,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S218/SimilarBills
 S2250,S2882,sent_to_study,verified-official-record,"Accompanied a study order, see S2882",https://malegislature.gov/Bills/193/S2250
 S2250,192:S2341,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2250/SimilarBills
 S2250,194:H3722,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2250/SimilarBills
 S2250,194:H3677,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2250/SimilarBills
 S2250,194:H3651,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2250/SimilarBills
 S2250,194:S2403,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2250/SimilarBills
+S227,H4632,superseded_by,verified-official-record,"Accompanied a new draft, see H4632",https://malegislature.gov/Bills/193/S227
+S227,194:S301,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
+S227,192:S2687,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
+S227,192:S46,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
+S227,194:H1658,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
+S227,194:S1050,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S227/SimilarBills
 S2275,H4450,superseded_by,verified-official-record,"Accompanied a new draft, see H4450",https://malegislature.gov/Bills/193/S2275
 S2275,194:H736,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2275/SimilarBills
 S2275,194:H1779,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2275/SimilarBills
 S2275,194:H3715,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2275/SimilarBills
 S2275,194:H3787,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2275/SimilarBills
 S2275,194:S1662,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2275/SimilarBills
+S23,H58,substituted_for,verified-official-record,Substituted as a new text for H58,https://malegislature.gov/Bills/193/S23
+S23,H58,see,verified-official-record,See H58,https://malegislature.gov/Bills/193/S23
+S24,H58,substituted_for,verified-official-record,Substituted as a new text for H58,https://malegislature.gov/Bills/193/S24
+S24,H58,see,verified-official-record,See H58,https://malegislature.gov/Bills/193/S24
+S25,S2770,superseded_by,verified-official-record,"Accompanied a new draft, see S2770",https://malegislature.gov/Bills/193/S25
+S25,194:S45,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
+S25,194:S29,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
+S25,194:S33,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
+S25,194:S2516,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
+S25,194:S2608,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S25/SimilarBills
+S2539,S26,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,S30,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,S31,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,S32,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,S35,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,S36,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,S37,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,S198,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,H66,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,H76,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,H77,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,H82,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,H84,redraft_of,verified-official-record,"New draft of S26, S30, S31, S32, S35, S36, S37, S198, H66, H76, H77, H82 and H84",https://malegislature.gov/Bills/193/S2539
+S2539,194:S49,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
+S2539,194:S39,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
+S2539,191:S1887,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
+S2539,192:S2088,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
+S2539,192:S51,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2539/SimilarBills
 S2600,S2267,redraft_of,verified-official-record,New draft of S2267,https://malegislature.gov/Bills/193/S2600
+S2600,S2884,reported_in_part_by,verified-official-record,Reported (in part) by S2884,https://malegislature.gov/Bills/193/S2600
 S2600,192:S2334,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2600/SimilarBills
 S2600,193:S2267,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2600/SimilarBills
 S2600,194:S1748,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2600/SimilarBills
@@ -497,136 +613,116 @@ S2604,193:H637,official_similar,verified-official-record,Similar Bills tab,https
 S2604,194:H3776,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2604/SimilarBills
 S2604,194:H3417,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2604/SimilarBills
 S2604,194:H274,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2604/SimilarBills
+S2666,S343,redraft_of,verified-official-record,New draft of S343,https://malegislature.gov/Bills/193/S2666
+S2666,194:H630,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
+S2666,193:S343,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
+S2666,193:H530,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
+S2666,194:S50,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
+S2666,193:H4421,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2666/SimilarBills
+S27,H4578,sent_to_study,verified-official-record,"Accompanied a study order, see H4578",https://malegislature.gov/Bills/193/S27
+S27,194:H1879,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
+S27,194:H3755,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
+S27,194:H1643,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
+S27,194:H3283,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
+S27,194:H633,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S27/SimilarBills
+S2703,S2710,superseded_by,verified-official-record,"Reprinted as amended, see S2710",https://malegislature.gov/Bills/193/S2703
+S2710,H4241,substituted_for,verified-official-record,Substituted for H4241,https://malegislature.gov/Bills/193/S2710
+S2710,H4241,see,verified-official-record,See H4241,https://malegislature.gov/Bills/193/S2710
+S2770,S25,redraft_of,verified-official-record,New draft of S25,https://malegislature.gov/Bills/193/S2770
+S2770,194:S45,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
+S2770,194:S2516,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
+S2770,194:S2608,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
+S2770,194:S2619,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
+S2770,194:S29,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2770/SimilarBills
+S280,194:H633,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
+S280,194:H4405,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
+S280,192:H127,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
+S280,193:H532,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
+S280,194:S364,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S280/SimilarBills
+S2834,H4726,see,verified-official-record,See H4726,https://malegislature.gov/Bills/193/S2834
 S2834,194:H1551,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2834/SimilarBills
-S381,S2604,superseded_by,verified-official-record,"Accompanied a new draft, see S2604",https://malegislature.gov/Bills/193/S381
-S381,193:S2604,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
-S381,193:H637,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
-S381,194:H3776,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
-S381,194:H3417,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
-S381,194:H274,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
-S941,H4833,superseded_by,verified-official-record,"Accompanied a new draft, see H4833",https://malegislature.gov/Bills/193/S941
-S941,194:H1635,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
-S941,191:H3274,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
-S941,192:H1519,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
-S941,193:H1438,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
-S941,194:H1929,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
-H1745,H4115,superseded_by,verified-official-record,"Accompanied a new draft, see H4115",https://malegislature.gov/Bills/193/H1745
-H1745,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
-H1745,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
-H1745,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
-H1745,193:S1012,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
-H1745,189:H1567,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1745/SimilarBills
-S1012,H4115,superseded_by,verified-official-record,"Accompanied a new draft, see H4115",https://malegislature.gov/Bills/193/S1012
-S1012,193:S1139,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
-S1012,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
-S1012,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
-S1012,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
-S1012,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1012/SimilarBills
-S1139,H4115,superseded_by,verified-official-record,"Accompanied a new draft, see H4115",https://malegislature.gov/Bills/193/S1139
-S1139,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
-S1139,193:S1012,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
-S1139,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
-S1139,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
-S1139,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S1139/SimilarBills
-H4115,S1012,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
-H4115,S1077,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
-H4115,S1097,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
-H4115,S1139,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
-H4115,H1542,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
-H4115,H1547,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
-H4115,H1745,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
-H4115,H3856,redraft_of,verified-official-record,"New draft of S1012, S1077, S1097, S1139, H1542, H1547, H1745 and H3856",https://malegislature.gov/Bills/193/H4115
-H4115,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
-H4115,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
-H4115,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
-H4115,189:H1567,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
-H4115,190:H948,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4115/SimilarBills
-H4241,H4115,redraft_of,verified-official-record,New draft of H4115,https://malegislature.gov/Bills/193/H4241
-H4241,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
-H4241,193:H4744,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
-H4241,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
-H4241,189:H1567,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
-H4241,190:H948,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4241/SimilarBills
-H4744,193:H4115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
-H4744,193:H4241,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
-H4744,193:H1745,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
-H4744,189:H1567,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
-H4744,190:H948,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4744/SimilarBills
-H1690,H4356,superseded_by,verified-official-record,"Accompanied a new draft, see H4356",https://malegislature.gov/Bills/193/H1690
-H1690,192:H1808,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
-H1690,192:H4505,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
-H1690,193:H4356,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
-H1690,191:H3566,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
-H1690,191:H4934,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1690/SimilarBills
-S956,H4356,superseded_by,verified-official-record,"Accompanied a new draft, see H4356",https://malegislature.gov/Bills/193/S956
-S956,191:H3566,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
-S956,192:H1808,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
-S956,193:H1690,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
-S956,191:H4934,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
-S956,192:H4505,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
-H4356,S956,redraft_of,verified-official-record,New draft of S956 and H1690,https://malegislature.gov/Bills/193/H4356
-H4356,H1690,redraft_of,verified-official-record,New draft of S956 and H1690,https://malegislature.gov/Bills/193/H4356
-H4356,192:H1808,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
-H4356,193:H1690,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
-H4356,192:H4505,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
-H4356,191:H3566,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
-H4356,191:H4934,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4356/SimilarBills
-H1525,H4517,sent_to_study,verified-official-record,"Accompanied a study order, see H4517",https://malegislature.gov/Bills/193/H1525
-H1525,193:S943,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
-H1525,194:H91,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
-H1525,194:H932,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
-H1525,194:H158,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
-H1525,194:H163,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H1525/SimilarBills
-S943,S2612,sent_to_study,verified-official-record,"Accompanied a study order, see S2612",https://malegislature.gov/Bills/193/S943
-S943,193:H1525,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
-S943,194:H91,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
-S943,194:H932,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
-S943,194:H158,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
-S943,194:H163,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
-H3003,191:H2681,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
-H3003,192:H3115,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
-H3003,194:H693,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
-H3003,194:HD4441,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
-H3003,194:H1614,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3003/SimilarBills
-H2991,H4675,sent_to_study,verified-official-record,"Accompanied a study order, see H4675",https://malegislature.gov/Bills/193/H2991
-H2991,194:H3294,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
-H2991,192:H3109,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
-H2991,194:H3386,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
-H2991,194:S2193,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
-H2991,189:H2732,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H2991/SimilarBills
-H58,192:H4911,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
-H58,192:H5394,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
-H58,193:H3545,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
-H58,193:H47,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
-H58,193:H3548,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H58/SimilarBills
-H4040,H3901,reported_from_part_of,verified-official-record,Reported on a part of H3901,https://malegislature.gov/Bills/193/H4040
-H4040,193:H1,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
-H4040,193:H3900,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
-H4040,193:H3901,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
-H4040,194:H610,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
-H4040,194:H714,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4040/SimilarBills
-H4977,193:H4707,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
-H4977,193:H4726,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
-H4977,193:H4138,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
-H4977,194:H1551,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
-H4977,194:H101,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4977/SimilarBills
-H5077,H5049,reported_from_part_of,verified-official-record,Reported on a part of H5049,https://malegislature.gov/Bills/193/H5077
-H5077,193:H5049,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
-H5077,193:H4496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
-H5077,193:H4034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
-H5077,193:H4790,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
-H5077,193:H4844,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H5077/SimilarBills
-H4799,193:H4496,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
-H4799,193:H4790,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
-H4799,193:H4844,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
-H4799,193:H5049,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
-H4799,193:H4034,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H4799/SimilarBills
+S2850,H4726,see,verified-official-record,See H4726,https://malegislature.gov/Bills/193/S2850
 S2884,S2600,reported_from_part_of,verified-official-record,Reported on a part of S2600,https://malegislature.gov/Bills/193/S2884
 S2884,194:S1748,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
 S2884,194:S2861,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
 S2884,186:S976,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
 S2884,188:H3077,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
 S2884,188:S1721,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2884/SimilarBills
+S2888,S2891,superseded_by,verified-official-record,"Reprinted as amended, see S2891",https://malegislature.gov/Bills/193/S2888
+S2888,H4799,substituted_for,verified-official-record,Substituted for H4799,https://malegislature.gov/Bills/193/S2888
+S2888,H4799,see,verified-official-record,See H4799,https://malegislature.gov/Bills/193/S2888
+S2891,H4799,see,verified-official-record,See H4799,https://malegislature.gov/Bills/193/S2891
+S30,S2539,superseded_by,verified-official-record,"Accompanied a new draft, see S2539",https://malegislature.gov/Bills/193/S30
+S30,194:H93,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S30/SimilarBills
+S30,193:H76,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S30/SimilarBills
+S343,S2666,superseded_by,verified-official-record,"Accompanied a new draft, see S2666",https://malegislature.gov/Bills/193/S343
+S343,194:H630,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
+S343,193:S2666,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
+S343,193:H530,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
+S343,194:S50,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
+S343,193:H4421,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S343/SimilarBills
+S381,S2604,superseded_by,verified-official-record,"Accompanied a new draft, see S2604",https://malegislature.gov/Bills/193/S381
+S381,193:S2604,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
+S381,193:H637,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
+S381,194:H3776,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
+S381,194:H3417,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
+S381,194:H274,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S381/SimilarBills
+S627,H5047,sent_to_study,verified-official-record,"Accompanied a study order, see H5047",https://malegislature.gov/Bills/193/S627
+S627,193:H1158,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S627/SimilarBills
+S627,194:H1339,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S627/SimilarBills
+S627,192:H1953,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S627/SimilarBills
+S627,191:S111,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S627/SimilarBills
+S627,191:S1664,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S627/SimilarBills
+S666,H5047,sent_to_study,verified-official-record,"Accompanied a study order, see H5047",https://malegislature.gov/Bills/193/S666
+S666,192:H1953,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S666/SimilarBills
+S666,190:S1022,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S666/SimilarBills
+S666,191:S1090,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S666/SimilarBills
+S666,192:S1224,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S666/SimilarBills
+S666,191:S2778,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S666/SimilarBills
+S844,H4266,superseded_by,verified-official-record,"Accompanied a new draft, see H4266",https://malegislature.gov/Bills/193/S844
+S844,194:S947,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
+S844,192:H1356,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
+S844,194:H1451,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
+S844,194:H4653,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
+S844,194:H2843,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S844/SimilarBills
+S927,H4359,superseded_by,verified-official-record,"Accompanied a new draft, see H4359",https://malegislature.gov/Bills/193/S927
+S927,194:H1946,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
+S927,194:S1053,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
+S927,194:H4640,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
+S927,193:H1728,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
+S927,193:H4359,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S927/SimilarBills
+S938,S2926,sent_to_study,verified-official-record,"Accompanied a study order, see S2926",https://malegislature.gov/Bills/193/S938
+S938,191:S890,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
+S938,192:S958,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
+S938,189:H1616,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
+S938,192:S810,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
+S938,186:S2351,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S938/SimilarBills
+S941,H4833,superseded_by,verified-official-record,"Accompanied a new draft, see H4833",https://malegislature.gov/Bills/193/S941
+S941,194:H1635,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
+S941,191:H3274,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
+S941,192:H1519,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
+S941,193:H1438,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
+S941,194:H1929,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S941/SimilarBills
+S943,S2612,sent_to_study,verified-official-record,"Accompanied a study order, see S2612",https://malegislature.gov/Bills/193/S943
+S943,193:H1525,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
+S943,194:H91,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
+S943,194:H932,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
+S943,194:H158,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
+S943,194:H163,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S943/SimilarBills
+S956,H4356,superseded_by,verified-official-record,"Accompanied a new draft, see H4356",https://malegislature.gov/Bills/193/S956
+S956,191:H3566,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
+S956,192:H1808,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
+S956,193:H1690,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
+S956,191:H4934,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
+S956,192:H4505,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S956/SimilarBills
+S971,S2612,sent_to_study,verified-official-record,"Accompanied a study order, see S2612",https://malegislature.gov/Bills/193/S971
+S971,194:H1915,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
+S971,193:H1707,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
+S971,194:S1108,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
+S971,194:S1252,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
+S971,193:S1116,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S971/SimilarBills
+H1099,S666,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.982 between official texts,https://malegislature.gov/Bills/193/H1099
+H1158,S627,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.996 between official texts,https://malegislature.gov/Bills/193/H1158
 H1283,H4266,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.849 between official texts,https://malegislature.gov/Bills/193/H1283
 H1438,S941,text_identical,verified-text-comparison,normalized 8-gram Jaccard 1.000 between official texts,https://malegislature.gov/Bills/193/H1438
 H1442,S1022,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.901 between official texts,https://malegislature.gov/Bills/193/H1442
@@ -638,6 +734,7 @@ H1690,S956,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.9
 H1707,S971,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.944 between official texts,https://malegislature.gov/Bills/193/H1707
 H1728,H4359,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.839 between official texts,https://malegislature.gov/Bills/193/H1728
 H1728,S927,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.988 between official texts,https://malegislature.gov/Bills/193/H1728
+H1791,S938,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.827 between official texts,https://malegislature.gov/Bills/193/H1791
 H3179,S218,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.747 between official texts,https://malegislature.gov/Bills/193/H3179
 H331,S151,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.973 between official texts,https://malegislature.gov/Bills/193/H331
 H3375,H3393,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.695 between official texts,https://malegislature.gov/Bills/193/H3375
@@ -667,6 +764,7 @@ S2604,S381,text_near_identical,verified-text-comparison,normalized 8-gram Jaccar
 S2666,S343,text_identical,verified-text-comparison,normalized 8-gram Jaccard 0.946 between official texts,https://malegislature.gov/Bills/193/S2666
 S2703,S2710,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.659 between official texts,https://malegislature.gov/Bills/193/S2703
 S2834,S2850,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.588 between official texts,https://malegislature.gov/Bills/193/S2834
+S2888,S2891,text_near_identical,verified-text-comparison,normalized 8-gram Jaccard 0.794 between official texts,https://malegislature.gov/Bills/193/S2888
 H1525,H58,absorbed_into_vehicle,verified-text-comparison,"P-291: identical use/sale restriction, 2023 c.2 s.33",https://malegislature.gov/Bills/193/H58
 S943,H58,absorbed_into_vehicle,verified-text-comparison,"P-291: identical use/sale restriction, 2023 c.2 s.33",https://malegislature.gov/Bills/193/H58
 H3003,H4040,absorbed_into_vehicle,verified-text-comparison,P-297;P-298: same mechanism enacted at 2023 c.28 s.7,https://malegislature.gov/Bills/193/H4040

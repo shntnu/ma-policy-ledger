@@ -13,6 +13,8 @@ Output: data/census.csv - the reviewed census with decision + reason per row.
 """
 
 import csv
+
+import csvutil
 from pathlib import Path
 
 PILOT = Path(__file__).resolve().parent.parent
@@ -268,13 +270,14 @@ def main() -> None:
             dec, reason, note = OVERRIDES[key]
         out.append({**r, "decision": dec, "reason": reason, "note": note})
         counts[dec] = counts.get(dec, 0) + 1
-    corpus_path = DATA / "corpus_triage.csv"
+    corpus_path = DATA / "corpus_scan.csv"
     if corpus_path.exists():
+        already = {r["bill_number"] for r in out if r.get("bill_number")}
         missing = []
         for r in csv.DictReader(corpus_path.open()):
             bn = r["bill"]
-            if bn in ADDITIONS:
-                continue  # admitted with a richer note below
+            if bn in already or bn in ADDITIONS:
+                continue  # decided by the legacy candidate path or ADDITIONS
             if bn not in TRIAGE:
                 missing.append(bn)
                 continue
@@ -289,7 +292,14 @@ def main() -> None:
             })
             counts[dec] = counts.get(dec, 0) + 1
         if missing:
-            raise SystemExit(f"corpus-screen hits without triage verdicts: {len(missing)}: {missing[:10]}")
+            with (DATA / "corpus_triage_needed.csv").open("w", newline="") as f:
+                w = csvutil.writer(f)
+                w.writerow(["bill"])
+                for bn in sorted(missing):
+                    w.writerow([bn])
+            raise SystemExit(
+                f"corpus-screen hits without triage verdicts: {len(missing)} "
+                f"(worklist written to data/corpus_triage_needed.csv): {sorted(missing)[:10]}")
     for bn, (title, reason, note) in ADDITIONS.items():
         out.append({
             "bill_number": bn, "title": title, "domain_title_terms": "",
@@ -300,7 +310,7 @@ def main() -> None:
         })
         counts["include"] = counts.get("include", 0) + 1
     with (DATA / "census.csv").open("w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(out[0].keys()))
+        w = csvutil.dict_writer(f, fieldnames=list(out[0].keys()))
         w.writeheader()
         w.writerows(out)
     print(counts)

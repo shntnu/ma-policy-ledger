@@ -1,0 +1,304 @@
+HOUSE . . . . . . No. 4610 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________________ 
+ 
+HOUSE OF REPRESENTATIVES 
+_______________________ 
+ 
+ 
+REPORT 
+of the 
+SPECIAL JOINT 
+COMMITTEE 
+on 
+INITIATIVE PETITIONS 
+on the 
+INITIATIVE PETITION 
+of 
+CHARLES DEWEY ELLISON, III 
+AND OTHERS 
+FOR THE PASSAGE OF AN ACT 
+DEFINING AND REGULATING THE RELATIONSHIP 
+BETWEEN NETWORK COMPANIES AND APP-BASED DRIVERS 
+FOR CERTAIN PURPOSES OF THE GENERAL LAWS 
+(see House, No. 4258) 
+_______________________ 
+ 
+April 30, 2024. 
+_______________________ 
+MAJORITY REPORT. 
+ 
+ A majority of the Special Joint Committee on Initiative Petitions (“The 
+Committee”), recommends that Initiative Petition No. 23-25, House 4256; Initiative 
+Petition No. 23-29, House 4257; Initiative Petition No. 23-30, House 4258; Initiative 
+Petition No. 23-31, House 4259; and Initiative Petition No. 23-32, House 4260, (“the 
+Initiative Petitions”) as currently drafted and presented to this Committee, OUGHT NOT 
+TO BE ENACTED BY THE LEGISLATURE AT THIS TIME 
+ 
+The purpose of this report is to provide a recommendation to the full legislature on 
+whether to accept the Initiative Petitions as written for consideration and enactment. 
+ 
+The five Initiative Petitions would all similarly declare Transportation Network Drivers 
+and Delivery Network Drivers (“Drivers”) as independent contractors when engaging 
+with Transportation Network Companies and Delivery Network Companies 
+(“Companies”). The five Initiative Petitions differ in legal mechanisms to achieve this 
+and the scale and scope of the type of benefits Drivers would receive, from no additional 
+work benefits to Drivers to creating a new class of benefits for these Drivers. 
+ 
+Testimony 
+ 
+The Committee heard from experienced professionals, proponents and opponents, as well 
+as members of the general public. 
+ 
+Patrick Moore, First Assistant Attorney General of the Commonwealth of Massachusetts, 
+testified as a subject matter expert on the five Initiative Petitions. First Assistant Attorney 
+General Moore gave a brief overview of each Initiative Petition as follows: 
+ 
+House 4257 and House 4260 were referred to as “bare bones” Initiative Petitions that 
+similarly define Drivers as not employees, and Companies as not employers. 
+ 
+House 4257 specifies that Drivers who accept requests through an online enabled 
+application are not employees for purposes of certain Massachusetts labor and 
+employment laws, specifically those governing wage and hours, workplace conditions, 
+workers’ compensation, and unemployment insurance. The Initiative Petition would also 
+specify that Companies are not employers for the purposes of those laws. 
+ 
+House 4260 also specifies that Drivers are not employees for purposes of certain 
+Massachusetts employment laws, and that Companies are not employers. It would 
+accomplish this in a slightly different manner than House 4257 by amending applicable 
+statutes to specifically exempt Drivers, including Massachusetts General Laws (“G.L.”) 
+Chapter 149 Section 148B, which governs wage and hour laws and workplace conditions, 
+Chapter 151A which governs unemployment insurance, and Chapter 152 which governs 
+workers’ compensation. 
+ 
+The three remaining Initiative Petitions achieve the same objective of clarifying that 
+Drivers are not employees and Companies are not employers, but also require Companies 
+to provide minimum compensation and benefit terms to the Drivers. 
+ 
+House 4258 is similar to House 4257 with compensation and benefit terms added to it. 
+This Initiative Petition establishes baseline contract terms between Drivers and 
+Companies and sets forth certain defined minimum and benefit terms. Beginning with the 
+compensation, Drivers would be assured a base compensation equal to 120 per cent of the 
+Massachusetts minimum wage for time spent getting to or completing ride or delivery 
+requests. Drivers would also be entitled to per mile compensation for that time beginning 
+at 28¢ per mile. The law would require that increases in compensation be tied to any 
+future annual increases of the state minimum wage and for the Executive Office of Labor 
+and Workforce Development to increase the per mile compensation by the percentage 
+increase in the state minimum wage, if any. If the earnings for a Driver fall below the 
+minimum compensation amount, the Company must pay the Driver the difference 
+between what the Driver earned and the minimum compensation amount. The baseline 
+contract terms provide for certain defined benefits for Drivers, including a limited 
+healthcare stipend, paid sick time related to hours driven, and certain private occupational 
+accident insurance benefits. The Initiative Petition would prohibit covered companies 
+from discriminatory practices and grant Drivers the opportunity to appeal a termination. 
+ 
+House 4259 amends G.L. Chapter 149 and Chapter 151A like House 4260 but creates 
+contract terms between Drivers and Companies similar to those in House 4258. 
+ 
+House 4256 has the broadest classification provision. The initiative would specify that 
+Drivers are not employees for any purpose whatsoever under Massachusetts law and that 
+Companies are not employers for any purpose whatsoever under Massachusetts law. Like 
+the two prior Initiative Petitions, it would then create baseline contract terms between 
+Drivers and Companies and set forth certain defined minimum compensation and 
+benefits. The wages and benefits are similar to those set forth in the prior two Initiative 
+Petitions. Like those Initiative Petitions, Companies would be prohibited from 
+discriminatory practices and must grant Drivers the opportunity to appeal a termination. 
+ 
+First Assistant Attorney General Moore also noted that there are currently legal 
+challenges to all five of these Initiative Petitions with plaintiffs asserting that the 
+Attorney General incorrectly certified the Initiative Petitions on the basis that the 
+Initiative Petitions violate the “single subject” provision of Article XLVIII of the 
+Amendments to the Constitution. Additionally, the relationship between Drivers and 
+Companies is the subject of a lawsuit from the Attorney General’s Office, beginning 
+under then-Attorney General Healey. This lawsuit contemplates whether under the 
+current Massachusetts Wage Act and the “ABC Test” definition of an employer-
+employee relationship, Drivers should be considered employees and Companies 
+considered employers. First Assistant Attorney General Moore testified that if the 
+Supreme Judicial Court rules that Drivers are employees under current statute, the 
+Attorney General’s Office would be able to pursue lost wages and benefits for these 
+Drivers from the Companies they worked for. The five Initiative Petitions, if any pass, 
+would end any prospective application of the decision should the Supreme Judicial Court 
+declare that Drivers are to be classified as employees. 
+ 
+Subject matter experts from academia and policy institutions provided testimony on the 
+history of employment law, including the increase in the use of independent contractors 
+in the 1970s, approaches to employment law in other jurisdictions such as California and 
+the European Union, and relevant industry statistics concerning Drivers and Companies. 
+ 
+Dr. Hilary Robinson, Associate Professor of Law and Sociology at Northeastern 
+University, testified that through these proposals, the Companies are claiming to be a 
+“protected class” that should be exempt from several statutes that govern relationships 
+between employers and employees and provide worker protections and benefits. Dr. 
+Robinson further testified that in her analysis of California’s laws pertaining to this issue, 
+classifying Drivers as employees did not impact flexibility or patterns of work, and that 
+the Companies, as they do now, retained control over what work Drivers have access to 
+perform, contradicting the claim that this model needs Drivers to be independent 
+contractors for successful operation and flexibility for Drivers. She also testified that in 
+her opinion, none of these five Initiative Petitions should be presented on the ballot, as 
+voters will not have the necessary information or background to make a truly informed 
+decision. 
+ 
+Further testimony from Dr. Veena Dubal, Professor of Law at the University of 
+California, Irvine, stated that evidence has shown that the passage of Proposition 22, 
+which classifies Drivers as independent contractors in California and which contains 
+similar provisions as the five Initiative Petitions before us, has shown to have a negative 
+impact on Drivers, with 40-60 per cent of Drivers’ work uncompensated and Drivers 
+netting an average of $6.20 per hour, compared to the state minimum wage of $16 an 
+hour. Dr. Dubal presented the results of a study showing that two-thirds of Drivers, many 
+of whom have made a significant capital investment in their work as Drivers, have been 
+terminated or had their account deactivated at some point, with 18 per cent losing their 
+vehicle and 12 per cent losing their housing as a result. Dr. Dubal went on to show the 
+occupational danger Drivers face, citing research showing gig workers are found to suffer 
+the highest rate of on-the-job fatalities and 67 per cent of Drivers have reported instances 
+of violence, harassment, or abuse while driving. 
+ 
+A third subject matter expert, Liya Palagashvili, Senior Research Fellow at the Mercatus 
+Center at George Mason University, highlighted the benefits for workers who enjoy the 
+flexibility of the current model. In Ms. Palagashvili’s opinion, attempts to classify or 
+regulate gig workers as employees are counterproductive because 90 per cent of jobs in 
+2020 were traditional, W-2 jobs, while the gig economy is designed for people who are 
+hoping to earn supplemental income in a flexible manner. Ms. Palagashvili stated that a 
+study in the aftermath of Assembly Bill 5, a California policy declaring Drivers as 
+employees, showed no consistent evidence that W-2 employment increased and a 
+significant decline not only in self-employment but overall employment as well for 
+affected occupations in California, matching studies of anecdotal findings from the New 
+York Times and the Los Angeles Times. Ms. Palagashvili further testified that, in her 
+opinion, the best policy to pursue would be to enhance access to benefits while 
+maintaining the ability for gig work to persist as supplemental and flexible work. When 
+asked by the Committee, Ms. Palagashvili indicated that while the majority of Uber 
+Drivers have health insurance, she was unsure if the insurance was private or state-
+funded, since Companies cannot provide health insurance benefits to Drivers due to their 
+status as independent contractors. 
+ 
+Two panels spoke as proponents in favor of the Initiative Petitions. The first panel 
+consisted of two Drivers, one who drives for Uber and Lyft, and another who drives for 
+Instacart, as well as two local industry representatives. The panelists emphasized the 
+flexibility and control over the schedule that the independent contractor model affords 
+Drivers, and how reliant communities are on the services that Drivers provide, 
+highlighting those in Gateway Communities, rural areas, and the elderly. The Drivers on 
+this panel stated that these jobs provided the income and the flexible scheduling 
+necessary to have control over their lives, and shared that like any industry, the rideshare 
+business is not for every prospective worker. The panel cited data from an industry-poll 
+that found that 75 per cent of Drivers year after year prefer being independent 
+contractors, and that more than 80 per cent of Drivers drive 15 hours or less a week. 
+When asked, the two Drivers on the panel stated that one received Social Security 
+benefits and the other received health insurance through MassHealth, but neither has a 
+W-2 job. 
+ 
+The second panel of proponents consisted of representatives from the Companies of 
+Uber, Lyft, DoorDash, and Instacart testifying in support of the five Initiative Petitions. 
+This panel discussed the benefits their platforms provide for customers, Drivers, and 
+small businesses, “who all use their platforms to grow and thrive”. This panel specifically 
+mentioned achieving the policy goal of flexibility and benefits for Drivers. The panelists 
+testified that the employee-employer laws do not prohibit flexible, on-demand 
+scheduling, but that the framework of such a model would not be feasible for the 
+Companies. Pointing to data, the panel shared that 80 per cent of Drivers on the Instacart 
+platform wish to remain independent contractors, and on average Instacart Drivers work 
+less than 10 hours a week, with many Drivers using it for supplemental income. Uber 
+pointed to statistics that Drivers on the platform earn on average $28.96 per utilized hour, 
+and that the overwhelming majority of de-platforming occurs because drivers come out of 
+compliance with the stricter laws in Massachusetts that currently regulate Companies. 
+During questioning from the Committee, this panel noted that the proposed regulatory 
+framework would align deactivation standards, and that the taxicab industry also operates 
+in an independent contractor framework. Additionally, the panelists testified that 
+Companies could decide to pull operations out of the Commonwealth if Drivers were to 
+be classified as employees whether through court decisions or the Initiative Petitions 
+failing, similar to the decision to end operations in Minneapolis and St. Paul, Minnesota 
+due to a mandated increase in minimum fares for Drivers in those Cities. 
+ 
+The panel shared that the Companies will plan to move forward to the ballot with just one 
+of the five proposed Initiative Petitions, but their preference is for a legislative 
+compromise and to avoid the ballot box altogether, as was accomplished in Washington 
+state. 
+ 
+There were three panels of opponents who testified against all five Initiative Petitions. 
+The first panel consisted of two representatives from the International Brotherhood of 
+Teamsters, including the President of Teamsters Local 25 and the States Legislative 
+Director. This panel testified that the eyes of the labor movement across the country are 
+on Massachusetts, specifically to see if the Companies will succeed in watering down the 
+employment laws that are already on the books in statute. This panel’s concern was that if 
+the Companies are able to accomplish this in Massachusetts, they will be able to exploit 
+laws across the country. The Teamsters shared the position that the traditional employee-
+employer model should be respected and properly enforced, and they oppose any 
+proposal that offers a third model to classify workers and ultimately weakens 
+employment standards. The panel not only noted their belief that Companies are currently 
+misclassifying Drivers as independent contractors, enabling wage theft and essentially 
+taxpayer subsidization of these companies, but that these Initiative Petitions have 
+implications beyond the app-based work of Uber and Lyft. 
+ 
+A second panel of opponents consisted of representatives from the Massachusetts AFL-
+CIO, the Massachusetts Building Trades Council, and the California Labor Federation. 
+This panel stated that the strong employment laws of the Commonwealth are built on the 
+base assumption that workers are employees entitled to numerous benefits. In their 
+opinion, Big Tech companies cannot be trusted, as they have actively skirted the law, 
+“lining their own pockets,” and are now offering benefits that are far below the minimum 
+standard that employees are entitled to. The panel noted that Massachusetts has no 
+carveout currently to the ABC test and Massachusetts law goes even further by offsetting 
+federal carveouts to the ABC test. Additionally, the panel shared that misclassification of 
+workers has been rampant in the trades, where Companies are incorrectly classifying 
+employees as independent contractors to avoid providing benefits. The panel remarked 
+that there is no need to sacrifice hard-won rights that workers have fought for to simply 
+line the pockets of tech companies and additionally shared that California found gig 
+workers to be employees under every state employee-employer test. The panel 
+highlighted the irony of the campaign for Proposition 22 to remove the employee 
+designation of Drivers in California, which was run at the onset of the COVID-19 
+pandemic, when Drivers did not have access to masks, vaccines, air shields, sick time, or 
+death benefits. 
+ 
+The last panel of opponents consisted of a representative from the Massachusetts 
+Coalition for Occupational Safety and Health, a rider who was permanently injured while 
+in a rideshare vehicle, and a Driver. This panel echoed the sentiments of previous 
+opposition panels by saying that Companies are misclassifying workers and added that 
+this is to the detriment of worker earnings, benefits, and even safety, as Companies are 
+not forced to comply with OSHA regulations. Through this misclassification, Companies 
+have avoided responsibility for their workers, including workers’ compensation and death 
+benefits for Drivers. The rider who was injured in an Uber ride in 2021, testified that 
+Uber has refused to face him in court, and that its insurance policy only covered seven 
+months of his continuing care, where his prescriptions cost $9,000 a month. The rider 
+noted that the Companies’ “shotgun pellet approach,” — starting with nine Initiative 
+Petitions, then whittling down to five Initiative Petitions — hoping just one Initiative 
+Petition can beat the legal challenges so they can shirk responsibility for actions taken by 
+their Drivers. The Driver on the panel, who has driven for Lyft since 2013 just a few days 
+after the platform was live in Massachusetts, questioned the data and statistics that the 
+Companies shared. In the Driver’s experience, Drivers do not have control over their 
+work, which is unlike independent contractor work. The Driver also stated that she was 
+deactivated from the platform after speaking out against the Company. 
+ 
+Conclusion 
+ 
+These Initiative Petitions elicit multifaceted public policy questions regarding the 
+fundamental nature of the employer-employee relationship and the individual terms 
+governing that relationship. The Committee is also cognizant of legal challenges 
+regarding these initiative petitions that are to be argued before the Supreme Judicial 
+Court in the month of May 2024, after the constitutional deadline that the legislature can 
+enact these initiative petitions. This timeline adds further complexity to the question of 
+enactment. 
+ 
+The testimony heard by the Committee showed an overall lack of consensus on the merits 
+or issues raised by the initiative petitions. The Committee feels that any action on this 
+subject must strike a balance between existing employee rights and protection, and the 
+need to ensure that TNCs can continue to operate, which they maintain would not be 
+possible if Drivers were not classified as independent contractors. 
+ 
+Particularly salient is the petitioners’ assertion that the drivers will lose flexibility if the 
+Companies are not able to lawfully classify them as independent contractors. Drivers who 
+testified before the Committee focused on the importance of flexibility and the benefit of 
+being able to work whenever they choose. However, proponents did not provide an 
+answer as to why work-hours flexibility would be impossible to provide regardless of 
+employment status. Massachusetts law currently does not limit the flexibility that 
+employers can offer to their employees. 
+ 
+For these reasons, given the legal and other uncertainties surrounding these initiatives, 
+we, the undersigned members of the Special Joint Committee on Initiative Petitions, 
+recommend that House No. 4257, House No. 4260, House No. 4258, House No. 4259, 
+and House No. 4256, as currently drafted and presented to this Committee, OUGHT NOT 
+TO BE ENACTED BY THE LEGISLATURE AT THIS TIME. 
+ 
+Senators. Representatives. 
+ 
+Cindy F. Friedman Alice Hanlon Peisch 
+Paul R. Feeney Michael S. Day 
+Jason M. Lewis Kenneth I. Gordon 
+Ryan C. Fattman David T. Vieira

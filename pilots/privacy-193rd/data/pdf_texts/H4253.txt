@@ -1,0 +1,730 @@
+1 of 31 
+HOUSE . . . . . . . . . . . . . . . No. 4253 
+ 
+ 
+The Commonwealth of Massachusetts 
+—————— 
+ 
+INITIATIVE PETITION OF ROXANA LORENA RIVERA AND OTHERS 
+ 
+ 
+ 
+ OFFICE OF THE SECRETARY. 
+ 
+ BOSTON, JANUARY 16, 2024. 
+ 
+Steven T. James 
+Clerk of the House of Representatives 
+State House 
+Boston, Massachusetts 02133 
+ 
+ Sir: — I herewith transmit to you, in accordance with the 
+requirements of Article XLVIII of the Amendments to the Constitution an 
+initiative petition for “An Act Giving Transportation Network Drivers the 
+Option to Form a Union and Bargain Collectively,” signed by ten qualified 
+voters and filed with this department on or before December 6, 2023, together 
+with additional signatures of qualified voters in the number of 83,788, being a 
+sufficient number to comply with the Provisions of said Article. 
+ 
+ Sincerely, 
+ 
+WILLIAM FRANCIS GALVIN 
+Secretary of the Commonwealth. 
+ 
+ 
+ 
+ 
+ 
+ 
+AN INITIATIVE PETITION. 
+ 
+ Pursuant to Article XLVIII of the Amendments to the Constitution of the 
+Commonwealth, as amended, the undersigned qualified voters of the 
+Commonwealth, ten in number at least, hereby petition for the enactment into 
+law of the following measure: 
+ 
+2 of 31 
+ FILED ON: 1/23/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4253 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act giving transportation network drivers the option to form a union and bargain collectively. 
+ 
+ Be it enacted by the People, and by their authority, as follows: 
+ 
+1 This Act, which adds Chapter 150F to the General Laws, creates the opportunity for 
+2 workers in the digital transportation industry to form transportation network driver organizations 
+3 and to negotiate on an industry-wide basis with companies in this industry on recommendations 
+4 to the commonwealth that raise standards for the terms and conditions of work in this industry. 
+5 There shall be a new Chapter 1SOF that shall provide as follows: 
+6 Section 1. Findings and policy. 
+7 A. The commonwealth of Massachusetts recognizes that technological advancement 
+8 has generated new "digital marketplaces" in the transportation sector, in which companies 
+9 connect, through electronic media, customers seeking passenger transportation services to 
+10 persons willing to supply that transportation service. These persons often suffer poor pay, 
+11 inadequate health coverage, and irregular or inadequate working hours. It is hereby declared that 
+12 the best interests of the commonwealth are served by providing transportation network drivers 
+13 the opportunity to self-organize and designate representatives of their own choosing, and to 
+14 bargain collectively in order to obtain sustainable wages, benefits and working conditions, 
+3 of 31 
+15 subject to approval and ongoing supervision by the commonwealth. It is further declared that the 
+16 best interests of the commonwealth are served by the prevention or prompt resolution of disputes 
+17 between rideshare network companies and the persons who supply the labor to effectuate those 
+18 services. This chapter shall be deemed an exercise of the police power of the commonwealth, 
+19 and shall be liberally construed for the accomplishment of its purposes. 
+20 B. For the reasons set forth in subdivision A, it is the public policy of the 
+21 commonwealth to displace competition with regulation of the terms and conditions of work for 
+22 transportation network drivers set forth herein; and, consistent with this policy, to exempt from 
+23 federal and commonwealth antitrust laws, the formation of transportation network driver 
+24 organizations and multi-company associations for the purposes of collective bargaining between 
+25 transportation network companies and transportation network drivers on an industry-wide basis, 
+26 and to supervise, evaluate, and if approved, implement the resulting negotiated recommendations 
+27 concerning the terms and conditions of work for all transportation network drivers in an industry 
+28 when those recommendations are found by the Secretary of Labor to advance the public purposes 
+29 stated in this section and are then made binding, regardless of the competitive consequences 
+30 thereof. 
+31 1. The commonwealth intends that transportation network drivers have the right to 
+32 form, join, or assist labor organizations, to be represented through representatives of their own 
+33 choosing, and to engage in other concerted activities for the purpose of bargaining with 
+34 transportation network companies and create negotiated recommendations, which shall form the 
+35 basis for industry regulations. 
+36 2. The commonwealth intends transportation network companies have the right to 
+4 of 31 
+37 form multi-company associations to represent them while bargaining with a 
+38 transportation network driver organization to create negotiated recommendations, which shall 
+39 form the basis for industry regulations. 
+40 3. The intent and policy of the commonwealth is for the statutory and non-statutory 
+41 labor exemptions from the federal antitrust laws and analogous commonwealth laws, to apply to 
+42 transportation network drivers who choose to form, join or assist labor organizations in labor 
+43 activity in Massachusetts permitted hereby. 
+44 4. The commonwealth intends in authorizing and regulating transportation network 
+45 companies and transportation network drivers engaging in labor activity permitted hereby that 
+46 state action immunity apply to this statute, and that such companies and drivers be immune from 
+47 the federal and commonwealth antitrust laws to the fullest extent possible in their conduct 
+48 pursuant to this statute. 
+49 5. The commonwealth will actively supervise the labor activity permitted hereby 
+50 conducted by transportation network companies and transportation network drivers pursuant to 
+51 this statute to ensure that the conduct permitted by the statute protects the rights of workers and 
+52 companies, encourages collective negotiation and labor peace, and otherwise advances the 
+53 purposes of this Act. 
+54 Section 2. Definitions. 
+55 A. "Active transportation network driver" or "active TND" means a transportation 
+56 network driver so designated pursuant to the following process: Upon request by the board, and 
+57 at the completion of each calendar quarter thereafter, each transportation network company 
+58 ("TNC") shall provide the board with information that identifies all transportation network 
+5 of 31 
+59 drivers ("TND") who completed five or more rides that originated in the commonwealth of 
+60 Massachusetts on the TNC's platform in the previous six months. Each TNC shall provide this 
+61 information within two weeks after the end of each calendar quarter (March 31st, June 30th, 
+62 September 30th, December 31st). Such information shall include only the name of the TND, the 
+63 TND driver's license number, and the number of rides the TND completed through the TNC's 
+64 platform in the previous six months. The board shall combine the data provided by all TNCs to 
+65 determine the distribution of the number of rides completed by all TNDs for which data has been 
+66 submitted, and then shall determine the median number of rides across TNDs for whom data has 
+67 been submitted in the previous six months. Any TND who completed more than the median 
+68 number of rides shall be considered an active transportation network driver in the rideshare 
+69 industry. 
+70 B. "Board" means the commonwealth employment relations board created by section 
+71 9R of Chapter 23 of the General Laws. 
+72 C. "Company union" means any committee, employee representation plan, or 
+73 association of workers or others that exists for the purpose, in whole or in part, of dealing with 
+74 TNCs concerning grievances or terms and conditions of work for TNDs, which (1) a TNC has 
+75 initiated or created or whose initiation or creation it has suggested, participated in or in the 
+76 formulation of whose governing rules or policies or the conducting of whose management, 
+77 operations or elections the.TNC participates in or supervises; or (2) which the TNC maintains, 
+78 finances, controls, dominates, or assists in maintaining or financing unless required to do so by 
+79 this chapter or any regulations implementing this chapter, whether by compensating anyone for 
+80 services performed in its behalf or by donating free services, equipment, materials, office or 
+81 meeting space or anything else of value, or by any other means. A TND organization shall not be 
+6 of 31 
+82 deemed a company union only because it has negotiated or been granted the right to designate 
+83 workers to be released with pay for the purpose of providing representational services in labor-
+84 management affairs on behalf of workers represented by the TND organization, or where, in the 
+85 course of providing representational services to workers for whom it is the exclusive bargaining 
+86 representative, a TNC allows agents of the TND organization to meet with workers at the TNC's 
+87 premises. 
+88 D. "Exclusive bargaining representative" means a TND organization certified by the 
+89 board, in accordance with this chapter, as the representative of TNDs in a bargaining unit. 
+90 E. "Network company" means a TNC, except that a business entity that maintains an 
+91 online- enabled application or platform that meets all three of the following tests is not a network 
+92 company: (1) it is used to facilitate primarily non-rideshare services within the commonwealth of 
+93 Massachusetts, (2) less than seven and one-half percent of service requests fulfilled through the 
+94 platform on an annual basis are for rideshare services, and 
+95 (3) fewer than ten thousand service requests fulfilled through the platform in any year are 
+96 for rideshare services. For purposes of this paragraph, all applications or platforms used by 
+97 corporate entities under common control shall be considered a single application or platform. 
+98 F. "Transportation network driver" or "TND" means a transportation network driver 
+99 as described by § 1 of Chapter 159Al/2 of the General Laws. TND shall not include any 
+100 individual who, with respect to the provision of services through a TNC's online enabled- 
+101 application or platform, is an employee within the meaning of section 29 U.S.C. § 152(3). 
+102 G. "Transportation network driver organization" or "TND organization" means any 
+103 organization in which network drivers participate, and which exists and is constituted for the 
+7 of 31 
+104 purpose, in whole or in part, of collective bargaining, or of dealing with network companies 
+105 concerning grievances, terms or conditions of work, or of other mutual aid or protection and 
+106 which is not a company union as defined herein. 
+107 H. "Transportation network company" or "TNC" means a transportation network 
+108 company as described by § 1 of Chapter 159Al/2 of the General Laws. 
+109 I. "Unfair work practices" means only those unfair work practices listed in section 
+110 4, below. 
+111 Section 3. Rights of TNDs. 
+112 TNDs shall have the right of self-organization, to form, join, or assist TND organizations, 
+113 to bargain collectively through representatives of their own choosing, and to engage in concerted 
+114 activities, for the purpose of collective bargaining or other mutual aid or protection free from 
+115 interference, restraint, or coercion by TNCs, and shall also have the right to refrain from any of 
+116 these activities. Nothing contained in this chapter shall be interpreted to prohibit TNDs from 
+117 exercising the right to confer with TNCs at any time, provided that during such conference there 
+118 is no attempt by such TNC, directly or indirectly, to interfere with, restrain or coerce such 
+119 workers in the exercise of the rights guaranteed by this section. 
+120 Section 4. Unfair work practices. 
+121 A. It shall be an unfair work practice for a TNC to: 
+122 1. fail or refuse to provide the board with an accurate list of the names, trips made, 
+123 and contact information for TNDs, as required by this chapter; 
+8 of 31 
+124 2. refuse to negotiate in good faith with a certified or recognized TND organization 
+125 representing TNDs engaged with such TNC concerning wages, hours, or terms and conditions of 
+126 work. Since the obligation to negotiate in good faith includes an obligation to provide requested 
+127 information that has a bearing on the bargaining process, it is also an unfair work practice for a 
+128 TNC to refuse to provide a certified or recognized TND organization with relevant information 
+129 requested by the TND organization for the performance of its duties as the TND's bargaining 
+130 representative; 
+131 3. refuse to provide a TND organization with a list of the names, addresses and 
+132 telephone numbers of TNDs where the provision of such list is required by this chapter; 
+133 4. refuse to continue all the terms of a determination of terms and conditions of work 
+134 prescribed by the Secretary of Labor pursuant to this chapter until a new determination is 
+135 prescribed; 
+136 5. lockout TNDs. The term "lockout" shall mean, for the purposes of this section, a 
+137 refusal by a TNC to permit a TND normal access to the TNC's means of connecting TNDs to 
+138 individuals seeking transportation service as a result of a dispute with such workers or a TND 
+139 organization representing such workers that affects wages, hours and other terms and conditions 
+140 of work of such workers, provided, however, that a lockout shall not include a termination of 
+141 engagement of a worker for good cause that does not involve such worker exercising any rights 
+142 guaranteed by this chapter 
+143 6. To spy upon or keep under surveillance, whether directly or through agents or any 
+144 other person, any activities of TNDs, those workers' representatives, or any other person, or any 
+9 of 31 
+145 activities of such workers or those workers' representatives in the exercise of the rights 
+146 guaranteed by this chapter. 
+147 7. To dominate or interfere with the formation, existence, or administration of any 
+148 TND organization, or to contribute financial or other support to any such organization, directly 
+149 or indirectly, unless required to by this chapter or by any regulations implementing this chapter, 
+150 including but not limited to the following: 
+151 (a) by participating or assisting in, supervising, or controlling (i) the initiation or 
+152 creation of any such organization or (ii) the meetings, management, operation, elections, 
+153 formulation or amendment of constitution, rules or policies, of any such organization 
+154 (b) by offering incentives to TNDs to join any such organization; 
+155 (c) by donating free services, equipment, materials, office or meeting space or 
+156 anything else of value for the use of any such organization; provided that a TNC shall not be 
+157 prohibited from permitting workers to perform representational work protected under this 
+158 chapter during working hours without loss of time or pay or from allowing agents of a TND 
+159 organization that is the exclusive representative of its network workers from meeting with 
+160 workers on its premises. 
+161 8. To require a TND to join any company union or TND organization or to require a 
+162 TND to refrain from forming, or joining or assisting a TND organization of their own choosing. 
+163 9. To encourage membership in any company union or discourage membership in 
+164 any TND organization, by discrimination in regard to hire, tenure, or in any term or condition of 
+165 employment or engagement. 
+10 of 31 
+166 I0. To discharge or otherwise discriminate against a TND because they have signed or 
+167 filed any affidavit, petition or complaint or given any information or testimony under this 
+168 chapter. 
+169 11. To distribute or circulate any blacklist of individuals exercising any right created 
+170 or confirmed by this chapter or of members of a TND organization, or to inform any person of 
+171 the exercise by any individual of such right, or of the membership of any individual in a TND 
+172 organization for the purpose of preventing individuals so blacklisted or so named from obtaining 
+173 or retaining opportunities for remuneration. 
+174 12. To do any acts, other than those already enumerated in this section, which 
+175 interfere with, restrain or coerce TNDs in the exercise of the rights guaranteed by this chapter. 
+176 B. It shall be an unfair work practice for a TND organization to: 
+177 1. refuse to collectively bargain in good faith with a TNC, provided it is the certified 
+178 or recognized representative of the company's workers. Since the obligation to negotiate in good 
+179 faith includes an obligation to provide requested information that relates to the bargaining 
+180 process, it is also an unfair work practice for a certified or recognized TND to refuse to provide 
+181 information requested by a TNC organization that is relevant to the bargaining process; 
+182 2. restrain or coerce TNDs in the exercise of the rights guaranteed by this chapter; 
+183 provided, however, that this paragraph shall not impair the right of a TND organization to 
+184 prescribe its own rules with respect to the acquisition or retention of membership in the 
+185 organization; 
+11 of 31 
+186 3. fail to fulfill its duty of fair representation toward TNDs where it is the exclusive 
+187 bargaining representative by acts or omissions that are arbitrary, discriminatory, or in bad faith. 
+188 4. restrain or coerce a TNC in the selection of its representatives for the purpose of 
+189 bargaining or the adjustment of grievances. 
+190 C. Prevention of unfair work practices. 
+191 1. The board is empowered and directed, as hereinafter provided, to prevent any 
+192 TNC and any TND organization, from engaging in any unfair work practice described in this 
+193 chapter. This power shall not be affected or impaired by any means of adjustment, mediation or 
+194 conciliation in labor disputes that have been or may hereafter be established by law or by the 
+195 determination provided for in section 6(F), below. To prevent unfair work practices, each TNC 
+196 shall, at least once each year, send a text message and an e-mail to each of its active TNDs in a 
+197 form determined by the board notifying the TNDs of their rights under this chapter, and the 
+198 procedure for filing an unfair work practice charge. The board shall also post a copy of this 
+199 notice on its website. 
+200 2. Whenever it is charged that any TNC or TND organization has engaged in or is 
+201 engaging in any such unfair work practice, the board, or any agent or agency designated by the 
+202 board for such purposes, shall have power to issue and cause to be served upon such TNC or 
+203 TND organization, a complaint stating the charges in that respect, and containing a notice of 
+204 hearing before the board or a member thereof, or before a designated agent or agency, at a place 
+205 therein fixed, not less than five days after service of said complaint. Any such complaint may be 
+206 amended by the member, agent or agency conducting the hearing or the board in its discretion at 
+207 any time prior to the issuance of an order based thereon. The TNC or TND organization so 
+12 of 31 
+208 complained of shall have the right to file an answer to the original or amended complaint and to 
+209 appear in person or otherwise and give testimony at the place and time fixed in the complaint. In 
+210 the discretion of the member, agent or agency conducting the hearing or the board, any other 
+211 person may be allowed to intervene in the said proceeding and to present testimony. In any such 
+212 proceeding, the rules of evidence prevailing in courts of law or equity shall not be controlling. 
+213 3. If, upon the record before them such member, agent, or agency shall determine 
+214 that an unfair work practice has been committed by a TNC or TND organization named in the 
+215 complaint, they shall issue and cause to be served upon the person committing the unfair work 
+216 practice an order requiring such person to cease and desist from such unfair work practice, and to 
+217 take such further affirmative action as will effectuate the provisions of this chapter including, but 
+218 not limited to (a) withdrawal of recognition from and refraining from bargaining collectively 
+219 with any organization or association, agency or plan that is either defined in this chapter as a 
+220 company union, or established, maintained or assisted by any action defined in this chapter as an 
+221 unfair work practice; (b) awarding back pay or other restoration of compensation, without any 
+222 reduction based on the TND's interim earnings or failure to earn interim earnings, consequential 
+223 damages, and an additional amount as liquidated damages equal to two times the amount of 
+224 damages awarded; (c) requiring reengagement or reestablishment of the TNC's preexisting 
+225 relationship with improperly, adversely affected TNDs, with or without compensation, or 
+226 maintenance of a preferential list from which such worker shall be re-engaged or the relationship 
+227 reestablished, and such order may further require such respondent to make reports from time to 
+228 time showing the extent to which the order has been complied with; 
+229 (d) requiring respondent to provide the complainant with a list of all TNDs, together with 
+230 those workers' physical and e-mail addresses and known telephone numbers; and (e) requiring 
+13 of 31 
+231 the TNC to recognize and bargain with a TND organization if the board determines that the 
+232 unfair work practice interfered with the TND's right to form or join a TND organization. If the 
+233 member, agent, or agency determines that an unfair work practice has not been committed, they 
+234 shall issue an order dismissing the complaint. An order issued pursuant to this subsection shall 
+235 become final and binding unless, within ten days after notice thereof, any party requests review 
+236 by the full board. A review may be made upon a written statement of the case by the member, 
+237 agent, or agency agreed to by the parties, or upon written statements furnished by the parties, or, 
+238 if any party or the board requests, upon a transcript of the testimony taken at the hearing, if any, 
+239 together with such other testimony as the board may require. 
+240 If, upon the record before it, the board determines that an unfair practice has been 
+241 committed it shall state its findings of fact and issue and cause to be served on the TNC or TND 
+242 organization an order requiring such company or organization to cease and desist from such 
+243 unfair work practice, and to take such further affirmative action as will effectuate the provisions 
+244 of this chapter. If, upon the record before it, the board determines that an unfair work practice 
+245 has not been committed, it shall state its findings of fact and shall issue an order dismissing this 
+246 complaint. 
+247 4. Until the record in a case shall have been filed in a court, as hereinafter 
+248 provided, the board may at any time, upon reasonable notice and in such manner as it shall deem 
+249 proper, modify or set aside, in whole or in part, any finding or order made or issued by it. 
+250 5. The board may institute appropriate proceedings in the appeals court for 
+251 enforcement of its final orders. 
+14 of 31 
+252 6. Any party aggrieved by a final order of the board may institute proceedings for 
+253 judicial review in the appeals court within thirty days after receipt of said order. The proceedings 
+254 in the appeals court shall, insofar as applicable, be governed by the provisions of section fourteen 
+255 of chapter thirty A. 
+256 7. Injunctive relief. 
+257 (a) A party filing an unfair work practice charge under this section may petition the 
+258 board to obtain injunctive relief, pending a decision on the merits of said charge by the board, 
+259 upon a showing that: (i) there is reasonable cause to believe an unfair work practice has 
+260 occurred, and (ii) it appears that immediate and irreparable injury, loss or damage will result 
+261 thereby rendering a resulting judgment on the merits ineffectual necessitating the maintenance 
+262 of, or return to, the status quo to provide meaningful relief. Such immediate and irreparable harm 
+263 may include the chilling of workers in the exercise of rights provided by this chapter. 
+264 (b) Within ten days of the receipt by the board of such petition, if the board 
+265 determines that a charging party has made a sufficient showing both that there is reasonable 
+266 cause to believe an unfair work practice has occurred and it appears that immediate and 
+267 irreparable injury, loss or damage will result therefrom, rendering a resulting judgment on the 
+268 merits ineffectual necessitating maintenance of, or return to, the status quo to provide meaningful 
+269 relief, the board shall petition the superior court in any county where the unfair work practice 
+270 occurred upon notice to all parties for the necessary injunctive relief or, if the board determines 
+271 not to seek injunctive relief, the charging party may seek injunctive relief by petition to the 
+272 superior court, in which case the board must be joined as a necessary party. The board or, where 
+273 applicable, the charging party, shall not be required to give any undertakings or bond and shall 
+15 of 31 
+274 not be liable for any damages or costs that may have been sustained by reason of any injunctive 
+275 relief ordered. If the board fails to act within ten days as provided herein, the board, for purposes 
+276 of review, shall be deemed to have made a final order determining not to seek injunctive relief. 
+277 In the case of a TNC's failure to provide an accurate list of names and addresses of TNDs, 
+278 immediate and irreparable injury, loss, or damage shall be presumed. 
+279 (c) Injunctive relief may be granted by the court, after hearing all parties, if it 
+280 determines that there is reasonable cause to believe an unfair work practice has occurred and that 
+281 it appears that immediate and irreparable injury, loss, or damage will result thereby rendering a 
+282 resulting judgment on the merits ineffectual necessitating maintenance of, or return to, the status 
+283 quo to provide meaningful relief. Such relief shall expire on decision by the board finding no 
+284 unfair work practice to have occurred, successful appeal of the grant of injunction relief, or 
+285 motion by respondent to vacate or modify the injunction pursuant to the provisions of the rules of 
+286 civil procedure. The board shall conclude the hearing process and issue a decision on the merits 
+287 within one hundred eighty days after the imposition of such injunctive relief unless mutually 
+288 agreed by the respondent and charging party. 
+289 (d) A decision on the merits of the unfair work practice charge by the board finding 
+290 an unfair work practice to have occurred shall continue the injunctive relief until either: (i) the 
+291 respondent implements the remedy, or (ii) the respondent successfully moves in court to set aside 
+292 the board's order, pursuant to provisions of Chapter 30A of the General Laws. 
+293 (e) Any injunctive relief in effect pending a decision by the board (i) shall expire 
+294 upon a decision by the board finding no unfair work practice to have occurred, of which the 
+295 board shall notify the court within two business days, or (ii) shall remain in effect only to the 
+16 of 31 
+296 extent it implements any remedial order issued by the board in its decision, of which the board 
+297 shall notify the court within two business days. 
+298 (f) The appeal of any order granting, denying, modifying, or vacating injunctive 
+299 relief ordered by the court pursuant to this subdivision shall be made in accordance with the rules 
+300 of appellate procedure. 
+301 (g) Except as provided in this section, judicial review of the orders of the board shall 
+302 be as provided for section 9, below. 
+303 Section 5. Representatives. 
+304 A. After receiving the information identified in Section 2(A) from each TNC at the 
+305 conclusion of each calendar quarter (March 31, June 30, September 30, December 31), the board 
+306 shall provide each TNC with the names of the active TNDs who have driven for that TNC, and 
+307 each TNC shall have 30 days to submit to the board, in an electronic format to be determined by 
+308 the board, the phone numbers, mailing addresses, and email addresses for each active TND. 
+309 These records shall not be subject to disclosure pursuant to Chapter 66 of the General Laws. 
+310 B. Bargaining unit. For purposes of this chapter, each TND shall be included in an 
+311 industry-wide bargaining unit of all TNDs. 
+312 C. Showing of designation of representative. A TND organization may demonstrate 
+313 that it has been designated as a bargaining representative by presenting to the board cards, 
+314 petitions, or other evidence, which may be in electronic form, sufficient to show the TND has 
+315 authorized the TND organization to act as the worker's exclusive bargaining representative. To 
+316 be valid, such card, petition, or other evidence must have been executed by the worker within 
+17 of 31 
+317 one year of the date the TND organization submits the evidence to the board. Execution may be 
+318 electronic. 
+319 D. Representative status. 
+320 1. Upon the request of a TND organization, the board shall make a determination 
+321 that such organization has been designated as bargaining representative by at least five percent of 
+322 active TNDs in the bargaining unit. 
+323 2. Once the board determines that the TND organization has been designated as the 
+324 bargaining representative of at least five percent of active TNDs in the bargaining unit, the board 
+325 shall (a) require each TNC to send a notice, in a form determined by the board, that the TND 
+326 organization is seeking to represent TNDs for the purpose of initiating a bargaining process in 
+327 order to establish terms and conditions for the industry; and (b) provide the TND organization 
+328 with a complete list of names, phone numbers, mailing address, and electronic mail address for 
+329 all active TNDs in the bargaining unit. The board will provide the TND organization with an 
+330 updated list each quarter for the next year. For six months from the date of the board's 
+331 determination that a TND organization has met the five percent threshold in a bargaining unit, no 
+332 other TND organization may be certified as the exclusive bargaining representative of those 
+333 workers without an election. 
+334 3. Exclusive representative status. A TND organization that provides evidence to the 
+335 board that it has been designated as bargaining representative by twenty-five percent of active 
+336 TNDs in the bargaining unit shall be certified as the exclusive bargaining representative of all 
+337 TNDs in the bargaining unit. In the alternative, a TND organization that has been designated as 
+338 the bargaining representative of at least five percent of active TNDs in the bargaining unit may 
+18 of 31 
+339 petition the board to conduct an election. The election shall be conducted as expeditiously as 
+340 possible, and if the TND organization receives a majority of valid votes cast it shall be certified 
+341 as the exclusive bargaining representative. 
+342 4. Determination of Exclusive Representative Status in the Event of a Dispute 
+343 among TND organizations. 
+344 (a) If a TND organization seeking certification as the exclusive bargaining 
+345 representative provides evidence that shows that less than a majority of active TNDs have 
+346 designated the TND organization as their bargaining representative, the board shall wait seven 
+347 days before certifying the TND organization as exclusive bargaining representative. If, during 
+348 those seven days, another TND organization provides evidence that at least 25 percent of active 
+349 TNDs in the bargaining unit have designated it as their bargaining representative, or a TND 
+350 provides evidence that at least 25 percent of active TNDs in the bargaining unit do not wish to be 
+351 represented by any TND organization, then the board shall hold an election among all active 
+352 TNDs in the bargaining unit. Such election shall be conducted as expeditiously as possible. A 
+353 TND organization receiving a majority of the valid votes cast shall be certified as the exclusive 
+354 bargaining representative of all TNDs in the bargaining unit. When two or more TND 
+355 organizations are on the ballot and none of the choices (the TND organizations or "no worker 
+356 organization") receives a majority of the valid votes cast, there shall be a run-off election 
+357 between the two choices receiving the largest and second largest number of votes. A TND 
+358 organization receiving a majority of the valid votes cast in the run-off shall be certified as the 
+359 exclusive bargaining representative of all TNDs in the bargaining unit, and it shall owe a duty to 
+360 fairly represent all such workers. If a majority of the valid votes cast are for "no worker 
+361 organization," then the board will not certify any worker organization as the exclusive bargaining 
+19 of 31 
+362 representative. For purposes of this provision, the operative list of active TNDs shall be based on 
+363 the most recent quarterly list provided by the TNCs in accordance with section 5(A). 
+364 (b) A TND organization certified as the exclusive bargaining representative shall 
+365 have the exclusive authority to represent the TNDs in the bargaining unit, without challenge by 
+366 another TND organization, for the greater of (i) one year following certification; or (ii) the length 
+367 of time that a final determination rendered by the Secretary of Labor under section 6(F) is in 
+368 effect, provided that such period shall not be longer than three years following the date of 
+369 issuance of such final determination. During the times when an exclusive bargaining 
+370 representative is subject to challenge, TNDs may file for a decertification election upon a 
+371 showing that at least twenty-five percent of the active TNDs in the bargaining unit have 
+372 demonstrated support for the decertification. The board will then schedule an election to 
+373 determine whether the TND organization has retained its status as exclusive bargaining 
+374 representative. The TND organization shall retain its status as exclusive bargaining 
+375 representative if it receives a majority of valid votes cast by active TNDs in the bargaining unit. 
+376 (c) If a TND organization has been designated the exclusive bargaining 
+377 representative with respect to a bargaining unit, only that TND organization shall be entitled to 
+378 (i) receive from the TNCs a list of all of their TNDs, together with phone numbers, mailing 
+379 addresses, and electronic mail addresses; and (ii) shall be entitled to engage in bargaining with 
+380 the TNCs for recommendations to the Secretary of Labor concerning wages, benefits and terms 
+381 and conditions of work of the TNDs. 
+382 (d) Dues Deduction. A TND organization that has been designated as the exclusive 
+383 bargaining representative with respect to the bargaining unit shall have a right to voluntary 
+20 of 31 
+384 membership dues deduction upon presentation of dues deduction authorization cards signed by 
+385 individual TNDs, which may be in electronic form. A TNC shall commence making such 
+386 deductions as soon as practicable, but in no case later than thirty days after receiving proof of a 
+387 signed dues deduction authorization card, and such dues shall be submitted to the TND 
+388 organization within thirty days of the deduction. A TNC shall accept a signed authorization to 
+389 deduct dues in any format permitted by Chapter 11OG of the General Laws. The right to such 
+390 membership dues deduction shall remain in full force and effect until an individual revokes 
+391 membership in the TND organization in writing in accordance with the terms of the signed 
+392 authorization. 
+393 Section 6. Bargaining, Impasse resolution procedures, and final determination by the 
+394 Secretary of Labor. 
+395 A. Once the board determines that a TND organization is the exclusive bargaining 
+396 representative for the bargaining unit, the board shall notify all TNCs, and all TNCs shall be 
+397 required to bargain with the exclusive bargaining representative concerning wages, benefits, and 
+398 terms and conditions of work. The terms and conditions to be bargained include, but are not 
+399 limited to, the criteria for deactivating a TND and a dispute resolution procedure for resolving 
+400 claims alleging unjust deactivation. To facilitate negotiations, the TNCs may form an industry 
+401 association to negotiate on their behalf. If the TNCs choose not to form an association, any 
+402 recommended agreement must be approved by (i) at least two industry member TNCs and (ii) 
+403 member TNCs representing at least eighty percent of the market share of that industry in 
+404 Massachusetts, with votes determined in proportion to the number of rides completed by TNDs 
+405 contracting directly with the TNC in the two calendar quarters preceding the recognition of the 
+406 certified representative. 
+21 of 31 
+407 B. Once the TND organization and the TNCs have reached a set of negotiated 
+408 recommendations for the industry, the negotiated recommendations shall be submitted by the 
+409 TND organization to a vote by all TNDs in the industry who have completed at least one 
+410 hundred trips in the previous quarter. If approved by a majority of TNDs who vote, the 
+411 negotiated recommendations shall be submitted to the Secretary of Labor for approval. If a 
+412 majority of valid votes cast by the TNDs are not in favor of the negotiated recommendations, the 
+413 transportation network worker organization and the TNCs will resume bargaining. 
+414 C. For purposes of this section, an impasse may be deemed to exist if the TNCs and 
+415 exclusive bargaining representative fail to achieve agreement by the end of a one hundred eighty- 
+416 day period from the date a TND organization has been designated as the exclusive bargaining 
+417 representative or from the expiration date of a prior determination by the Secretary of Labor as 
+418 provided for in paragraph F, below. 
+419 D. Upon impasse, any of the affected TNCs or the exclusive bargaining 
+420 representative may request the board to render assistance as provided in this section. 
+421 E. Upon receiving a timely request from an exclusive bargaining representative for 
+422 commencement of an impasse proceeding, the board shall aid the parties as follows: 
+423 1. To assist the parties to effect a voluntary resolution of the dispute, the board shall 
+424 appoint a mediator from a list of qualified persons maintained by the board; the parties shall be 
+425 free to select a mediator satisfactory to them or to decline such selection. 
+426 2. If the mediator is unable to achieve agreement between the parties concerning an 
+427 appropriate resolution within thirty days after the board has provided the parties the list of 
+428 mediators, any party may petition the board to refer the dispute to an arbitrator. 
+22 of 31 
+429 3. Upon timely petition of either party, the board shall refer the dispute to an 
+430 arbitrator as hereinafter provided. 
+431 (a) Prior to submitting the dispute to an arbitrator, the board shall conduct an election 
+432 among all TNDs in the industry who have completed at least one hundred trips in the previous 
+433 quarter. The TNDs will choose between submitting the dispute to the arbitrator or decertifying 
+434 the exclusive bargaining representative. If the majority of eligible votes cast are for 
+435 decertification the exclusive bargaining representative shall be decertified and any existing 
+436 regulations shall remain in place until they expire as provided in paragraph F below. 
+437 (b). If a majority of TNDs who vote choose to have an arbitrator appointed, the exclusive 
+438 bargaining representative shall notify the board of the need to appoint an arbitrator, and the board 
+439 shall notify the TNCs of this request. Each of the two groups of affected parties (affected TNCs 
+440 being one group, and the exclusive bargaining representative being the other group) shall have an 
+441 equal say in the selection of the arbitrator and each of the two groups shall share equally the cost 
+442 of the arbitrator. If the parties are unable to agree upon the arbitrator within seven days after the 
+443 board notifies the TNCs of the need to appoint an arbitrator, the board shall submit to the parties 
+444 a list of qualified, disinterested persons for the selection of an arbitrator. A representative of each 
+445 of the two groups shall alternately strike from the list one of the names with the order of striking 
+446 determined by lot, until the remaining one person shall be designated as the arbitrator. Each 
+447 group shall select its representative for this purpose as it sees fit. A group's failure to agree upon 
+448 the designation of its representative shall result in the failure of the striking procedure, but shall 
+449 not impede the board's appointment of the arbitrator upon such failure. The striking process shall 
+450 be completed within five days of receipt of the board's list. The representatives who undertake 
+451 the striking shall notify the board of the designated arbitrator. In the event the parties are unable 
+23 of 31 
+452 to select the arbitrator within five days following receipt of this list, the board shall appoint the 
+453 arbitrator. 
+454 (c) The arbitrator shall hold hearings on all matters related to the dispute. The parties 
+455 may be heard either in person, by counsel, or by other representatives, as they may respectively 
+456 designate. The arbitrator shall determine the order of presentation by the parties, and shall have 
+457 discretion and authority to decide all procedural issues that may be raised; 
+458 (d) The parties, including all TNCs engaging at least fifty TNDs in the bargaining 
+459 unit and the exclusive bargaining representative affected, may present, either orally or in writing, 
+460 or both, statements of fact, supporting witnesses and other evidence, and argument of their 
+461 respective positions with respect to each case. The arbitrator shall have authority to require the 
+462 production of such additional evidence, either oral or written as she or he may desire from the 
+463 parties and shall provide at the request of either group of parties that a full and complete record 
+464 be kept of any such hearings, the cost of such record to be borne by the requesting party. If such 
+465 record is created, it shall be shared with all parties regardless of which party paid for it. 
+466 (e) Any TNC engaging less than fifty TNDs in the bargaining unit shall have the 
+467 opportunity to make a written submission to the arbitrator. 
+468 (f) The arbitrator shall make a just and reasonable determination of the matters in 
+469 dispute, and shall issue a determination that shall apply to all TNCs and the exclusive bargaining 
+470 representative. In arriving at such determination, the arbitrator shall specify the basis for his or 
+471 her findings, taking into consideration, in addition to any factors recommended by the parties 
+472 that the arbitrator finds to be consistent with this chapter, including the following: 
+473 i. whether the wages, benefits, hours, and conditions of work 
+24 of 31 
+474 of the TNDs achieve the policy goals set forth subdivision A of Section I. This amount 
+475 must take into account the real cost of living, it may substantially exceed any statutory minimum 
+476 wage, and should be a sufficient amount such that the TNDs do not need to rely upon any public 
+477 benefits; 
+478 ii. whether the most efficient way to provide benefits is through 
+479 a portable benefits fund, and if so, how to best assess each TNC a portion of the costs of 
+480 providing those benefits; 
+481 iii. the financial ability of the affected TNCs to pay for the compensation and benefits 
+482 in question and the impact on the delivery of services provided by the companies; 
+483 iv. the establishment of reasonable dispute resolution mechanisms that will allow 
+484 TNDs a reasonable expectation of uninterrupted work and permit TNCs to alter or terminate their 
+485 relationships with workers if there is just cause for such; and 
+486 v. comparison of peculiarities in regard to other trades or professions, including 
+487 specifically, (a) hazards of work; (b) physical qualifications; (c) educational qualifications; (d) 
+488 mental qualifications; and (e) job training and skills. 
+489 F. Any recommendations agreed upon between TNCs and a TND organization 
+490 acting as exclusive bargaining representative of TNDs in the bargaining unit and/or any 
+491 determination reached by an arbitrator under this chapter shall be subject to review and approval 
+492 by the Secretary of Labor. In deciding whether to grant approval to the arbitrator's 
+493 recommendations, the Secretary of Labor's decision shall be based on the factors specified in 
+494 paragraph E(3)(f), above, and the policies set forth in section I. In deciding whether to approve 
+25 of 31 
+495 such agreement or determination, the Secretary of Labor shall afford the exclusive 
+496 representative, all TNCs, and TNDs no more than thirty days to submit comments and arguments 
+497 concerning whether approval is warranted. Within sixty days of the deadline for submitting 
+498 comments, the Secretary of Labor shall approve or disapprove the agreement or determination. 
+499 In the event of disapproval, the Secretary of Labor may make recommendations for amendments 
+500 to the agreement or determination that would cause the Secretary of Labor to approve and afford 
+501 the parties an opportunity to respond to those recommendations. The final determination by the 
+502 Secretary of Labor shall include a date following which new terms may be set for the bargaining 
+503 unit which date shall not be more than three years following the date of the issuance of the 
+504 determination. If during the three year period (or any lesser period that the Secretary of Labor 
+505 sets as a duration for the final determination), the Secretary of Labor determines that market 
+506 conditions have changed, the Secretary of Labor shall give the exclusive bargaining 
+507 representative, all TNCs, and TNDs the opportunity to submit comments and arguments 
+508 concerning whether the final determination should be modified, and after receiving those 
+509 comments, the Secretary of Labor may modify the final determination. 
+510 Section 7. Minimum Labor Standards. No agreement or determination made pursuant to 
+511 this chapter shall diminish or erode any minimum labor standard that would otherwise apply to a 
+512 TND. 
+513 Section 8. Preemption. This law shall not preempt any commonwealth enactment which 
+514 provides greater benefits or protection to a TND. 
+515 Section 9. Judicial Review. 
+26 of 31 
+516 A. Final orders of the board made pursuant to this chapter shall be conclusive against 
+517 all parties to its proceedings and persons who have had an opportunity to be parties to its 
+518 proceedings unless reversed or modified in proceedings for enforcement or judicial review as 
+519 herein provided. Final orders of the board shall be subject to review as provided in section 6 of 
+520 Chapter 150A of the General Laws, provided that a final order of the board under section 5 of 
+521 this chapter concerning the scope of bargaining units or the designation of a TND organization as 
+522 an exclusive bargaining representative or as entitled to the production of lists of TNDs shall be 
+523 overturned only if it is found to be arbitrary and capricious. 
+524 B. Final orders of the Secretary of Labor pursuant to section 6(F) of this chapter shall 
+525 be conclusive against all affected TND organizations and all TNCs in the industry unless 
+526 reversed or modified in proceedings for enforcement or judicial review as herein provided. Such 
+527 final orders shall be subject to review in accordance with the provisions of section fourteen of 
+528 chapter 30A of the General Laws, provided, however, that the determination of the Secretary of 
+529 Labor shall only be overturned if it is found to be arbitrary and capricious. 
+530 (C) Except in a proceeding brought to challenge a final order of the Secretary of Labor, 
+531 the determination of an arbitrator shall not be subject to judicial review. 
+532 Section 10. Rules and Regulations. 
+533 The board shall make such rules and regulations as may be appropriate to effectuate the 
+534 purposes and provisions of this chapter. 
+535 Section 11. Conflict of Laws. 
+27 of 31 
+536 In the event of any conflict with Chapter 150A of the General Laws, the provisions of 
+537 this Chapter shall prevail. 
+538 Section 12. Severability. 
+539 The provisions of this act shall be severable and if any phrase, clause, sentence or 
+540 provision of this article or the applicability thereof to any person, entity, or circumstance shall be 
+541 held invalid, the remainder of this act and the application thereof shall not be affected. 
+ 
+ 
+28 of 31 
+FIRST TEN SIGNERS 
+NAME RESIDENCE CITY OR TOWN 
+ROXANA LORENA RIVERA 15 MENTON STREET BOSTON 
+ALEJANDRA TERRERO 36 STRAWBERRY LANE ABINGTON 
+RAHIM ABBASI 29 EDISON GREEN #3 BOSTON 
+CESAR RAMIREZ 495 COLUMBIA ROAD #2 BOSTON 
+NETO MIGUEL ROSA 206 PRATT AVENUE #14 LOWELL 
+DOMINGO ALBERTO CASTILLO 85 ARCHDALE ROAD #313 BOSTON 
+OMER O. ELTOM 8 JETTE COURT #815 BOSTON 
+YASSIR OSMAN MAREI 9 MAPLE PLACE BOSTON 
+MAHAD OMAR 30 EVERETT GAYLORD BOULEVARD #23 WORCESTER 
+DANIEL R. NICOLAI 73 ROBERT STREET #1 BOSTON 
+ 
+ 
+29 of 31 
+ 
+CERTIFICATE OF THE ATTORNEY GENERAL. 
+ 
+ 
+ 
+ 
+ 
+Honorable William Francis Galvin 
+Secretary of the Commonwealth 
+One Ashburton Place, Room 1705 
+Boston, Massachusetts 02108 
+ 
+RE: Initiative Petition No. 23-25: An Act giving transportation network 
+drivers the option to form a union and bargain collectively 
+ 
+Dear Secretary Galvin: 
+ 
+ In accordance with the provisions of Article 48 of the Amendments to 
+the Massachusetts Constitution, I have reviewed the above-referenced initiative 
+petition, which was submitted to me on or before the first Wednesday of August 
+of this year. 
+ 
+ I hereby certify that this measure is in proper form for submission to 
+the people; that the measure is not, either affirmatively or negatively, 
+substantially the same as any measure which has been qualified for submission 
+or submitted to the people at either of the two preceding biennial state elections; 
+and that it contains only subjects that are related or are mutually dependent and 
+which are not excluded from the initiative process pursuant to Article 48, the 
+Initiative, Part 2, Section 2. 
+ 
+ In accordance with Article 48, I enclose a fair, concise summary of the 
+measure. 
+ 
+Sincerely, 
+ 
+ANDREA JOY CAMPBELL, 
+Attorney General. 
+30 of 31 
+Summary of 23-25 
+The proposed law would provide Transportation Network Drivers (“Drivers”) with the 
+right to form unions (“Driver Organizations”) to collectively bargain with Transportation 
+Network Companies (“Companies”)-which are companies that use a digital network to connect 
+riders to drivers for pre-arranged transportation-to create negotiated recommendations 
+concerning wages, benefits and terms and conditions of work. Drivers would not be required to 
+engage in any union activities. Companies would be allowed to form multi-Company 
+associations to represent them when negotiating with Driver Organizations. The state would 
+supervise the labor activities permitted by the proposed law and would have responsibility for 
+approving or disapproving the negotiated recommendations. The proposed law would define 
+certain activities by a Company or a Driver Organization to be unfair work practices. The 
+proposed law would establish a hearing process for the state Employment Relations Board 
+(“Board”) to follow when a Company or Driver Organization is charged with an unfair work 
+practice. The proposed law would permit the Board to take action, including awarding 
+compensation to adversely affected Drivers, if it found that an unfair work practice had been 
+committed. The proposed law would provide for an appeal of a Board decision to the state 
+Appeals Court. 
+This proposed law also would establish a procedure for determining which Drivers are 
+Active Drivers, meaning that they completed more than the median number of rides in the 
+previous six months. The proposed law would establish procedures for the Board to determine 
+that a Driver Organization has signed authorizations from at least five percent of Active Drivers, 
+entitling the Driver Organization to a list of Active Drivers; to designate a Driver Organization 
+as the exclusive bargaining representative for all Drivers based on signed authorizations from at 
+least twenty-five percent of Active Drivers; to resolve disputes over exclusive bargaining status, 
+including through elections; and to decertify a Driver Organization from exclusive bargaining 
+status. A Driver Organization that has been designated the exclusive bargaining representative 
+would have the exclusive right to represent the Drivers and to receive voluntary membership 
+dues deductions. Once the Board determined that a Driver Organization was the exclusive 
+bargaining representative for all Drivers, the Companies would be required to bargain with that 
+Driver Organization concerning wages, benefits and terms and conditions of work. Once the 
+Driver Organization and Companies reached agreement on wages, benefits, and the terms and 
+conditions of work, that agreement would be voted upon by all Drivers who has completed at 
+least 100 trips the previous quarter. If approved by a majority of votes cast, the recommendations 
+would be submitted to the state Secretary of Labor for approval and if approved, would be 
+effective for three years. The proposed law would establish procedures for the mediation and 
+arbitration if the Driver Organization and Companies failed to reach agreement within a certain 
+period of time. An arbitrator would consider factors set forth in the proposed law, including 
+whether the wages of Drivers would be enough so that Drivers would not need to rely upon any 
+public benefits. The proposed law also sets out procedures for the Secretary of Labor’s review 
+and approval of recommendations negotiated by a Driver Organization and the Companies and 
+for judicial review of the Secretary’s decision. The proposed law states that neither its 
+provisions, an agreement nor a determination by the Secretary would be able to lessen labor 
+standards established by other laws. If there were any conflict between the proposed law and 
+31 of 31 
+existing Massachusetts labor relations law, the proposed law would prevail. The Board would 
+make rules and regulations as appropriate to effectuate the proposed law. The proposed law 
+states that, if any of its parts were declared invalid, the other parts would stay in effect.

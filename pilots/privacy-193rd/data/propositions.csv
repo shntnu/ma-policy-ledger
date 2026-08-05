@@ -192,7 +192,7 @@ P-251,e911-audio-confidential,govt-records,"911 call audio confidential; release
 P-252,e911-transcript-public,govt-records,"Written 911 transcript remains public, prepared at requester's cost",3
 P-253,e911-retention-1yr,govt-records,PSAPs must retain 911 recordings at least one year,1
 P-254,lottery-winner-anonymity,govt-records,Lottery winner identity not a public record; nondisclosure on winner request,1
-P-255,victim-comp-records-confidential,govt-records,Victim-compensation claim records confidential and privileged,1
+P-255,victim-comp-records-confidential,govt-records,Victim-compensation claim records confidential and privileged,2
 P-256,firearm-records-maintenance-ban,govt-records,Government may not maintain firearm-transfer records containing personal information,1
 P-257,firearm-records-disclosure-ban,govt-records,No government disclosure of firearm licensee personal information except enumerated purposes,1
 P-258,firearm-records-destruction,govt-records,Mandate to destroy existing firearm transfer/possession records,1
@@ -218,18 +218,18 @@ P-286,location-govt-disclosure-notice-rulemaking,location,Directs AG regulations
 P-287,ai-training-data-security-rulemaking,comprehensive,Directs regulations requiring security measures for individuals' data used in AI training,1
 P-288,ai-training-data-consent-rulemaking,comprehensive,"Directs regulations requiring informed consent before collecting, using, sharing, or disclosing individuals' data for AI training",1
 P-289,ai-training-data-deletion-rulemaking,comprehensive,Directs regulations requiring deletion or de-identification of AI training data when no longer needed,1
-P-291,notary-personal-info-use-restriction,commercial,"Notaries may not use, sell, or transfer identifying personal information acquired in a notarial act except for enumerated purposes",4
-P-294,sfi-personal-info-withholding,govt-records,"Ethics commission must withhold filers' personal contact information (home address; enacted version adds email, phone, family member identity) from public statements of financial interests",2
-P-295,eviction-record-sealing-regime,govt-records,Petition-based sealing of eviction court records with tiered waiting periods; sealed records closed to public inspection with limited re-access purposes,6
-P-296,sealed-eviction-cra-duties,commercial,Consumer reporting agencies may not disclose or use sealed eviction records and must remove them within 30 days of sealing,6
+P-291,notary-personal-info-use-restriction,commercial,"Notaries may not use, sell, or transfer identifying personal information acquired in a notarial act except for enumerated purposes",7
+P-294,sfi-personal-info-withholding,govt-records,"Ethics commission must withhold filers' personal contact information (home address; enacted version adds email, phone, family member identity) from public statements of financial interests",4
+P-295,eviction-record-sealing-regime,govt-records,Petition-based sealing of eviction court records with tiered waiting periods; sealed records closed to public inspection with limited re-access purposes,7
+P-296,sealed-eviction-cra-duties,commercial,Consumer reporting agencies may not disclose or use sealed eviction records and must remove them within 30 days of sealing,7
 P-297,demographic-data-collection-standard,govt-data,"Government agencies collecting race/ethnicity data must use separate, voluntarily self-identified categories",2
 P-298,demographic-pii-confidentiality,govt-data,Personal identifying information in agency demographic data is confidential; only aggregated data preventing identification may be published,2
-P-299,bus-camera-records-exemption,surveillance-tech,Bus-camera photographs and personal identifying information exempt from the public records law,8
-P-300,bus-camera-litigation-limits,surveillance-tech,Bus-camera evidence not discoverable or admissible outside enforcement proceedings absent a court order with materiality findings,8
-P-301,bus-camera-occupant-id-ban,surveillance-tech,Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue,6
-P-302,bus-camera-vendor-confidentiality,surveillance-tech,"Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing",9
-P-303,tnc-trip-data-reporting-mandate,location,"TNCs must report trip-level data monthly, including continuous 60-second in-ride geolocation, driver identifier, and vehicle plate, to the DPU division",1
-P-304,tnc-trip-data-confidentiality,location,Reported TNC trip data is not a public record; sharing only de-identified under confidentiality agreements with listed agencies; breach triggers destruction and notification,1
+P-299,bus-camera-records-exemption,surveillance-tech,Bus-camera photographs and personal identifying information exempt from the public records law,9
+P-300,bus-camera-litigation-limits,surveillance-tech,Bus-camera evidence not discoverable or admissible outside enforcement proceedings absent a court order with materiality findings,9
+P-301,bus-camera-occupant-id-ban,surveillance-tech,Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue,7
+P-302,bus-camera-vendor-confidentiality,surveillance-tech,"Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing",10
+P-303,tnc-trip-data-reporting-mandate,location,"TNCs must report trip-level data monthly, including continuous 60-second in-ride geolocation, driver identifier, and vehicle plate, to the DPU division",7
+P-304,tnc-trip-data-confidentiality,location,Reported TNC trip data is not a public record; sharing only de-identified under confidentiality agreements with listed agencies; breach triggers destruction and notification,7
 P-305,judicial-pii-agency-posting-ban,govt-records,"State/county/municipal agencies barred from posting protected judicial officers' personal information online without written consent, with confidential-marking and 72-hour removal",2
 P-306,judicial-pii-databroker-sale-ban,data-brokers,"Data brokers barred from selling, licensing, or trading judges' personal information",2
 P-307,judicial-pii-takedown-right,interpersonal,"Post-request duty on any person or business to remove and not transfer judges' personal information (72-hour takedown), with private action",2
@@ -242,8 +242,6 @@ P-314,worker-data-sale-ban,workplace,"Ban on sale or license of worker data, inc
 P-315,worker-data-disclosure-limits,workplace,Worker-data disclosure only by contract with security duties; biometric/health third-party transfer ban; government-sharing limits,1
 P-316,worker-biometric-health-destruction,workplace,Mandatory destruction of worker biometric and health data,1
 P-317,worker-data-employment-use-bans,workplace,Bans on using worker data for enumerated employment decisions,1
-P-318,worker-data-security-breach-notice,workplace,Worker-data security safeguards and breach notification to workers and the department,1
-P-319,worker-data-vendor-duties,workplace,"Vendor compliance duties, joint liability, and return-and-delete for worker data and ADS vendors",1
 P-320,workplace-monitoring-notice,workplace,"Notice regimes for workplace electronic monitoring (advance, change, and inventory notices)",3
 P-321,workplace-monitoring-limits,workplace,"Allowable-purpose, strictly-necessary, least-invasive limits on electronic monitoring with prohibited practices (off-duty, private areas, facial/gait/emotion recognition)",2
 P-322,workplace-monitoring-data-use-limits,workplace,Limits on using monitoring data for employment decisions; no sole reliance,3
@@ -263,6 +261,15 @@ P-341,dealer-data-breach-indemnification,commercial,Mandatory manufacturer/third
 P-342,pi-rmv-data-access-grant,govt-records,"Licensed private investigators added to authorized users of RMV computer data, with misuse prohibitions and license revocation",2
 P-343,pi-facial-recognition-access-ban,surveillance-tech,"Private investigators barred from accessing the RMV facial recognition system, on pain of license revocation",2
 P-344,fusion-collection-dissemination-limits,surveillance-tech,"Ban on collecting or disseminating protected information absent criminal nexus, with accuracy vetting, dissemination logs, five-year file review and destruction; private right of action attaches",1
-P-345,fusion-audit-oversight,surveillance-tech,"Annual internal data audits, IG access and biennial compliance reports, independent audit of suspicious-activity reports with purge of noncompliant records",1
 P-346,fusion-subject-access,surveillance-tech,Subject right of access to personal data held in criminal intelligence systems,1
-P-347,nonprofit-client-data-bank,govt-data,"State-run centralized data bank of nonprofit service-provider client personal data with written informed consent before disclosure, c.66A protection duties, and public-records exclusion",1
+P-350,worker-data-security-safeguards,workplace,Employer duty to maintain security safeguards for worker data,1
+P-351,worker-data-breach-notice,workplace,Breach notification to affected workers and the department,1
+P-352,worker-vendor-compliance-liability,workplace,Vendor compliance duties and joint employer-vendor liability for worker data and ADS,1
+P-353,worker-vendor-return-delete,workplace,Vendor duty to return and delete worker data at end of service,1
+P-354,fusion-internal-data-audits,surveillance-tech,"Annual internal audits of each fusion-center database (users, access levels, data quantities, sources)",1
+P-355,fusion-ig-oversight,surveillance-tech,Inspector General access to criminal intelligence systems with biennial compliance reports,1
+P-356,fusion-sar-audit-purge,surveillance-tech,Independent audit of suspicious-activity reports with purge of noncompliant records,1
+P-357,client-data-bank-system,govt-data,"State-run centralized data bank of nonprofit service-provider client personal data (system, ID card, compelled membership condition)",1
+P-358,client-data-bank-consent-gate,govt-data,"Written informed client consent required before the data bank discloses client personal data, with c.66A protection duties",1
+P-359,client-data-bank-records-exclusion,govt-data,Data-bank client information excluded from the public-records definition,1
+P-360,immunization-exemption-record-confidentiality,health,Medical immunization-exemption certifications confidential; no disclosure outside the school health program; inadmissible without written parental consent,1

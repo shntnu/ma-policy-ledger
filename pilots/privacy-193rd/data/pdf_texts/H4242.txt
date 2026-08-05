@@ -1,0 +1,283 @@
+1 of 3 
+HOUSE DOCKET, NO. 4781 FILED ON: 1/9/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4242 
+ 
+ 
+OFFICE OF THE GOVERNOR 
+COMMONWEALTH OF MASSACHUSETTS 
+STATE HOUSE · BOSTON, MA 02133 
+(617) 725-4000 
+ 
+MAURA T. HEALEY 
+GOVERNOR 
+ KIMBERLEY DRISCOLL 
+LIEUTENANT GOVERNOR 
+ 
+January 9, 2024 
+ 
+To the Honorable Senate and House of Representatives, 
+ 
+ I am pleased to submit for your consideration an Act to Provide for the Future 
+Information Technology needs of Massachusetts, also referred to as “The FutureTech Act of 
+2024” to fund critical information technology capital needs. 
+ The Commonwealth’s current Information Technology bond authorization is expected to 
+be exhausted in Fiscal Year 2025, just as we approach the crossroads of multiple large, 
+transformative projects that will harden our cybersecurity posture, support IT capital efficiencies 
+at the secretariat and agency levels, greatly enhance the digital user experience to bring state 
+government information and services to our residents, and contemplate the future of AI-
+augmented service provision. In light of this expected need for new authorization, the Executive 
+Office of Technology Services and Security (EOTSS) Office of Capital Planning, in coordination 
+with the Executive Office for Administration and Finance (A&F), undertook an assessment of 
+the executive branch IT capital project needs over the next five years. This bill is the result of 
+this thorough, collaborative process. . 
+ The legislation I propose today will provide $1.23 billion in capital bond authorization to 
+support current and future technology needs over the next five years, in addition to $400 million 
+in authorization to spend anticipated future federal funding for major Health and Human 
+Services business application projects. Details on some of the bill’s key initiatives are listed 
+below. 
+ Investing in Government Efficiency 
+ • $120 million to support the Business Enterprise Systems Transformation (BEST) 
+within the Office of the Comptroller to implement business process improvements, streamline 
+
+2 of 3 
+state administrative workflow, and offer agencies the technology, training, and tools to access 
+required data and meet daily business needs on a real-time basis. 
+ • $110 million to support the Commonwealth Digital Roadmap, which seeks to 
+standardize the user experience across state agencies with a single identity that proactively points 
+users to relevant information and services. To date, the Identity Access Management (IAM) 
+single sign-on has amassed over 1 million users around the state. Building out this platform to 
+add more applications and launching new lines of constituent communication through live chat, 
+SMS and chatbot services will promote increased adoption and interoperability of the platform: 
+as it scales it becomes more useful to users. 
+ • $30 million to modernize medical health records hosted by the Executive Office 
+of Health and Human Services to facilitate more efficient, secure health record management. 
+ • $15 million to support the Integrated Digital Data Services (IDDS) project within 
+the Executive Office of Education (EOE). This project moves EOE data that it currently holds in 
+many different places onto cloud services, and creates a secure, standardized platform that 
+provides more timely and useful educational information to educators, administrators, and the 
+public. 
+ Investing in Service Access and Equity 
+ • $52 million to support the continued rollout of the Employment Modernization 
+Transformation (EMT), a project which, when complete, will provide both employers and those 
+seeking unemployment insurance with a new portal to conduct state-facing employment 
+activities, and facilitate a streamlined claims process for uploading information with a mobile-
+friendly design and increased accessibility features, making it easier to apply for unemployment 
+assistance. 
+ • $13 million to support the Enhanced Student Financial Aid Access project, which 
+will simplify the financial aid discovery and application process, enhance accessibility, and 
+facilitate higher college-going rates for Massachusetts residents, ensuring the Commonwealth 
+fulfills the vision for having one of the most equitable and effective higher education systems in 
+the nation. 
+ • $12 million to support the Child Care Financial Assistance (CCFA) 
+Modernization project, which will update the business processes within CCFA to align with an 
+updated user experience and replace or update the core technology systems managing the 
+waitlist, application and eligibility determination, and payments. Updating the overall user 
+experience will reduce barriers to families seeking assistance from the Commonwealth, ease 
+administrative burdens on child care providers, and create greater operational efficiencies for the 
+Department of Early Education and Care 
+ • $10 million to support the Integrated Eligibility and Enrollment program within 
+the Executive Office of Health and Human Services (HHS). This program eliminates duplicative 
+3 of 3 
+documentation while streamlining the application and onboarding processes for benefits 
+administered by HHS while making residents aware of overlapping eligibility for services. 
+ Supporting Municipalities 
+ • $30 million to support the Municipal Fiber Grant Program, a competitive grant 
+program that supports the closing of critical gaps that exist in municipal networks. Focused on 
+connecting municipality-owned facilities, the program assists municipalities in achieving many 
+critical goals associated with municipal fiber networks. 
+ • $25 million for the Community Compact IT Grant Program, a competitive grant 
+program aimed at driving innovation at the local level available to any municipality that is part of 
+Community Compact Cabinet Initiative. The program supports the implementation of technology 
+projects that harness the power of IT to drive innovation, make government more efficient, save 
+taxpayer money, and make it easier for residents to interact and transact with their local 
+government.   
+ Pioneering in Emerging Tech and Artificial Intelligence 
+ • $25 million to support future AI projects that align with the Healey-Driscoll 
+Administration’s priorities. 
+ Investing in Public Safety 
+ • $5 million to fund the DOC Radio Modernization initiative which will upgrade 
+the utility and security of communications technologies within the Department of Correction. 
+ • $3 million to fund the Criminal Justice360 cross-tracking system and dashboard, 
+empowering members of the public to view aggregated records from the Massachusetts 
+Department of Correction (DOC) and the Commonwealth’s fourteen County Sheriff’s Offices. 
+ The FutureTech Act will strengthen the Commonwealth by ensuring that our executive 
+agencies and secretariats have the IT assets they need to deliver exceptional constituent services 
+and conduct business on behalf of the state in the most efficient, secure and transparent manner. I 
+urge you to enact this legislation as soon as possible to avoid the interruption of important 
+projects that can be completed for the benefit of the residents of the Commonwealth. 
+ Respectfully submitted, 
+ 
+ Maura T. Healey, 
+ 
+ 
+ Governor
+
+1 of 7 
+HOUSE . . . . . . . . . . . . . . . No. 4242 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act to provide for the future information technology needs of Massachusetts. 
+ 
+ Whereas, The deferred operation of this act would tend to defeat its purpose, which is to 
+provide forthwith for the information technology and security needs of the commonwealth and 
+deploy broadband access to the citizens of the commonwealth, therefore it is hereby declared to 
+be an emergency law, necessary for the immediate preservation of the public convenience. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1 SECTION 1. To provide for a program of capital investments for information technology 
+2 and data- and cyber-security improvements to various state programs, services, agencies, 
+3 institutions and properties and to fund technology infrastructure, the sums set forth in sections 
+4 2A, 2B and 2C of this act, for the several purposes and subject to the conditions specified in this 
+5 act, are hereby made available through December 31, 2030, subject to the laws regulating the 
+6 disbursement of public funds, which sums shall be in addition to any other amounts previously 
+7 appropriated for these purposes; provided, that the amounts specified for a particular project may 
+8 be adjusted in order to facilitate projects authorized in this act. 
+9 SECTION 2A. 
+10 EXECUTIVE OFFICE FOR TECHNOLOGY SERVICES AND SECURITY 
+2 of 7 
+11 Office of the Secretary 
+12 1790-3014 For costs associated with initiatives, projects, and expenditures to make 
+13 improvements to the quality, consistency, efficiency, and delivery of any service or program for 
+14 the benefit of the public and the interactions between residents and state agencies and 
+15 instrumentalities of the commonwealth, including but not limited to, planning and studies, the 
+16 preparation of plans and specifications, purchase, procurement, acquisition, licensing and 
+17 implementation of information technology, telecommunications and data-security-related 
+18 equipment, hardware, software, systems, intellectual property and related projects for various 
+19 state agencies of the commonwealth; provided, that for projects the secretary of administration 
+20 and finance certifies to the comptroller directly or indirectly generate state revenue or budgetary 
+21 savings, the comptroller shall transfer such revenue or budgetary savings to the state treasurer for 
+22 payment of debt service related to those projects; provided further, that any federal 
+23 reimbursement received by a state agency in connection with projects funded from this item may 
+24 be retained by the state agency or the executive office of technology services and security and 
+25 expended for the purposes of the project, without further appropriation, in addition to the 
+26 amounts appropriated in this item…………………………………………………..$750,000,000 
+27 1790-3015 For costs associated with initiatives, projects, and expenditures to make 
+28 improvements to the quality, consistency, efficiency, and delivery of any service or program to 
+29 support, improve, extend, secure, or maintain technology or telecommunications infrastructure, 
+30 including but not limited to, planning and studies, the preparation of plans and specifications, 
+31 purchase, procurement, acquisition, licensing and implementation of information technology, 
+32 telecommunications and data-security-related equipment, hardware, software, systems, 
+33 intellectual property and related projects for various state agencies of the commonwealth; 
+3 of 7 
+34 provided, that for projects the secretary of administration and finance certifies to the comptroller 
+35 directly or indirectly generate state revenue or budgetary savings, the comptroller shall transfer 
+36 such revenue or budgetary savings to the state treasurer for payment of debt service related to 
+37 those projects; provided further, that any federal reimbursement received by a state agency in 
+38 connection with projects funded from this item may be retained by the state agency or the 
+39 executive office of technology services and security and expended for the purposes of the 
+40 project, without further appropriation, in addition to the amounts appropriated in this 
+41 item…………………………………………………………………………………$200,000,000. 
+42 1790-3016 For costs associated with planning and studies, the preparation of plans and 
+43 specifications, purchase, procurement, acquisition, licensing and implementation of information 
+44 technology, telecommunications and data-security-related equipment, hardware, software, 
+45 systems, intellectual property and related projects for various state agencies and public 
+46 instrumentalities of the commonwealth to mitigate, avoid, or respond to risks to the security of 
+47 the commonwealth’s technology and telecommunications infrastructure or operations; provided, 
+48 that for projects the secretary of administration and finance certifies to the comptroller directly or 
+49 indirectly generate state revenue or budgetary savings, the comptroller shall transfer such 
+50 revenue or budgetary savings to the state treasurer for payment of debt service related to those 
+51 projects; provided further, that any federal reimbursement received by a state agency in 
+52 connection with projects funded from this item may be retained by the state agency or the 
+53 executive office of technology services and security and expended for the purposes of the 
+54 project, without further appropriation, in addition to the amounts appropriated in this 
+55 item……….………………………………………………………………………$200,000,000. 
+4 of 7 
+56 1790-3017 For costs associated with planning and studies, the preparation of plans and 
+57 specifications, purchase, procurement, acquisition, licensing and implementation of information 
+58 technology, telecommunications and data-security-related equipment, hardware, software, 
+59 systems, intellectual property and related projects for various state agencies of the 
+60 commonwealth including, but not limited to, executing strategic initiatives, improving business 
+61 intelligence, and modernizing governmental functions; provided, that for projects the secretary of 
+62 administration and finance certifies to the comptroller directly or indirectly generate state 
+63 revenue or budgetary savings, the comptroller shall transfer such revenue or budgetary savings to 
+64 the state treasurer for payment of debt service related to those projects; provided further, that any 
+65 federal reimbursement received by a state agency in connection with projects funded from this 
+66 item may be retained by the state agency or the executive office of technology services and 
+67 security and expended for the purposes of the project, without further appropriation, in addition 
+68 to the amounts appropriated in this item……………………………………………$250,000,000. 
+69 SECTION 2B. 
+70 EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE 
+71 Office of the Secretary 
+72 1100-2519 For costs associated with initiatives, projects and expenditures to the quality, 
+73 efficiency and delivery of any service or program for the benefit of the public and the 
+74 interactions between residents and state agencies and instrumentalities of the commonwealth 
+75 including but not limited to, planning and studies, the preparation of plans and specifications, 
+76 purchase, procurement, acquisition, licensing and implementation of artificial intelligence and 
+77 machine learning systems for the various state agencies of the commonwealth, provided that 
+5 of 7 
+78 such initiatives, projects and expenditures are in accordance with enterprise security policies and 
+79 other applicable administrative directives issued under section 3 of chapter 7D of the General 
+80 Laws and approved by the executive office of technology services and security; provided further 
+81 that for projects the secretary of administration and finance certifies to the comptroller directly or 
+82 indirectly generate state revenue or budgetary savings, the comptroller shall transfer such 
+83 revenue or budgetary savings to the state treasurer for payment of debt service related to those 
+84 projects; provided further, that any federal reimbursement received by a state agency in 
+85 connection with projects funded from this item may be retained by the state agency or the 
+86 executive office of technology services and security and expended for the purposes of this 
+87 project, without further appropriation, in addition to the amounts appropriated in this 
+88 item…………………………………………………………………………………$25,000,000. 
+89 1599-1953 For a competitive, matching grant program to be administered by the 
+90 executive office for administration and finance, in consultation with the secretary of technology 
+91 services and security, to assist municipalities with the construction of fiber broadband 
+92 infrastructure and related projects and expenditures; provided, that priority for grants shall be 
+93 given to completely unserved premises located in a municipality…………………$30,000,000. 
+94 SECTION 2C. 
+95 EXECUTIVE OFFICE FOR ADMINISTRATION AND FINANCE 
+96 Office of the Secretary 
+97 1100-2518 For capital funding for eligible cities, towns, regional organizations whose 
+98 membership is exclusively composed of municipal governments, tribes, local governmental 
+99 agencies, authorities or subdivisions, quasi-state agencies, public authorities and institutions, and 
+6 of 7 
+100 similar governmental agencies, for purposes including but not limited to address threats to 
+101 information systems, manage and reduce systemic risk, improve security of critical technology 
+102 infrastructure, and improve resilience; provided, further that investments may include, but not be 
+103 limited to, planning and studies, improving government efficiency and effectiveness, preparation 
+104 of plans and specifications, asset modernization, information technology equipment, and 
+105 technical assistance.………………………………………………………………..$150,000,000. 
+106 Department of Revenue 
+107 1201-0003 For the division of local services within the department of revenue, for grants 
+108 to carry out the community compact information technology grant program established in 
+109 conjunction with executive order 554 ………………………………………………$25,000,000. 
+110 SECTION 3. Chapter 29 of the General Laws, as appearing in the 2022 Official Edition, 
+111 is hereby amended by inserting after section 2DDDDDD the following section:- 
+112 Section 2EEEEEE. (a) There shall be established and set up on the books of the 
+113 commonwealth a separate, non-budgeted special revenue fund known as the Information 
+114 Technology Federal Reimbursement Fund, which shall be administered by the secretary of 
+115 technology services and security. The secretary shall expend money in the fund for information 
+116 technology projects related to the Commonwealth’s health and human services. There shall be 
+117 credited to the fund: (i) amounts equal to any federal financial participation revenues claimed 
+118 and received by the commonwealth for eligible expenditures made from this fund or from 
+119 eligible expenditures made in direct connection with eligible expenditures made from this fund; 
+120 and (ii) interest earned on any money in the fund. Amounts credited to the fund shall be 
+121 expended without further appropriation. 
+7 of 7 
+122 (b) To accommodate timing discrepancies between the receipt of revenue and related 
+123 expenditures, the comptroller may certify for payment amounts not to exceed the most recent 
+124 revenue estimates as certified by the secretary to be transferred, credited or deposited under this 
+125 section. Money remaining in the fund at the end of a fiscal year shall not revert to the General 
+126 Fund and shall be available for expenditure in subsequent fiscal years. 
+127 SECTION 4. To meet the expenditures necessary to carry out sections 2A and 
+128 2B, the state treasurer shall, upon request of the governor, issue and sell bonds of the 
+129 commonwealth in an amount to be specified by the governor from time to time, but not 
+130 exceeding, in the aggregate, $1,055,000,000. All bonds issued by the commonwealth under this 
+131 section shall be designated on their face, “FutureTech Act of 2024,” and shall be issued for a 
+132 maximum term of years, not exceeding 10 years, as the governor may recommend to the general 
+133 court under section 3 of Article LXII of the Amendments to the Constitution. All such bonds 
+134 shall be payable not later than June 30, 2039. 
+135 SECTION 5. To meet the expenditures necessary to carry out section 2C, the state 
+136 treasurer shall, upon request of the governor, issue and sell bonds of the commonwealth in an 
+137 amount to be specified by the governor from time to time, but not exceeding, in the aggregate, 
+138 $175,000,000. All bonds issued by the commonwealth under this section shall be designated on 
+139 their face, "FutureTech Act of 2024”, and shall be issued for a maximum term of years, not 
+140 exceeding 30 years, as the governor may recommend to the general court under section 3 of 
+141 Article LXII of the Amendments to the Constitution. All such bonds shall be payable not later 
+142 than June 30, 2059.

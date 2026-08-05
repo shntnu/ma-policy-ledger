@@ -1,0 +1,725 @@
+HOUSE . . . . . . . No. 4743 
+ 
+The Commonwealth of Massachusetts 
+______________________________________ 
+ 
+ HOUSE OF REPRESENTATIVES, June 11, 2024. 
+ 
+The committee on Ways and Means, to whom was referred the Bill 
+relative to recovery coach licensure (House, No. 2005), reports 
+recommending that the same ought to pass with an amendment 
+substituting therefor the accompanying bill (House, No. 4743). 
+ 
+For the committee, 
+ 
+AARON MICHLEWITZ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 of 30 
+FILED ON: 6/11/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4743 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act relative to treatments and coverage for substance use disorder and recovery coach 
+licensure. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1 SECTION 1. Chapter 32A of the General Laws is hereby amended by inserting after 
+2 section 17S the following 2 sections:- 
+3 Section 17T. (a) Any coverage offered by the commission to an active or retired 
+4 employee of the commonwealth insured under the group insurance commission shall provide 
+5 coverage for prescribed or dispensed opioid antagonists, as defined in section 19B of chapter 
+6 94C, which shall be deemed medically necessary and shall not require prior authorization; 
+7 provided, however, that a prescription from a health care practitioner shall not be required for 
+8 coverage of opioid antagonists. An opioid antagonist shall not be subject to any deductible, 
+9 coinsurance, copayments or out-of-pocket limits; provided, however, that cost-sharing shall be 
+10 required if the applicable plan is governed by the federal Internal Revenue Code and would lose 
+11 its tax-exempt status as a result of the prohibition on cost-sharing for this service. 
+12 (b) The commission shall provide coverage for an opioid antagonist as a medical benefit 
+13 when dispensed by the health care facility in which the opioid antagonist was prescribed and 
+2 of 30 
+14 shall provide coverage as a pharmacy benefit for an opioid antagonist dispensed by a pharmacist, 
+15 including an opioid antagonist dispensed pursuant to section 19B of chapter 94C. 
+16 Section 17U. (a) The commission shall provide to any active or retired employee of the 
+17 commonwealth who is insured under the group insurance commission coverage for the provision 
+18 of services by a recovery coach licensed or otherwise authorized to practice pursuant to chapter 
+19 111J, irrespective of the setting in which the services are provided; provided, that such services 
+20 shall be within the lawful scope of practice of a recovery coach. The contractual rate for these 
+21 services shall be not less than the prevailing MassHealth rate for recovery coach services. The 
+22 benefits in this section shall not be subject to any deductible, coinsurance, copayments or out-of-
+23 pocket limits; provided, however, that cost-sharing shall be required if the applicable plan is 
+24 governed by the federal Internal Revenue Code and would lose its tax-exempt status as a result 
+25 of the prohibition on cost-sharing for the service. Recovery coach services shall be deemed 
+26 medically necessary and shall not require prior authorization. 
+27 SECTION 2. Chapter 18 of chapter 94C of the General Laws, as appearing in the 2022 
+28 Official Edition, is hereby amended by striking out subsection (e) and inserting in place thereof 
+29 the following subsection:- 
+30 (e) Practitioners who prescribe controlled substances, except veterinarians, shall be 
+31 required, as a prerequisite to obtaining or renewing their professional licenses, to complete 
+32 appropriate training relative to: (i) effective pain management including, but not limited to: (A) 
+33 appropriate, available non-opioid alternatives for the treatment of pain; (B) the advantages and 
+34 disadvantages of the use of non-opioid treatment alternatives, considering a patient’s risk of 
+35 substance misuse; and (C) the options for referring or prescribing appropriate non-opioid 
+3 of 30 
+36 treatment alternatives based on the practitioner’s clinical judgment and following generally 
+37 accepted clinical guidelines, taking into consideration the preference and consent of the patient 
+38 and the educational information described in section 21; (ii) the risks of misuse and addiction 
+39 associated with opioid medication; (iii) the identification of patients at risk for substance misuse; 
+40 (iv) counseling patients about the side effects, risks, addictive nature and proper storage and 
+41 disposal of prescription medications; (v) the appropriate prescription quantities for prescription 
+42 medications that have an increased risk of misuse and addiction, including a patient’s option to 
+43 fill a prescription for a schedule II controlled substance in a lesser quantity than indicated on the 
+44 prescription pursuant to subsection (d¾); and (vi) opioid antagonists, overdose prevention 
+45 treatments and information to advise patients on both the use of and ways to access opioid 
+46 antagonists and overdose prevention treatments. The boards of registration for each professional 
+47 license that require this training shall, in consultation with the department, relevant stakeholders 
+48 and experts in the treatment and management of acute and chronic pain, develop the standards 
+49 for appropriate training programs. For the purposes of this section, non-opioid treatment 
+50 alternatives shall include, but shall not be limited to, medications, restorative therapies, 
+51 interventional procedures, behavioral health approaches and complementary and integrative 
+52 treatments. 
+53 SECTION 3. Said chapter 94C is hereby further amended by striking out section 19C and 
+54 inserting in place thereof the following section:- 
+55 Section 19C. The board of registration in pharmacy shall promulgate regulations 
+56 requiring pharmacies located in areas with high incidents of opiate overdose, as determined by 
+57 the board in consultation with the department, to maintain a continuous supply of opioid 
+58 antagonists, as defined in section 19B; provided, that the continuous supply of opioid antagonists 
+4 of 30 
+59 shall include opioid antagonists that are approved by the federal Food and Drug Administration 
+60 to be sold over the counter without a prescription; provided further, that such pharmacies shall 
+61 notify the department if the supply or stock of opioid antagonist doses is insufficient to enable 
+62 compliance with maintaining a continuous supply of opioid antagonists. 
+63 SECTION 4. Said chapter 94C is hereby further amended by inserting after section 19D 
+64 the following section:- 
+65 Section 19D½. (a) For the purposes of this section, the following words shall, unless the 
+66 context clearly requires otherwise, have the following meanings: 
+67 “Opioid antagonist”, as defined in section 19B. 
+68 “Substance use disorder treatment facility”, a facility licensed or approved by the 
+69 department to offer treatment for substance use disorder, including, but not limited to: (i) 
+70 withdrawal management services; (ii) clinical stabilization services; (iii) transitional support 
+71 services; (iv) residential support services; (v) community behavioral health center services; (vi) 
+72 office-based opioid or addiction treatment services; or (vii) outpatient substance use disorder 
+73 services. 
+74 (b) Upon discharge of a patient from a substance use disorder treatment facility, the 
+75 facility shall educate the patient on the use of opioid antagonists and dispense not less than 2 
+76 doses of an opioid antagonist to the patient or a legal guardian. 
+77 (c) The commissioner may promulgate rules and regulations necessary to implement this 
+78 section. 
+5 of 30 
+79 SECTION 5. Section 21 of said chapter 94C, as appearing in the 2022 Official Edition, is 
+80 hereby amended by striking out the third paragraph and inserting in place thereof the following 
+81 paragraph:- 
+82 The department, in consultation with relevant stakeholders and experts in the treatment 
+83 and management of acute and chronic pain, and based in part on the Pain Management Best 
+84 Practices Inter-Agency Task Force Report issued by the United States Department of Health and 
+85 Human Services, shall produce and distribute either in written or electronic form to pharmacies, 
+86 not including institutional pharmacies, pamphlets for consumers relative to narcotic drugs, 
+87 specifically opiates, that include educational information related to: (i) pain management and the 
+88 use and availability of non-opioid alternatives for the treatment of acute and chronic pain, 
+89 including, but not limited to: (A) information on available non-opioid alternatives for the 
+90 treatment of pain, including non-opioid medications and non-pharmacological therapies; and (B) 
+91 the advantages and disadvantages of the use of such non-opioid treatment alternatives; (ii) the 
+92 consumer’s option to fill a prescription for a schedule II controlled substance in a lesser quantity 
+93 than indicated on the prescription pursuant to subsection (d¾) of section 18; (iii) misuse and 
+94 abuse by adults and children; (iv) the risk of dependency and addiction; (v) proper storage and 
+95 disposal; (vi) addiction support and treatment resources; and (vii) the telephone helpline operated 
+96 by the bureau of substance addiction services established in section 18 of chapter 17. A 
+97 pharmacist shall distribute the pamphlet when dispensing a narcotic or controlled substance 
+98 contained in schedule II or III; provided, however, that pharmacists shall not be required to 
+99 distribute the pamphlet if: (i) the patient is receiving outpatient palliative care pursuant to section 
+100 227 of chapter 111; (ii) the patient is a resident of a long-term care facility; or (iii) the narcotic or 
+101 controlled substance is prescribed for use in the treatment of substance use disorder or opioid 
+6 of 30 
+102 dependence. For the purposes of this section, non-opioid treatment alternatives shall include, but 
+103 shall not be limited to, medications, restorative therapies, interventional procedures, behavioral 
+104 health approaches and complementary and integrative treatments. 
+105 SECTION 6. Said chapter 94C is hereby further amended by inserting after section 34A 
+106 the following section:- 
+107 Section 34A½. (a) As used in this section, the following words shall, unless the context 
+108 clearly requires otherwise, have the following meanings: 
+109 “Drug testing services”, the use of testing equipment to identify or analyze the strength, 
+110 effectiveness or purity of a controlled substance prior to its injection, inhalation or ingestion by 
+111 another person to determine whether the controlled substance contains chemicals, toxic 
+112 substances or hazardous compounds. 
+113 “Testing equipment”, including, but not limited to: fentanyl test strips, colorimetric 
+114 reagents, high-performance liquid chromatography, gas chromatography and mass spectrometry. 
+115 (b)(1) A person acting in good faith and within the scope of their role providing or 
+116 assisting in the provision of harm reduction services as an owner, employee, intern, volunteer or 
+117 third-party contractor of an entity providing harm reduction services may provide or assist in 
+118 drug testing services to an individual to ensure that a controlled substance in the possession of 
+119 the individual and exclusively for that individual’s personal use does not contain dangerous 
+120 chemicals, toxic substances or hazardous compounds likely to cause an accidental overdose. 
+121 (2) A person acting in good faith and within the scope of their role providing or assisting 
+122 in the provision of harm reduction services as an owner, employee, intern, volunteer or third-
+7 of 30 
+123 party contractor of an entity providing harm reduction services who provides or assists in the 
+124 provision of drug testing services pursuant to this section shall not be charged or prosecuted 
+125 pursuant to sections 32I, 34 or 40. 
+126 (3) A person acting in good faith and within the scope of their role providing or assisting 
+127 in the provision of harm reduction services as an owner, employee, intern, volunteer or third-
+128 party contractor of an entity providing harm reduction services who provides or assists in drug 
+129 testing services pursuant to this section shall: (i) not be held civilly liable for drug testing 
+130 services unless for gross negligence or willful misconduct in the execution of the drug testing 
+131 services; and (ii) not be subject to any criminal or civil liability or any professional disciplinary 
+132 action; provided, however, that this section shall not apply to acts of gross negligence or willful 
+133 or wanton misconduct. 
+134 (c) An individual acting in good faith who seeks drug testing services of a controlled 
+135 substance in their possession and intended exclusively for their personal use from a person acting 
+136 in good faith and within the scope of their role providing, or assisting in the provision of, harm 
+137 reduction services as an owner, employee, intern, volunteer or third-party contractor of an entity 
+138 providing harm reduction services shall not be charged or prosecuted pursuant to sections 32I, 34 
+139 or 40 while on the premises where the drug testing services are conducted. 
+140 SECTION 7. Section 25J½ of chapter 111 of the General Laws, as appearing in the 2022 
+141 Official Edition, is hereby amended by inserting after the first paragraph the following 
+142 paragraph:- 
+143 Upon discharge of a patient from an acute care hospital or satellite emergency facility 
+144 who has: (i) a history of or is actively using opioids; (ii) been diagnosed with opioid use 
+8 of 30 
+145 disorder; or (iii) experienced an opioid-related overdose, the acute care hospital or satellite 
+146 emergency facility shall educate the patient on the use of opioid antagonists, as defined in section 
+147 19B of chapter 94C, and prescribe or dispense not less than 2 doses of an opioid antagonist to the 
+148 patient or a legal guardian and notify the patient’s primary care physician or preferred care 
+149 provider, if known and in consultation with the patient, of the prescribed or dispensed opioid 
+150 antagonist. 
+151 SECTION 8. Said chapter 111, as so appearing, is hereby amended by inserting after 
+152 section 110C the following section:- 
+153 Section 110D. (a) The department shall collect and provide data to the department of 
+154 children and families and the office of the child advocate on all births of infants affected by 
+155 prenatal substance exposure in a form and manner consistent with any requirements of the 
+156 federal Child Abuse Prevention and Treatment Act; provided, that said data shall not include 
+157 personally identifiable information. 
+158 (b) Annually, not later than April 1, the department, in consultation with the department 
+159 of children and families and the office of the child advocate, shall file with the clerks of the 
+160 house of representatives and the senate, the house and senate committees on ways and means, the 
+161 joint committee on children, families and person with disabilities and the joint committee on 
+162 mental health, substance use and recovery a report, along with any recommendations, examining 
+163 the prevalence of births of infants identified as affected by prenatal substance exposure or fetal 
+164 alcohol spectrum disorder, including, but not limited to: (i) any gaps in services for perinatal 
+165 patients or such infants; (ii) an examination of child abuse and neglect reports related to an 
+166 infant’s prenatal exposure to substances, including those that were ultimately screened out by the 
+9 of 30 
+167 department of children and families; (iii) an examination of child abuse and neglect reports made 
+168 pursuant to section 51A of chapter 119 related to an infant’s prenatal exposure to substances; and 
+169 (iv) any recommended changes, including legislative or regulatory changes, that may be 
+170 necessary to ensure the ongoing health, safety and wellbeing of perinatal patients and infants. If 
+171 applicable, the department, in consultation with the department of children and families and the 
+172 office of the child advocate, shall provide recommendations to address disparate impacts of the 
+173 safety and wellbeing of infants identified as affected by prenatal substance exposure or fetal 
+174 alcohol spectrum disorder. 
+175 SECTION 9. Section 7 of chapter 111E of the General Laws, as so appearing, is hereby 
+176 amended by inserting after the word “basis”, in line 28, the following words:- , as determined by 
+177 the department to be consistent with section 4 of chapter 151B and sufficient to ensure the needs 
+178 of such residents are met and such residents have adequate access to such a facility,. 
+179 SECTION 10. The General Laws are hereby amended by striking out chapter 111J and 
+180 inserting in place thereof the following chapter:- 
+181 CHAPTER 111J 
+182 ALCOHOL AND DRUG COUNSELORS; RECOVERY COACHES. 
+183 Section 1. As used in this chapter, the following words shall, unless the context clearly 
+184 requires otherwise, have the following meanings: 
+185 “Applicant”, an individual seeking licensure under this chapter. 
+10 of 30 
+186 “Approved continuing education”, continuing education approved by the department, 
+187 including research and training programs, college and university courses, in-service training 
+188 programs, seminars and conferences designed to maintain and enhance the skills of licensees. 
+189 “Approved program”, a program approved by the department for the education and 
+190 training of licensees. 
+191 “Approved work experience”, supervised work experience, approved by the department, 
+192 in the practice area for which an applicant seeks licensure. 
+193 “Department”, the department of public health. 
+194 “Licensee”, an individual who is licensed under this chapter. 
+195 “Licensed alcohol and drug counselor I”, a person licensed by the department to conduct 
+196 an independent practice of alcohol and drug counseling and to provide supervision to other 
+197 alcohol and drug counselors. A licensed alcohol and drug counselor I shall have: (i) received a 
+198 master’s or doctoral degree in behavioral sciences, which included a supervised counseling 
+199 practicum that meets the requirements established by the department or such equivalent 
+200 educational credits as may be established by the department; (ii) at least 3 years of approved 
+201 work experience; and (iii) passed a licensing examination approved by the department. 
+202 “Licensed alcohol and drug counselor II”, a person licensed by the department to practice 
+203 alcohol and drug counseling under clinical supervision. A licensed alcohol and drug counselor II 
+204 shall have: (i) completed an approved program of education, which included a supervised 
+205 counseling practicum that meets the requirements established by the department or such 
+11 of 30 
+206 equivalent educational credits as may be established by the department; (ii) at least 3 years of 
+207 approved work experience; and (iii) passed a licensing examination approved by the department. 
+208 “Licensed recovery coach”, a person with lived experience who is licensed by the 
+209 department to practice recovery coaching using shared understanding, respect and mutual 
+210 empowerment to help others become and stay engaged in the process of recovery from a 
+211 substance use disorder. A licensed recovery coach shall: (i) have completed an approved 
+212 program of education, including approved work experience that meets the requirements 
+213 established by the department; (ii) demonstrate at least 2 years of sustained recovery; and (iii) 
+214 have met all education, training and experience requirements and qualifications as established by 
+215 the department. 
+216 “Lived experience”, the experience of addiction and recovery from a substance use 
+217 disorder. 
+218 Section 2. (a) The department shall establish and administer a program for the licensure 
+219 of alcohol and drug counselors and recovery coaches. The department shall: (i) establish the 
+220 licensure requirements for licensed alcohol and drug counselors practicing in the commonwealth; 
+221 (ii) establish the licensure requirements for licensed recovery coaches practicing in the 
+222 commonwealth; (iii) evaluate the qualifications of applicants for licensure; (iv) supervise 
+223 licensing examinations, where applicable; (v) establish and collect fees for licensing and 
+224 examination, where applicable; (vi) grant and issue licenses to applicants who satisfy the 
+225 department’s requirements for licensure; (vii) establish continuing education requirements; (viii) 
+226 investigate complaints; (ix) take appropriate disciplinary action to protect the public health, 
+12 of 30 
+227 safety and welfare; and (x) perform other functions and duties as may be necessary to carry out 
+228 this chapter. 
+229 (b) The department shall establish requirements for licensed alcohol and drug counselors 
+230 I and licensed alcohol and drug counselors II and may establish other reasonable classifications 
+231 for alcohol and drug counselors as it finds necessary and appropriate, taking into consideration 
+232 different levels of education, training and work experience. 
+233 (c) The department shall establish requirements for licensed recovery coaches, including, 
+234 but not limited to, establishing an ethical code of conduct for recovery coaches, and may 
+235 establish other reasonable classifications for recovery coaches as it finds necessary and 
+236 appropriate, taking into consideration different levels of education, training and work experience. 
+237 (d) The department shall approve and issue certificates of approval of programs for the 
+238 training of alcohol and drug counselors. The department shall maintain a list of approved 
+239 programs and a current roster of persons serving as licensed alcohol and drug counselors in the 
+240 commonwealth. 
+241 (e) The department shall approve and issue certificates of approval of programs for the 
+242 training of recovery coaches. The department shall maintain a list of approved programs and a 
+243 current roster of persons serving as licensed recovery coaches in the commonwealth. 
+244 (f) The department shall promulgate rules and regulations as it deems necessary to 
+245 implement the provisions of this chapter, including, but not limited to, rules and regulations 
+246 establishing the educational and professional requirements for licensing individuals under this 
+247 chapter, establishing fees for licensing and examination, where applicable, and governing the 
+248 practice and employment of licensees to promote the public health, safety and welfare. 
+13 of 30 
+249 Section 3. (a) Each applicant shall furnish the department with proof of satisfactory 
+250 completion of the educational, training and experience requirements for licensure, including 
+251 completion of an approved program and approved work experience and proof of having passed 
+252 any licensing examinations required by the department; provided, that the department may 
+253 establish additional requirements for licensure and exemptions by regulation. 
+254 (b) A licensee shall apply biennially to the department for license renewal. A licensee 
+255 seeking license renewal shall submit proof of having successfully completed the requirements for 
+256 approved continuing education as may be established by the department. 
+257 (c) Applications for licenses and renewals thereof shall be submitted in accordance with 
+258 procedures established by the department. The department may establish fees for license 
+259 applications or renewals. 
+260 Section 4. (a) Except as otherwise provided for in this chapter or by regulation of the 
+261 department, persons not licensed or otherwise exempt from licensing shall not hold themselves 
+262 out as a licensed recovery coach and shall not use the title, initials, abbreviations, insignia or 
+263 description of a licensed recovery coach or practice or attempt to practice recovery coaching 
+264 unless otherwise authorized by law or rule or regulation of the department. Whoever engages in 
+265 any such unauthorized action shall be subject to a fine of not less than $500. The department may 
+266 bring a petition in superior court to enjoin such action or any other violation of this chapter or a 
+267 regulation of the department. 
+268 (b) The following individuals pursuing a recovery coach license who meet the 
+269 requirements for licensed recovery coach applicants as set forth in this chapter or in rules or 
+14 of 30 
+270 regulations of the department may practice without a license in order to obtain the requisite hours 
+271 of supervised work experience needed to obtain such license: 
+272 (i) an educational psychologist, marriage and family therapist, alcohol and drug 
+273 counselor, mental health counselor, nurse practitioner, occupational therapist, physician, 
+274 physician assistant, practical nurse, psychologist, registered nurse, rehabilitation counselor or 
+275 social worker; 
+276 (ii) an employee or other agent of a recognized academic institution or employee 
+277 assistance program or a federal, state, county or local government institution, program, agency or 
+278 facility or school committee, school district, school board or board of regents while performing 
+279 recovery coach duties solely for the respective entity or under the jurisdiction and supervision of 
+280 such entity; and 
+281 (iii) an employee of a program or facility approved or licensed by the department 
+282 pursuant to chapters 111B and 111E; provided, however, that such individual shall perform 
+283 recovery coaching solely within or under the jurisdiction and supervision of such program or 
+284 facility. 
+285 (c) Nothing in this section shall be construed to prevent members of peer groups or self-
+286 help groups from performing peer counseling or self-help activities that may be included within 
+287 the practice recovery coaching; provided, however, that no members of peer groups or self-help 
+288 groups who are not so credentialed shall use a title stating or implying that such person is a 
+289 licensed recovery coach. 
+290 Section 5. (a) Except as otherwise provided for in this chapter or by regulation, a person 
+291 who is not licensed or is otherwise exempt from licensing shall not hold themself out as a 
+15 of 30 
+292 licensed alcohol and drug counselor and shall not use the title, initials or description of a licensed 
+293 alcohol and drug counselor or practice or attempt to practice alcohol and drug counseling. 
+294 Whoever engages in any such unauthorized action shall be subject to a fine of not less than $500. 
+295 The department may bring a petition in superior court to enjoin such action or any other violation 
+296 of this chapter or a regulation of the department. 
+297 (b) The following individuals shall be exempt from the licensing requirements for alcohol 
+298 and drug counseling under this chapter: 
+299 (i) an educational psychologist, marriage and family therapist, mental health counselor, 
+300 nurse practitioner, occupational therapist, physician, physician assistant, practical nurse, 
+301 psychologist, registered nurse, rehabilitation counselor and social worker; 
+302 (ii) an employee or other agent of a recognized academic institution or employee 
+303 assistance program or a federal, state, county or local government institution, program, agency or 
+304 facility or school committee, school district, school board or board of regents while performing 
+305 alcohol and drug counseling duties solely for the respective entity or under the jurisdiction of 
+306 such entity; provided, however, that a license pursuant to this chapter need not be a requirement 
+307 for employment in any state, county or municipal agency; and 
+308 (iii) an employee of a treatment program or facility licensed or approved by the 
+309 department pursuant to chapters 111B and 111E; provided, however, that such individual shall 
+310 perform alcohol and drug counseling solely within or under the jurisdiction of such program or 
+311 facility. 
+312 (c) Nothing in this section shall be construed to prevent qualified members of other 
+313 professions, including attorneys, Christian Science practitioners or members of the clergy, from 
+16 of 30 
+314 providing alcohol or drug counseling consistent with accepted standards of their respective 
+315 professions; provided, however, that no such person shall use a title stating or implying that such 
+316 person is a licensed alcohol and drug counselor. 
+317 (d) Nothing in this section shall be construed to prevent members of peer groups or self-
+318 help groups from performing peer group or self-help activities; provided, however, that no such 
+319 person shall use a title stating or implying that such person is a licensed alcohol and drug 
+320 counselor. 
+321 Section 6. (a) The department shall establish procedures for consumers to file written 
+322 complaints regarding an individual licensed under this chapter. The department shall investigate 
+323 all complaints relating to the proper practice of a person holding a license under this chapter and 
+324 all complaints relating to any violation of this chapter or regulation of the department. 
+325 (b) The department may conduct an adjudicatory proceeding pursuant to chapter 30A, but 
+326 shall not have the power to issue, vacate, modify or enforce subpoenas pursuant to section 12 of 
+327 chapter 30A. The department may, after a hearing pursuant to chapter 30A, deny, refuse renewal, 
+328 revoke, limit or suspend a license or otherwise discipline a licensee; provided, however, the 
+329 department may suspend the license of a licensee who poses an imminent danger to the public; 
+330 provided further, that the licensee shall be afforded a hearing within 7 business days to determine 
+331 whether the action is warranted; and provided further, that the department shall conduct its 
+332 proceedings in accordance with the provisions of this chapter and said chapter 30A. Grounds for 
+333 denial, refusal to renew, revocation, limitation, suspension or other discipline shall include the 
+334 following: 
+335 (i) fraud or misrepresentation in obtaining a license; 
+17 of 30 
+336 (ii) criminal conduct which the department determines to be of such a nature as to render 
+337 such person unfit to practice as licensed as evidenced by criminal proceedings resulting in a 
+338 conviction, guilty plea or plea of nolo contendere or an admission of sufficient facts; 
+339 (iii) violation of any law or rule or regulation of the department governing the practice of 
+340 the licensee; 
+341 (iv) violation of ethical standards which the department determines to be of such a nature 
+342 as to render such person unfit to practice as a licensee; or 
+343 (v) other just and sufficient cause that the department determines would render a person 
+344 unfit to practice as a licensee. 
+345 (c) Where denial, refusal to renew, revocation or suspension is based solely on the failure 
+346 of the licensee to timely file an application or pay prescribed fees or to maintain insurance 
+347 coverage as required by law or regulation, the department may act without first granting the 
+348 applicant or licensee a hearing. 
+349 Section 7. (a) Examinations for licensure, where applicable, shall be conducted at least 
+350 twice per year at times and places designated by the department. Examinations for licensure, 
+351 where applicable, shall be written; provided, however, that portions thereof may be conducted 
+352 orally. A person who has failed an examination may be admitted to the next subsequent 
+353 examination. 
+354 (b) The department may accept, in lieu of its own examination, a current certificate of 
+355 any recognized certifying body issued on the basis of an examination satisfactory to the 
+18 of 30 
+356 department; provided, however, that the standards of such body shall be at least as stringent as 
+357 those established by the department. 
+358 Section 8. (a) The department may issue a license without examination to an applicant 
+359 who meets the requirements for licensure established by the department if such applicant is 
+360 licensed or certified in alcohol and drug counseling or in recovery coaching or a comparable 
+361 field in another state wherein the requirements for licensure shall be deemed by the department 
+362 to be equivalent to or in excess of the requirements of this chapter. 
+363 (b) The department may authorize an alcohol and drug counselor or a recovery coach to 
+364 practice by reciprocity. 
+365 (c) The department shall promulgate rules and regulations as may be necessary to 
+366 implement this section. 
+367 Section 9. (a) There shall be a recovery coach advisory council within the department to 
+368 assist and support the department in carrying out this chapter by planning, guiding and 
+369 coordinating the components of the practice of recovery coaching; provided, that the council may 
+370 advise the department on other such matters related to the practice of recovery coaching, the 
+371 practice of alcohol and drug counseling and the inclusion of people with lived experience in 
+372 guiding such practices. 
+373 (b) The advisory council shall consist of the following members: the director of the 
+374 bureau of substance addiction services, or a designee, who shall serve as chair; and 7 members 
+375 appointed by the secretary of health and human services, 4 of whom shall be employed as 
+376 recovery coaches, recovery coach supervisors or recovery coach educators and shall be, to the 
+377 extent possible, representative of the demographic diversity of the commonwealth, including, but 
+19 of 30 
+378 not limited to, diversity in race, ethnicity, gender, gender identity, sexual orientation, age, 
+379 disability, geographical region, workplace and history of involvement with the criminal legal 
+380 system, 1 of whom shall be a representative of the Massachusetts Board of Substance Abuse 
+381 Counselor Certification, 1 of whom shall represent a health plan and 1 of whom shall be a person 
+382 with lived experience who has received or is receiving recovery coaching services. Members of 
+383 the advisory council shall be residents of the commonwealth. 
+384 Section 10. The bureau of substance addiction services shall establish a comprehensive 
+385 peer support program to provide mentorship, technical assistance and support resources for the 
+386 wellbeing of recovery coaches, including, but not limited to, peer support specialists, peer 
+387 recovery coaches and recovery support navigators. The program shall include, but shall not be 
+388 limited to: (i) a network for peer-to-peer trainings, education, mentorship, counseling and 
+389 support; (ii) educational and other clinical support materials; (iii) technical assistance for 
+390 licensure, certification, credentialing and other employment and practice requirements; and (iv) 
+391 billing technical assistance for organizations that employ recovery coaches. 
+392 SECTION 11. Chapter 118E of the General Laws is hereby amended by inserting after 
+393 section 10Q the following 2 sections:- 
+394 Section 10R. The division and its contracted health insurers, health plans, health 
+395 maintenance organizations, behavioral health management firms and third-party administrators 
+396 under contract to a Medicaid managed care organization, accountable care organization or 
+397 primary care clinician plan shall provide coverage for prescribed or dispensed opioid antagonists, 
+398 as defined in section 19B of chapter 94C, which shall be deemed medically necessary and shall 
+399 not require prior authorization; provided, however, that a prescription from a health care 
+20 of 30 
+400 practitioner shall not be required for coverage of opioid antagonists. An opioid antagonist shall 
+401 not be subject to any deductible, coinsurance, copayments or out-of-pocket limits; provided, 
+402 however, that cost-sharing shall be required if the applicable plan is governed by the federal 
+403 Internal Revenue Code and would lose its tax-exempt status as a result of the prohibition on cost-
+404 sharing for this service. 
+405 (b) The division and its contracted health insurers, health plans, health maintenance 
+406 organizations, behavioral health management firms and third-party administrators shall provide 
+407 coverage for an opioid antagonist as a medical benefit when dispensed by the health care facility 
+408 in which the opioid antagonist was prescribed and shall provide coverage as a pharmacy benefit 
+409 for an opioid antagonist dispensed by a pharmacist, including an opioid antagonist dispensed 
+410 pursuant to section 19B of chapter 94C. 
+411 Section 10S. The division and its contracted health insurers, health plans, health 
+412 maintenance organizations, behavioral health management firms and third-party administrators 
+413 under contract to a Medicaid managed care organization, accountable care organization or 
+414 primary care clinician plan shall provide coverage for the provision of services by a recovery 
+415 coach licensed or otherwise authorized to practice pursuant to chapter 111J, irrespective of the 
+416 setting in which these services are provided; provided, that such services shall be within the 
+417 lawful scope of practice of a recovery coach. The benefits in this section shall not be subject to 
+418 any deductible, coinsurance, copayments or out-of-pocket limits; provided, however, that cost-
+419 sharing shall be required if the applicable plan is governed by the federal Internal Revenue Code 
+420 and would lose its tax-exempt status as a result of the prohibition on cost-sharing for this service. 
+421 Recovery coach services shall be deemed medically necessary and shall not require prior 
+422 authorization. 
+21 of 30 
+423 SECTION 12. Subsection (a) of section 51A of chapter 119 of the General Laws, as 
+424 appearing in the 2022 Official Edition, is hereby amended by striking out the first paragraph and 
+425 inserting in place thereof the following paragraph:- 
+426 A mandated reporter shall immediately communicate with the department orally and 
+427 shall, within 48 hours, file a written report with the department detailing suspected abuse or 
+428 neglect if, in their professional capacity, they have reasonable cause to believe that a child is: (i) 
+429 suffering physical or emotional injury resulting from abuse inflicted upon them which causes 
+430 harm or substantial risk of harm to the child’s health or welfare including, but not limited to, 
+431 sexual abuse; (ii) suffering physical or emotional injury resulting from neglect including, but not 
+432 limited to, malnutrition; (iii) a sexually exploited child; or (iv) a human trafficking victim, as 
+433 defined by section 20M of chapter 233. 
+434 SECTION 13. Section 1 of chapter 151B of the General Laws, as so appearing, is hereby 
+435 amended by striking out subsection 17 and inserting in place thereof the following subsection:- 
+436 17. The term “handicap” means: (a) a physical or mental impairment which substantially 
+437 limits 1 or more major life activities of a person; (b) a record of having such impairment; (c) 
+438 being regarded as having such impairment; or (d) the lawful possession and clinically 
+439 appropriate taking of any medication that is: (i) approved by the federal Food and Drug 
+440 Administration for the treatment of an opioid-related substance use disorder, including, but not 
+441 limited to, an opioid agonist or a partial opioid agonist and used for the treatment of an opioid-
+442 related substance use disorder; (ii) obtained directly or pursuant to a valid prescription or order 
+443 from a practitioner, as defined in section 1 of chapter 94C; (iii) determined to be medically 
+444 necessary by a practitioner while acting in the course of professional practice; and (iv) offered in 
+22 of 30 
+445 accordance with a treatment plan that is reviewed by a practitioner at a frequency consistent with 
+446 appropriate clinical standards. The term handicap shall not include current, illegal use of a 
+447 controlled substance, as defined in said section 1 of said chapter 94C. For the purposes of this 
+448 subsection, the words “clinically appropriate” shall mean the taking of a prescribed medication 
+449 for the treatment of an opioid-related substance use disorder when such drug is medically 
+450 indicated and intake is proportioned to the medical need. 
+451 SECTION 14. Chapter 175 of the General Laws is hereby amended by inserting after 
+452 section 47UU the following 2 sections:- 
+453 Section 47VV. Any policy, contract, agreement, plan or certificate of insurance issued, 
+454 delivered or renewed within the commonwealth, which is considered creditable coverage under 
+455 section 1 of chapter 111M, shall provide coverage for prescribed or dispensed opioid antagonists, 
+456 as defined in section 19B of chapter 94C, which shall be deemed medically necessary and shall 
+457 not require prior authorization; provided, however, that a prescription from a health care 
+458 practitioner shall not be required for coverage of opioid antagonists. An opioid antagonist shall 
+459 not be subject to any deductible, coinsurance, copayments or out-of-pocket limits; provided, 
+460 however, that cost-sharing shall be required if the applicable plan is governed by the federal 
+461 Internal Revenue Code and would lose its tax-exempt status as a result of the prohibition on cost-
+462 sharing for this service. 
+463 (b) The policy, contract, agreement, plan or certificate of insurance shall provide 
+464 coverage for an opioid antagonist as a medical benefit when dispensed by the health care facility 
+465 in which the opioid antagonist was prescribed and shall provide coverage as a pharmacy benefit 
+23 of 30 
+466 for an opioid antagonist dispensed by a pharmacist, including an opioid antagonist dispensed 
+467 pursuant to section 19B of chapter 94C. 
+468 Section 47WW. Any policy, contract, agreement, plan or certificate of insurance issued, 
+469 delivered or renewed within the commonwealth, which is considered creditable coverage under 
+470 section 1 of chapter 111M, shall provide coverage for the provision of services by a recovery 
+471 coach licensed or otherwise authorized to practice under chapter 111J, irrespective of the setting 
+472 in which these services are provided; provided, that such services shall be within the lawful 
+473 scope of practice of a recovery coach. The contractual rate for these services shall be no less than 
+474 the prevailing MassHealth rate for recovery coach services. The benefits in this section shall not 
+475 be subject to any deductible, coinsurance, copayments or out-of-pocket limits; provided, 
+476 however, that cost-sharing shall be required if the applicable plan is governed by the federal 
+477 Internal Revenue Code and would lose its tax-exempt status as a result of the prohibition on cost-
+478 sharing for this service. Recovery coach services shall be deemed medically necessary and shall 
+479 not require prior authorization. 
+480 SECTION 15. Said chapter 175 is hereby further amended by inserting after section 
+481 122A the following section:- 
+482 Section 122B. (a) No insurer authorized to issue policies on the lives of persons in the 
+483 commonwealth shall make a distinction or otherwise discriminate between persons, reject an 
+484 applicant, cancel a policy or demand or require a higher rate of premium for reasons based solely 
+485 upon an applicant or insured having or had a prescription for, purchased or otherwise possessed 
+486 an opioid antagonist, as defined in section 19B of chapter 94C. 
+24 of 30 
+487 (b) A violation of this section shall constitute an unfair method of competition or unfair 
+488 and deceptive act or practice pursuant to chapters 93A and 176D. 
+489 SECTION 16. Chapter 176A of the General Laws is hereby amended by inserting after 
+490 section 8VV the following 2 sections:- 
+491 Section 8WW. Any contract between a subscriber and the corporation under an 
+492 individual or group hospital service plan that is delivered, issued or renewed within the 
+493 commonwealth shall provide coverage for prescribed or dispensed opioid antagonists, as defined 
+494 in section 19B of chapter 94C, which shall be deemed medically necessary and shall not require 
+495 prior authorization; provided, however, that a prescription from a health care practitioner shall 
+496 not be required for coverage of opioid antagonists. An opioid antagonist shall not be subject to 
+497 any deductible, coinsurance, copayments or out-of-pocket limits; provided, however, that cost-
+498 sharing shall be required if the applicable plan is governed by the federal Internal Revenue Code 
+499 and would lose its tax-exempt status as a result of the prohibition on cost-sharing for this service. 
+500 (b) Such contract shall provide coverage for an opioid antagonist as a medical benefit 
+501 when dispensed by the health care facility in which the opioid antagonist was prescribed and 
+502 shall provide coverage as a pharmacy benefit for an opioid antagonist dispensed by a pharmacist, 
+503 including an opioid antagonist dispensed pursuant to section 19B of chapter 94C. 
+504 Section 8XX. Any contract between a subscriber and the corporation under an individual 
+505 or group hospital service plan that is delivered, issued or renewed within the commonwealth 
+506 shall provide coverage for the provision of services by a recovery coach licensed or otherwise 
+507 authorized to practice under chapter 111J, irrespective of the setting in which these services are 
+508 provided; provided, that such services shall be within the lawful scope of practice of a recovery 
+25 of 30 
+509 coach. The contractual rate for these services shall be no less than the prevailing MassHealth rate 
+510 for recovery coach services. The benefits in this section shall not be subject to any deductible, 
+511 coinsurance, copayments or out-of-pocket limits; provided, however, that cost-sharing shall be 
+512 required if the applicable plan is governed by the federal Internal Revenue Code and would lose 
+513 its tax-exempt status as a result of the prohibition on cost-sharing for this service. Recovery 
+514 coach services shall be deemed medically necessary and shall not require prior authorization. 
+515 SECTION 17. Chapter 176B of the General Laws is hereby amended by inserting after 
+516 section 4VV the following 2 sections:- 
+517 Section 4WW. Any subscription certificate under an individual or group medical service 
+518 agreement delivered, issued or renewed within the commonwealth, shall provide coverage for 
+519 prescribed or dispensed opioid antagonists, as defined in section 19B of chapter 94C, which shall 
+520 be deemed medically necessary and shall not require prior authorization; provided, however, that 
+521 a prescription from a health care practitioner shall not be required for coverage of opioid 
+522 antagonists. An opioid antagonist shall not be subject to any deductible, coinsurance, 
+523 copayments or out-of-pocket limits; provided, however, that cost-sharing shall be required if the 
+524 applicable plan is governed by the federal Internal Revenue Code and would lose its tax-exempt 
+525 status as a result of the prohibition on cost-sharing for this service. 
+526 (b) The policy, contract, agreement, plan or certificate of insurance shall provide 
+527 coverage for an opioid antagonist as a medical benefit when dispensed by the health care facility 
+528 in which the opioid antagonist was prescribed and shall provide coverage as a pharmacy benefit 
+529 for an opioid antagonist dispensed by a pharmacist, including an opioid antagonist dispensed 
+530 pursuant to section 19B of chapter 94C. 
+26 of 30 
+531 Section 4XX. Any subscription certificate under an individual or group medical service 
+532 agreement delivered, issued or renewed within the commonwealth shall provide coverage for the 
+533 provision of services by a recovery coach licensed or otherwise authorized to practice under 
+534 chapter 111J, irrespective of the setting in which these services are provided; provided, that such 
+535 services shall be within the lawful scope of practice of a recovery coach. The contractual rate for 
+536 these services shall be no less than the prevailing MassHealth rate for recovery coach services. 
+537 The benefits in this section shall not be subject to any deductible, coinsurance, copayments or 
+538 out-of-pocket limits; provided, however, that cost-sharing shall be required if the applicable plan 
+539 is governed by the federal Internal Revenue Code and would lose its tax-exempt status as a result 
+540 of the prohibition on cost-sharing for this service. Recovery coach services shall be deemed 
+541 medically necessary and shall not require prior authorization. 
+542 SECTION 18. Chapter 176G of the General Laws is hereby amended by inserting after 
+543 section 4NN the following 2 sections:- 
+544 Section 4OO. An individual or group health maintenance contract that is issued or 
+545 renewed within or without the commonwealth shall provide coverage for prescribed or dispensed 
+546 opioid antagonists, as defined in section 19B of chapter 94C, which shall be deemed medically 
+547 necessary and shall not require prior authorization; provided, however, that a prescription from a 
+548 health care practitioner shall not be required for coverage of opioid antagonists. An opioid 
+549 antagonist shall not be subject to any deductible, coinsurance, copayments or out-of-pocket 
+550 limits; provided, however, that cost-sharing shall be required if the applicable plan is governed 
+551 by the federal Internal Revenue Code and would lose its tax-exempt status as a result of the 
+552 prohibition on cost-sharing for this service. 
+27 of 30 
+553 (b) The individual or group health maintenance contract shall provide coverage for an 
+554 opioid antagonist as a medical benefit when dispensed by the health care facility in which the 
+555 opioid antagonist was prescribed and shall provide coverage as a pharmacy benefit for an opioid 
+556 antagonist dispensed by a pharmacist, including an opioid antagonist dispensed pursuant to 
+557 section 19B of chapter 94C. 
+558 Section 4PP. An individual or group health maintenance contract that is issued or 
+559 renewed within or without the commonwealth shall provide coverage for the provision of 
+560 services by a recovery coach licensed or otherwise authorized to practice under chapter 111J, 
+561 irrespective of the setting in which these services are provided; provided, that such services shall 
+562 be within the lawful scope of practice of a recovery coach. The contractual rate for these services 
+563 shall be no less than the prevailing MassHealth rate for recovery coach services. The benefits in 
+564 this section shall not be subject to any deductible, coinsurance, copayments or out-of-pocket 
+565 limits; provided, however, that cost-sharing shall be required if the applicable plan is governed 
+566 by the federal Internal Revenue Code and would lose its tax-exempt status as a result of the 
+567 prohibition on cost-sharing for this service. Recovery coach services shall be deemed medically 
+568 necessary and shall not require prior authorization. 
+569 SECTION 19. (a) The department of children and families, in consultation with the 
+570 department of public health and the office of the child advocate, shall promulgate regulations or 
+571 issue further guidance for the requirements of health care providers involved in the delivery or 
+572 care of infants identified as being affected by prenatal substance exposure or fetal alcohol 
+573 spectrum disorder. The regulations or guidance shall include, but shall not be limited to: (i) 
+574 factors for determining instances in which prenatal substance exposure from a medication 
+575 prescribed by a licensed health care provider require filing a report pursuant to section 51A of 
+28 of 30 
+576 chapter 119 of the General Laws; provided, that an indication of prenatal substance exposure 
+577 shall not solely meet the requirements of said section 51A of said chapter 119; and (ii) the roles 
+578 and responsibilities of health care providers and staff who care for perinatal patients or newborns 
+579 pursuant to 42 U.S.C. § 5106a(b)(2)(B)(ii) and in accordance with the federal Child Abuse 
+580 Prevention and Treatment Act, 42 U.S.C. § 5101 et seq. and 42 U.S.C. § 5116 et seq., as 
+581 amended from time to time. 
+582 (b) Such regulations or guidance shall: (i) reflect current accepted standards of health 
+583 care and substance use treatment practices; (ii) conform to the reporting requirements under the 
+584 federal Child Abuse Prevention and Treatment Act, 42 U.S.C. § 5101 et seq. and 42 U.S.C. § 
+585 5116 et seq., as amended from time to time; and (iii) to the extent possible, reduce racial 
+586 disparities in maternal and child health care, reports of suspected child abuse or neglect under 
+587 said section 51A of said chapter 119 or the number of patients identified for plans of safe care 
+588 pursuant to the federal Child Abuse Prevention and Treatment Act, 42 U.S.C. § 5101 et seq. and 
+589 42 U.S.C. § 5116 et seq., as amended from time to time. 
+590 (c) Such regulations or guidance shall be developed with input from relevant 
+591 stakeholders, including, but not limited to: (i) medical professional associations and health care 
+592 providers with expertise in the provision of care to pregnant people; (ii) individuals who have 
+593 lived experience of seeking or receiving behavioral health services or treatment prior to, during 
+594 and after pregnancy; (iii) professional associations and organizations with expertise in prenatal 
+595 substance exposure, perinatal and child health, treatment of substance use disorder and racial 
+596 equity in access to health care; and (iv) behavioral health professionals with expertise in 
+597 providing culturally-competent care. 
+29 of 30 
+598 SECTION 20. The bureau of substance addiction services within the department of 
+599 public health shall conduct a comprehensive review of barriers to certification, credentialing and 
+600 other employment and practice requirements of recovery coaches, including, but not limited to, 
+601 peer support specialists, peer recovery coaches and recovery support navigators, and issue a 
+602 report on its findings. The report shall include, but shall not be limited to: (i) cost barriers for 
+603 individuals with lived experience, including, but not limited to, application and examination fees 
+604 for initial certification and credentialing; (ii) cost barriers to certification and credentialing 
+605 renewals; (iii) cost and reimbursement barriers for hospitals and clinics licensed under chapter 
+606 111 of the General Laws and other employers to hire, train and retain recovery coaches, 
+607 including, but not limited to, peer support specialists, peer recovery coaches and recovery 
+608 support navigators; (iv) eligibility requirements for certification and credentialing; (v) access to 
+609 training programs and resources; and (vi) any additional barriers to obtaining and maintaining 
+610 authorization to practice recovery coaching. The report shall also include recommendations to 
+611 address said barriers. The bureau shall submit a copy of the report to the secretary of health and 
+612 human services, the clerks of the house of representatives and the senate and the joint committee 
+613 on mental health, substance use and recovery within 90 days of the effective date of this act. 
+614 SECTION 21. (a) The department of public health may issue a recovery coach license to 
+615 an applicant who: (i) is practicing in the commonwealth as a recovery coach as of the effective 
+616 date of this act; and (ii) applies for licensure within 1 year of the effective date of this act. The 
+617 lived experience requirement pursuant to section 1 of chapter 111J of the General Laws, as 
+618 inserted by section 10, shall be waived for applicants who were credentialed by the 
+619 Massachusetts Board of Substance Abuse Counselor Certification prior to the effective date of 
+620 this act. 
+30 of 30 
+621 (b) The department of public health shall issue a temporary recovery coach license to an 
+622 applicant who has received a Certified Addictions Recovery Coach certification, issued by the 
+623 Massachusetts Board of Substance Abuse Counselor Certification and provides satisfactory proof 
+624 for any test or examination that may be required for licensure; provided, that no temporary 
+625 license shall be valid for more than 2 years. The applicants eligible for a temporary license shall 
+626 meet all other qualifications and requirements for licensure as determined by the department of 
+627 public health. 
+628 (c) The department of public health shall promulgate rules or regulations for the 
+629 implementation of this section. 
+630 SECTION 22. No person shall be found to have violated section 4 of chapter 111J of the 
+631 General Laws, as inserted by section 10, until 6 months after the department of public health first 
+632 issues a recovery coach license pursuant to said section 4 of said chapter 111J. 
+633 SECTION 23. Not later than 18 months after the effective date of this act, the initial 
+634 report consistent with the report required pursuant to section 110D of chapter 111 of the General 
+635 Laws, as inserted by section 8, shall be filed by the department of public health, in consultation 
+636 with the department of children and families and the office of the child advocate, with the clerks 
+637 of the house of representatives and the senate, the house and senate committees on ways and 
+638 means, the joint committee on children, families and person with disabilities and the joint 
+639 committee on mental health, substance use and recovery examining the prevalence of births of 
+640 infants identified as being affected by prenatal substance exposure or fetal alcohol spectrum 
+641 disorder.

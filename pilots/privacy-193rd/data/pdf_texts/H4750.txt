@@ -1,0 +1,931 @@
+1 of 42 
+ FILED ON: 6/12/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4750 
+House bill No. 4672, as changed by the House committee on Bills in the Third Reading and as 
+amended and passed to be engrossed. June 12, 2024. 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act to ensure legal parentage equality. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1 SECTION 1. Section 4B of chapter 46 of the General Laws is hereby repealed. 
+2 SECTION 2. Section 13 of said chapter 46, as appearing in the 2022 Official Edition, is 
+3 hereby amended by striking out, in lines 53 to 56, inclusive, the words “paternity by a court or 
+4 administrative agency of competent jurisdiction in the commonwealth and the court orders the 
+5 state registrar to amend the birth certificate to include the information relating to the father” and 
+6 inserting in place thereof the following words:- parentage by a court or administrative agency of 
+7 competent jurisdiction in the commonwealth and the court orders the state registrar to originally 
+8 issue or to amend the birth certificate to include the information relating to the parentage of the 
+9 child. 
+10 SECTION 2A. Chapter 209C of the General Laws is hereby amended by striking out the 
+11 title, as so appearing, and inserting in place thereof the following title: NONMARITAL 
+12 CHILDREN AND PARENTAGE OF CHILDREN. 
+2 of 42 
+13 SECTION 3. Section 1 of said chapter 209C, as so appearing, is hereby amended by 
+14 inserting after the first sentence the following sentence:- Every child shall have the same rights 
+15 and protections under law to parentage without regard to the marital status, gender, gender 
+16 identity or sexual orientation of their parents or the circumstances of their birth, including 
+17 whether they were born as a result of assisted reproduction or surrogacy. 
+18 SECTION 4. Said section 1 of said chapter 209C, as so appearing, is hereby further 
+19 amended by striking out, in lines 7 and 8, 14, 15 and 17, the word “paternity”, each time it 
+20 appears, and inserting in place thereof, in each instance, the following word:- parentage.
+21 SECTION 5. Said section 1 of said chapter 209C, as so appearing, is hereby further 
+22 amended by striking out, in lines 11 and 20, the words “child born out of wedlock”, each time 
+23 they appear, and inserting in place thereof, in each instance, the following words:- nonmarital 
+24 child. 
+25 SECTION 6. Said section 1 of said chapter 209C, as so appearing, is hereby further 
+26 amended by striking out, in lines 11 and 12, the words “a man and woman” and inserting in place 
+27 thereof the following word:- persons. 
+28 SECTION 7. Said section 1 of said chapter 209C, as so appearing, is hereby further 
+29 amended by striking out, in lines 20 and 25, the word “his”, each time it appears, and inserting in 
+30 place thereof, in each instance, the following word:- their. 
+31 SECTION 8. Said chapter 209C is hereby further amended by inserting after section 1 the 
+32 following section:- 
+33 Section 1A. For purposes of this chapter, unless the context clearly indicates otherwise, 
+34 the following terms shall have the following meanings: 
+3 of 42 
+35 “Acknowledged parent”, a person who has established a parent-child relationship through 
+36 a voluntary acknowledgement of parentage. 
+37 “Adjudicated parent”, a person who has been adjudicated to be a parent of a child by a 
+38 court with jurisdiction. 
+39 “Alleged genetic parent”, a person who is alleged to be or alleges to be a genetic parent 
+40 of a child whose parentage has not been adjudicated. The term includes a putative parent, an 
+41 alleged genetic father and an alleged genetic mother. The term does not include a presumed 
+42 parent, an individual whose parental rights have been terminated or declared not to exist, or a 
+43 donor as defined in section 27. 
+44 “Assisted reproduction”, a method of causing pregnancy other than sexual intercourse, 
+45 which includes, but is not limited to, artificial insemination, intrauterine, intracervical or vaginal 
+46 insemination, donation of gametes or embryos, in vitro fertilization and transfer of embryos, and 
+47 intracytoplasmic sperm injection. 
+48 “Donor”, a person who provides a gamete or embryo intended for use in assisted 
+49 reproduction or gestation, whether or not for consideration; provided, however, that this term 
+50 does not include a person who consents to assisted reproduction with the intent to be a parent of 
+51 the resulting child. 
+52 “Genetic surrogacy agreement”, a surrogacy agreement involving a genetic surrogate. 
+53 “Genetic surrogate”, a person who is not an intended parent and agrees to become 
+54 pregnant through assisted reproduction using their own gamete under a genetic surrogacy 
+55 agreement as provided in this chapter. 
+4 of 42 
+56 “Gestational surrogacy agreement”, a surrogacy agreement involving a gestational 
+57 surrogate. 
+58 “Gestational surrogate”, a person who is not an intended parent and agrees to become 
+59 pregnant through assisted reproduction using gametes that are not their own under a gestational 
+60 surrogacy agreement as provided in this chapter. 
+61 “Intended parent”, a person, whether married or unmarried, who manifests an intent to be 
+62 legally bound as a parent of a child resulting from assisted reproduction. 
+63 “Nonmarital child”, any child born to persons who are not married to each other. 
+64 “Parent”, a person who has established parentage of a child through: (a) birth except as 
+65 otherwise provided in sections 28 to 28P, inclusive; (b) presumption pursuant to section 6; (c) 
+66 adjudication by a court of competent jurisdiction; (d) adoption pursuant to chapter 210; (e) 
+67 acknowledgement pursuant to section 11; (f) de facto parentage pursuant to section 25; (g) 
+68 assisted reproduction pursuant to section 27; or (h) surrogacy pursuant to sections 28 to 28P, 
+69 inclusive. 
+70 “Parentage” or “parent-child relationship”, the legal relationship between a child and a 
+71 parent of the child. 
+72 “Presumed parent”, a person who under section 6 is presumed to be a parent of a child, 
+73 unless the presumption is overcome in a judicial proceeding, a valid denial of parentage is made 
+74 under section 11 or a court adjudicates the person to be a parent. 
+75 “Surrogacy agreement”, an agreement between 1 or more intended parents and a person 
+76 who is not an intended parent in which that person agrees to become pregnant through assisted 
+5 of 42 
+77 reproduction and which provides that each intended parent is a parent of a child conceived under 
+78 the agreement. 
+79 “Surrogate”, a genetic surrogate or gestational surrogate. 
+80 SECTION 9. Section 2 of said chapter 209C, as appearing in the 2022 Official Edition, is 
+81 hereby amended by striking out, in line 1, the word “Paternity” and inserting in place thereof the 
+82 following word:- Parentage. 
+83 SECTION 10. Said section 2 of said chapter 209C, as so appearing, is hereby further 
+84 amended by striking out, in lines 5, 6, 12, 13, 16 and 18, the word “paternity”, each time it 
+85 appears, and inserting in place thereof, in each instance, the following word:- parentage. 
+86 SECTION 11. Section 3 of said chapter 209C, as so appearing, is hereby amended by 
+87 striking out, in lines 3, 7, 32, 35 and 36 and 51, the word “paternity”, each time it appears, and 
+88 inserting in place thereof, in each instance, the following word:- parentage. 
+89 SECTION 12. Said section 3 of said chapter 209C, as so appearing, is hereby further 
+90 amended by inserting after the word “parentage”, in line 4, the following words:- under this 
+91 chapter. 
+92 SECTION 13. Said section 3 of said chapter 209C, as so appearing, is hereby further 
+93 amended by striking out, in line 13, the word “his” and inserting in place thereof the following 
+94 word:- their. 
+95 SECTION 14. Section 4 of said chapter 209C, as so appearing, is hereby amended by 
+96 striking out, in lines 1 and 11, the word “paternity”, each time it appears, and inserting in place 
+97 thereof, in each instance, the following word:- parentage. 
+6 of 42 
+98 SECTION 15. Section 5 of said chapter 209C, as so appearing, is hereby amended by 
+99 striking out, in lines 1 and 2, 19, 55, 60 and 62, the word “paternity”, each time it appears, and 
+100 inserting in place thereof, in each instance, the following word:- parentage. 
+101 SECTION 16. Said section 5 of said chapter 209C, as so appearing, is hereby further 
+102 amended by striking out, in line 3, the word “mother” and inserting in place thereof the following 
+103 words:- person who gave birth. 
+104 SECTION 17. Said section 5 of said chapter 209C, as so appearing, is hereby further 
+105 amended by striking out, in lines 4 and 9, the word “father”, each time it appears, and inserting in 
+106 place thereof, in each instance, the following words:- other parent. 
+107 SECTION 18. Said section 5 of said chapter 209C, as so appearing, is hereby further 
+108 amended by striking out, in lines 4 and 21, the word “himself”, each time it appears, and 
+109 inserting in place thereof, in each instance, the following word:- themselves. 
+110 SECTION 19. Said section 5 of said chapter 209C, as so appearing, is hereby further 
+111 amended by striking out, in line 7, the words “mother if the mother” and inserting in place 
+112 thereof the following words:- person who gave birth if that person. 
+113 SECTION 20. Said section 5 of said chapter 209C, as so appearing, is hereby further 
+114 amended by striking out, in line 17, the words “mother of the child” and inserting in place 
+115 thereof the following words:- person who gave birth. 
+116 SECTION 21. Said section 5 of said chapter 209C, as so appearing, is hereby further 
+117 amended by striking out, in lines 21 and 22, the words “father unless he is or was the mother’s 
+7 of 42 
+118 husband” and inserting in place thereof the following words:- parent unless they are or were the 
+119 spouse. 
+120 SECTION 22. Said section 5 of said chapter 209C, as so appearing, is hereby further 
+121 amended by striking out subsection (b) and inserting in place thereof the following subsection:- 
+122 (b) Voluntary acknowledgments of parentage may be executed by the person who gave 
+123 birth and either an alleged genetic parent, presumed parent or intended parent as provided in this 
+124 chapter, whether either or both is a minor, and may be registered pursuant to section 11 only if 
+125 the signatures of both signatories are notarized. If the person who gave birth to the child was or 
+126 is married and the child’s birth occurs during the marriage or within 300 days of its termination 
+127 by divorce, a voluntary acknowledgment of parentage naming the other parent may be executed 
+128 by the person who gave birth and the other parent only if the person who gave birth and their 
+129 spouse or former spouse at the time of the child’s birth or conception sign an affidavit denying 
+130 that the spouse is the parent of the child; provided, however, that where the marriage has been 
+131 terminated by annulment or by the death of either spouse, parentage of the other parent may only 
+132 be established by filing a complaint to establish parentage as provided in this chapter. Prior to 
+133 signing a voluntary acknowledgment of parentage at the hospital or thereafter at the office of the 
+134 city or town clerk as part of the birth registration process pursuant to section 3C of chapter 46, 
+135 with the department of transitional assistance, with the IV–D agency set forth in chapter 119A, 
+136 with any agency designated by the federal Secretary of Health and Human Services or with any 
+137 official of a court, a person who gave birth and the other parent shall receive notice orally, or 
+138 through the use of video or audio equipment, and in writing of alternatives to signing the 
+139 acknowledgment, including the availability of genetic marker testing, as well as the benefits and 
+140 responsibilities with respect to child support, custody and visitation that may arise from signing 
+8 of 42 
+141 the acknowledgment, and subsequently filing the acknowledgment with the court or with the 
+142 registrar of vital records and statistics as provided in this chapter. 
+143 SECTION 23. Section 6 of said chapter 209C, as so appearing, is hereby amended by 
+144 striking out, in lines 1 and 2, the words “In all actions under this chapter a man is presumed to be 
+145 the father of a child and must be joined as a party” and inserting in place thereof the following 
+146 words:- A person is presumed to be the parent of a child and shall be joined as a party in all 
+147 actions under this chapter. 
+148 SECTION 24. Said section 6 of said chapter 209C, as so appearing, is hereby further 
+149 amended by striking out, in lines 3, 6, 11, 14, 16 and 18, the word “he”, each time it appears, and 
+150 inserting in place thereof, in each instance, the following words:- the person. 
+151 SECTION 25. Said section 6 of said chapter 209C, as so appearing, is hereby further 
+152 amended by striking out, in line 3, 7, 12 and 19, the word “mother”, each time it appears, and 
+153 inserting in place thereof, in each instance, the following words:- person who gave birth. 
+154 SECTION 26. Said section 6 of said chapter 209C, as so appearing, is hereby further 
+155 amended by striking out, in line 17, the word “paternity” and inserting in place thereof the 
+156 following word:- parentage. 
+157 SECTION 27. Said section 6 of said chapter 209C, as so appearing, is hereby further 
+158 amended by striking out, in lines 21 to 23, inclusive, the words “he has acknowledged paternity 
+159 in a parental responsibility claim as provided in section four A of chapter two hundred and ten 
+160 and the mother” and inserting in place thereof the following words:- the person has 
+161 acknowledged parentage in a parental responsibility claim as provided in section 4A of chapter 
+162 210 and the person who gave birth. 
+9 of 42 
+163 SECTION 28. Said section 6 of said chapter 209C, as so appearing, is hereby further 
+164 amended by striking out, in lines 25 to 27, inclusive, the words “his consent and the consent of 
+165 the child’s mother, he is named as the child’s father” and inserting in place thereof the following 
+166 words:- the person’s consent and the consent of the person who gave birth, the person is named 
+167 as the child’s parent. 
+168 SECTION 29. Said section 6 of said chapter 209C, as so appearing, is hereby further 
+169 amended by striking out subsection (b) and inserting in place thereof the following subsection:- 
+170 (b) Notwithstanding subsection (a), a spouse or former spouse shall not be required to be 
+171 joined as a party if that person’s non-parentage of the child has previously been adjudicated in a 
+172 proceeding between the spouse and the person who gave birth to the child in a court or 
+173 administrative agency of competent jurisdiction. 
+174 SECTION 30. Section 7 of said chapter 209C, as so appearing, is hereby amended by 
+175 striking out, in lines 3 and 4 and in line 8, the word “paternity”, each time it appears, and 
+176 inserting in place thereof, in each instance, the word:- parentage. 
+177 SECTION 31. Section 8 of said chapter 209C, as so appearing, is hereby amended by 
+178 striking out, in lines 1, 2, 5 and 15, the word “paternity”, each time it appears, and inserting in 
+179 place thereof, in each instance, the following word:- parentage. 
+180 SECTION 32. Said section 8 of said chapter 209C, as so appearing, is hereby further 
+181 amended by striking out, in line 4, the word “his” and inserting in place thereof the following 
+182 words:- the defendant’s. 
+10 of 42 
+183 SECTION 33. Said section 8 of said chapter 209C, as so appearing, is hereby further 
+184 amended by striking out, in line 7, the words “mother or putative father submits” and inserting in 
+185 place thereof the following words:- person who gave birth or alleged genetic parent submits 
+186 sufficient evidence of parentage, which may include evidence. 
+187 SECTION 34. Said section 8 of said chapter 209C, as so appearing, is hereby further 
+188 amended by striking out, in lines 12 and 13, the words “father or mother” and inserting in place 
+189 thereof the following word:- parent. 
+190 SECTION 35. Said section 8 of said chapter 209C, as so appearing, is hereby further 
+191 amended by striking out, in line 16, the word “mother” and inserting in place thereof the 
+192 following words:- person who gave birth. 
+193 SECTION 36. Section 9 of said chapter 209C, as so appearing, is hereby amended by 
+194 striking out, in line 21, the word “his” and inserting in place thereof the following words:- the 
+195 defendant’s. 
+196 SECTION 37. Said section 9 is hereby further amended by striking out, in line 27, the 
+197 word “mother” and inserting in place thereof the following words: another parent. 
+198 SECTION 38. Subsection (a) of section 10 of said chapter 209C, as so appearing, is 
+199 hereby amended by striking out the first paragraph and inserting in place thereof the following 
+200 paragraph:- 
+201 Upon or after an adjudication or voluntary acknowledgment of parentage, the court may 
+202 award custody to either parent or to them jointly or to another suitable person as hereafter further 
+203 specified as may be appropriate in the best interests of the child. 
+11 of 42 
+204 SECTION 39. Said section 10 of said chapter 209C, as so appearing, is hereby further 
+205 amended by striking out subsection (b) and inserting in place thereof the following subsection:- 
+206 (b) Prior to or in the absence of an adjudication or voluntary acknowledgment of 
+207 parentage, the person who gave birth shall have custody of a nonmarital child. In the absence of 
+208 an order or judgment of a probate and family court relative to custody, the person who gave birth 
+209 shall continue to have custody of a nonmarital child after an adjudication of parentage or 
+210 voluntary acknowledgment of parentage. 
+211 SECTION 40. Section 11 of said chapter 209C, as so appearing, is hereby amended by 
+212 striking out, in line 2, the words “putative father” and inserting in place thereof the following 
+213 words:- alleged genetic parent, presumed parent or intended parent. 
+214 SECTION 41. Said section 11 of said chapter 209C, as so appearing, is hereby further 
+215 amended by striking out, in line 3, the words “mother of” and inserting in place thereof the 
+216 following words:- person who gave birth to. 
+217 SECTION 42. Said section 11 of said chapter 209C, as so appearing, is hereby further 
+218 amended by striking out, in lines 7, 16, 20, 22 and 37, the word “paternity”, each time it appears, 
+219 and inserting in place thereof, in each instance, the following word:- parentage. 
+220 SECTION 43. Said section 11 of said chapter 209C, as so appearing, is hereby further 
+221 amended by striking out, in line 21, the words “by such putative father and mother”. 
+222 SECTION 44. Subsection (a) of said section 11 of said chapter 209C, as so appearing, is 
+223 hereby amended by striking out the tenth sentence and inserting in place thereof the following 
+224 sentence:- If either party rescinds the acknowledgment in a timely fashion and the basis of the 
+12 of 42 
+225 acknowledgment was genetic parentage, the court shall order genetic marker testing and proceed 
+226 to adjudicate parentage or nonparentage in accordance with this chapter; provided, however, that 
+227 the rescinded acknowledgment shall constitute the proper showing required for an order to 
+228 submit to such testing; and provided further, that the rescinded acknowledgment shall be 
+229 admissible as evidence of the alleged genetic parent’s parentage and shall serve as sufficient 
+230 basis for admitting the report of the results of genetic marker tests. 
+231 SECTION 45. Said section 11 of said chapter 209C, as so appearing, is hereby further 
+232 amended by striking out, in line 56, the word “nonpaternity” and inserting in place thereof the 
+233 following word:- nonparentage. 
+234 SECTION 46. Said section 11 of said chapter 209C, as so appearing, is hereby further 
+235 amended by striking out, in line 59, the words “a mother and father” and inserting in place 
+236 thereof the following word:- parents. 
+237 SECTION 47. Section 12 of said chapter 209C, as so appearing, is hereby amended by 
+238 striking out, in line 2, the word “paternity” and inserting in place thereof the following word:- 
+239 parentage. 
+240 SECTION 48. Section 13 of said chapter 209C, as so appearing, is hereby amended by 
+241 striking out, in lines 1 and 2, the words “paternity or in which paternity” and inserting in place 
+242 thereof the following words:- parentage or in which parentage. 
+243 SECTION 49. Said section 13 of said chapter 209C, as so appearing, is hereby further 
+244 amended by striking out, in lines 7 to 9, inclusive, the words “father is adjudicated not to be the 
+245 father of the child; provided, however, that the child, the child’s mother, the person adjudicated 
+246 to be the father” and inserting in place thereof the following words:- parent is adjudicated not to 
+13 of 42 
+247 be the parent of the child; provided, however, that the child, the person who gave birth to the 
+248 child, the person adjudicated to be the parent. 
+249 SECTION 50. Said chapter 209C is hereby further amended by striking out section 14 
+250 and inserting in place thereof the following section:- 
+251 Section 14. Except as otherwise provided in this chapter, an action to establish parentage 
+252 of a child may be instituted during pregnancy but shall only be filed by the person to give birth 
+253 or their representative or by the IV-D agency as set forth in chapter 119A on behalf of the person 
+254 to give birth. In the case of any complaint brought prior to the birth of the child, no final 
+255 judgment on the issue of parentage shall be made until after the birth of the child; provided, 
+256 however, that the court may order temporary support or health care coverage. 
+257 SECTION 51. Section 16 of said chapter 209C, as appearing in the 2022 Official Edition, 
+258 is hereby amended by striking out subsections (c), (d) and (e) and inserting in place thereof the 
+259 following 3 subsections:- 
+260 (c) In an action pursuant to this chapter, the person who gave birth and the alleged 
+261 genetic parent shall be competent to testify and no privilege or disqualification created under 
+262 chapter 233 shall prohibit testimony by a spouse or former spouse which is otherwise competent. 
+263 If the person who gave birth is or was married, both that person and their spouse or former 
+264 spouse may testify to parentage of the child. 
+265 (d) In an action to establish parentage, testimony relating to sexual access to the person 
+266 who gave birth by an unidentified person at any time or by an identified person at any time other 
+267 than the probable time of conception of the child is inadmissible in evidence unless offered by 
+268 the person who gave birth. 
+14 of 42 
+269 (e) In an action to establish parentage based on alleged genetic parentage, the court may 
+270 view the person who gave birth, the child and the alleged genetic parent to note any resemblance 
+271 among the parties notwithstanding the absence of expert testimony. 
+272 SECTION 52. Said section 16 of said chapter 209C, as so appearing, is hereby further 
+273 amended by striking out, in line 25, the word “mother” and inserting in place thereof the 
+274 following words:- person who gave birth. 
+275 SECTION 53. Said section 16 of said chapter 209C, as so appearing, is hereby further 
+276 amended by striking out, in line 36, the word “paternity” and inserting in place thereof the 
+277 following word:- parentage. 
+278 SECTION 54. Section 17 of said chapter 209C, as so appearing, is hereby amended by 
+279 striking out, in lines 1 and 2, the words “paternity of a child born out of wedlock” and inserting 
+280 in place thereof the following words:- parentage of a nonmarital child based on alleged genetic 
+281 parentage. 
+282 SECTION 55. Said section 17 of said chapter 209C, as so appearing, is hereby further 
+283 amended by striking out, in lines 4, 9, 10, 13, 26 and 28, the word “mother”, each time it 
+284 appears, and inserting in place thereof, in each instance, the following words:- person who gave 
+285 birth. 
+286 SECTION 56. Said section 17 of said chapter 209C, as so appearing, is hereby further 
+287 amended by striking out, in lines 4, 9, 10, 13, 26, 28, 31, 48 and 49, the words “putative father”, 
+288 each time they appear, and inserting in place thereof, in each instance, the following words:- 
+289 alleged genetic parent. 
+15 of 42 
+290 SECTION 56A. Said section 17 of said chapter 209C, as so appearing, is hereby further 
+291 amended by striking out, in lines 21 and 22, the words “putative father’s” and inserting in place 
+292 thereof the following words:- alleged genetic parent’s 
+293 SECTION 57. Said section 17 of said chapter 209C, as so appearing, is hereby further 
+294 amended by striking out, in lines 22 and 30, the word “paternity”, each time it appears, and 
+295 inserting in place thereof, in each instance, the following words:- genetic parentage. 
+296 SECTION 58. Said section 17 of said chapter 209C, as so appearing, is hereby further 
+297 amended by striking out, in lines 31 and 32 and in line 49, the first time it appears, the word 
+298 “father” and inserting in place thereof, in each instance, the following word:- parent. 
+299 SECTION 59. Said section 17 of said chapter 209C, as so appearing, is hereby further 
+300 amended by adding the following sentence:- Genetic testing shall not be used to challenge the 
+301 parentage of an individual who is a parent under sections 25, 27 and 28 to 28P, inclusive, or to 
+302 establish the parentage of an individual who is a donor as provided in said sections. 
+303 SECTION 60. Section 21 of said chapter 209C, as so appearing, is hereby amended by 
+304 striking out, in line 4, the word “paternity” and inserting in place thereof the following word:- 
+305 parentage. 
+306 SECTION 61. Section 23 of said chapter 209C, as so appearing, is hereby amended by 
+307 striking out, in lines 1, 10, 11 and 14, the word “paternity”, each time it appears, and inserting in 
+308 place thereof, in each instance, the following word:- parentage. 
+309 SECTION 62. Said chapter 209C is hereby further amended by adding the following 20 
+310 sections:- 
+16 of 42 
+311 Section 25. (a) This section shall apply to nonmarital and marital children. 
+312 (b) A proceeding to adjudicate parentage of a child under this section may be 
+313 commenced only by a person who: (i) is alive when the proceeding is commenced; and (ii) 
+314 claims to be a de facto parent of the subject child. 
+315 (c) A proceeding under this section must be commenced during a child’s lifetime and 
+316 before the child attains 18 years of age. 
+317 (d) Proceedings under this section shall be governed by the Massachusetts Rules of 
+318 Domestic Relations Procedure. 
+319 (e) All parents, legal guardians and legal custodians of the subject child shall be entitled 
+320 to notice. 
+321 (f) The plaintiff shall file a verified complaint alleging specific facts to support each 
+322 element required to establish de facto parentage as set forth in subsection (i), along with any 
+323 other pleadings, affidavits or information required by the court. The verified complaint shall be 
+324 served on all parents, legal guardians and legal custodians of the child and any other party to the 
+325 proceeding. Prior to an adjudication of the merits, and within 60 days of the commencement of a 
+326 proceeding under this section, the court shall determine, based on the pleadings, whether the 
+327 plaintiff has alleged facts sufficient to satisfy each element required to establish de facto 
+328 parentage. Upon request made by a party entitled to notice or upon the court’s own initiative, the 
+329 court may hold a hearing on the sufficiency of the pleadings. If the court holds a hearing under 
+330 this subsection, the hearing shall be held on an expedited basis. Failure of a pleading to meet 
+331 these standards is grounds for the court to enter a sua sponte judgment of dismissal without 
+332 prejudice. 
+17 of 42 
+333 (g) Prior to an adjudication of the merits, and within 60 days of the commencement of a 
+334 proceeding under this section, the court shall determine whether the plaintiff has standing to seek 
+335 an adjudication of parentage of a child under this section. Upon request made by a party entitled 
+336 to notice or upon the court’s own initiative, the court may hold a hearing on the issue of standing. 
+337 There shall be a rebuttable presumption against standing and a hearing shall be required if the 
+338 court finds by a preponderance of the evidence that: 
+339 (i) the plaintiff is or was the defendant of an abuse prevention order issued after notice 
+340 and hearing pursuant to chapter 209A, protection order issued pursuant to section 34B or 34C of 
+341 chapter 208 or harassment prevention order issued pursuant to chapter 258E involving the child, 
+342 a parent of the child or a household member of the child; 
+343 (ii) the department of children and families has made a determination supporting an 
+344 allegation of abuse against the plaintiff with respect to the subject child or another child in the 
+345 household; 
+346 (iii) a defendant is engaged or has engaged in military service as defined in 50 U.S.C. 
+347 App. 511 within the past 3 years, unless the defendant consents in writing and such written 
+348 consent is filed with the complaint; 
+349 (iv) a defendant executed a military family care plan and but for the plan the plaintiff 
+350 would not meet 1or more of the requirements of subsection (i), unless the defendant consents in 
+351 writing and such written consent is filed with the complaint; 
+352 (v) the plaintiff is or was the foster parent or guardian of the child and but for the 
+353 plaintiff’s role as foster parent or guardian, the plaintiff would not meet 1 or more of the 
+354 requirements of subsection (i); or 
+18 of 42 
+355 (vi) the plaintiff engaged in duress, coercion or threat of harm to establish any element of 
+356 de facto parentage as set forth in subsection (i). 
+357 If the court holds a hearing under this subsection, the hearing shall be held on an 
+358 expedited basis. 
+359 (h) A plaintiff may file and serve a motion seeking a temporary order of contact between 
+360 the subject child and the plaintiff contemporaneously with the complaint. After a hearing, the 
+361 court may enter a temporary order concerning contact between the child and the plaintiff. No 
+362 temporary order shall issue before a determination of standing; provided, however, that a hearing 
+363 on the motion may occur on the same date as any hearing under subsections (f) or (g). 
+364 (i) Subject to subsection (j), the court shall adjudicate a plaintiff with standing in a 
+365 proceeding commenced under this section to be a legal parent of the subject child if the plaintiff 
+366 demonstrates by clear and convincing evidence that: 
+367 (i) the plaintiff resided with the child as a regular member of the child’s household for at 
+368 least 3 years or 40 per cent of the child’s life, whichever is shorter; provided, however, that the 
+369 period is not less than 2 years except in extraordinary circumstances for good cause shown in the 
+370 court’s discretion; 
+371 (ii) the plaintiff engaged in consistent caregiving of the child, including, but not limited 
+372 to, shaping the child’s daily routine, addressing the child’s developmental needs and providing 
+373 for the child’s education and medical care, individually or cooperatively with another parent; 
+374 (iii) the plaintiff undertook full and permanent responsibilities of a parent of the child 
+375 without expectation or payment of financial compensation; 
+19 of 42 
+376 (iv) the plaintiff held out the child as the plaintiff’s child; 
+377 (v) the plaintiff established a bonded and dependent relationship with the child which is 
+378 parental in nature; 
+379 (vi) each parent of the child consented to the bonded and dependent relationship required 
+380 under clause (v). Consent shall include that each parent, over a period of not less than 6 months: 
+381 (A) held out the plaintiff as a parent of the child; and (B) engaged in shared decision making 
+382 with the plaintiff regarding significant issues of the child’s education, health and welfare; 
+383 provided, however, that the court may determine that a parent has impliedly consented where 
+384 that parent has not, without good cause, meaningfully engaged with the subject child through 
+385 direct contact, participation in decision making or regular financial support for a period of 2 
+386 years; provided further, that good cause may include evidence that the parent attempted to 
+387 meaningfully engage with the subject child by regularly requesting contact or participation in 
+388 decision making but was prevented by another person; and provided further, that a notarized 
+389 document affirming consent executed by a parent shall be evidence of that parent’s consent; and 
+390 (vii) adjudicating the plaintiff to be the child’s parent is in the best interest of the child. 
+391 In making this determination, the court shall consider evidence of past or present abuse by the 
+392 plaintiff toward a parent or the child as a factor contrary to the best interest of the child. A 
+393 finding by a preponderance of the evidence that the plaintiff engaged in duress, coercion or threat 
+394 of harm in order to establish any of the elements of clauses (i) through (vi), inclusive, shall be 
+395 considered evidence of abuse. A finding by a preponderance of the evidence that a pattern or 
+396 serious incident of abuse as defined in section 10 by the plaintiff against a parent or child has 
+397 occurred shall create a rebuttable presumption that it is not in the best interest of the child that 
+20 of 42 
+398 the plaintiff be adjudicated a parent. Where there is credible evidence of abuse and the court 
+399 adjudicates the plaintiff to be a parent of the subject child, the court shall make detailed written 
+400 findings on the presence and nature of the abuse, its effect on the child and its impact on the 
+401 plaintiff’s parenting ability. 
+402 (j) Subject to other limitations in this section, if in a proceeding to adjudicate the plaintiff 
+403 as a de facto parent, there is more than 1 defendant parent and the court determines that the 
+404 requirements of subsection (i) are satisfied, the court shall adjudicate parentage under subsection 
+405 (c) of section 26. 
+406 (k) The adjudication of a plaintiff as a de facto parent under this section shall not affect 
+407 the legal parentage of any other parent to the child and shall not be considered evidence of 
+408 parental unfitness of a defendant parent to the child. 
+409 (l) Custody, parenting time, visitation and child support shall be determined in 
+410 accordance with applicable laws, rules, regulations, orders and guidelines. 
+411 (m) Nothing in this section shall be interpreted to preclude an action in equity pursuant to 
+412 section 6 of chapter 215 to establish a third party right to visitation. 
+413 Section 26. (a) In a proceeding to adjudicate competing claims of, or challenges to, 
+414 parentage of a child by 2 or more persons, the court shall adjudicate parentage in the best interest 
+415 of the child, based on: 
+416 (i) the age of the child; 
+417 (ii) the length of time during which each person assumed the role of parent of the child; 
+418 (iii) the nature of the relationship between the child and each person; 
+21 of 42 
+419 (iv) the harm to the child if the relationship between the child and each person is not 
+420 recognized; 
+421 (v) the basis for each person’s claim to parentage of the child; and 
+422 (vi) other equitable factors arising from the disruption of the relationship between the 
+423 child and each person or the likelihood of other harm to the child. 
+424 (b) If a person challenges parentage based on the results of genetic testing, in addition to 
+425 the factors listed in subsection (a), the court shall consider: 
+426 (i) the facts surrounding the discovery that the person might not be a genetic parent of the 
+427 child; and 
+428 (ii) the length of time between the time that the person was placed on notice that the 
+429 person might not be a genetic parent and the commencement of the proceeding. 
+430 (c) The court may adjudicate a child to have more than 2 parents if the court finds that it 
+431 is in the best interest of the child. A finding of best interest of the child under this section does 
+432 not require a finding of unfitness of any parent or person seeking an adjudication of parentage. 
+433 (d) Custody, parenting time, visitation and child support shall be determined in 
+434 accordance with applicable laws, rules, regulations, orders and guidelines. 
+435 Section 27. (a) This section shall apply to nonmarital and marital children. This section 
+436 shall not apply to the birth of a child conceived by sexual intercourse or assisted reproduction by 
+437 surrogacy agreement under sections 28through 28P, inclusive. 
+22 of 42 
+438 (b) Venue for a proceeding to adjudicate parentage under this section shall be in the 
+439 county in which: (i) the child resides, was born or will be born; (ii) any parent or intended parent 
+440 resides; or (iii) a proceeding has been commenced for administration of the estate of a person 
+441 who is or may be a parent under this chapter. 
+442 (c) A donor is not a parent of a child conceived through assisted reproduction by 
+443 virtue of the donor’s genetic connection. A donor may not establish the donor's parentage by 
+444 signing an acknowledgment pursuant to this chapter. A donor shall not be entitled to notice in a 
+445 proceeding under this chapter. 
+446 (d) A person who consents to assisted reproduction with the intent to be a parent of a 
+447 child conceived by the assisted reproduction is a parent of the child. Consent to assisted 
+448 reproduction may be established either by: (i) a record signed by the person giving birth to a 
+449 child conceived by assisted reproduction and by an intended parent before, on, or after the birth 
+450 of the child; or (ii) a finding by the court, by a preponderance of the evidence, that (A) prior to 
+451 conception or birth of the child, the parties agreed that they would be parents of the child, or (B) 
+452 the person who seeks to be a parent of the child, together with the person giving birth, 
+453 voluntarily participated in and consented to the assisted reproduction that resulted in the 
+454 conception of the child. 
+455 (e)(i) Except as provided in paragraph (ii), a person who, at the time of a child’s birth, is 
+456 the spouse of the person who gave birth to the child by assisted reproduction may not challenge 
+457 their parentage of the child unless, not later than 2 years after the birth of the child, they 
+458 commence a proceeding to adjudicate their own parentage of the child and the court finds that 
+23 of 42 
+459 they did not consent to the assisted reproduction, before, on, or after birth of the child, or 
+460 withdrew consent under subsection (g). 
+461 (ii) A proceeding to adjudicate a spouse’s parentage of a child born by assisted 
+462 reproduction may be commenced at any time if the court determines that: (A) the spouse neither 
+463 provided a gamete for, nor consented to, the assisted reproduction; (B) the spouse and the person 
+464 who gave birth to the child have not cohabited since the probable time of assisted reproduction; 
+465 and (C) the spouse never openly held out the child as their child. This subsection applies to a 
+466 spouse’s dispute of parentage even if the spouse’s marriage is declared invalid after assisted 
+467 reproduction occurs. 
+468 (f) A person who has commenced an action for divorce, or a person who has been served 
+469 with a complaint for divorce, may begin assisted reproduction pursuant to this section, provided 
+470 at least 60 days have elapsed since service of the complaint. In such cases, the spouse shall not 
+471 be a parent of any child born as a result of the assisted reproduction unless both parties consent 
+472 in writing to be parents of that child after commencement of the divorce action. A married 
+473 person proceeding with assisted reproduction pursuant to this section shall not utilize gametes of 
+474 their spouse unless their spouse consents in writing to the use of their gametes for assisted 
+475 reproduction by the married person after commencement of a divorce action. 
+476 (g) A person who consents under subsection (d) to assisted reproduction may withdraw 
+477 consent any time before a transfer or implantation of gametes or embryos that results in a 
+478 pregnancy by giving notice in writing of their withdrawal of consent to the person who agreed to 
+479 give birth to a child conceived by assisted reproduction and to any clinic or healthcare provider 
+480 facilitating the assisted reproduction; provided, however, that failure to give notice to a clinic or 
+24 of 42 
+481 healthcare provider shall not affect a determination of parentage under this section. A person 
+482 who withdraws consent in accordance with this subsection is not a parent of the child under this 
+483 section. 
+484 (h)(i) If a person who intends to be a parent of a child conceived by assisted reproduction 
+485 dies during the period between the transfer or implantation of a gamete or embryo and the birth 
+486 of the child, the person’s death does not preclude the establishment of their parentage of the child 
+487 if the person otherwise would be a parent of the child under this section. 
+488 (ii) If a person who consented in writing to assisted reproduction by a person who agreed 
+489 to give birth to a child dies before a transfer or implantation of gametes or embryos, the deceased 
+490 person is a parent of a child conceived by the assisted reproduction only if: (A) either (1) the 
+491 person consented in writing that if assisted reproduction were to occur after their death, they 
+492 would be a parent of the child, or (2) the person’s intent to be a parent of a child conceived by 
+493 assisted reproduction after their death is established by a preponderance of the evidence; and (B) 
+494 either (1) the embryo is in utero not later than 36 months after the person’s death, or (2) the child 
+495 is born not later than 45 months after the person’s death. 
+496 (i) If due to a clinical or laboratory error the child is not genetically related to either the 
+497 intended parent or parents or any donor who donated to the intended parent or parents, the 
+498 intended parent or parents are the parents of the child unless otherwise determined by the court. 
+499 (j) Genetic testing, including genetic marker testing pursuant to section 11, shall not be 
+500 used: (i) to challenge the parentage of a person who is a parent under this section; or (ii) to 
+501 establish the parentage of a person who is a donor. 
+25 of 42 
+502 (k)(i) A person giving birth or a person who is or claims to be a parent under this section 
+503 may commence a proceeding prior to or after the birth of a child to obtain a judgment: (A) 
+504 declaring that the intended parent or parents are the parent or parents of the resulting child 
+505 immediately upon birth of the child and ordering that parental rights and responsibilities vest 
+506 exclusively in the intended parent or parents immediately upon birth of the child; and (B) 
+507 designating the contents of the birth certificate and directing the department of public health to 
+508 designate the intended parent or parents as the parent or parents of the resulting child. 
+509 (ii) A judgment issued before the birth of the resulting child shall not take effect until the 
+510 birth of the resulting child. Nothing in this subsection shall be construed to limit the court’s 
+511 authority to issue other orders under any other provision of the general laws. 
+512 (iii) Neither the state, the department of public health nor the hospital where the child is 
+513 or is expected to be born shall be a necessary party to a proceeding under this section. 
+514 (iv) The burden of proof in proceedings under this section shall be by a preponderance of 
+515 the evidence. 
+516 (l) On request of a party, the court shall close a proceeding under this section to the 
+517 general public. Section 13 shall govern segregation of, access to and inspection of complaints, 
+518 pleadings, papers, documents and reports filed in connection with an action pursuant to this 
+519 section, and docket entries. 
+520 (m) In a proceeding under this section, the court shall issue a final judgment adjudicating 
+521 whether a person alleged or claiming to be a parent is the parent of a child. On request of a party, 
+522 and subject to other applicable laws, the court in a proceeding under this section may order the 
+26 of 42 
+523 name of the child changed. If the final judgment is at variance with the child’s birth certificate, 
+524 the court shall order the department of public health to issue an amended birth certificate. 
+525 (n) Custody, parenting time, visitation, and child support for a nonmarital child shall be 
+526 determined in accordance with applicable laws, rules, regulations, orders and guidelines. 
+527 Section 28. (a) Sections 28 through 28P, inclusive, shall apply to nonmarital and marital 
+528 children. This section shall not apply to the birth of a child conceived by sexual intercourse or 
+529 assisted reproduction under section 27. 
+530 (b) Venue for proceedings under sections 28 through 28P, inclusive, shall be in the 
+531 county in which: (i) the child resides, is born or is expected to be born; (ii) a parent or intended 
+532 parent resides; (iii) a person acting as a surrogate resides; or (iv) a proceeding has been 
+533 commenced for administration of the estate of a person who is or may be a parent under this 
+534 chapter. 
+535 Section 28A. (a) In order to execute a surrogacy agreement to act as a surrogate, a person 
+536 shall: (i) be at least 21 years of age; (ii) have previously given birth to at least 1 child; (iii) 
+537 complete a medical evaluation by a licensed physician related to surrogacy; and (iv) complete a 
+538 mental health consultation by a licensed mental health professional that is independent of the 
+539 health care providers or facility undertaking any assisted reproduction procedure contemplated 
+540 by the surrogacy agreement. 
+541 (b) In order to execute a surrogacy agreement as an intended parent, whether or not 
+542 genetically related to the child, a person shall: (i) be at least 21 years of age; and (ii) complete a 
+543 mental health consultation by a licensed mental health professional that is independent of the 
+27 of 42 
+544 health care providers or facility undertaking any assisted reproduction procedure contemplated 
+545 by the surrogacy agreement. 
+546 Section 28B. A surrogacy agreement is enforceable only if it meets the following 
+547 requirements: 
+548 (a) the prospective surrogate, their spouse, if any, and each intended parent are parties to 
+549 the agreement; 
+550 (b) the prospective surrogate and each intended parent meet the eligibility requirements 
+551 of section 28A; 
+552 (c) at least 1 party is a resident of the commonwealth or, if no party is a resident of the 
+553 commonwealth, at least 1 medical evaluation, medical procedure or mental health consultation 
+554 under the agreement occurs in the commonwealth. 
+555 (d) the agreement is in writing and signed by all parties; 
+556 (e) the agreement is executed before a medical procedure attempting to achieve a 
+557 pregnancy in the prospective surrogate occurs, other than the medical evaluation and mental 
+558 health consultation required by section 28A and, in every instance, before transfer of embryos or 
+559 gametes; 
+560 (f) the signature of each party to the agreement is attested by a notary; 
+561 (g) each party to the agreement signs a written acknowledgment of having received a 
+562 copy of the agreement; 
+28 of 42 
+563 (h) the prospective surrogate, their spouse, if any, and each intended parent have 
+564 independent legal representation regarding the terms and potential legal consequences of the 
+565 surrogacy agreement, paid for by the intended parent or parents, and each counsel shall be 
+566 identified in the surrogacy agreement. A single attorney for the prospective surrogate and their 
+567 spouse and a single attorney for the intended parents is sufficient to meet this requirement, 
+568 provided the representation otherwise conforms to the Massachusetts Rules of Professional 
+569 Conduct; and 
+570 (i) records related to the medical evaluation and mental health consultations conducted 
+571 pursuant to section 28A shall be made available to the surrogate, the surrogate’s spouse, if any, 
+572 and each intended parent; provided, however, that all such records shall remain confidential 
+573 absent court order. 
+574 Section 28C. A surrogacy agreement is enforceable only if it contains the following 
+575 terms: 
+576 (a) The surrogate: 
+577 (i) shall undergo assisted reproduction and attempt to carry and give birth to any resulting 
+578 child; 
+579 (ii) except as otherwise provided in sections 28I, 28M and 28N, has no claim to parentage 
+580 of any resulting child; and 
+581 (iii) acknowledges the exclusive parentage of the intended parent or parents of all 
+582 resulting children. 
+583 (b) If the surrogate is married, their spouse: 
+29 of 42 
+584 (i) acknowledges and agrees to abide by all obligations imposed on the surrogate by the 
+585 terms of the surrogacy agreement; 
+586 (ii) except as otherwise provided in sections 28I, 28M and 28N, has no claim to parentage 
+587 of any resulting child; and 
+588 (iii) acknowledges the exclusive parentage of the intended parent or parents of all 
+589 resulting children. 
+590 (c) The intended parent or, if there are more than 1 intended parents, each parent jointly 
+591 and severally: 
+592 (i) except as otherwise provided in sections 28G, 28J, 28M and 28N, agree to be the 
+593 exclusive parent or parents and accept parental rights and responsibilities of all resulting children 
+594 regardless of the number of children born or the gender or condition of each child; and 
+595 (ii) except as otherwise provided in sections 28G, 28J, 28M and 28N, agree to assume 
+596 responsibility for the financial support of all resulting children immediately upon the birth of the 
+597 children regardless of the number of children born or the gender or condition of each child. 
+598 (d) The intended parent or parents shall pay for all surrogacy-related expenses of the 
+599 surrogate, including expenses for healthcare provided for assisted reproduction, prenatal care, 
+600 labor and delivery and the medical expenses of all resulting children, that are not covered by 
+601 insurance; provided, however, that this subsection shall not be construed to supplant any health 
+602 insurance coverage that is otherwise available to the surrogate or an intended parent for the 
+603 coverage of healthcare costs; provided further, however, that this subsection shall not change the 
+30 of 42 
+604 health insurance coverage of the surrogate or the responsibility of the insurance company to pay 
+605 benefits under a policy that covers a surrogate. 
+606 (e) The surrogacy agreement shall not infringe on the rights of the surrogate to make all 
+607 health and welfare decisions regarding themselves, their body and their pregnancy throughout 
+608 the duration of the surrogacy arrangement, including during attempts to become pregnant, 
+609 pregnancy, labor and delivery and post-partum. The surrogacy agreement shall not infringe upon 
+610 the right of the surrogate to autonomy in medical decision making, including, but not limited to, 
+611 whether to consent to a caesarean section and whether to undergo multiple embryo transfers. 
+612 Except as otherwise provided by law, any written or oral agreement purporting to waive or limit 
+613 these rights are void as against public policy. 
+614 (f) The surrogacy agreement shall include information about each party’s right to 
+615 terminate the surrogacy agreement. 
+616 (g) Rights created under a surrogacy agreement are not assignable and there is no third- 
+617 party beneficiary other than the child. 
+618 (h) A surrogacy agreement may provide for: (i) payment of consideration and reasonable 
+619 expenses; and (ii) reimbursement of specific expenses if the agreement is terminated under this 
+620 chapter. 
+621 Section 28D. Unless a surrogacy agreement expressly provides otherwise: 
+622 (a) The marriage of the surrogate or of an intended parent after the surrogacy agreement 
+623 has been signed by all parties shall not affect the validity of the surrogacy agreement, the 
+624 surrogate or intended parent’s spouse’s consent to the surrogacy agreement is not required and 
+31 of 42 
+625 the surrogate or intended parent’s spouse shall not be a presumed parent of a child conceived by 
+626 assisted reproduction under the surrogacy agreement. 
+627 (b) The divorce or annulment of the surrogate or of an intended parent after the surrogacy 
+628 agreement has been signed by all parties shall not affect the validity of the surrogacy agreement. 
+629 Section 28E. During the period after the execution of a surrogacy agreement until the 
+630 occurrence of the earlier of the date of termination of the surrogacy agreement pursuant its terms 
+631 or 180 days after the birth of a child conceived by assisted reproduction under the surrogacy 
+632 agreement, the court conducting a proceeding under sections 28 through 28P, inclusive, shall 
+633 have exclusive, continuing jurisdiction over all matters arising out of the surrogacy agreement; 
+634 provided, however, that the court shall not have jurisdiction over a child custody or child support 
+635 proceeding if jurisdiction is not otherwise authorized by the laws of the commonwealth. 
+636 Section 28F. (a) A party to a gestational surrogacy agreement may terminate the 
+637 agreement at any time before an embryo transfer or implantation by giving written notice of 
+638 termination to all other parties. If an embryo transfer or implantation does not result in 
+639 pregnancy, a party may terminate the agreement at any time before a subsequent embryo transfer 
+640 or implantation. 
+641 (b) Unless a gestational surrogacy agreement provides otherwise, upon termination of the 
+642 agreement under subsection (a), the parties are released from the agreement, except that the 
+643 intended parent or parents remain responsible for expenses that are reimbursable under the 
+644 agreement and incurred by the gestational surrogate through the date of the termination of the 
+645 agreement. 
+32 of 42 
+646 (c) Except in a case involving fraud, neither a gestational surrogate nor their spouse or 
+647 former spouse, if any, is liable to the intended parent or parents for punitive or liquidated 
+648 damages for terminating a gestational surrogacy agreement. 
+649 Section 28G. (a) Except as otherwise provided in subsection (c), subsection (b) of section 
+650 28H or section 28J, upon the birth of a child conceived by assisted reproduction under a 
+651 gestational surrogacy agreement, each intended parent is, by operation of law, a parent of the 
+652 child. Parental rights shall vest exclusively in the intended parent or parents immediately upon 
+653 birth of the resulting child. 
+654 (b) Except as otherwise provided in subsection (c) or section 28J, neither a person acting 
+655 as gestational surrogate nor their spouse or former spouse, if any, is a parent of the child. 
+656 (c) If a child is alleged to be a genetic child of the gestational surrogate, the court shall, 
+657 upon finding sufficient evidence, order genetic testing of the child. If the child is a genetic child 
+658 of the gestational surrogate, parentage shall be determined in accordance with sections 1 through 
+659 27. 
+660 (d) Except as otherwise provided in subsection (c) or subsection (b) of section 28H or 
+661 section 28I, if, due to a clinical or laboratory error, a child conceived by assisted reproduction 
+662 under a gestational surrogacy agreement is not genetically related to an intended parent or a 
+663 donor who donated to the intended parent or parents, each intended parent, and not the person 
+664 acting as gestational surrogate and their spouse or former spouse, if any, is a parent of the child. 
+665 Section 28H. (a) Section 28G applies to an intended parent even if the intended parent 
+666 dies during the period between the transfer or implantation of a gamete or embryo and the birth 
+667 of the child. 
+33 of 42 
+668 (b) Except as otherwise provided in section 28J, an intended parent is not a parent of a 
+669 child conceived by assisted reproduction under a gestational surrogacy agreement if the intended 
+670 parent dies before the transfer or implantation of a gamete or embryo unless: (i) the surrogacy 
+671 agreement provides otherwise; and (ii) the transfer of a gamete or embryo occurs not later than 
+672 36 months after the death of the intended parent or birth of the child occurs not later than 45 
+673 months after the death of the intended parent. 
+674 Section 28I. (a) Except as otherwise provided in subsection (c) of section 28G or 
+675 section 28J, before, on or after the birth of a child conceived by assisted reproduction under a 
+676 gestational surrogacy agreement, any party to the agreement may commence a proceeding for a 
+677 judgment of parentage: 
+678 (i) declaring that each intended parent is a parent of the child and ordering that parental 
+679 rights and duties vest immediately on the birth of the child exclusively in each intended parent; 
+680 (ii) declaring that the gestational surrogate and their spouse or former spouse, if any, are 
+681 not the parents of the child; 
+682 (iii) designating the content of the birth record in accordance with chapter 46 and 
+683 directing the department of public health to designate each intended parent as a parent of the 
+684 child; 
+685 (iv) to protect the privacy of the child and the parties, declaring that the court record and 
+686 related pleadings be impounded in accordance with this section; 
+687 (v) if necessary, ordering that the child be surrendered to the intended parent or parents; 
+34 of 42 
+688 (vi) if necessary, ordering that the hospital where the child will be or has been born, treat 
+689 the intended parent or parents as the sole legal parent or parents for the purpose of naming and 
+690 medical decisions; and 
+691 (vii) for other relief the court determines necessary and proper. 
+692 (b) The court may issue an order or judgment under subsection (a) before or after the 
+693 birth of the child, as requested by the parties. 
+694 (c) The state, the department of public health, the town or city clerk and the hospital 
+695 where the child is born or is to be born are not necessary parties to a proceeding under subsection 
+696 (a). Any party to the surrogacy agreement not joining in the action shall be provided with notice 
+697 of the proceeding. 
+698 (d) A complaint under this section shall include: (i) a copy of the executed surrogacy 
+699 agreement; (ii) sworn affidavit of the assisted reproductive physician confirming that the child 
+700 was born pursuant to assisted reproduction; and (iii) certifications from the attorneys 
+701 representing the intended parent or parents and the gestational surrogate that the requirements of 
+702 sections 28A, 28B and 28C have been met. A complaint supported by such affidavit and 
+703 certifications shall be sufficient to establish parentage, and a hearing shall not be required unless 
+704 the court requires additional information which cannot reasonably be ascertained without a 
+705 hearing. 
+706 (e) Upon a finding by a preponderance of the evidence that the complaint satisfies 
+707 subsection (d), a court shall expeditiously, but no later than 60 days from the docketing of the 
+708 complaint, issue a judgment of parentage. Parentage judgments issued under this section shall 
+709 conclusively establish or affirm, where applicable, the parent-child relationship for all purposes. 
+35 of 42 
+710 Custody, parenting time, visitation and child support for a nonmarital child shall be determined 
+711 in accordance with applicable laws, rules, regulations, orders and guidelines. 
+712 (f) In the event the certification required by subsection (d) of this section cannot be made 
+713 because of a technical or nonmaterial deviation from the requirements of sections 28A, 28B and 
+714 28C, the court may nevertheless enforce the agreement and issue a judgment of parentage if the 
+715 court determines the agreement is in substantial compliance with the requirements of said 
+716 sections. 
+717 (g) On request of a party, the court shall close a proceeding under this section to the 
+718 general public. All complaints, pleadings, papers or documents filed pursuant to this section, and 
+719 docket entries, shall not be available for inspection unless the court where such records are kept, 
+720 for good cause shown, otherwise orders or unless requested by the child or the parties. All such 
+721 complaints, pleadings, papers or documents shall be segregated. 
+722 Section 28J. (a) A gestational surrogacy agreement that substantially complies with 
+723 sections 28A, 28B and 28C is enforceable. 
+724 (b) If a child was conceived by assisted reproduction under a gestational surrogacy 
+725 agreement that does not substantially comply with sections 28A, 28B and 28C, the court shall 
+726 determine the rights and duties of the parties to the agreement consistent with the intent of the 
+727 parties at the time of execution of the agreement. Each party to the agreement and any person 
+728 who at the time of the execution of the agreement was a spouse of a party to the agreement has 
+729 standing to commence a proceeding to adjudicate an issue related to the enforcement of the 
+730 agreement. 
+36 of 42 
+731 (c) Except as expressly provided in a gestational surrogacy agreement or subsection (d) 
+732 or (e) of this section, if the agreement is breached by the gestational surrogate or 1 or more 
+733 intended parents, the non-breaching party is entitled to the remedies available at law or in equity. 
+734 (d) Specific performance is not a remedy available for breach by a gestational surrogate 
+735 of a provision in the agreement that the gestational surrogate be impregnated, terminate or not 
+736 terminate a pregnancy, or submit to medical procedures. 
+737 (e) Except as otherwise provided in subsection (d), if an intended parent is determined to 
+738 be a parent of the child, specific performance is a remedy available for: 
+739 (i) breach of the agreement by a gestational surrogate which prevents the intended parent 
+740 from exercising, immediately on birth of the child, the full rights of parentage; or 
+741 (ii) breach by the intended parent which prevents the intended parent’s acceptance, 
+742 immediately on birth of the child conceived by assisted reproduction under the agreement, of the 
+743 duties of parentage. 
+744 Section 28K. (a) Except as otherwise provided in section 28N, a genetic surrogacy 
+745 agreement shall be validated by a probate and family court. A proceeding to validate the 
+746 agreement shall be commenced before assisted reproduction related to the surrogacy agreement. 
+747 A complaint under this section shall include: (i) a copy of the executed surrogacy agreement; and 
+748 (ii) certifications from the attorneys representing the intended parent or parents and the genetic 
+749 surrogate that the requirements of sections 28A, 28B and 28C have been met. 
+37 of 42 
+750 (b) The court shall issue an order validating a genetic surrogacy agreement, within 60 
+751 days of the commencement of such a proceeding, if the court finds by a preponderance of the 
+752 evidence that: 
+753 (i) sections 28A, 28B and 28C are satisfied; and 
+754 (ii) all parties entered into the agreement voluntarily and understand its terms. 
+755 (c) A person who terminates a genetic surrogacy agreement under section 28L shall file 
+756 notice of the termination with the court and parties. On receipt of the notice, the court shall 
+757 vacate any order issued under subsection (b). 
+758 Section 28L. (a) An intended parent or genetic surrogate who is a party to the agreement 
+759 may terminate the agreement at any time before a gamete or embryo transfer or implantation by 
+760 giving notice of termination in writing to all other parties. If a gamete or embryo transfer or 
+761 implantation does not result in a pregnancy, a party may terminate the agreement at any time 
+762 before a subsequent gamete or embryo transfer or implantation. The party’s signature on a notice 
+763 of termination shall be attested by a notary. 
+764 (b) An intended parent or genetic surrogate who terminates the agreement after the court 
+765 issues an order validating the agreement under sections 28K or 28N, but before the genetic 
+766 surrogate becomes pregnant by means of assisted reproduction, shall also file notice of the 
+767 termination with such court. 
+768 (c) A person may not terminate a validated genetic surrogacy agreement if a gamete or 
+769 embryo transfer or implantation has resulted in a pregnancy. 
+38 of 42 
+770 (d) On termination of the genetic surrogacy agreement, the parties are released from all 
+771 obligations under the agreement except that any intended parent or parents remains responsible 
+772 for all expenses incurred by the genetic surrogate through the date of the termination which are 
+773 reimbursable under the agreement. Unless the agreement provides otherwise, the genetic 
+774 surrogate is not entitled to any non-expense related compensation paid for acting as a surrogate. 
+775 (e) Except in a case involving fraud, neither a genetic surrogate nor their spouse or 
+776 former spouse, if any, is liable to the intended parent or parents for punitive or liquidated 
+777 damages, for terminating a genetic surrogacy agreement under this section. 
+778 Section 28M. (a) On birth of a child conceived by assisted reproduction under a genetic 
+779 surrogacy agreement validated under section 28K or 28N, each intended parent is, by operation 
+780 of law, a parent of the resulting child. 
+781 (b) On birth of a child conceived by assisted reproduction under a genetic surrogacy 
+782 agreement validated under section 28K or 28N of this chapter, the intended parent or parents 
+783 shall file a notice with the court that validated the agreement that a child has been born as a result 
+784 of assisted reproduction. Upon receiving such notice, the court shall immediately, or as soon as 
+785 practicable, issue an order without notice and hearing: 
+786 (i) declaring that any intended parent or parents is a parent of a child conceived by 
+787 assisted reproduction under the agreement and ordering that parental rights and duties vest 
+788 exclusively in any intended parent; 
+789 (ii) declaring that the genetic surrogate and their spouse or former spouse, if any, are not 
+790 parents of the child; 
+39 of 42 
+791 (iii) designating the contents of the birth certificate in accordance with chapter 46 and 
+792 directing the department of public health to designate any intended parent as a parent of the 
+793 child; 
+794 (iv) to protect the privacy of the child and the parties, declaring that the court record and 
+795 related pleadings be impounded in accordance with section 28I; 
+796 (v) if necessary, ordering that the child be surrendered to the intended parent or parents; 
+797 and 
+798 (vi) for other relief the court determines necessary and proper. 
+799 (c) Except as otherwise provided in subsection (d) or section 28O, if, due to a clinical or 
+800 laboratory error, a child conceived by assisted reproduction under a genetic surrogacy agreement 
+801 is not genetically related to an intended parent or a donor who donated to the intended parent or 
+802 parents, each intended parent, and not the genetic surrogate and their spouse or former spouse, if 
+803 any, is a parent of the child. 
+804 (d) If a child born to a genetic surrogate is alleged not to have been conceived by assisted 
+805 reproduction, the court may, upon finding sufficient evidence, order genetic testing to determine 
+806 the genetic parentage of the child. If the child was not conceived by assisted reproduction and the 
+807 second source of genetic material is the spouse of the genetic surrogate, then the surrogate and 
+808 the spouse shall be found to be the parents of the child. If the second genetic source is a person 
+809 other than the spouse of the surrogate, then parentage shall be determined as provided in sections 
+810 1 through 27. However, if the second genetic source is an intended parent, the court, in its sole 
+811 discretion, may determine parentage under said sections 1 through 27. Unless the genetic 
+812 surrogacy agreement provides otherwise, the genetic surrogate is not entitled to any non-expense 
+40 of 42 
+813 related compensation paid for acting as a surrogate if the child was not conceived by assisted 
+814 reproduction. 
+815 (e) If an intended parent fails to file the notice required under subsection (b) of this 
+816 section, the person acting as genetic surrogate may file with the court, not later than 60 days after 
+817 the birth of a child conceived by assisted reproduction under the genetic surrogacy agreement, 
+818 notice that the child has been born to the genetic surrogate. On proof of a court order issued 
+819 under sections 28K or 28N validating the agreement, the court shall order that each intended 
+820 parent is a parent of the child. 
+821 Section 28N. (a) A genetic surrogacy agreement, whether or not in writing, that is not 
+822 validated under section 28K is enforceable only to the extent provided in this section and section 
+823 28P. 
+824 (b) If all parties agree, a court may validate a genetic surrogacy agreement after assisted 
+825 reproduction has occurred but before the birth of a child conceived by assisted reproduction 
+826 under the agreement if the court finds by a preponderance of the evidence that: 
+827 (i) sections 28A, 28B or 28C are satisfied; and 
+828 (ii) all parties entered into the agreement voluntarily and understand its terms. 
+829 (c) If a child conceived by assisted reproduction under a genetic surrogacy agreement that 
+830 is not validated under section 28K or subsection (b) is born, the genetic surrogate is not 
+831 automatically a parent and the court shall adjudicate parentage of the child based on the best 
+832 interest of the child, taking into account the factors in subsection (a) of section 26 and the intent 
+833 of the parties at the time of the execution of the agreement. 
+41 of 42 
+834 (d) The parties to a genetic surrogacy agreement have standing to commence a 
+835 proceeding to adjudicate parentage under this section. 
+836 Section 28O. (a) Except as otherwise provided in section 28M or 28N on birth of a child 
+837 conceived by assisted reproduction under a genetic surrogacy agreement, each intended parent is, 
+838 by operation of law, a parent of the child, notwithstanding the death of an intended parent during 
+839 the period between the transfer of a gamete or embryo and the birth of the child. 
+840 (b) Except as otherwise provided in section 28M or 28N, an intended parent is not a 
+841 parent of a child conceived by assisted reproduction under a genetic surrogacy agreement if the 
+842 intended parent dies before the transfer of a gamete or embryo unless: (i) the agreement provides 
+843 otherwise; and (ii) the transfer of the gamete or embryo occurs not later than 36 months after the 
+844 death of the intended parent, or birth of the child occurs not later than 45 months after the death 
+845 of the intended parent. 
+846 Section 28P. (a) Subject to subsection (d) of section 28L, if a genetic surrogacy 
+847 agreement is breached by a genetic surrogate or 1 or more intended parents, the non-breaching 
+848 party is entitled to the remedies available at law or in equity. 
+849 (b) Specific performance is not a remedy available for breach by a genetic surrogate of a 
+850 requirement of a validated or nonvalidated genetic surrogacy agreement that the genetic 
+851 surrogate be impregnated, terminate or not terminate a pregnancy, or submit to medical 
+852 procedures. 
+853 (c) Except as otherwise provided in subsection (b), specific performance is a remedy 
+854 available for: (i) breach of a validated genetic surrogacy agreement by a genetic surrogate of a 
+855 requirement which prevents an intended parent from exercising, immediately upon birth of the 
+42 of 42 
+856 child, the full rights of parentage; or (ii) breach by an intended parent which prevents the 
+857 intended parent’s acceptance, immediately upon birth of the child, of the duties of parentage. 
+858 SECTION 63. The trial court department, in accordance with section 24 of chapter 209C 
+859 of the General Laws, shall update existing forms and promulgate new forms as necessary for use 
+860 under said chapter 209C, which shall be in such form and language to permit a person to prepare 
+861 and file such forms pro se. 
+ NO SECTION 64. 
+862 SECTION 65. This act shall take effect on January 1, 2025. 
+863 SECTION 66. Section 1 of chapter 46 of the General Laws, as appearing in the 2020 
+864 Official Edition, is hereby amended by striking out the second paragraph and inserting in place 
+865 thereof the following paragraph: - 
+866 In the record of births, name, date of birth, place of birth, and sex of child; legal names, 
+867 dates of birth, residences, places of birth and surname at birth or adoption of parents. In the 
+868 record of birth of a child born to parents not married to each other, the name of and other facts 
+869 relating to the other parent or parents shall not be recorded except as provided in section 2 of 
+870 chapter 209C where parentage has been acknowledged or adjudicated under the laws of the 
+871 commonwealth or under the law of any other jurisdiction.

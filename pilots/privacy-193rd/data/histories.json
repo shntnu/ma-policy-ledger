@@ -3953,6 +3953,126 @@
    }
   ]
  },
+ "H1099": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on Financial Services",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-27T13:00:26.04",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 11/06/2023 from 10:30 AM-06:00 PM in Gardner Auditorium                  ",
+    "IsStricken": true
+   },
+   {
+    "Date": "2023-10-31T14:52:23.9333333",
+    "Branch": "Joint",
+    "Action": "Hearing rescheduled to 11/06/2023 from 10:30 AM-06:00 PM in Gardner Auditorium                  ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-08T11:45:36.9633333",
+    "Branch": "House",
+    "Action": "Reporting date extended to Wednesday July 31, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-28T11:21:02.3133333",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-16T13:20:35.2366667",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H5047",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H2066"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1339"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3470"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1251"
+   },
+   {
+    "general_court": 194,
+    "bill": "S2253"
+   }
+  ]
+ },
+ "H1158": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on Financial Services",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-27T13:00:26.5233333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 11/06/2023 from 10:30 AM-06:00 PM in Gardner Auditorium                  ",
+    "IsStricken": true
+   },
+   {
+    "Date": "2023-10-31T14:52:23.9333333",
+    "Branch": "Joint",
+    "Action": "Hearing rescheduled to 11/06/2023 from 10:30 AM-06:00 PM in Gardner Auditorium                  ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-08T11:45:36.9633333",
+    "Branch": "House",
+    "Action": "Reporting date extended to Wednesday July 31, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-28T11:21:02.3133333",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-16T13:20:35.2366667",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H5047",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H1339"
+   }
+  ]
+ },
  "H1438": {
   "actions": [
    {
@@ -4074,6 +4194,92 @@
    {
     "general_court": 194,
     "bill": "H1766"
+   }
+  ]
+ },
+ "H1791": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on The Judiciary",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-09-27T10:49:43.0666667",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 10/03/2023 from 01:00 PM-05:00 PM in A-2                              ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-05T11:17:58.8233333",
+    "Branch": "House",
+    "Action": "Reporting date extended to Tuesday April 30, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-01T11:16:40.4833333",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-05-02T11:21:59.95",
+    "Branch": "House",
+    "Action": "Reporting date extended to Sunday June 30, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-05-20T11:01:54.0533333",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-01T12:28:02.49",
+    "Branch": "House",
+    "Action": "Reporting date extended to Wednesday July 31, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-25T11:06:03.4566667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-03T12:43:41.14",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H5032",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "H3455"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1906"
+   },
+   {
+    "general_court": 192,
+    "bill": "S1093"
+   },
+   {
+    "general_court": 191,
+    "bill": "S995"
+   },
+   {
+    "general_court": 191,
+    "bill": "S2493"
    }
   ]
  },
@@ -4449,6 +4655,38 @@
    }
   ]
  },
+ "H3548": {
+  "actions": [
+   {
+    "Date": "2023-03-23T00:00:00",
+    "Branch": "House",
+    "Action": "Text of an amendment, see H58",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 192,
+    "bill": "H4911"
+   },
+   {
+    "general_court": 192,
+    "bill": "H5394"
+   },
+   {
+    "general_court": 193,
+    "bill": "H3545"
+   },
+   {
+    "general_court": 193,
+    "bill": "H47"
+   },
+   {
+    "general_court": 193,
+    "bill": "H57"
+   }
+  ]
+ },
  "H3597": {
   "actions": [
    {
@@ -4555,6 +4793,158 @@
    {
     "general_court": 194,
     "bill": "H338"
+   }
+  ]
+ },
+ "H4138": {
+  "actions": [
+   {
+    "Date": "2023-10-18T00:00:00",
+    "Branch": "House",
+    "Action": "Referred to the committee on Housing",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-23T11:08:49.6766667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-01-03T10:39:51.3433333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 01/18/2024 from 11:00 AM-05:00 PM in Gardner Auditorium                  ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-08T00:00:00",
+    "Branch": "House",
+    "Action": "Reporting date extended to Thursday April 18, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-04T12:38:39.5866667",
+    "Branch": "House",
+    "Action": "No further action take on the extension to Thursday, April 18, 2024",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-04T11:31:57.4333333",
+    "Branch": "House",
+    "Action": "Reporting date extended to Friday April 12, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-05T09:26:52.4633333",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-06T11:30:49.8866667",
+    "Branch": "House",
+    "Action": "Bill reported favorably by committee and referred to the committee on Bonding, Capital Expenditures and State Assets",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-27T11:41:11.7633333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 04/02/2024 from 01:00 PM-05:00 PM in A-2                                              ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-16T00:00:00",
+    "Branch": "House",
+    "Action": "Ought NOT to pass (under Joint Rule 10) ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-16T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-16T00:00:00",
+    "Branch": "House",
+    "Action": "Rejection negatived",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-16T00:00:00",
+    "Branch": "House",
+    "Action": "Read",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-16T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-16T00:00:00",
+    "Branch": "House",
+    "Action": "Read second",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-04-16T00:00:00",
+    "Branch": "House",
+    "Action": "Referred to the committee on House Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-03T00:00:00",
+    "Branch": "House",
+    "Action": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-03T00:00:00",
+    "Branch": "House",
+    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending, question on ordering to a third reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-05T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-05T00:00:00",
+    "Branch": "House",
+    "Action": "Read second, amended (as recommended by the committee on House Ways and Means)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-06-05T00:00:00",
+    "Branch": "House",
+    "Action": "New draft substituted, see H4707",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H4977"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4707"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4726"
+   },
+   {
+    "general_court": 194,
+    "bill": "H101"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3164"
    }
   ]
  },
@@ -4721,6 +5111,274 @@
    {
     "general_court": 194,
     "bill": "H4007"
+   }
+  ]
+ },
+ "H5049": {
+  "actions": [
+   {
+    "Date": "2024-09-12T11:02:12.0966667",
+    "Branch": "House",
+    "Action": "Read; and referred to the committee on House Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-10-17T00:00:00",
+    "Branch": "House",
+    "Action": "Reported, in part, by H5077",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-31T23:59:00",
+    "Branch": "House",
+    "Action": "No further action taken",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H5077"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4496"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4034"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4790"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4844"
+   }
+  ]
+ },
+ "H5132": {
+  "actions": [
+   {
+    "Date": "2024-12-02T00:00:00",
+    "Branch": "House",
+    "Action": "Text of an amendment to S2974",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-02T00:00:00",
+    "Branch": "House",
+    "Action": "See H5077",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H3936"
+   },
+   {
+    "general_court": 194,
+    "bill": "H51"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4003"
+   },
+   {
+    "general_court": 194,
+    "bill": "H55"
+   },
+   {
+    "general_court": 194,
+    "bill": "H4429"
+   }
+  ]
+ },
+ "H5154": {
+  "actions": [
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "House",
+    "Action": "Text of an amendment, see S2884",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 192,
+    "bill": "H2494"
+   },
+   {
+    "general_court": 194,
+    "bill": "H507"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1606"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2677"
+   },
+   {
+    "general_court": 194,
+    "bill": "H2034"
+   }
+  ]
+ },
+ "H57": {
+  "actions": [
+   {
+    "Date": "2023-02-28T00:00:00",
+    "Branch": "House",
+    "Action": "Reported by the committee on House Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-28T00:00:00",
+    "Branch": "House",
+    "Action": "Reported on a part of H47",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-01T00:00:00",
+    "Branch": "House",
+    "Action": "Committee recommended ought to pass and referred to the committee on House Steering, Policy and Scheduling",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-01T00:00:00",
+    "Branch": "House",
+    "Action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-01T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-01T11:07:53.4233333",
+    "Branch": "House",
+    "Action": "Read second and ordered to a third reading",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-01T00:00:00",
+    "Branch": "House",
+    "Action": "Rules suspended",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-01T00:00:00",
+    "Branch": "House",
+    "Action": "Read third",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-01T00:00:00",
+    "Branch": "House",
+    "Action": "Consolidated amendment A adopted - 153 YEAS to 0 NAYS (See YEA and NAY No. 10)",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-01T00:00:00",
+    "Branch": "House",
+    "Action": "Published as amended, see H58",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 192,
+    "bill": "H4911"
+   },
+   {
+    "general_court": 192,
+    "bill": "H5394"
+   },
+   {
+    "general_court": 193,
+    "bill": "H3545"
+   },
+   {
+    "general_court": 193,
+    "bill": "H47"
+   },
+   {
+    "general_court": 193,
+    "bill": "H3548"
+   }
+  ]
+ },
+ "H582": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on Education",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-10T00:00:00",
+    "Branch": "House",
+    "Action": "Discharged to the committee on Public Health",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-13T11:14:27.48",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-07-14T09:17:49.4933333",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 07/19/2023 from 09:00 AM-06:00 PM in Gardner Auditorium   ",
+    "IsStricken": true
+   },
+   {
+    "Date": "2023-07-21T10:54:21.3033333",
+    "Branch": "Joint",
+    "Action": "Hearing rescheduled to 07/26/2023 from 09:00 AM-06:00 PM in Gardner Auditorium       ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-01T15:47:12.88",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H4739",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H2541"
+   },
+   {
+    "general_court": 192,
+    "bill": "H706"
+   },
+   {
+    "general_court": 186,
+    "bill": "S279"
+   },
+   {
+    "general_court": 194,
+    "bill": "S347"
+   },
+   {
+    "general_court": 194,
+    "bill": "H210"
    }
   ]
  },
@@ -5307,6 +5965,29 @@
     "Date": "2023-03-09T00:00:00",
     "Branch": "Senate",
     "Action": "Reprinted, as amended, see S24",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-09T00:00:00",
+    "Branch": "Senate",
+    "Action": "Substituted as a new text for H58",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-09T00:00:00",
+    "Branch": "Senate",
+    "Action": "See H58",
+    "IsStricken": false
+   }
+  ],
+  "similar": []
+ },
+ "S24": {
+  "actions": [
+   {
+    "Date": "2023-03-09T00:00:00",
+    "Branch": "Senate",
+    "Action": "Text of S23, printed as amended",
     "IsStricken": false
    },
    {
@@ -6181,6 +6862,268 @@
   ],
   "similar": []
  },
+ "S2888": {
+  "actions": [
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Reported from the committee on Senate Ways and Means ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Recommended new text for H4799",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-22T00:00:00",
+    "Branch": "Senate",
+    "Action": "Order relative to subject matter adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:28:09.2",
+    "Branch": "Senate",
+    "Action": "Amendment #3 (Barrett) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:28:16.6533333",
+    "Branch": "Senate",
+    "Action": "Amendment #4 (Barrett) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:28:36.12",
+    "Branch": "Senate",
+    "Action": "Amendment #7 (Barrett) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:29:09.3633333",
+    "Branch": "Senate",
+    "Action": "Amendment #10 (Mark) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:29:22.33",
+    "Branch": "Senate",
+    "Action": "Amendment #11 (Kennedy) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:30:27.6566667",
+    "Branch": "Senate",
+    "Action": "Amendment #24 (Timilty) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:30:40.39",
+    "Branch": "Senate",
+    "Action": "Amendment #25 (Timilty) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:30:54.4933333",
+    "Branch": "Senate",
+    "Action": "Amendment #27 (Timilty) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:31:11.4033333",
+    "Branch": "Senate",
+    "Action": "Amendment #30 (Cronin) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:31:37.2666667",
+    "Branch": "Senate",
+    "Action": "Amendment #40 (Cronin) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:31:59.7266667",
+    "Branch": "Senate",
+    "Action": "Amendment #42 (DiDomenico) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:32:12.8233333",
+    "Branch": "Senate",
+    "Action": "Amendment #43 (Montigny) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:32:30.04",
+    "Branch": "Senate",
+    "Action": "Amendment #44 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:32:42.74",
+    "Branch": "Senate",
+    "Action": "Amendment #45 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:33:03.0766667",
+    "Branch": "Senate",
+    "Action": "Amendment #46 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:34:05.7566667",
+    "Branch": "Senate",
+    "Action": "Amendment #47 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:34:20.55",
+    "Branch": "Senate",
+    "Action": "Amendment #48 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:34:37.17",
+    "Branch": "Senate",
+    "Action": "Amendment #49 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:34:50.7666667",
+    "Branch": "Senate",
+    "Action": "Amendment #50 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:35:05.4966667",
+    "Branch": "Senate",
+    "Action": "Amendment #51 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:35:22.1333333",
+    "Branch": "Senate",
+    "Action": "Amendment #52 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:35:37.79",
+    "Branch": "Senate",
+    "Action": "Amendment #53 (Fattman) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:49:01.9433333",
+    "Branch": "Senate",
+    "Action": "Amendment #17 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:50:39.0066667",
+    "Branch": "Senate",
+    "Action": "Amendment #18 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T15:52:55.35",
+    "Branch": "Senate",
+    "Action": "Amendment #20 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:00:13.3233333",
+    "Branch": "Senate",
+    "Action": "Amendment #12 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:00:29.6633333",
+    "Branch": "Senate",
+    "Action": "Amendment #16 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:00:41.2533333",
+    "Branch": "Senate",
+    "Action": "Amendment #19 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:00:53.9933333",
+    "Branch": "Senate",
+    "Action": "Amendment #22 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:01:07.83",
+    "Branch": "Senate",
+    "Action": "Amendment #23 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:01:21.6533333",
+    "Branch": "Senate",
+    "Action": "Amendment #32 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:01:36.6233333",
+    "Branch": "Senate",
+    "Action": "Amendment #38 (Tarr) rejected",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:02:57.7433333",
+    "Branch": "Senate",
+    "Action": "Amendment #41 (Friedman) adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T16:03:05.56",
+    "Branch": "Senate",
+    "Action": "Amendment #13 (Rodrigues) adopted",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Reprinted as amended, see S2891 ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "Substituted for H4799",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-24T00:00:00",
+    "Branch": "Senate",
+    "Action": "See H4799",
+    "IsStricken": false
+   }
+  ],
+  "similar": []
+ },
+ "S2891": {
+  "actions": [
+   {
+    "Date": "2024-07-25T00:00:00",
+    "Branch": "Senate",
+    "Action": "Text of S2888 printed as amended ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-07-25T00:00:00",
+    "Branch": "Senate",
+    "Action": "See H4799",
+    "IsStricken": false
+   }
+  ],
+  "similar": []
+ },
  "S381": {
   "actions": [
    {
@@ -6228,6 +7171,142 @@
    {
     "general_court": 194,
     "bill": "H274"
+   }
+  ]
+ },
+ "S627": {
+  "actions": [
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on Financial Services",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-27T13:00:27.07",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 11/06/2023 from 10:30 AM-06:00 PM in Gardner Auditorium                  ",
+    "IsStricken": true
+   },
+   {
+    "Date": "2023-10-31T14:52:23.9333333",
+    "Branch": "Joint",
+    "Action": "Hearing rescheduled to 11/06/2023 from 10:30 AM-06:00 PM in Gardner Auditorium                  ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-08T11:45:36.9633333",
+    "Branch": "House",
+    "Action": "Reporting date extended to Wednesday July 31, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-28T11:21:02.3133333",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-16T13:20:35.2366667",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H5047",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 193,
+    "bill": "H1158"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1339"
+   },
+   {
+    "general_court": 192,
+    "bill": "H1953"
+   },
+   {
+    "general_court": 191,
+    "bill": "S111"
+   },
+   {
+    "general_court": 191,
+    "bill": "S1664"
+   }
+  ]
+ },
+ "S666": {
+  "actions": [
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "Senate",
+    "Action": "Referred to the committee on Financial Services",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T11:17:15.5633333",
+    "Branch": "House",
+    "Action": "House concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-27T13:00:27.5866667",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 11/06/2023 from 10:30 AM-06:00 PM in Gardner Auditorium                  ",
+    "IsStricken": true
+   },
+   {
+    "Date": "2023-10-31T14:52:23.9333333",
+    "Branch": "Joint",
+    "Action": "Hearing rescheduled to 11/06/2023 from 10:30 AM-06:00 PM in Gardner Auditorium                  ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-02-08T11:45:36.9633333",
+    "Branch": "House",
+    "Action": "Reporting date extended to Wednesday July 31, 2024, pending concurrence",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-28T11:21:02.3133333",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-09-16T13:20:35.2366667",
+    "Branch": "House",
+    "Action": "Accompanied a study order, see H5047",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 192,
+    "bill": "H1953"
+   },
+   {
+    "general_court": 190,
+    "bill": "S1022"
+   },
+   {
+    "general_court": 191,
+    "bill": "S1090"
+   },
+   {
+    "general_court": 192,
+    "bill": "S1224"
+   },
+   {
+    "general_court": 191,
+    "bill": "S2778"
    }
   ]
  },

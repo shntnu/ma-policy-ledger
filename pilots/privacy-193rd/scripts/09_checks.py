@@ -101,7 +101,7 @@ from collections import Counter
 fate_counts = Counter(r["fate"] for r in fates)
 check(fate_counts.get("indeterminate", 0) == 0, "no indeterminate fates")
 for pid, expected in (("P-266", "enacted_as_filed"), ("P-280", "enacted_as_filed"),
-                      ("P-291", "enacted_as_filed"), ("P-294", "enacted_other_vehicle"),
+                      ("P-291", "enacted_as_filed"), ("P-294", "enacted_as_filed"),
                       ("P-295", "enacted_other_vehicle"), ("P-296", "enacted_other_vehicle"),
                       ("P-297", "enacted_other_vehicle"), ("P-298", "enacted_other_vehicle"),
                       ("P-299", "enacted_as_filed"), ("P-302", "enacted_as_filed"),
