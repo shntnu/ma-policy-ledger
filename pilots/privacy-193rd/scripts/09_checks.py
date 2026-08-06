@@ -122,9 +122,110 @@ for pid, expected in (("P-266", "enacted_as_filed"), ("P-280", "enacted_as_filed
                       ("P-295", "enacted_other_vehicle"), ("P-296", "enacted_other_vehicle"),
                       ("P-297", "enacted_other_vehicle"), ("P-298", "enacted_other_vehicle"),
                       ("P-299", "enacted_as_filed"), ("P-302", "enacted_as_filed"),
-                      ("P-303", "enacted_as_filed"), ("P-304", "enacted_as_filed")):
+                      ("P-303", "enacted_as_filed"), ("P-304", "enacted_as_filed"),
+                      ("P-371", "enacted_as_filed")):
     check(sum(1 for r in fates if r["prop_id"] == pid and r["fate"] == expected) == 1,
           f"{pid} fate is {expected}")
+
+# --- enacted universe: the official index is the denominator (finding 1)
+import sessionlaws
+ORDER_STAGE = {s: i for i, s in enumerate([
+    "referred", "heard", "reporting_extended", "reported_favorably",
+    "second_reading", "engrossed_one_branch", "in_second_branch",
+    "conference", "passed_both", "enacted"])}
+acts = rows("acts_index.csv")
+official = {(str(r["year"]), r["series"], r["chapter"]) for r in sessionlaws.official_index()}
+indexed = {(r["year"], r["series"], r["chapter"]) for r in acts}
+check(indexed == official,
+      f"acts_index.csv is exactly the official index "
+      f"(missing {sorted(official - indexed)[:5]}, extra {sorted(indexed - official)[:5]})")
+for r in acts:
+    check(r["obtained"] == "yes" or r["unobtainable_reason"],
+          f"chapter {r['year']} c.{r['chapter']} is scanned or has an unobtainable reason")
+check(all(int(r["text_chars"]) > 0 for r in acts if r["obtained"] == "yes"),
+      "every obtained chapter has text")
+# every term-flagged chapter of that universe reaches the adjudication table
+scan_keys = {(r["year"], r["chapter"]) for r in scan}
+flagged_from_index = {(r["year"], r["chapter"]) for r in acts if r["text_terms"]}
+check(scan_keys == flagged_from_index,
+      "sessionlaw_scan.csv flags exactly the term-hit chapters of the official index")
+
+# --- finding 4: no enacted vehicle may be described as having died or as
+# lacking a chain to the vehicle that carried the proposition into law
+enacted_bills = {r["bill"] for r in rows("bill_fates.csv") if r["terminal_class"] == "enacted"}
+for r in fates:
+    narrated = set()
+    for clause in (r"independent filings of the same proposition \(([^)]*)\) died without",
+                   r"filed carriers ([HS\d,]+) have no official chain"):
+        for m in _re.finditer(clause, r["detail"]):
+            narrated |= set(_re.findall(r"[HS]\d+", m.group(1)))
+    check(not (narrated & enacted_bills),
+          f"{r['prop_id']}: enacted vehicle in the died narrative "
+          f"({sorted(narrated & enacted_bills)})")
+    if r["fate"].startswith("enacted"):
+        check(r["enacted_vehicles"], f"{r['prop_id']}: enacted fate names its vehicles")
+        check(all(v in r["final_vehicles"].split(";") for v in r["enacted_vehicles"].split(";")),
+              f"{r['prop_id']}: every enacted vehicle is a final vehicle")
+for pid in ("P-301", "P-302"):
+    row = next(r for r in fates if r["prop_id"] == pid)
+    check(row["enacted_vehicles"] == "H4940;S2884",
+          f"{pid} records both enacted vehicles (got {row['enacted_vehicles']!r})")
+
+# --- finding 6: the memo's headline arithmetic must match the tables, so a
+# green check cannot coexist with stale prose
+memo = (PILOT / "memo" / "findings.md").read_text()
+enacted_props = [r for r in fates if r["fate"].startswith("enacted")]
+enacted_vehicles = sorted({v for r in enacted_props for v in r["enacted_vehicles"].split(";")})
+HEADLINES = [
+    (r"Of ([\d,]+) distinct policy propositions", len(props)),
+    (r"distinct policy propositions, ([\d,]+) became law", len(enacted_props)),
+    (r"of ([\d,]+) in-domain filings", len(included)),
+    (r"The ([\d,]+) in-domain filings were atomized", len(included)),
+    (r"atomized into ([\d,]+) propositions", len(props)),
+    (r"on ([\d,]+) bill-proposition edges", len(bp)),
+    (r"an ([\d,]+)-edge link graph", len(links)),
+    (r"([\d,]+) items sit in `data/verification_queue.csv`", len(queue)),
+    (r"accounts for ([\d,]+) candidate filings", len(census)),
+    (r"universe is the official session-law index[^.]*?: ([\d,]+) chapters", len(acts)),
+    (r"([\d,]+) row-level verdicts", len(adj)),
+    (r"verdicts across ([\d,]+) chapters", len({(r["year"], r["chapter"]) for r in adj})),
+    (r"\*\*([A-Za-z]+) of [\d,]+ propositions became law", len(enacted_props)),
+    (r"\*\*[A-Za-z]+ of ([\d,]+) propositions became law", len(props)),
+    (r"through ([a-z]+) enacted vehicles", len(enacted_vehicles)),
+    (r"([A-Za-z]+) passed through their own official chains",
+     fate_counts.get("enacted_as_filed", 0)),
+    (r"([A-Za-z]+) were absorbed into unrelated enacted vehicles",
+     fate_counts.get("enacted_other_vehicle", 0)),
+    (r"The other ([\d,]+) propositions died", len(fates) - len(enacted_props)),
+    (r"([\d,]+) propositions \(\d+%\) died with no recorded action",
+     fate_counts.get("died_no_recorded_action", 0)),
+    (r"; ([\d,]+) \(\d+%\) were sent to study", fate_counts.get("sent_to_study", 0)),
+    (r"For all ([\d,]+), the record offers", len(fates) - len(enacted_props)),
+    (r"([\d,]+) propositions \(\d+%\) cleared a policy committee",
+     sum(1 for r in fates if ORDER_STAGE[r["furthest_stage"]] >= ORDER_STAGE["reported_favorably"])),
+    (r"([\d,]+) \(\d+%\) were dropped during official consolidations",
+     sum(1 for r in fates if r["dropped_in_consolidation"] == "yes")),
+    (r"([\d,]+) propositions never got a hearing",
+     sum(1 for r in fates if r["furthest_stage"] == "referred")),
+    (r"; ([\d,]+) were enacted\.", len(enacted_props)),
+    (r"([\d,]+) cross-bill proposition-identity claims",
+     sum(1 for r in bp if r["identity_basis"] == "inferred-analytic")),
+]
+WORDS = {"twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15, "sixteen": 16,
+         "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "four": 4}
+for pattern, expected in HEADLINES:
+    found = _re.findall(pattern, memo, _re.IGNORECASE)
+    check(bool(found), f"memo headline present: /{pattern}/")
+    for raw in found:
+        val = WORDS.get(raw.lower(), None)
+        if val is None:
+            val = int(raw.replace(",", ""))
+        check(val == expected,
+              f"memo headline /{pattern}/ says {raw}, tables say {expected}")
+pct = round(100 * len(enacted_props) / len(props), 1)
+for hit in _re.findall(r"\((\d+\.\d)%\)|the (\d+\.\d)% rate", memo):
+    got = float(hit[0] or hit[1])
+    check(got == pct, f"memo passage rate says {got}%, tables say {pct}%")
 
 if fails:
     print(f"\n{len(fails)} check(s) failed")

@@ -1,0 +1,1870 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/Icons/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/Icons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/Icons/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="/Icons/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/Icons/favicon-16x16.png" sizes="16x16" />
+    <link rel="manifest" href="/Icons/manifest.json" />
+    <link rel="mask-icon" href="/Icons/safari-pinned-tab.svg" color="#0168c9" />
+    <link rel="shortcut icon" href="/Icons/favicon.ico" />
+    <meta name="msapplication-config" content="/Icons/browserconfig.xml" />
+    <meta name="theme-color" content="#ffffff" />
+        <meta name="mg_organization" content="massachusetts-legislature" />
+        <meta name="category" content="laws-regulations" />
+                <meta name="mg_type" content="session-law" />
+                <meta name="mg_date" content="20250110" />
+                <meta name="mg_key_actions" content="[{ &quot;name&quot;: &quot;Search for Session Laws&quot;, &quot;url&quot;: &quot;https:\/\/malegislature.gov\/Laws\/SessionLaws&quot;}]" />
+    <title>Session Law - Acts of 2024 Chapter 400</title>
+
+    <!-- Core CSS -->
+    <link rel="stylesheet" href="/bundles/css/core.min.css?v=vMti85r0XjmVGXwTJ-V0nl45bGXOMNaxp6pGpWuPGWY" />
+
+    <!-- Fonts -->
+    <link href="//fonts.googleapis.com/css?family=Cinzel|Cinzel+Decorative|Raleway|Roboto&display=swap" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/Content/font-awesome.min.css" />
+
+    
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-0RK1DK5FZ1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'G-S38HL5DE45');
+        </script>
+    <script src="/bundles/jquery.min.js"></script>
+    
+    <script src="/bundles/virtualtour.min.js"></script>
+</head>
+<body class="subpage">
+
+    <div id="alertContainer">
+        <!-- Alert Banner -->
+    </div>
+
+    <!-- Skip to Content Link -->
+    <a href="#mainContent" class="sr-only sr-only-focusable skipToContent">Skip to Content</a>
+    <div id="background" style="background: ">
+        <!--Header-->
+        
+<header>
+    
+        <div class="visible-lg-inline weatherBox">
+    <span class="weatherDate">August 05, 2026</span>
+    <img id="wicon" class="weatherIcon" src="https://openweathermap.org/img/w/04d.png" alt="Clouds">
+    <span class="weatherDivider"> &#124; </span>
+    <span class="weatherStats">83&deg;F</span>
+</div>
+
+    
+    <div class="container">
+        <a class="masthead" href="/">
+            <span class="headNumber">The 194th General Court of the </span>
+            <span class="headCommonwealth">Commonwealth of <span class="headMass">Massachusetts</span></span>
+        </a>
+        <div class="utilityLinks hidden-xs dropdown navbar-right">
+                <button id="utilMyLegBtn" class="utilityButton dropdown-toggle" aria-controls="loginFlyout" data-toggle="dropdown">
+                    <span class="fa-stack fa-lg">
+                        <span class="fa fa-user fa-stack-2x"></span>
+                    </span>
+                    <span class="fa-stack mlTitle">MyLegislature <span class="fa fa-caret-down"></span></span>
+                </button>
+                <div id="loginFlyout" class="dropdown-menu dropdownLogin" aria-live="assertive">
+                    
+<h2 class="text-center loginTitle">MyLegislature</h2>
+<p class="sr-only">Use MyLegislature to follow bills, hearings, and legislators that interest you.</p>
+<form id="loginFlyoutForm" class="form-horizontal clearfix" role="form" method="post" data-ajax="true" data-ajax-method="POST" data-ajax-begin="inProgress" data-ajax-complete="loginFlyoutFormOnComplete" action="/Account/Login?isModal=false">
+    
+<legend class="text-center legSignIn">Sign in with MyLegislature Account</legend>
+<span class="requiredFields">* Indicates required fields</span>
+<div class="form-group">
+    <label class="col-sm-3 control-label" for="Email">Email*</label>
+    <div class="col-sm-9">
+        <input autocomplete="email" class="form-control" data-val="true" data-val-email="Invalid email address." data-val-required="Email address is required." id="Email" name="Email" type="text" value="" />
+        <span class="help-block field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+    </div>
+</div>
+<div class="form-group passwordField">
+    <label class="col-sm-3 control-label" for="Password">Password*</label>
+    <div class="col-sm-9 clearfix">
+        <input autocomplete="off" class="form-control" data-val="true" data-val-required="Password required." id="Password" name="Password" type="password" />
+        <span class="help-block field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+        
+    </div>
+</div>
+<div class="col-xs-12 text-center">
+    <div class="clearfix">
+        <a class="forgotPassword" aria-haspopup="true" data-toggle="modal" data-target="#forgotPasswordModal" tabindex="0">Forgot Password?</a>
+    </div>
+    <input type="submit" value="Sign in" class="btn btn-default btn-lg fnStart"/>
+    <input type="submit" value="Signing In..." class="btn btn-default btn-lg fnEnd" style="display: none" />
+</div>
+
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzL2YVBgDHGx_qy0UVPHJMbrr2rInDTeORXRk7SFsOPErK_F65_Hfj3e8wxv27WPn9Y4UC1aL74zJvfBh2fPJsj90VnYQ1FKDommoWG6dvQygmy-k1tDuv6ERN-lFEHXdtg" /></form>
+<div class="form-group text-center">
+    <button type="button" onclick="window.location='/Account/ExternalLogin?provider=Facebook';" class="btn btn-facebook btn-md oauthButton"><span class="fa fa-facebook-official fa-fw"></span> Sign in with Facebook</button>
+    <button type="button" onclick="window.location='/Account/ExternalLogin?provider=Google';" class="btn btn-google btn-md oauthButton"><span class="fa fa-google-plus fa-fw"></span> Sign in with Google</button>
+</div>
+<div class="row">
+    <div class="col-xs-12 loginFooterWrapper">
+        <p class="loginFooter clearfix">
+          <a class="pull-left" href="#" data-toggle="modal" data-target="#registrationModal">Not Registered?</a>
+          <a class="pull-right" href="/MyLegislature/About">Learn More Here! &raquo;</a>
+        </p>
+    </div>
+</div>
+
+                </div>
+        </div>
+        <!-- /.utilityLinks -->
+    </div>
+    <!-- /.container -->
+</header>
+
+        <!-- NAVIGATION -->
+        
+<nav class="navbar yamm" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed btn menubutton" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" tabindex="0">Menu<span class="sr-only">Toggle navigation</span></button>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="visible-xs"><a href="/">Home</a></li>
+                <li class="visible-xs"><a role="button" href="#" data-toggle="modal" data-target="#mobileSearch" aria-haspopup="true">Search</a></li>
+                    <li class="visible-xs">
+                        <a data-toggle="modal" data-target="#loginModal" id="myLegNavLinkSm" tabindex="0">
+                            <span class="fa fa-user"></span>
+                            MyLegislature
+                        </a>
+                    </li>
+                <li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Bills &amp; Laws</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Bills">Bills</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Bills/Search">
+        All Bills
+    </a>
+</li>
+<li>
+    <a href="/Bills/RecentBills">
+        Recent &amp; Popular Bills
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/Senate/Deadlines">
+        Senate Deadlines
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/House/Deadlines">
+        House Deadlines
+    </a>
+</li>
+<li>
+    <a href="/Bills/CityTown">
+        Browse Bills by City/Town
+    </a>
+</li>
+
+
+<li class="form-group">
+    <form action="/Bills/Search" method="get">    <label class="" for="billsSearch">Search Bills</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="billsSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Bills"
+                       data-tt-search-reset="Bills"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Bills..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Bills">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Laws/GeneralLaws">General Laws</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Laws/GeneralLaws">
+        Browse General Laws
+    </a>
+</li>
+
+
+<li class="form-group">
+    <form action="/Laws/GeneralLaws/Search" method="get">    <label class="" for="generalLawsSearch">Search General Laws</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="generalLawsSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="GeneralLaws"
+                       data-tt-search-reset="GeneralLaws"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search General Laws..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search General Laws">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+
+
+<li class="form-inline generalLawsDirect">
+<form action="/Laws/GeneralLaws/GoTo" method="get">            <span class="navLabel">Go to a General Law:</span>
+            <div class="form-group">
+                <label for="GLChapterGoTo" class="sr-only">Chapter:</label>
+                <input id="GLChapterGoTo" name="ChapterGoTo" type="text" value="" class="form-control" placeholder="Chapter"/>
+            </div>
+            <div class="form-group">
+                <label for="GLSectionGoTo" class="sr-only">Section Number:</label>
+                <input id="GLSectionGoTo" name="SectionGoTo" type="text" value="" class="form-control" placeholder="Section"/>
+            </div>
+            <div class="form-group">
+                <label for="keyword" class="sr-only">Keyword:</label>
+                <input id="keyword" name="keyword" type="text" value="" class="form-control" placeholder="Keyword"/>
+            </div>
+            <button class="btn btn-primary searchButton" type="submit">Go <span class="sr-only"> to that General Law</span><span class="fa fa-angle-right"></span></button>
+</form></li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Laws/SessionLaws">Session Laws</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Laws/SessionLaws">
+        Browse Session Laws
+    </a>
+</li>
+
+
+<li class="form-group">
+    <form action="/Laws/SessionLaws/Search" method="get">    <label class="" for="sessionLawsSearch">Search Session Laws</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="sessionLawsSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="SessionLaws"
+                       data-tt-search-reset="SessionLaws"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Session Laws..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Session Laws">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+
+
+<li class="form-inline generalLawsDirect">
+<form action="/Laws/SessionLaws/GoTo" method="get">            <script>
+                var sessionLawActYears = [{"Disabled":false,"Group":null,"Selected":false,"Text":"2026","Value":"2026"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2025","Value":"2025"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2024","Value":"2024"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2023","Value":"2023"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2022","Value":"2022"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2021","Value":"2021"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2020","Value":"2020"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2019","Value":"2019"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2018","Value":"2018"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2017","Value":"2017"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2016","Value":"2016"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2015","Value":"2015"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2014","Value":"2014"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2013","Value":"2013"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2012","Value":"2012"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2011","Value":"2011"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2010","Value":"2010"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2009","Value":"2009"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2008","Value":"2008"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2007","Value":"2007"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2006","Value":"2006"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2005","Value":"2005"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2004","Value":"2004"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2003","Value":"2003"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2002","Value":"2002"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2001","Value":"2001"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2000","Value":"2000"},{"Disabled":false,"Group":null,"Selected":false,"Text":"1999","Value":"1999"},{"Disabled":false,"Group":null,"Selected":false,"Text":"1998","Value":"1998"},{"Disabled":false,"Group":null,"Selected":false,"Text":"1997","Value":"1997"}];
+                var sessionLawResolveYears = [{"Disabled":false,"Group":null,"Selected":false,"Text":"2024","Value":"2024"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2020","Value":"2020"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2018","Value":"2018"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2016","Value":"2016"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2014","Value":"2014"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2013","Value":"2013"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2012","Value":"2012"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2010","Value":"2010"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2009","Value":"2009"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2008","Value":"2008"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2007","Value":"2007"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2006","Value":"2006"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2004","Value":"2004"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2001","Value":"2001"},{"Disabled":false,"Group":null,"Selected":false,"Text":"1998","Value":"1998"}];
+            </script>
+            <span class="navLabel">Go to a Session Law:</span>
+            <div class="form-group sessionLawType">
+                <label for="TypeGoTo" class="sr-only">Type:</label>
+                <select name="TypeGoTo" id="TypeGoTo" class="form-control" onchange="sessionLawTypeChange(this, 'Resolves')">
+                        <option value="Acts">Act</option>
+                        <option value="Resolves">Resolve</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="SLChapterGoTo" class="sr-only">Chapter:</label>
+                <input id="SLChapterGoTo" name="ChapterGoTo" type="text" value="" class="form-control" placeholder="Chapter"/>
+            </div>
+            <div class="form-group">
+                <label for="YearGoTo" class="sr-only">Year:</label>
+                <select name="YearGoTo" id="YearGoTo" class="form-control sessionLawYearList">
+                        <option value="2026">2026</option>
+                        <option value="2025">2025</option>
+                        <option value="2024">2024</option>
+                        <option value="2023">2023</option>
+                        <option value="2022">2022</option>
+                        <option value="2021">2021</option>
+                        <option value="2020">2020</option>
+                        <option value="2019">2019</option>
+                        <option value="2018">2018</option>
+                        <option value="2017">2017</option>
+                        <option value="2016">2016</option>
+                        <option value="2015">2015</option>
+                        <option value="2014">2014</option>
+                        <option value="2013">2013</option>
+                        <option value="2012">2012</option>
+                        <option value="2011">2011</option>
+                        <option value="2010">2010</option>
+                        <option value="2009">2009</option>
+                        <option value="2008">2008</option>
+                        <option value="2007">2007</option>
+                        <option value="2006">2006</option>
+                        <option value="2005">2005</option>
+                        <option value="2004">2004</option>
+                        <option value="2003">2003</option>
+                        <option value="2002">2002</option>
+                        <option value="2001">2001</option>
+                        <option value="2000">2000</option>
+                        <option value="1999">1999</option>
+                        <option value="1998">1998</option>
+                        <option value="1997">1997</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Go <span class="sr-only">to Session Law</span><span class="fa fa-angle-right"></span></button>
+</form></li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/Laws/Constitution">
+            Massachusetts Constitution
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Journal/Senate">
+            Senate Journals
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Journal/House">
+            House Journals
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Laws/Rules/Joint">
+            Rules
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Reports">
+            Reports and Communications
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Download/Joint/Legislative%20Drafting%20Manual" target="_blank">
+            Drafting Manual
+                <span class="fa fa-file-pdf-o"></span>
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/StateHouse/Glossary">
+            Glossary
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Budget</a>
+<ul class="dropdown-menu" id="budgetMenu">
+    <li>
+        <div class="yamm-content homeBudget">
+            <h2><a href="/Budget">FY 2027 Budget</a></h2>
+            <ol>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/GovernorsBudget">
+                            Governor&#x27;s Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/HouseWaysMeansBudget">
+                            House Ways &amp; Means Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/HouseDebate">
+                            House Debate
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/HouseBudget">
+                            House Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/SenateWaysMeansBudget">
+                            Senate Ways &amp; Means Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/SenateDebate">
+                            Senate Debate
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/SenateBudget">
+                            Senate Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/ConferenceCommittee">
+                            Conference Committee
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="current" aria-current="step">
+                        <a href="/Budget/FinalBudget">
+                            Final Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                        </a>
+                    </li>
+            </ol>
+            <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+        </div>
+    </li>
+</ul></li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Legislators</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Legislators">Legislators</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Redistricting">
+        Redistricting
+    </a>
+</li>
+<li>
+    <a href="/Search/FindMyLegislator">
+        Find Your Legislators
+    </a>
+</li>
+
+
+<li class="form-group">
+    <form action="/Legislators/Search" method="get">    <label class="" for="legisSearch">Search Legislators</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="legisSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Legislators"
+                       data-tt-search-reset="Legislators"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Legislators..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Legislators">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Legislators/Leadership">Legislative Leadership</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Legislators/Leadership">
+        All Leadership
+    </a>
+</li>
+<li>
+    <a href="/Legislators/Leadership/Senate">
+        Senate Leadership
+    </a>
+</li>
+<li>
+    <a href="/Legislators/Leadership/House">
+        House Leadership
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Legislators/Senate">Senate</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Legislators/Members/Senate">
+        All Senators
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/Senate">
+        Senate Clerk
+    </a>
+</li>
+<li>
+    <a href="/OpenRecords/Senate">
+        Senate Open Records
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Legislators/House">House</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Legislators/Members/House">
+        All Representatives
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/House">
+        House Clerk
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Clerks</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Dockets/Search">Dockets</a>
+                </h3>
+            <ul class="list-unstyled">
+
+
+<li class="form-group">
+    <form action="" method="get">    <label class="" for="docketsSearch">Search Dockets</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="docketsSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Dockets"
+                       data-tt-search-reset="Dockets"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Dockets..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Dockets">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/ClerksOffice/Senate">Senate Clerk</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/ClerksOffice/Senate/Agenda">
+        Agenda
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/Senate/Calendar">
+        Calendar
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/Senate/Dockets">
+        Dockets
+    </a>
+</li>
+<li>
+    <a href="/Laws/Rules/Senate">
+        Rules
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/ClerksOffice/House">House Clerk</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/ClerksOffice/House/Calendar">
+        Calendar
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/House/Dockets">
+        Dockets
+    </a>
+</li>
+<li>
+    <a href="/Laws/Rules/House">
+        Rules
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/ClerksOffice/Senate/Audits">
+            Senate Audits
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Journal/Senate">
+            Senate Journals
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/ClerksOffice/House/Audits">
+            House Audits
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Journal/House">
+            House Journals
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Hearings &amp; Events</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Events">All Hearings &amp; Events</a>
+                </h3>
+            <ul class="list-unstyled">
+
+
+<li class="form-group">
+    <form action="/Events/Search" method="get">    <label class="" for="eventSearch">Search Events</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="eventSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Events"
+                       data-tt-search-reset="Events"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Events..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Events">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Events/Sessions">Sessions</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Events/Sessions/Joint">
+        Joint Sessions
+    </a>
+</li>
+<li>
+    <a href="/Events/Sessions/Senate">
+        Senate Sessions
+    </a>
+</li>
+<li>
+    <a href="/Events/Sessions/House">
+        House Sessions
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Events/Hearings">Hearings</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Events/Hearings/Senate">
+        Senate Committee Hearings
+    </a>
+</li>
+<li>
+    <a href="/Events/Hearings/House">
+        House Committee Hearings
+    </a>
+</li>
+<li>
+    <a href="/Events/Hearings/Joint">
+        Joint Committee Hearings
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/Events/SpecialEvents">
+            Special Events
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Committees &amp; Commissions</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Committees">All Committees</a>
+                </h3>
+            <ul class="list-unstyled">
+
+
+<li class="form-group">
+    <form action="/Committees/Search" method="get">    <label class="" for="committeeSearch">Search Committees</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="committeeSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Committees"
+                       data-tt-search-reset="Committees"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Committees..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Committees">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Committees">Committees</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Committees/Joint">
+        Joint Committees
+    </a>
+</li>
+<li>
+    <a href="/Committees/Senate">
+        Senate Committees
+    </a>
+</li>
+<li>
+    <a href="/Committees/House">
+        House Committees
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Events/Hearings">Committee Hearings</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Events/Hearings/Joint">
+        Joint Committee Hearings
+    </a>
+</li>
+<li>
+    <a href="/Events/Hearings/Senate">
+        Senate Committee Hearings
+    </a>
+</li>
+<li>
+    <a href="/Events/Hearings/House">
+        House Committee Hearings
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/Commissions">
+            Commissions
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Download/House/Committee%20Book" target="_blank">
+            Committee Book
+                <span class="fa fa-file-pdf-o"></span>
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Committees/HearingAttendanceOverview">
+            Hearing Attendance
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">State House</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/StateHouse/Visit">Visit the State House</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/StateHouse/Tour">
+        On-site Tour
+    </a>
+</li>
+<li>
+    <a href="/VirtualTour/Home">
+        Virtual Tour
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/StateHouse/Accessibility">Accessibility</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/StateHouse/AccessibilityForm">
+        Request Accessibility
+    </a>
+</li>
+<li>
+    <a href="/StateHouse/WebAccessibilityPolicy">
+        Web Accessibility Policy
+    </a>
+</li>
+<li>
+    <a href="/StateHouse/AccessibilityInitiatives">
+        Accessibility Initiatives
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/StateHouse/EducationalOpportunities">Educational Opportunities</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/StateHouse/EducationalOpportunities/Internships">
+        Internships
+    </a>
+</li>
+<li>
+    <a href="/StateHouse/EducationalOpportunities/StudentGovernmentDay">
+        Student Government Day
+    </a>
+</li>
+<li>
+    <a href="/StateHouse/EducationalOpportunities/CitizensLegislativeSeminar">
+        Citizens&#x27; Legislative Seminar
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/CreateYourOwnBill/Idea">
+            Create Your Own Bill
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/StateHouse/MediaGallery">
+            Media Gallery
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/StateHouse/FAQ">
+            FAQ
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/StateHouse/Contact">
+            Contact Us
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+
+            </ul>
+        </div>
+        <!--/.nav-collapse -->
+    </div>
+    <!--/.container -->
+</nav>
+
+        <!-- MAIN CONTENT -->
+        <span id="mainContent" class="sr-only"></span>
+        <main>
+            
+<div class="titleBar clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-7 col-md-8">
+                <ol class="breadcrumb-titleBar">
+                    <li class="hidden-print"><a href="/Laws/SessionLaws">Session Laws</a></li>
+                    <li><a href="/Laws/SessionLaws/Acts/2024">Acts (2024)</a></li>
+                    <li class="visible-print-block"><a href="#">Chapter 400</a></li>
+                </ol>
+                <h1>Chapter 400</h1>
+            </div>
+            <div class="hidden-xs col-sm-5 col-md-4">
+                <div class="typeahead-wrapper-md"><form action="/Search" method="get">        <h2 class="sr-only">Search the Legislature</h2>
+    <label class="sr-only" for="detailSearch">Search the Legislature</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="detailSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Bills, GeneralLaws, SessionLaws, Committees, Legislators, Events, Journals, Reports, Videos, Amendments, ClerkContents"
+                       data-tt-search-reset="Bills, GeneralLaws, SessionLaws, Committees, Legislators, Events, Journals, Reports, Videos, Amendments, ClerkContents"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search the Legislature..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search the Legislature">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /TITLEBAR -->
+
+<div class="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-8">
+                <div class="col-xs-12">
+                    
+<div class="btn-toolbar pull-right" role="toolbar">
+    <div class="btn-group" role="group">
+        <button class="btn btn-sm btn-secondary printButton" type="button" onclick="javascript:window.print();" aria-haspopup="true"><span class="fa fa-print"></span>&nbsp;Print Page</button>
+    </div>
+	<div class="btn-group" role="group">
+			<button class="btn btn-sm btn-secondary prevButton" onclick="location.href ='/Laws/SessionLaws/Acts/2024/Chapter399';"><span class="fa fa-angle-left"></span> Prev<span class="sr-only">ious</span></button>
+	        <button class="btn btn-sm btn-secondary nextButton" onclick="location.href = '/Laws/SessionLaws/Acts/2024/Chapter401';">Next <span class="fa fa-angle-right"></span></button>
+	</div>
+</div>
+
+                </div>
+
+
+                <div class="col-xs-12">
+                    <h2 class="h3 chapterTitle">AN ACT AMENDING THE CHARTER OF THE TOWN OF BELLINGHAM</h2>
+                </div>
+
+                <div class="col-xs-12">
+                    <p class="MsoNormal" style="text-align: justify; text-indent: .4in;"><em>Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority of the same, as follows:</em></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION&nbsp;1.&nbsp;&nbsp;The following shall be the charter of the town of Bellingham:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Article 1<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TOWN INCORPORATION, FORM OF GOVERNMENT AND POWERS<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 1 Incorporation.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-1-1.&nbsp;&nbsp;The inhabitants of the town of Bellingham within the corporate limits as established by law shall continue to be a body corporate and politic with perpetual succession under the name &ldquo;town of Bellingham&rdquo;.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 2 Short Title.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-2-1.&nbsp;&nbsp;This instrument shall be known and may be cited as the Bellingham Home Rule Charter. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 3 Powers of the Town.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-3-1.&nbsp;&nbsp;Subject only to express limitations on the exercise of any power or function by a municipality in the Constitution or laws of the commonwealth, it is the intent and the purpose of the voters of the town of Bellingham to secure through the adoption of this charter all of the powers it is possible to secure for a municipal government under the Constitution and laws of the commonwealth.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Section 4 Division of Powers.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-4-1.&nbsp;&nbsp;All legislative powers of the town shall be exercised by a town meeting open to all voters. The administration of all town fiscal, prudential and municipal affairs shall be vested in the executive branch headed by the select board, the town administrator and elected officers and boards.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 5 Construction.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-5-1.&nbsp;&nbsp;The powers of the town of Bellingham under this charter are to be construed liberally in its favor and the specific mention of any particular power is not intended to limit in any way the general powers of the town of Bellingham as stated in section 1-3-1.<br /> &nbsp;&nbsp;&nbsp;&nbsp; Section 6 Intergovernmental Relations.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-6-1.&nbsp;&nbsp;Consistent with any applicable constitutional or statutory provisions, the town may exercise any of its powers or perform any of its functions and may participate in the financing thereof, with any one or more civil divisions, subdivisions or agencies of any state or the United States government.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 7 Definitions.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-7-1.&nbsp;&nbsp;Words and Gender. Words importing the singular number may extend and be applied to several persons or things; words importing the plural number may include a singular person or thing; words importing the feminine gender shall include the masculine gender; words importing the masculine gender shall include the feminine gender.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-7-2.&nbsp;&nbsp;Unless another meaning is clearly apparent from the manner in which the word is used, the following words as used in this charter shall have the following meanings:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;Charter &ndash; The word &ldquo;charter&rdquo; shall mean this charter and any amendments to it which may hereafter be adopted.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;Days &ndash; The word &ldquo;days&rdquo; shall refer to business days, not including Saturdays, Sundays and legal holidays, when the time set is less than 7 days; when the time set is 7 days or more, every day shall be counted.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;General laws &ndash; The words &ldquo;General Laws&rdquo; or &ldquo;law&rdquo; shall refer to the Massachusetts General Laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;Local newspaper &ndash; The words &ldquo;local newspaper&rdquo; shall mean a newspaper of general circulation in the town of Bellingham.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(e)&nbsp;&nbsp;Majority vote &ndash; The words &ldquo;majority vote&rdquo; shall mean a majority of those present and voting, provided there is a quorum of the body present when the vote is taken, unless otherwise required by law.<br />&nbsp; &nbsp; &nbsp; &nbsp;(f)&nbsp;&nbsp;Multiple member body &ndash; The words &ldquo;multiple member body&rdquo; shall mean any town body consisting of 2 or more persons and whether styled board, commission, committee, sub-committee or otherwise and however elected or appointed or otherwise constituted.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)&nbsp;&nbsp;Town &ndash; The word &ldquo;town&rdquo; shall mean the town of Bellingham.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(h)&nbsp;&nbsp;Town agency &ndash; The words &ldquo;town agency&rdquo; shall mean any board, commission, committee, department, division or office of the town government.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(i)&nbsp;&nbsp;Town officer &ndash; The words &ldquo;town officer&rdquo; when used without further qualification or description shall mean a person having charge of an office or department of the town who in the exercise of the powers or duties of that position exercises some portion of the sovereign power of the town.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(j)&nbsp;&nbsp;Voters &ndash; The word &ldquo;voters&rdquo; shall mean registered voters of the town of Bellingham.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Article 2<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LEGISLATIVE BRANCH<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 1 Town Meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-1-1.&nbsp;&nbsp;The legislative powers of the town shall be vested in a town meeting open to voters of the town.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 2 Presiding Officer.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-2-1.&nbsp;&nbsp;The town moderator, elected as provided in section 3-3-1 of this charter, shall preside at all sessions of the town meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-2-2.&nbsp;&nbsp;In the absence of the town moderator, the town meeting shall, as its first act, elect a temporary moderator by a majority vote. The town clerk shall preside until such election has taken place, in accordance with section 14 of chapter 39 of the General Laws. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 3 Committees.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-3-1.&nbsp;&nbsp;Finance Committee. There shall be a finance committee, the members of which shall be appointed by the moderator. The number of members, the term of office and any other conditions of appointment or service as may be deemed necessary or desirable shall be established by by-law. The finance committee shall hold one or more meetings to permit discussion of the subject matter of all articles contained in the warrant, except those articles subject to public hearings by other multiple member bodies and not containing appropriations. The finance committee shall report its recommendations on the articles for which it held a public hearing, in writing, not less than 10 days prior to a scheduled town meeting. The finance committee shall have such additional powers and duties as may be provided by the General Laws, by this charter or by by-law.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 4 Time of Meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-4-1.&nbsp;&nbsp;The town meeting shall meet in regular session not less than twice in each calendar year.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2-4-2.&nbsp;&nbsp;The first regular meeting, to be known as the spring annual town meeting, shall be held during March, April or May, on a date fixed by by-law, and shall be primarily concerned with: (i) the determination of matters involving the expenditure of town funds including, but not limited to, the adoption of an annual operating budget for all town agencies; (ii)&nbsp; electing officers; and (iii)&nbsp; other matters to be decided by ballot of the voters.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2-4-3.&nbsp;&nbsp;The second such meeting, to be known as the fall annual town meeting, the powers of which shall also be deemed to be those of the annual town meeting, except that it shall not include the election of officers or the determination of other matters to be decided by ballots of voters, shall be held during the last 4 calendar months, on a date fixed by by-law.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 5 Special Meetings.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2-5-1.&nbsp;&nbsp;Special town meetings shall be held at the call of the select board at such times as it may deem necessary and whenever a special meeting is petitioned by voters in accordance with procedures made available by the General Laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 6 Warrants.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-6-1.&nbsp;&nbsp;Every town meeting shall be called by a warrant issued by the select board which shall state the date, time and place at which the meeting is to be convened and, by separate articles, the subject matter to be acted upon.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-6-2.&nbsp;&nbsp;The publication of the warrant shall be in accordance with town by-laws governing such matters.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 7 Initiation of Warrant Articles.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-7-1.&nbsp;&nbsp;Initiation. The select board shall receive at any time all petitions addressed to it and which request the submission of any matter to the town meeting and which are filed by: (i) any elected town officer; (ii) any multiple member body acting by a majority of its members; (iii) any 10 voters for a regular town meeting; and (iv) any 100 voters for a special town meeting. In accordance with section 10 of chapter 39 of the General Laws, the select board shall insert all petitions as articles on the appropriate town meeting warrant.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-7-2.&nbsp;&nbsp;Referral. The select board shall immediately upon signing cause a copy of the warrant to be delivered to the chairperson or the designee of the finance committee and shall cause such other distribution to be made of each warrant as may be required by by-law.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-7-3.&nbsp;&nbsp;Notification. Whenever a special town meeting is to be called, the select board shall give notice of the date, time and place by publication in a location defined in the town&rsquo;s by-laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 8 Availability of Town Officials at Town Meetings.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-8-1.&nbsp;&nbsp;Every town officer, chairperson of each multiple member body, head of each department and the head of each division within said department shall attend all sessions of the town meeting for the purpose of providing the town meeting with information and answering questions concerning matters appearing in the warrant.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-8-2.&nbsp;&nbsp;In the event a town officer, chairperson of a multiple member body, department head or division head is to be absent due to illness or other reasonable cause, such person shall designate a deputy to attend in their place. If any person designated to attend the town meeting under this section is not a voter in the town, such person shall, notwithstanding, have a right to address the meeting for the purpose of compliance with this section.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 9 Clerk of the Meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-9-1.&nbsp;&nbsp;The town clerk shall serve as the clerk to the town meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-9-2.&nbsp;&nbsp;In the event of the absence of the town clerk, the town clerk shall designate a substitute; otherwise, the town moderator shall appoint a clerk pro tempore.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-9-3.&nbsp;&nbsp;The town clerk shall give notice of all meetings to the public, keep a journal of its proceedings and perform such other functions as may be provided by the General Laws by charter, by by-law or by other town meeting vote.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 10 Rules of Procedure.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-10-1.&nbsp;&nbsp;The town meeting may, by by-law, establish and from time to time amend, revise or repeal rules to govern the conduct of all town meetings.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Article 3<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ELECTED OFFICERS<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 1 General Provisions.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-1-1.&nbsp;&nbsp;The offices to be filled by ballot of the voters of the entire town shall be a select board, a moderator, a school committee, a town clerk, constables, a planning board, library trustees, 3 members of a housing authority and such members of regional authorities or districts as may be established by statute, interlocal agreement or otherwise.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-1-2.&nbsp;&nbsp;The regular elections for town office shall be held annually on such date as may from time to time be fixed in the town by-laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-1-3.&nbsp;&nbsp;Elected town officials shall receive such compensation for their services as may be appropriated.<br />&nbsp; &nbsp; &nbsp; &nbsp;3-1-4.&nbsp;&nbsp;Notwithstanding their election by voters, the town officers named in this section shall be subject to the call of the select board or of the town administrator, at all reasonable times, for consultation, conference and discussion on any matter relating to their office.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-1-5.&nbsp;&nbsp;Elected multiple member body vacancies. If there is a vacancy in a board consisting of 2 or more members, other than the select board, the remaining members shall forthwith give notice of the existence of any such vacancy to the select board. The select board with the remaining member or members of such board shall fill such vacancy by a joint vote. The select board shall set the date for the joint vote and give 1 week&rsquo;s notice. If such notice is not given within 30 days following the date on which such vacancy occurs, the select board shall, after 1 week&rsquo;s notice, fill such vacancy without participation by the remaining member or members of the multiple member body.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 2 Select Board. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-2-1.&nbsp;&nbsp;Composition, Term. A select board of 5 members shall be elected at-large for 3 years, each so arranged that the terms of as close to an equal number of members as possible shall expire each year.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-2-2.&nbsp;&nbsp;Vacancies in the office of select board shall be filled by a special election in accordance with the provisions of the General Laws.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3-2-3.&nbsp;&nbsp;Executive powers. Except as otherwise provided by this charter, all executive powers of the town shall be vested in the select board which shall have all the powers and duties given to town select boards or boards of selectmen under the Massachusetts Constitution and the General Laws and such additional powers and duties as may be authorized by this charter, by by-law or town meeting vote.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3-2-4.&nbsp;&nbsp;Licensing. The select board shall be a licensing board for the town and shall have the power to issue licenses as authorized by law to make all necessary rules and regulations regarding the issuance of such licenses, to attach conditions and to impose restrictions on any such licenses as it deems to be in the public interest and to enforce all laws, rules, regulations and restrictions relating to all such businesses for which it issues licenses.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-2-5.&nbsp;&nbsp;The select board shall cause the charter, by-laws and rules and regulations for the government of the town to be enforced and shall cause an up-to-date record of all its official acts to be kept.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-2-6.&nbsp;&nbsp;The select board may investigate or may authorize the town administrator to investigate the affairs of the town and the conduct of any agency of the town.<br />&nbsp; &nbsp; &nbsp; &nbsp;3-2-7.&nbsp;&nbsp;Town administrator. The select board shall appoint a town administrator for a 3-year term. The appointment of the administrator shall be by the affirmative vote of not less than 3 members of the select board, with reappointment by not less than 3 affirmative votes of the select board. Removal shall require not less than 4 affirmative votes of the select board.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-2-8.&nbsp;&nbsp;Other appointments. The select board shall have the authority to make appointments as provided by the General Laws, by this charter and by by-law and to make other such appointments as it may deem necessary. A listing of appointments authorized at the time of this charter is provided in section 8-2-3 the town administrative organization.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-2-9.&nbsp;&nbsp;Unless noted elsewhere in this charter, the terms of office of all appointments made by the select board shall be as currently specified by the General Laws, by this charter, by by-law or town meeting vote.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 3 Town Moderator.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-3-1.&nbsp;&nbsp;Term. There shall be a town moderator elected for a term of 3 years.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-3-2.&nbsp;&nbsp;Powers and duties. The town moderator shall be the presiding officer of the town meeting, shall regulate its proceedings, decide all questions of order and shall have such other powers and duties as may be provided for that office by the General Laws, by this charter, by by-law and by other vote of the town meeting, including appointing a finance committee.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 4 School Committee.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-4-1.&nbsp;&nbsp;Composition, term of office. There shall be a school committee consisting of 5 members elected for terms of 3 years each so arranged that the terms of as nearly an equal number of members as is possible shall expire each year.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-4-2.&nbsp;&nbsp;Powers and duties. The school committee shall have all the powers and duties which are given to school committees by the General Laws and it shall have such additional powers and duties as may be authorized by this charter, by by-law or by other town meeting vote. The powers of the school committee shall include, but are not intended to be limited to, the following:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;to appoint a superintendent of the schools and other officers as allowed by the General Laws, to fix their compensation, define their duties, make rules concerning their tenure of office and to discharge them; and<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(ii)&nbsp;&nbsp;to make all reasonable policies consistent with the General Laws or the executive office of education regulations for the administration and management of the public school system and for the conduct of its own business and affairs.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 5 Town Clerk.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-5-1.&nbsp;&nbsp;Term. There shall be a town clerk elected to serve for a term of 3 years.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3-5-2.&nbsp;&nbsp;Powers and duties. The town clerk shall: (i) be the keeper of vital statistics for the town; (ii) be the custodian of the town seal; (iii) administer the oath of office to all persons, elected or appointed to any office; (iv) issue such licenses and permits as are required by law to be issued by town clerks; (v) supervise and manage the conduct of all elections and all other matters relating to elections; and (vi) be the clerk of the town meeting, keep its records and in the absence of the town moderator to preside pending the election of a temporary town moderator. The town clerk shall also have such other powers and duties as are given to town clerks by the General Laws, by this charter, by by-law or by other vote of the town meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 6 Planning Board.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-6-1.&nbsp;&nbsp;Composition, term. There shall be a planning board consisting of 5 members elected for terms of 3 years each, so arranged that the term of office of has nearly an equal number as is possible shall expiring each year. As authorized by section 9 of chapter 40A of the General Laws, there shall be 1 associate member of the planning board. Such associate shall act on special permit applications when designated to do so by the planning board chair, in case of absence, inability to act or conflict of interest on the part of any member of the board. The associate member shall be appointed for a 3-year term by majority vote of the select board and members of the planning board, in the same manner as for filling a vacancy.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-6-2.&nbsp;&nbsp;(a) Powers and duties. The planning board shall have all of the powers and duties planning boards may have under the Massachusetts Constitution and the General Laws and it shall have such additional powers and duties as may be authorized by the charter or by by-law.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;The planning board shall make careful studies of the resources, possibilities and needs of the town and shall make plans for the development of the town. The planning board shall provide for the review of the comprehensive master plan every 10 years, setting forth in graphic and textual form, policies governing the future growth and development of the town&rsquo;s economic, developmental and human service needs.<br />&nbsp; &nbsp; &nbsp; &nbsp; (c)&nbsp;&nbsp;The planning board shall regulate the sub-division of land within the town by adoption of rules and regulations governing such development and the administration of such rules and regulations. The planning board shall make recommendations to the town meeting on all matters affecting land use and development, including the zoning by-laws of the town.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;The planning board shall make an annual report, giving information regarding the condition of the town and any plans or proposals for its development and estimates of their costs.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 7 Board of Library Trustees.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-7-1.&nbsp;&nbsp;Composition, term. There shall be a board of library trustees consisting of 5 members elected for terms of 3 years each, so arranged that the term of office of as nearly an equal number of members as possible shall expire each year.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-7-2.&nbsp;&nbsp;Powers and duties. The board of library trustees shall have the custody and management of the public library and of all property of the town related to the said library. All funds of money and property that the town may receive by gift or bequest for the purpose of library support or maintenance shall be administered by the board in accordance with the provisions of any such gift or bequest. The board shall have all of the other powers and duties which are given to boards of library trustees by the General Laws, by this charter, by by-law or other town meeting vote.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 8 Constables.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-8-1.&nbsp;&nbsp;Composition term of office. There shall be not less than 1 nor more than 4 constables elected for terms of 3 years each, so arranged that the terms of office of each will expire simultaneously.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-8-2.&nbsp;&nbsp;Powers and duties. Constables may exercise such powers as provided under the Massachusetts Constitution and the General Laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 9 Bellingham Housing Authority.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-9-1.&nbsp;&nbsp;Composition, term of office. There shall be a housing authority which shall consist of 5 members serving for terms of 5 years each, so arranged that the term of 1 member shall expire each year. Three of the members shall be elected by the voters of the town and 2 members shall be elected or appointed in accordance with section 5 of chapter 121B of the General Laws, as it may be amended from time to time.&nbsp; <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-9-2.&nbsp;&nbsp;Powers and duties. The housing authority shall make studies of the housing needs of the community and shall provide programs to make available housing for families of low income and for elderly and disabled persons of low income. The housing authority shall have such other powers and duties as are assigned to housing authorities by the General Laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;10 Blackstone Valley Regional Vocational District School Committee (Bellingham Representative).<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3-10-1.&nbsp;&nbsp;Composition, term of office. The voters shall elect such members of the Blackstone Valley Regional Vocational School Committee for school committee for such terms as may be provided under the agreement and laws establishing the committee.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-10-2.&nbsp;&nbsp;Powers and duties. The members of the Blackstone Valley Regional Vocational School Committee shall along with members from other municipalities participating therein, be responsible for the management and supervision of the said school according to the agreement and laws governing the same.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 11 Recall Provisions.<br />&nbsp; &nbsp; &nbsp; &nbsp; 3-11-1.&nbsp;&nbsp;Application. Any holder of an elected office in the town with more than 6 months remaining in the term of office may be recalled therefrom by the qualified voters of the town in the manner provided herein.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-11-2.&nbsp;&nbsp;(a) Recall petition. Two hundred or more voters may file with the town clerk an affidavit signed under the penalties of perjury containing the name of the officer whose recall is sought and a statement of the grounds upon which the petition is based. The petition shall be addressed to the select board and include the town clerk&rsquo;s signature and official seal, the date, the grounds set forth in the recall affidavit, the name and title of the person whose recall is sought and the names of the first 10 voters signing the affidavit, 1 of whom shall be identified as the &ldquo;lead petitioner&rdquo;. A copy of the affidavit shall be entered in a record book to be kept in the office of the town clerk and the town clerk shall notify the lead petitioner that such petitions are available at that office. The recall petitions shall be returned and filed with the clerk within 45 days following the date of the filing of the affidavit signed by not less than 10 per cent of the voters and containing their names and addresses; provided, however, that not more than 25 per cent of the total number shall be from any 1 precinct.&nbsp; <br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(b)&nbsp;&nbsp;The town clerk shall, within 2 working days of receipt, submit the petition to the registrars of voters who shall forthwith certify thereon the number of signatures that are names of voters.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-11-3.&nbsp;&nbsp;Recall election. If the petition is certified by the registrars of voters to be sufficient, the town clerk shall forthwith submit the same with the town clerk&rsquo;s certificate to the select board. Upon receipt of the certificate, the select board shall forthwith give written notice of to the officer whose recall is sought, of such petition and certificate, whether in hand, by certified mail or by email. If said officer does not resign from office within 5 days after delivery of such notice, the select board shall forthwith order an election to be held not less than 64 nor more than 90 days after the date of the town clerk&rsquo;s certification of the petition notice; provided,&nbsp; however, that if any other town election is to occur within 100 days after the date of the certification, the select board shall hold the recall election on the date of such other election and may, at its discretion, place the question of recall on said ballot; and provided further, that if a vacancy occurs in said office after such a recall election has been ordered, the election shall nevertheless proceed as provided in this section and the ballots for candidates shall be counted.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-11-4.&nbsp;&nbsp;Nomination of candidates. Any officer whose recall is sought may be a candidate in the recall election. The nomination of candidates, the publication of the warrant for the recall election, and the conduct of the election shall all be in accordance with the provisions of law relating to elections.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-11-5.&nbsp;&nbsp;Propositions on ballot. Ballots used in a recall election shall state the following propositions in the order indicated:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FOR THE RECALL OF (name and title of officer)<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AGAINST THE RECALL OF (name and title of officer)<br /> Adjacent to each proposition, there shall be a place to vote for either of said propositions. After the propositions shall appear the word &ldquo;Candidates&rdquo; and the names of candidates nominated as required by section 42 of chapter 54 of the General Laws. If a majority of the votes cast upon the question of recall is in the affirmative, the candidate receiving the highest number of votes shall be declared elected. If a majority of the votes on the question is in the negative, the ballots for candidates need not be counted.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3-11-6.&nbsp;&nbsp;(a) Office holder. The incumbent shall continue to perform the duties of the office until the recall election. If not recalled in the election, the incumbent shall continue in office for the remainder of the unexpired term, subject to recall as before, except as provided herein.<br /> (b)&nbsp;&nbsp;If recalled in the election, the incumbent shall be deemed removed and the office vacant.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-11-7.&nbsp;&nbsp;Repeat of recall petition. No recall petition shall be filed against an officer within 3 months after taking office or, in the case of an officer subjected to a recall election and not recalled thereby, until at least 6 months after the recall election.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Article 4<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TOWN ADMINISTRATOR<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 1 Appointment; Qualifications; Term.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4-1-1.&nbsp;&nbsp;The town administrator shall be appointed by the select board for a 3-year term; shall be the administrative officer of the town; and shall be responsible to the select board for the administration of all town affairs placed in their charge by or under the charter. The town administrator shall be a person especially fitted by education, training or previous experience to perform the duties of the office. The town administrator shall be a person especially fitted by education, which shall consist of not less than a bachelor&rsquo;s degree from an accredited degree-granting college or university and a minimum of 7 years of professional experience that shall include previous, full-time, compensated service in a managerial capacity in public or business administration. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-1-2.&nbsp;&nbsp;The town administrator shall not need to be a resident of the town. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-1-3.&nbsp;&nbsp;The town administrator shall hold no elected or other appointed town office, except in an ex officio capacity; shall devote full time to the duties of the office; and shall engage in no other business or occupation without the advance written authorization of the select board.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-1-4.&nbsp;&nbsp;The town administrator shall not be eligible for appointment until not less than 12 months after the last date of service in an elected office in the town government.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 2 Powers and Duties.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-1.&nbsp;&nbsp;The town administrator shall appoint and may remove, subject to civil service law or sections 42 to 44, inclusive, of chapter 48 of the General Laws, where applicable, all department heads, all officers and all subordinates and employees of the town except for employees of the school committee and library trustees, appointments made by representatives of the commonwealth and those appointments for which another method of appointment is provided in the General Laws, in this charter or in the town by-laws. Appointments made by the town administrator shall take effect 15 days after notification to the select board unless such board votes prior to such time to reject or approve such appointment.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-2.&nbsp;&nbsp;The town administrator shall direct and supervise the administration of all functions under their control.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-3.&nbsp;&nbsp;The town administrator shall prepare and submit the annual capital budget and capital outlay program as provided in section 4 of article 6 of this charter.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-4.&nbsp;&nbsp;The town administrator shall attend all regular and special meetings of the select board, unless excused at the select board&rsquo;s own request, and shall have a voice, but no vote, in all select board discussions.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-5.&nbsp;&nbsp;The town administrator shall attend all sessions of the town meetings and answer all questions directed to the town manager by the voters of the town.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-6.&nbsp;&nbsp;The town administrator shall see that all provisions of the General Laws, the charter, by-laws and&nbsp; votes of the town meeting and of the select board that require enforcement by the town administrator or officers subject to the town manager&rsquo;s direction and supervision are faithfully carried out.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-7.&nbsp;&nbsp;The town administrator shall administer all provisions of the general and special laws applicable to the town, to the charter, to the by-laws and votes of the town and all rules and regulations made by the select board that lie within the scope of the powers and duties of the office.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-8.&nbsp;&nbsp;The town administrator shall negotiate all contracts involving any subject within the jurisdiction of the office of town administrator, including contracts with employees involving wages, hours and other terms and conditions of employment contracts with employees, but excluding employees of the school department, the director of the public library and other professional librarians.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-9.&nbsp;&nbsp;(a) The town administrator shall have full jurisdiction over the rental and use of all town facilities, except schools, library and properties designated by by-law or other vote of the town. The town administrator shall be responsible for the maintenance and repair of all town property, excluding school buildings and library, unless otherwise agreed to by the town administrator place under their control by the charter, by by-law or otherwise.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;The town administrator shall be responsible for the keeping of full and complete records of the financial and administrative activities of the town and shall render a full report to the select board at the end of each fiscal year and otherwise as said board may require.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;As required by the uniform procurement act in chapter 30B of the General Laws, the town administrator or designee shall be the certified procurement officer responsible for the purchase of all supplies, materials and equipment, except books and other educational materials for schools and books, supplies, materials, equipment and other media materials for the library, and approve the award of all contracts for all town departments with the exception of the school department and public library, subject to the approval of the select board.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-10.&nbsp;&nbsp;The town administrator shall keep full and complete inventory of all property of the town, both real and personal.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-11.&nbsp;&nbsp;The town administrator may at any time inquire into the conduct of office of any officer or employee or department under their jurisdiction.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-12.&nbsp;&nbsp;The town administrator may delegate to others the administrator&rsquo;s powers and duties under this charter, except as may be prohibited by law and, further, any action taken by a designee authorized hereunder shall be deemed to be the actions of the town administrator. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-2-13.&nbsp;&nbsp;The town administrator shall perform such other duties consistent with the office as may be required by by-law, vote of the town or select board.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 3 Temporary or Acting Town Administrator.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-3-1.&nbsp;&nbsp;Temporary Absence. The town administrator shall designate in writing a qualified town administrative officer or employee to exercise the powers and perform the duties of town administrator during a temporary absence and shall file such designation with the town clerk and select board. The select board may not revoke such designation during the absence of the town administrator until not less than 10 working days have elapsed, whereupon it may appoint another qualified town administrative officer or employee to serve until the town administrator shall return. If the town administrator has not made the filing required by this section, in the event of a temporary absence of the town administrator, the select board shall appoint a town administrative officer or employee of its choosing to serve as the temporary town administrator. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-3-2.&nbsp;&nbsp;Any vacancy in the office of the town administrator shall be filled as soon as possible by the select board but, pending such regular appointment the select board shall appoint a qualified administrative officer to perform the duties of the office on an acting basis. Such temporary appointment shall not exceed 3 months, but 1 renewal may be voted by the select board. Compensation for such person shall be set by the select board within the amount appropriated for the town administrator.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-3-3.&nbsp;&nbsp;Powers and duties. The powers of a temporary or acting town administrator serving under sections 4-3-1 and 4-3-2, respectively, shall be limited to matters which should not be delayed and shall include authority to make temporary, emergency appointments or designations to town office or employment but not to make permanent appointments or designations. Notwithstanding the preceding sentence, if the select board concludes at a properly posted open meeting that the best interests of the town require a permanent appointment or designation to be made, it may, at its sole discretion, authorize a temporary or acting town administrator, following consultation with the select board, to make a permanent appointment or designation, or to itself make the permanent appointment or designation. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 4 Removal and Suspension.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-4-1.&nbsp;&nbsp;The select board may for cause, by the affirmative vote of 4 of its members, terminate and remove or suspend, the town administrator from office in accordance with the procedures outlined in this section.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The select board shall adopt a preliminary resolution of removal by the affirmative vote of 4 members which must state the reason or reasons for removal. This preliminary resolution may suspend the town administrator for a period not to exceed 45 days. A copy of the resolution shall be delivered to the town administrator forthwith.<br /> Within 5 days after receipt of the preliminary resolution the town administrator may request a public hearing by filing a written request for such hearing with the select board. This hearing shall be held at a meeting of the select board not later than 30 days after the request is filed nor earlier than 20 days. The town administrator may file a written statement responding to the reasons stated in the resolution of removal with the select board provided the same is received at its office more than 48 hours in advance of the public hearing.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The select board may adopt a final resolution of removal, which may be made effective immediately, by the affirmative vote of 4 of its members, not less than 10 nor more than 21 days following the date of delivery of a copy of the preliminary resolution to the town administrator, if the town administrator has not requested a public hearing; or within 10 days following the close of the public hearing if the town administrator has requested one. Failure to adopt a final resolution of removal within the time periods as provided in this section shall nullify the preliminary resolution of removal and the town administrator shall at the expiration of said time, forthwith resume the duties of the office. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-4-2.&nbsp;&nbsp;The action of the select board in suspending or removing the town administrator shall be final and all authority and responsibility for such suspension or removal shall be vested and fixed solely in the select board.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 5 Specific Appointments.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-5-1.&nbsp;&nbsp;The town administrator shall have the authority to appoint all technical and operational positions of the town, and other such positions as may be created by the General Laws, by this charter, by by-law or by vote of the town. A listing of appointments made by the town administrator shall be set forth in a document on file with the select board and the town clerk, which document shall be updated from time to time as required.&nbsp; <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 6 Resolution of Policy Conflicts.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-6-1.&nbsp;&nbsp;If a conflict relating to a policy issue arises between the town administrator and a department head, the department head may appeal the town administrator&rsquo;s decision to the select board. The select board shall act as arbitrator between the department head and the town administrator and shall resolve the conflict regarding policy. The select board&rsquo;s decision on policy shall be final and binding on both the town administrator and the department head.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Article 5<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADMINISTRATIVE ORGANIZATION<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 1 Organization of Town Agencies.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-1-1.&nbsp;&nbsp;The organization of the town into operating agencies for the provision of services and the administration of the government may be accomplished through either of the methods provided in this article.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-1-2.&nbsp;&nbsp;By-Laws. The town meeting may, by by-law, reorganize, consolidate, create, merge, divide or abolish any town agency, in whole or in part; establish new town agencies as it deems necessary or advisable; determine the manner of selection, the term of office and prescribe the functions of all such entities; provided, however, that no function assigned by this charter to a particular town agency shall be discontinued, or unless this charter specifically so provides, assigned to any other.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-1-3.&nbsp;&nbsp;(a) Administrative code. The town administrator, after consultation with the select board, may from time to time prepare and submit to the town meeting plans for organization or reorganization that establish operating divisions for the orderly, efficient or convenient conduct of the business of the town. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;Whenever the town administrator prepares a plan under subsection (b), the select board shall hold at least 1 public hearing on the proposal giving notice by publication in a local newspaper, which notice shall describe the scope of the proposal and the date, time and place at which the hearing will be held, not less than 7 nor more than 14 days following said publication. Following such public hearing, the proposal, which may have been amended subsequent to the public hearing, shall be submitted to the town meeting by an appropriate warrant article.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-1-4.&nbsp;&nbsp;An organization or reorganization plan shall become effective at the expiration of 60 days following the date of adjournment of the town meeting at which the proposal is submitted unless the town meeting shall, by a majority vote, vote to disapprove the plan. The town meeting may vote only to approve or to disapprove the plan and may not vote to amend or to alter it.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-1-5.&nbsp;&nbsp;The town administrator may, through the administrative code: (i) reorganize, consolidate or abolish any town agency, in whole or in part; (ii) establish such new town agencies as is deemed necessary to the same extent as is provided in section 5-1-2, above, for by-laws; and (iii) for such purpose, transfer the duties and powers and, so far as is consistent with the use for which the funds were voted by the town, transfer the appropriation of 1 town agency to another; provided, however, that no function assigned by this charter to a particular town agency shall be discontinued or, unless this charter so specifically provides, be assigned to any other.<br /> Section 2 Merit Principle.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-2-1.&nbsp;&nbsp;All appointments and promotions of town officers and employees shall be made solely on the basis of merit and fitness demonstrated by examination or other evidence of competence and suitability.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 3 Department of Public Works.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-3-1.&nbsp;&nbsp;There shall be a department of public works, headed by a director of public works, who shall be either the town administrator or a director of public works appointed by the town administrator. The appointment of a director of public works by the town administrator shall be filled at a regularly scheduled meeting of the select board and shall become effective upon confirmation by a majority of the select board. The director of public works so appointed shall be a person especially fitted by education, training or previous experience to perform the duties of the office.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-3-2.&nbsp;&nbsp;The director of public works shall be responsible for the supervision and coordination of all public works operations of the town, which are placed under their control by this charter, by by-law, by vote of the town or otherwise. Public works operations may include, but shall not be limited to, the following operations: refuse collection and disposal, sewer, water supply, treatment, and distribution, stormwater quality management, forestry services, snow and ice control and maintenance, repairs and improvements to town infrastructure, including town parks and cemeteries.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-3-3.&nbsp;&nbsp;Other offices, the functions of which are related to a department of public works, may from time to time be assigned to the department in accordance with by-laws. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-3-4.&nbsp;&nbsp;The select board, acting through the town administrator, shall be responsible for the overall policy decisions of the department of public works and for the establishment of priorities to govern the operation of the department; provided, however, that the select board shall not in any way become involved with the day to day operations of said department.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 4 Finance Office.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-4-1.&nbsp;&nbsp;There shall be a finance office in the town, with a chief financial officer as its head and including an appointed treasurer-collector and an appointed board of assessors that shall, in matters dealing with town finance, but excluding abatements, be responsible to the chief financial officer.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-4-2.&nbsp;&nbsp;The scope and functions of the finance office shall be to provide the coordination of all financial services and activities and provide assistance to all other town departments in any matter related to finances; and other such functions related to the fiscal management, policy and planning of the town. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-4-3.&nbsp;&nbsp;The chief financial officer and other officers and employees of the finance office shall operate in matters related to finance under the oversight and direction of the town administrator and shall assist the administrator in providing required and interim reports and preparing materials for the budget process, as specified in section 4 of article 6 of this charter.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 5 Treasurer-Collector.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-5-1.&nbsp;&nbsp;Term of office. The town administrator shall appoint for a 3-year term a treasurer-collector who shall be assigned to the finance office under section 5-4-1 and shall work under the supervision of the chief financial officer.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-5-2.&nbsp;&nbsp;Powers and duties. The treasurer-collector shall provide for the administrative, supervisory and technical work involving the receipt, disbursement and investment of town funds, the borrowing of monies and the collection of all taxes and such fees, as determined by by-law or town meeting vote, due to the town. The treasurer-collector shall also have such other powers and duties as are given to treasurers and collectors or either of them by the General Laws, by this charter, by by-law or by other vote of the town meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 6 Capital Improvements Committee.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-6-1.&nbsp;&nbsp;(a) There shall be a capital improvements committee, which shall consider the relative need, timing, cost, completeness of planning, community support, availability of outside funding and other factors said committee members shall deem appropriate to the individual proposed expenditures and the effect each will have on the financial position of the town.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;Membership, terms of office, method of appointment and additional functions of the capital improvements committee shall be determined by town by-law.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 7 Inspection Department.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-7-1.&nbsp;&nbsp;There shall be a department of inspection headed by the inspector of buildings or zoning agent as its director and shall include the following individuals: (i) weights and measures inspector; (ii) wire inspector; (iii) gas and plumbing inspector; (iv) inspector of buildings; and (v) a health agent.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-7-2.&nbsp;&nbsp;The department of inspection shall provide for consolidation of inspection operations, coordination of functions, centralized planning of work assignment and distribution, timely inspection services, centralized record keeping and management of human resources.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-7-3.&nbsp;&nbsp;The town administrator shall appoint the inspector of buildings for a 3-year term and inspectors for weights and measures, wires and gas and plumbing for terms of 1 year as currently established by the General Laws, by this charter, by by-law or by town meeting vote. The town administrator may appoint assistants to any of the referenced inspectors in this section as provided by town by-law or town meeting vote.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-7-4.&nbsp;&nbsp;The board of health shall appoint a health agent for a term of 1 year.<br /> Section 8 Tree Warden.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-8-1.&nbsp;&nbsp;There shall be a tree warden appointed by the town administrator for a 3-year term. The tree warden shall be responsible for the full care and control of all public shade trees, respond to public safety emergencies related to fallen limbs or trees on public ways and assess and provide for the culling and trimming of public shade trees.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5-8-2.&nbsp;&nbsp;The tree warden shall hold or participate in a public hearing jointly with the planning board related to matters concerning designated scenic roads in accordance with town by-law and the General Laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Article 6<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FINANCE AND FISCAL PROCEDURES<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 1 Chief Financial Officer Appointment, Qualifications and Term.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-1-1.&nbsp;&nbsp;The town administrator shall appoint a chief financial officer who shall provide oversight for the financial operations of the town, including accounting, collections, management of funds, borrowing, property assessments and preparation of documents by the board of assessors related to financial matters of the town.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-1-2.&nbsp;&nbsp;The chief financial officer shall be a person especially fitted by education, training and previous experience to perform the duties of the office. The minimum qualification shall be a bachelor&rsquo;s degree in accounting or business administration from a duly accredited college or university and 5 years of relevant experience in Massachusetts municipal finance or comparable education and experience as determined by the town administrator.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-1-3.&nbsp;&nbsp;The term of appointment shall be 3 years.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 2 Chief Financial Officer Power and Duties.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-2-1.&nbsp;&nbsp;The chief financial officer shall serve as the town accountant in accordance with sections 55 to 61A, inclusive, of chapter 41 of the General Laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-2-2.&nbsp;&nbsp;The chief financial officer shall oversee the accounting department and coordinate all financial planning, budgeting and any other financial matters as determined by the town administrator.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-2-3.&nbsp;&nbsp;The chief financial officer shall serve as the head of the finance office, which shall consist of the chief financial officer, the treasurer-collector and the assessors office.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-2-4.&nbsp;&nbsp;The chief financial officer shall serve ex officio on the finance committee and capital improvement committee.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-2-5.&nbsp;&nbsp;The chief financial officer shall assist the town administrator in the preparation of the annual operating budget and capital budget of the town.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-2-6.&nbsp;&nbsp;The town administrator shall delegate to the chief financial officer such duties and powers as are necessary for the administration of the financial matters of the town in accordance with the general and special laws, this charter, town by-laws and regulations established by the select board.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 3 Fiscal Year.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-3-1.&nbsp;&nbsp;The fiscal year of the town shall begin on the first day of July and shall end on the last day of June, unless another period is required by the General Laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 4 Budget Process.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-1.&nbsp;&nbsp;Annually, prior to the first day of October, the town administrator shall establish and issue a budget schedule which shall set forth the calendar dates relating to the development of the annual operating budget for the ensuing fiscal year.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-2.&nbsp;&nbsp;The schedule shall be in accordance with this charter unless deviation therefrom is recommended by the town administrator and approved by the select board and the finance committee.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-3.&nbsp;&nbsp;Annually, prior to the first day of October, the town administrator shall request and receive from the select board, the chief financial officer, treasurer-collector and the board of assessors the estimated revenue for the ensuing fiscal year. Upon receipt of any additional specific fiscal data provided by the commonwealth or any other source the above officials shall within 10 working days revise, update and submit the data forthwith to the town administrator.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-4.&nbsp;&nbsp;Annually, prior to the first day of November, the select board, after consultation with the town administrator, shall issue a policy statement that shall establish the general guidelines for the next town budget.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-5.&nbsp;&nbsp;All department heads and all multiple member bodies, including the school committee and board of library trustees, shall submit detailed budget requests to the town administrator not less than 150 days before the date of the annual town meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-6.&nbsp;&nbsp;Not less than 120 days prior to the scheduled date of the annual town meeting, the town administrator shall submit to the select board a comprehensive draft budget for all town functions for the ensuing fiscal year and an accompanying budget message.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-7.&nbsp;&nbsp;The select board budget message shall explain the draft budget in fiscal terms and in terms of what specific projects are contemplated in the year ahead, it shall:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;outline the proposed financial policies of the town for the ensuing fiscal year;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii)&nbsp;&nbsp;describe the important features of the budget;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii)&nbsp;&nbsp;indicate any major changes from the current fiscal year in financial policy, expenditures and revenues, together with the reasons for such changes;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv)&nbsp;&nbsp;summarize the town&rsquo;s debt position; and<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v)&nbsp;&nbsp;include such other material as the town administrator may deem appropriate.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-8.&nbsp;&nbsp;The draft budget shall provide a complete financial plan for all town funds and activities and shall be in such form as the town administrator, in consultation with the chief financial officer, may establish. The draft budget shall indicate proposed expenditures for current operations and for capital projects during the ensuing year, detailed by each town agency and by specific purposes and projects.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-9.&nbsp;&nbsp;The select board shall, within 30 days following the submission of the draft budget by the town administrator, adopt a proposed budget, with or without amendments, and shall submit it to the finance committee.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-10.&nbsp;&nbsp;The finance committee shall conduct at least 1 public hearing on the proposed budget, including the school budget, and shall issue printed recommendations and detailed explanations of all financial articles in an annual finance committee report, in accordance with by-law, not less than 10 days prior to the scheduled date of the annual town meeting. In preparing its recommendations, the committee may require the town administrator, any town department, office, board, commission or committee to appear and furnish it with appropriate additional financial reports and budgetary information.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-4-11.&nbsp;&nbsp;The select board shall present its proposed budget to the town meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Article 7<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GENERAL PROVISIONS<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 1 Charter Changes.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-1-1.&nbsp;&nbsp;This charter may be replaced, revised or amended in accordance with any procedures made available under the Massachusetts Constitution and General Laws enacted to implement its constitutional provisions.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 2 Severability.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-2-1.&nbsp;&nbsp;The provisions of this charter are severable. If any provision of this charter is held invalid, the other provisions of this charter shall not be affected thereby. If the application of this charter or any of its provisions to any person or circumstance is held invalid, the application of this charter and its provisions to other persons and circumstances shall not be affected thereby.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 3 Specific Provisions to Prevail.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-3-1.&nbsp;&nbsp;To the extent that any specific provision of this charter shall conflict with any provision expressed in general terms, the specific provision shall prevail.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 4 Rules and Regulations.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-4-1.&nbsp;&nbsp;A copy of the rules and regulations adopted by a town agency shall be filed in the office of the town clerk and shall become effective immediately upon filing or at such later date as may be specified therein.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 5 Periodic Review, Charter and By-Laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-5-1.&nbsp;&nbsp;Charter and town by-law review. At least once in every 10 years, in each year ending in a 3, a special committee to consist of 9 members shall be established for the purpose of reviewing this charter and the town by-laws and to make a report, with recommendations, to the town meeting concerning any proposed amendments which said committee may determine to be necessary or desirable. The committee shall consist of 9 members who shall be chosen as follows: the select board, the school committee, the planning board, the town clerk and the board of library trustees shall each designate 1 person; the finance committee shall designate 2 persons; and the town moderator shall appoint 2 persons with preference given to town residents who do not hold an elected position. Persons appointed by said agencies may, but need not, be members of the agency by which they are designated. The committee shall meet to organize forthwith following the final adjournment of the spring town meeting.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-5-2.&nbsp;&nbsp;By-law Review. The select board shall at 5-year intervals, in each year ending in 4 or 9, cause to be prepared by the special committee appointed for that purpose under section 7-5-1, a proposed revision or recodification of all by-laws of the town which shall be presented to the town meeting for enactment not later than at the fall town meeting in the year following the year in which the said committee is appointed. The&nbsp; committee shall include recommendations for such substantive change in town by-laws as it deems necessary or advisable in its final or its interim report. The review of town by-laws shall be in conjunction with town counsel or by special counsel retained for that purpose. Subsequent to enactment by the town meeting, copies of the revised by-laws shall be forwarded to the attorney general&nbsp; for approval and they shall be otherwise published, all as required by the General Laws. Copies of the revised by-laws shall be made available for distribution to the public.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 6 Removals and Suspensions.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-6-1.&nbsp;&nbsp;Any appointed officer, member of a multiple member body or employee of the town, not subject to an applicable state law or covered by the terms of a collective bargaining agreement or contract that provides a different method and whether appointed for a fixed or an indefinite term, may be suspended or removed from office, without compensation, by the appointing authority for good cause. The term &ldquo;cause&rdquo; shall include, but shall not be limited to: (i) incapacity other than temporary illness; (ii) inefficiency; (iii) insubordination; and (iv) conduct unbecoming to the office.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-6-2.&nbsp;&nbsp;Any appointed officer, member of a multiple member body or employee of the town may be suspended from office by the appointing authority if such action is deemed by said appointing authority to be necessary to protect the interests of the town. Suspension may be coterminous with removal and shall not interfere with the rights of the officer or employee under the removal procedure stated in section 7-6-3.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-6-3.&nbsp;&nbsp;The appointing authority when removing any officer, member of a multiple member body or employee of the town shall act in accordance with the following procedures:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;A written notice of the intent to remove and a statement of the cause or causes therefor shall be delivered in hand or by registered mail or certified mail, return receipt requested, to the last known address of the person sought to be removed.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;Within 5 days following deliverance of such notice, the officer, member of a multiple member body or employee of the town may request a public hearing at which such person may be represented by counsel, shall be entitled to present evidence, call witnesses and to question any witness appearing at the hearing.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;Between 1 and 10 days after the public hearing is adjourned or if the officer, member of a multiple member body or employee of the town fails to request a public hearing between 6 and 15 days after delivery of the notice of intent to remove, the appointing authority shall take final action, either removing the officer, member of a multiple member body or employee of the town,&nbsp; or notifying such that the notice is rescinded. Failure of the appointing authority to take any action within the time periods, as stated in this section, shall be deemed to be a rescission of the original notice and the officer, member of a multiple member body or employee shall, forthwith, be reinstated.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-6-4.&nbsp;&nbsp;Nothing in this section shall be construed as granting a right to such a hearing when a person who has been appointed for a fixed term is not reappointed when the original term expires.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 7 Loss of Office, Excessive Absence.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7-7-1.&nbsp;&nbsp;Member attendance at all appointed board, committee, council and commission meetings is mandatory, unless excused due to illness, family emergencies, etc. If any person appointed as a member of a multiple member body shall fail to attend the lesser of 3 meetings or 50 per cent of the meetings within 1 year, beginning at annual town meeting and ending at annual town meeting the following year, the remaining members of that body may, by majority vote, declare the office vacant; provided, however, that not less than 10 days prior to the date said vote is scheduled to be taken, the body has given in hand or mailed by return receipt requested registered mail to the last known address of such person, the notice of such proposed or pending vacancy.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Article 8<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OTHER PROVISIONS<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 1 Continuation of Existing Laws.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-1-1.&nbsp;&nbsp;The General Laws, town by-laws, votes of the town meeting, rules and regulations of or pertaining to the town which are in force when the charter takes effect and which are not specifically or by implication repealed directly or indirectly hereby shall continue in full force and effect until amended or rescinded by due course of law or until they expire by their own limitation.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 2 Time of Taking Effect.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-2-1&nbsp;&nbsp;Town administrative organization. Until such time as a different form of organization shall be provided, in accordance with the provisions of article 5 of this charter, the following outline or organization shall be operative: <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The select board shall appoint the following:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;Town Administrator for a 3-year term;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;Affordable Fair Housing Commission, in the manner set by the General Laws;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;Cultural Council, as provided by the General Laws;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;Board of Assessors to consist of 3 members appointed for terms of 3 years each;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;&nbsp;Board of Health to consist of 5 members appointed for terms of 3 years each;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;&nbsp;Cemetery Commission to consist of 3 members appointed for 3-year terms each;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)&nbsp;&nbsp;Conservation Commission to consist of 7 members appointed for 3-year terms each;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(h)&nbsp;&nbsp;Council On Aging, as provided by town by-law; provided, however, that to ensure continuity, members shall be appointed in 3-year terms each so arranged that the terms of as nearly an equal number as possible shall expire each year;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;Bellingham Historical Commission, to serve for terms of 3-years each, as provided by town by-law;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(j)&nbsp;&nbsp;Industrial Development Finance Commission, in the manner provided by the General Laws;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(k)&nbsp;&nbsp;Capital Improvement Committee, as provided by this charter and by town by-law;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(l)&nbsp;&nbsp;Insurance Commission, as provided by town by-law;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(m)&nbsp;&nbsp;Memorial and Veterans Day Committee, as provided by town by-law;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(n)&nbsp;&nbsp;Parks and Recreation Commission to consist of 3 members appointed for terms of 3 years each;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(o)&nbsp;&nbsp;Town Counsel appointed for a term of 1 year;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(p)&nbsp;&nbsp;Veterans&rsquo; Grave Agent for a 1-year term;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(q)&nbsp;&nbsp;Zoning Board of Appeals, as provided by the General Laws; and<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(r)&nbsp;&nbsp;Town Common Trustees Committee, as provided by chapter 201 of the acts of 1998.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Town Moderator shall appoint the following:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;Finance Committee, as provided by town by-law.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Town Administrator shall appoint the following:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;Police Chief and other police officers to serve for indefinite terms;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;Fire Chief, who shall be Forest Warden, to serve for an indefinite term;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;Field Assistant Assessor/Appraiser for a 1-year term and who shall be assigned to serve under the chief financial officer;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;Treasurer-Collector for a 3-year term and who shall be assigned to the finance officer;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;&nbsp;Chief Financial Officer for a 3-year term and who shall head the finance office;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;&nbsp;Director of Public Works for a 3-year term;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)&nbsp;&nbsp;Animal Control Officers to serve for a 1-year term;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(h)&nbsp;&nbsp;Inspector of Buildings (building inspector or zoning agent) to serve for a 3-year term and who shall head the department of inspections;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;Inspector of Plumbing and Gas to serve for a 1-year term under the director of the department of inspections;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(j)&nbsp;&nbsp;Inspector of Wires to serve for a 1-year term under the director of the department of inspections;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(k)&nbsp;&nbsp;Sealer of Weights and Measures to serve for a 1-year term under the director of the department of inspections;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(l)&nbsp;&nbsp;Veterans&rsquo; Agent and Director of Veterans&rsquo; Services to serve for a 1-year term;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(m)&nbsp;&nbsp;Workmen&rsquo;s Compensation Agent to serve for a 1-year term;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(n)&nbsp;&nbsp;Civil Defense Director to serve for a 1-year term;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(o)&nbsp;&nbsp;Civilian Defense Auxiliary or Special Police to serve for 1-year terms;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(p)&nbsp;&nbsp;Tree Warden to serve for a 3-year term; <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(q)&nbsp;&nbsp;Town Planner to serve for a 1-year term; and<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(r)&nbsp;&nbsp;Conservation Agent to serve a 1-year term.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. The Board of Health shall appoint the following:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;Health Agent to serve for a term of 1 year and who shall serve under the director of the department of inspections for purposes of coordination of inspections.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. The Library Trustees shall appoint the following:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;Director of the public library and other professional librarians, for terms as determined by the Library Trustees, but not to exceed 3 years.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION&nbsp;3.&nbsp;&nbsp;This act shall take effect upon its passage.</p>
+<p align="center">Approved, January 10, 2025.</p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-4">
+                <aside class="sidebar">
+                    
+<form action="/Laws/SessionLaws/GoTo" method="post">     <div class="form-inline sessionLawsDirect">
+         <h3 class="h4">Go Directly to a Session Law</h3>
+         <div class="form-group">
+             <label for="ChapterGoTo">Chapter</label>
+             <input class="form-control" id="ChapterGoTo" name="ChapterGoTo" type="text" value="" />
+             <span class="field-validation-valid" data-valmsg-for="ChapterGoTo" data-valmsg-replace="true"></span>
+         </div>
+         <div class="form-group">
+             <label for="TypeGoTo">Type</label>
+             <select class="form-control" data-val="true" data-val-required="The Type field is required." id="TypeGoTo" name="TypeGoTo" onchange="sessionLawTypeChange(this, &#x27;Resolves&#x27;)"><option selected="selected" value="Acts">Act</option>
+<option value="Resolves">Resolve</option>
+</select>
+             <span class="field-validation-valid" data-valmsg-for="TypeGoTo" data-valmsg-replace="true"></span>
+         </div>
+         <div class="form-group">
+             <label for="YearGoTo">Year</label>
+             <select class="form-control sessionLawYearList" data-val="true" data-val-required="The Year field is required." id="YearGoTo" name="YearGoTo"><option value="2026">2026</option>
+<option value="2025">2025</option>
+<option value="2024">2024</option>
+<option value="2023">2023</option>
+<option value="2022">2022</option>
+<option value="2021">2021</option>
+<option value="2020">2020</option>
+<option value="2019">2019</option>
+<option value="2018">2018</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+<option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+</select>
+             <span class="field-validation-valid" data-valmsg-for="YearGoTo" data-valmsg-replace="true"></span>
+         </div>
+
+         <button type="submit" class="btn btn-primary">Go <span class="sr-only">to Session Law</span><span class="fa fa-angle-right"></span></button>
+     </div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzL2YVBgDHGx_qy0UVPHJMbrr2rInDTeORXRk7SFsOPErK_F65_Hfj3e8wxv27WPn9Y4UC1aL74zJvfBh2fPJsj90VnYQ1FKDommoWG6dvQygmy-k1tDuv6ERN-lFEHXdtg" /></form>
+                </aside>
+                <aside class="sidebar">
+                    <h2 class="h3">Most Popular Session Laws</h2>
+                    <div class="table-responsive">
+                        <table class="table table-condensed table-striped popularTable sessionLawsTable">
+                            <caption class="sr-only">Popular Session Laws</caption>
+                            
+                                
+<thead>
+    <tr>
+        <th scope="col" class="yearCol">Year</th>
+        <th scope="col" class="numberCol">Chapter</th>
+        <th scope="col" class="titleCol">Chapter Name</th>
+    </tr>
+</thead>
+<tbody>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2022">2022</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2022/Chapter154">Ch. 154</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT RELATIVE TO MILITARY SPOUSE-LICENSURE PORTABILITY, EDUCATION AND ENROLLMENT OF DEPENDENTS" tabindex="0">AN ACT RELATIVE TO MILITARY SPOUSE-LICENSURE PORTABILITY, EDUCATION AND ENROLLMENT OF DEPENDENTS</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2006">2006</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2006/Chapter113">Ch. 113</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT CHANGING THE MEMBERSHIP OF THE TOWN MEETING OF THE TOWN OF SHREWSBURY." tabindex="0">AN ACT CHANGING THE MEMBERSHIP OF THE TOWN MEETING OF THE TOWN OF SHREWSBURY.</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/1998">1998</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/1998/Chapter36">Ch. 36</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT RELATIVE TO THE HEALTH INSURANCE OF CERTAIN RETIRED EMPLOYEES OF THE TOWN OF PLYMOUTH." tabindex="0">AN ACT RELATIVE TO THE HEALTH INSURANCE OF CERTAIN RETIRED EMPLOYEES OF THE TOWN OF PLYMOUTH.</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2006">2006</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2006/Chapter246">Ch. 246</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT AUTHORIZING THE MASSACHUSETTS WATER RESOURCES AUTHORITY TO ENTER INTO AN AGREEMENT WITH THE TOWN OF WALPOLE TO USE CERTAIN LAND FOR RECREATIONAL PURPOSES." tabindex="0">AN ACT AUTHORIZING THE MASSACHUSETTS WATER RESOURCES AUTHORITY TO ENTER INTO AN AGREEMENT WITH THE TOWN OF WALPOLE TO USE CERTAIN LAND FOR RECREATIONAL PURPOSES.</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2023">2023</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2023/Chapter74">Ch. 74</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT CHANGING THE BOARD OF SELECTMEN OF THE TOWN OF AVON TO A SELECT BOARD" tabindex="0">AN ACT CHANGING THE BOARD OF SELECTMEN OF THE TOWN OF AVON TO A SELECT BOARD</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2024">2024</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2024/Chapter282">Ch. 282</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT AUTHORIZING THE TOWN OF LEE TO CONTINUE THE EMPLOYMENT OF GLENN M. WILCOX AS ASSISTANT FIRE CHIEF" tabindex="0">AN ACT AUTHORIZING THE TOWN OF LEE TO CONTINUE THE EMPLOYMENT OF GLENN M. WILCOX AS ASSISTANT FIRE CHIEF</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2026">2026</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2026/Chapter137">Ch. 137</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT MAKING APPROPRIATIONS FOR THE FISCAL YEAR 2027 FOR THE MAINTENANCE OF THE DEPARTMENTS, BOARDS, COMMISSIONS, INSTITUTIONS, AND CERTAIN ACTIVITIES OF THE COMMONWEALTH, FOR INTEREST, SINKING FUND, AND SERIAL BOND REQUIREMENTS, AND FOR CERTAIN PERMANENT IMPROVEMENTS" tabindex="0">AN ACT MAKING APPROPRIATIONS FOR THE FISCAL YEAR 2027 FOR THE MAINTENANCE OF THE DEPARTMENTS, BOARDS, COMMISSIONS, INSTITUTIONS, AND CERTAIN ACTIVITIES OF THE COMMONWEALTH, FOR INTEREST, SINKING FUND, AND SERIAL BOND REQUIREMENTS, AND FOR CERTAIN PERMANENT IMPROVEMENTS</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2024">2024</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2024/Chapter135">Ch. 135</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT MODERNIZING FIREARM LAWS" tabindex="0">AN ACT MODERNIZING FIREARM LAWS</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2026">2026</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2026/Chapter101">Ch. 101</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT AUTHORIZING THE TOWN OF SCITUATE TO ISSUE 4 ADDITIONAL LICENSES FOR THE SALE OF ALL ALCOHOLIC BEVERAGES TO BE DRUNK ON THE PREMISES" tabindex="0">AN ACT AUTHORIZING THE TOWN OF SCITUATE TO ISSUE 4 ADDITIONAL LICENSES FOR THE SALE OF ALL ALCOHOLIC BEVERAGES TO BE DRUNK ON THE PREMISES</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2026">2026</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2026/Chapter101">Ch. 101</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT MAKING APPROPRIATIONS FOR THE FISCAL YEAR 2026 TO PROVIDE FOR SUPPLEMENTING CERTAIN EXISTING APPROPRIATIONS AND FOR CERTAIN OTHER ACTIVITIES AND PROJECTS" tabindex="0">AN ACT MAKING APPROPRIATIONS FOR THE FISCAL YEAR 2026 TO PROVIDE FOR SUPPLEMENTING CERTAIN EXISTING APPROPRIATIONS AND FOR CERTAIN OTHER ACTIVITIES AND PROJECTS</td>
+        </tr>
+</tbody>
+
+
+                            
+                        </table>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </main>
+    </div>
+    <!--Footer-->
+    <footer>
+    <h2 class="sr-only">Site Information & Links</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <h3>Helpful Massachusetts Links</h3>
+                <ul class="list-unstyled">
+                    <li><a target="_blank" href="http://www.mass.gov/">Mass.gov <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="http://jobs.hrd.state.ma.us/">Commonwealth Employment Opportunities <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="http://www.sec.state.ma.us/">Secretary of the Commonwealth <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="https://www.mass.gov/orgs/massachusetts-department-of-transportation/">Mass DOT <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="https://www.mass.gov/appointments-to-boards-and-commissions">Boards & Commissions <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="http://www.mass.gov/ago/doing-business-in-massachusetts/public-charities-or-not-for-profits/">Non-Profits & Charities <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="http://libraries.state.ma.us/">Libraries <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="https://cloud.google.com/translate/attribution">Google Translate <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <h3>Quick Links</h3>
+                <ul class="list-unstyled">
+                    <li><a href="/StateHouse/Accessibility">Accessibility</a></li>
+                    <li><a href="/MyLegislature">MyLegislature</a></li>
+                    <li><a href="/Laws/GeneralLaws">Massachusetts General Laws</a></li>
+                    <li><a href="/Search/FindMyLegislator">Find My Legislator</a></li>
+                    <li><a href="/StateHouse/Visit">Visit the State House</a></li>
+                    <li><a href="/StateHouse/Contact">Contact Us</a></li>
+                    <li><a href="/StateHouse/Privacy">Privacy Policy</a></li>
+                    <li><a href="/StateHouse/TermsAndConditions">Terms And Conditions</a></li>
+                </ul>
+            </div>
+            <div class="col-xs-12 col-md-6 copyright">
+                Copyright &copy; 2026 The General Court of the Commonwealth of Massachusetts
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <div class="modal fade" tabindex="-1" role="dialog" aria-modal="true" id="registrationModal">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content registrationModal">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close dialog">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title">Register for MyLegislature</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-5">
+                        <h5 class="text-center">Register With An Existing Account</h5>
+                        <button onclick="window.location = '/Account/ExternalLogin?provider=Facebook'" type="button" class="btn btn-facebook btn-lg btn-block oauthButton"><span class="fa fa-facebook-official fa-fw"></span> Sign in<span class="hidden-xs hidden-sm"> with Facebook</span></button>
+<button onclick="window.location = '/Account/ExternalLogin?provider=Google'" type="button" class="btn btn-google btn-lg btn-block oauthButton"><span class="fa fa-google-plus fa-fw"></span> Sign in<span class="hidden-xs hidden-sm"> with Google</span></button>
+                    </div>
+                    <div class="col-xs-12 col-sm-7 vDivide">
+                        <h5 class="text-center">Register With Your Email Address</h5>
+                        <form method="post" id="registrationModalForm" role="form" data-ajax="true" data-ajax-method="POST" data-ajax-begin="inProgress" data-ajax-success="registrationModalFormOnSuccess" action="/Account/Register">
+                            
+
+
+<div class="form-group">
+    <label class="sr-only" for="RegistrationEmail">Email Address</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-user fa-fw"></span></span>
+        <input autocomplete="email" class="form-control" data-val="true" data-val-email="Invalid email address." data-val-required="Email address is required." id="RegistrationEmail" name="RegistrationEmail" placeholder="Email Address" type="email" value="" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="RegistrationEmail" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group">
+    <label class="sr-only" for="RegistrationPassword">Password</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-lock fa-fw"></span></span>
+        <input aria-label="Passwords must contain at least one number, lowercase and uppercase letters, and be seven or more characters long." autocomplete="off" class="form-control fnPasswordStrength" data-placement="top" data-toggle="password-tooltip" data-val="true" data-val-required="Password required." id="RegistrationPassword" name="RegistrationPassword" placeholder="Password" type="password" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="RegistrationPassword" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group">
+    <label class="sr-only" for="PasswordConfirmation">Confirm Password</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-lock fa-fw"></span></span>
+        <input autocomplete="off" class="form-control" data-val="true" data-val-equalto="Passwords do not match." data-val-equalto-other="*.RegistrationPassword" data-val-required="Password confirmation required." id="PasswordConfirmation" name="PasswordConfirmation" placeholder="Confirm Password" type="password" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="PasswordConfirmation" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group">
+    <div class="col-md-offset-2 col-xs-offset-0 captcha">
+        <script src='https://www.google.com/recaptcha/api.js'></script><div class="g-recaptcha" data-callback="recaptcha_callback" data-sitekey="6LffVvYUAAAAAFgtGnNLexZBT_BK7JzNbOEBaljw"></div>
+        
+    </div>
+</div>
+<button class="btn btn-primary btn-lg btn-default actionButton fnStart" type="submit">Register</button>
+<button class="btn btn-primary btn-lg btn-default actionButton fnEnd" style="display: none" type="button" disabled>Registering...</button>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzL2YVBgDHGx_qy0UVPHJMbrr2rInDTeORXRk7SFsOPErK_F65_Hfj3e8wxv27WPn9Y4UC1aL74zJvfBh2fPJsj90VnYQ1FKDommoWG6dvQygmy-k1tDuv6ERN-lFEHXdtg" /></form>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onclick="switchModal('#loginModal')">Already have an account? Sign in here.</button>
+                <button type="button" class="btn btn-secondary" onclick="switchModal('#forgotPasswordModal')">Forgot Password?</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="modal fade" tabindex="-1" role="dialog" id="loginModal" aria-modal="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content loginModal">
+            <div class="modal-header">
+                <button class="close" data-dismiss="modal" type="button" aria-label="Close dialog">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title">Sign in to MyLegislature</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row fnProgressLoader">
+                    <div class="col-xs-12 col-sm-5">
+                        <h5 class="text-center sr-only">Sign In With Your Facebook or Google+ Account</h5>
+                        <button onclick="window.location = '/Account/ExternalLogin?provider=Facebook'" type="button" class="btn btn-facebook btn-lg btn-block oauthButton"><span class="fa fa-facebook-official fa-fw"></span> Sign in<span class="hidden-xs hidden-sm"> with Facebook</span></button>
+<button onclick="window.location = '/Account/ExternalLogin?provider=Google'" type="button" class="btn btn-google btn-lg btn-block oauthButton"><span class="fa fa-google-plus fa-fw"></span> Sign in<span class="hidden-xs hidden-sm"> with Google</span></button>
+                    </div>
+                    <div class="col-xs-12 col-sm-7 vDivide">
+                        <h5 class="text-center sr-only">Sign In With Your MyLegislature Account</h5>
+                        <form method="post" id="loginModalForm" role="form" data-ajax="true" data-ajax-method="POST" data-ajax-begin="inProgress" data-ajax-complete="loginModalFormOnComplete" action="/Account/Login?isModal=true">
+                            
+<div class="form-group">
+    <label class="sr-only" for="loginEmail">Email*</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-user fa-fw"></span></span>
+        <input class="form-control" data-val="true" data-val-email="Invalid email address." data-val-required="Email address is required." id="loginEmail" name="Email" placeholder="Email Address" type="text" value="" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="loginEmail" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group passwordField">
+    <label class="sr-only" for="loginPassword">Password*</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-lock fa-fw"></span></span>
+        <input autocomplete="false" class="form-control" data-val="true" data-val-required="Password required." id="loginPassword" name="Password" placeholder="Password" type="password" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="loginPassword" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group clearfix">
+    <a class="forgotPassword" aria-haspopup="true" data-toggle="modal" data-target="#forgotPasswordModal" tabindex="0">Forgot Password?</a>
+</div>
+<div class="center-block">
+    <button type="submit" class="btn btn-primary btn-lg btn-default actionButton fnStart">Sign In</button>
+    <button class="btn btn-primary btn-lg btn-default actionButton fnEnd" style="display: none">Signing In...</button>
+</div>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzL2YVBgDHGx_qy0UVPHJMbrr2rInDTeORXRk7SFsOPErK_F65_Hfj3e8wxv27WPn9Y4UC1aL74zJvfBh2fPJsj90VnYQ1FKDommoWG6dvQygmy-k1tDuv6ERN-lFEHXdtg" /></form>
+                    </div>
+                </div>
+            </div>
+          <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onclick="switchModal('#registrationModal')">Not Registered? Click here.</button>
+                <a class="text-center visible-xs-block" href="/MyLegislature/About">Learn More Here! &raquo;</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="modal fade" tabindex="-1" role="dialog" aria-modal="true" id="forgotPasswordModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close dialog">
+                    <span aria-hidden="true">&times;</span>                    
+                </button>
+            <h4 class="modal-title">Forgot Password</h4>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="forgotPasswordModalForm" role="form" onsubmit="if($(this).valid()){ $(this).find('.fnEnd').show(); $(this).find('.fnStart').hide(); }" data-ajax="true" data-ajax-method="POST" data-ajax-complete="forgotPasswordModalFormOnComplete" action="/Account/ForgotPassword">
+                        <p><strong>Please enter your email address.</strong> If there is an account associated with that address, a password reset link will be mailed to you.</p>
+    <div class="row">
+        <div class="form-group clearfix">
+            <div class="col-sm-12 col-md-9">
+                <label class="sr-only" for="EmailAddress">Email Address</label>
+                <input autocomplete="email" class="form-control" data-val="true" data-val-email="Invalid email address." data-val-required="Email required." id="EmailAddress" name="EmailAddress" placeholder="Email Address" type="text" value="" />
+                <span class="help-block field-validation-valid" data-valmsg-for="EmailAddress" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 resetButtons">
+            <button type="submit" id="passwordResetButton" class="btn btn-danger fnStart">Reset Password</button>
+            <button type="button" class="btn btn-danger fnEnd" style="display: none">Processing...</button>
+            <button data-dismiss="modal" type="button" class="btn btn-secondary">Cancel</button>
+        </div>
+    </div>
+
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzL2YVBgDHGx_qy0UVPHJMbrr2rInDTeORXRk7SFsOPErK_F65_Hfj3e8wxv27WPn9Y4UC1aL74zJvfBh2fPJsj90VnYQ1FKDommoWG6dvQygmy-k1tDuv6ERN-lFEHXdtg" /></form>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="modal fade fnModalStack" tabindex="-1" role="dialog" aria-modal="true" id="exclusiveFeatureModal">
+  <div class="modal-dialog exclusiveModal">
+    <div class="modal-content">
+      <div class="modal-header">
+          <button class="close" data-dismiss="modal" type="button" aria-label="Close dialog">
+              <span aria-hidden="true">&times;</span>
+          </button>
+        <h4 class="modal-title">Sign In Required</h4>
+      </div>
+      <div class="modal-body">
+        <div class="container-fluid">
+        	<div class="row">
+        	  <div class="col-xs-12">
+        	    <p class="exclusiveModalContent">This feature is exclusive to users of<span>MyLegislature</span></p>
+        	  </div>
+        	  <div class="col-xs-6">
+        	    <button type="button" onclick="switchModal('#loginModal')" class="btn btn-primary btn-lg btn-block">Sign In</button>
+        	  </div>
+        	  <div class="col-xs-6">
+        	    <button type="button" onclick="switchModal('#registrationModal')" class="btn btn-primary btn-lg btn-block">Register</button>
+        	  </div>
+        	</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div id="locationModal" class="modal fade fnModalRemoveData fnModalStack" tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+
+    <div id="billModal" class="modal fade fnModalRemoveData modalFixedHeight"tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog printPreviewModal">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+<div id="amendmentModal" class="modal fade fnModalRemoveData modalFixedHeight" tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+<div id="downloadModal" class="modal fade fnModalRemoveData modalFixedHeight" tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+    <div class="modal" id="mobileSearch" tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close dialog">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title">Search The Legislature</h4>
+            </div>
+            <div class="modal-body">
+                <form action="/Search" class="container" method="get">        <h2 class="sr-only">Search the Legislature</h2>
+    <label class="sr-only" for="mobileFullSearch">Search the Legislature</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query input-group-lg">
+                <input id="mobileFullSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       value=""
+                       data-tt-search-type="Bills, GeneralLaws, SessionLaws, Committees, Legislators, Events, Journals, Reports, Videos, Amendments, ClerkContents"
+                       data-tt-search-reset="Bills, GeneralLaws, SessionLaws, Committees, Legislators, Events, Journals, Reports, Videos, Amendments, ClerkContents"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search the Legislature..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search the Legislature">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div id="badgeModal" class="modal fade fnModalRemoveData fnModalStack" tabindex="-1" role="dialog" aria-modal="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+
+    <script src="/bundles/bootstrap.min.js"></script>
+    <script src="/bundles/common.min.js"></script>
+    <script src="/bundles/validate.min.js"></script>
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/Scripts/ie10-viewport-bug-workaround.js"></script>
+    <script src="/Scripts/jquery-yammcessible.js"></script>
+
+    <script>
+        $("document").ready(function () {
+            $('.yamm').accessibleMegaMenu();
+        });
+    </script>
+</body>
+</html>

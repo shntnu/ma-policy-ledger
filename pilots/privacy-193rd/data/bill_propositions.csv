@@ -93,10 +93,14 @@ H1893,P-160,SECTION 2 (c.71 s.97),,sole-carrier,https://malegislature.gov/Bills/
 H1893,P-161,"SECTIONS 4-5 (c.149 ss.150,192)",,sole-carrier,https://malegislature.gov/Bills/193/H1893
 H1939,P-367,new section (b)-(d),privilege with subsection (c)-(d) exceptions attaching,sole-carrier,https://malegislature.gov/Bills/193/H1939
 H1986,P-165,sole resolve,study commission; data-practice charges in clauses (ii)-(iii),sole-carrier,https://malegislature.gov/Bills/193/H1986
-H219,P-357,new c.6A s.16DD(d),"system, standardized application, ID card",sole-carrier,https://malegislature.gov/Bills/193/H219
 H219,P-358,new c.6A s.16DD(e),,sole-carrier,https://malegislature.gov/Bills/193/H219
 H219,P-359,new c.6A s.16DD(a),,sole-carrier,https://malegislature.gov/Bills/193/H219
-H219,P-362,new c.6A s.16DD(b)-(c),application fee (b); provider eligibility conditioning (c),sole-carrier,https://malegislature.gov/Bills/193/H219
+H219,P-372,new c.6A s.16DD(d) (first sentence),,sole-carrier,https://malegislature.gov/Bills/193/H219
+H219,P-373,new c.6A s.16DD(d) (standardized-application and provider-preference sentences),,sole-carrier,https://malegislature.gov/Bills/193/H219
+H219,P-374,new c.6A s.16DD(d) (30-day card issuance sentence),,sole-carrier,https://malegislature.gov/Bills/193/H219
+H219,P-375,new c.6A s.16DD(d) (final sentence),"presupposes the card P-374 issues, but binds a different party and is separately enforceable",sole-carrier,https://malegislature.gov/Bills/193/H219
+H219,P-376,new c.6A s.16DD(b); SECTION 2 (new c.29 s.2RRRRR),the trust fund attaches to the fee it receives,sole-carrier,https://malegislature.gov/Bills/193/H219
+H219,P-377,new c.6A s.16DD(c),,sole-carrier,https://malegislature.gov/Bills/193/H219
 H281,P-091,SECTION 1 cl.(d),weakest variant: financial-account-access biometrics only,inferred-analytic,https://malegislature.gov/Bills/193/H281
 H281,P-096,SECTION 1 (breach definition),"weaker: identity-theft/fraud risk only, embedded in definition",inferred-analytic,https://malegislature.gov/Bills/193/H281
 H281,P-097,SECTION 3,weak/legacy variant; permits security-freeze fees,inferred-analytic,https://malegislature.gov/Bills/193/H281
@@ -111,11 +115,17 @@ H326,P-224,c.93 s.116(f),,sole-carrier,https://malegislature.gov/Bills/193/H326
 H326,P-225,c.93 s.117,,sole-carrier,https://malegislature.gov/Bills/193/H326
 H3289,P-342,SECTIONS 1-2 (c.90 s.30A; c.147 s.30 para 12),companions,inferred-analytic,https://malegislature.gov/Bills/193/H3289
 H3289,P-343,c.147 s.30 para 13,companions; license revocation attaches,inferred-analytic,https://malegislature.gov/Bills/193/H3289
+H3306,P-301,new c.90 s.14C(b)(4),no frontal view; no operator/passenger/contents identification,verified-text-identical,https://malegislature.gov/Bills/193/H3306
+H3306,P-302,new c.90 s.14C(e)(2),variant: images are municipal property; vendor may not use them for any other purpose,verified-text-identical,https://malegislature.gov/Bills/193/H3306
+H3306,P-332,new c.90 s.14C(e)(2),variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary,verified-text-identical,https://malegislature.gov/Bills/193/H3306
+H3306,P-333,new c.90 s.14C(c)(1),"weaker: vendor RMV access limited to building the evidence file and delivering the citation, without H3336's security-protocol, background-check, encryption and annual-audit regime",verified-text-near-identical,https://malegislature.gov/Bills/193/H3306
+H3306,P-371,new c.90 s.14C(e)(1),images obtainable only by court order outside enforcement or defense,verified-text-identical,https://malegislature.gov/Bills/193/H3306
 H331,P-340,c.93B s.4(c)(14),companions,verified-text-identical,https://malegislature.gov/Bills/193/H331
 H331,P-341,c.93B s.4(c)(14) indemnification clause,companions,verified-text-identical,https://malegislature.gov/Bills/193/H331
-H3336,P-302,c.90 s.14C(c)(2),variant: recordings municipal property; vendor use ban,verified-text-identical,https://malegislature.gov/Bills/193/H3336
-H3336,P-332,c.90 s.14C(c)(2),variant: 30-day non-violation/1-year violation destruction with attestation,verified-text-identical,https://malegislature.gov/Bills/193/H3336
-H3336,P-333,new c.90 s.14C(c)(1),,sole-carrier,https://malegislature.gov/Bills/193/H3336
+H3336,P-302,new c.90 s.14C(e)(2),variant: recordings municipal property; vendor use ban,verified-text-identical,https://malegislature.gov/Bills/193/H3336
+H3336,P-332,new c.90 s.14C(e)(2),variant: 30-day non-violation/1-year violation destruction with attestation,verified-text-identical,https://malegislature.gov/Bills/193/H3336
+H3336,P-333,new c.90 s.14C(c)(1),,verified-text-near-identical,https://malegislature.gov/Bills/193/H3336
+H3336,P-371,new c.90 s.14C(e)(1),images obtainable only by court order outside enforcement or defense,verified-text-identical,https://malegislature.gov/Bills/193/H3336
 H3375,P-299,c.4 s.7 cl.26(w); c.90J s.8(c),"school-bus camera authorization, same regime",verified-text-identical,https://malegislature.gov/Bills/193/H3375
 H3375,P-300,c.90J s.8(b),"school-bus camera authorization, same regime",verified-text-identical,https://malegislature.gov/Bills/193/H3375
 H3375,P-301,c.90J s.8(d),"school-bus camera authorization, same regime",verified-text-identical,https://malegislature.gov/Bills/193/H3375
@@ -150,6 +160,10 @@ H3434,P-206,Sec.2(c)-(d),variant: felony-only; production order/preservation req
 H3434,P-208,Sec.4,variant: treble or exemplary,inferred-analytic,https://malegislature.gov/Bills/193/H3434
 H3434,P-210,Sec.2,,inferred-analytic,https://malegislature.gov/Bills/193/H3434
 H3434,P-211,Sec.3,,inferred-analytic,https://malegislature.gov/Bills/193/H3434
+H3440,P-301,new c.90 s.14C(b)(4),no frontal view; no operator/passenger/contents identification,verified-text-identical,https://malegislature.gov/Bills/193/H3440
+H3440,P-302,new c.90 s.14C(e)(2),variant: images are municipal property; vendor may not use them for any other purpose,verified-text-identical,https://malegislature.gov/Bills/193/H3440
+H3440,P-332,new c.90 s.14C(e)(2),variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary,verified-text-identical,https://malegislature.gov/Bills/193/H3440
+H3440,P-371,new c.90 s.14C(e)(1),images obtainable only by court order outside enforcement or defense,verified-text-identical,https://malegislature.gov/Bills/193/H3440
 H3548,P-291,inserted c.222 s.29 (amendment lines 740-744),House further-amendment stage of the FY23 supplemental,verified-official-lineage,https://malegislature.gov/Bills/193/H3548
 H357,P-121,"c.93L ss.1,2(a),(b),(d),6; SECTIONS 2-3",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H357
 H357,P-122,c.93L s.2(c),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H357
@@ -235,8 +249,10 @@ H4421,P-155,c.7E s.3(c)-(e),redraft of H530/S343; identical,verified-text-identi
 H4421,P-156,c.7E s.2(e),redraft; stricter: adds 20 C.F.R. Part 603 UI-confidentiality condition,verified-text-identical,https://malegislature.gov/Bills/193/H4421
 H4421,P-157,c.7E s.5,redraft of H530/S343; identical,verified-text-identical,https://malegislature.gov/Bills/193/H4421
 H4421,P-158,c.7E s.6,redraft of H530/S343; identical,verified-text-identical,https://malegislature.gov/Bills/193/H4421
-H4450,P-302,school-bus camera section (municipal ownership; vendor no-other-use),redraft of H3336/H3375; RMV-vendor security regime (P-333) not carried,verified-text-identical,https://malegislature.gov/Bills/193/H4450
-H4450,P-332,destruction clauses (30-day non-violation / 1-year post-disposition),redraft of H3336/H3375,verified-text-identical,https://malegislature.gov/Bills/193/H4450
+H4450,P-301,new c.90 s.14C(b)(4),Transportation redraft of S2275/H3306/H3336/H3375/H3440; no frontal view; no operator/passenger/contents identification,verified-text-identical,https://malegislature.gov/Bills/193/H4450
+H4450,P-302,new c.90 s.14C(e)(2),Transportation redraft of S2275/H3306/H3336/H3375/H3440; variant: images are municipal property; vendor may not use them for any other purpose,verified-text-identical,https://malegislature.gov/Bills/193/H4450
+H4450,P-332,new c.90 s.14C(e)(2),Transportation redraft of S2275/H3306/H3336/H3375/H3440; variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary,verified-text-identical,https://malegislature.gov/Bills/193/H4450
+H4450,P-371,new c.90 s.14C(e)(1),Transportation redraft of S2275/H3306/H3336/H3375/H3440; images obtainable only by court order outside enforcement or defense,verified-text-identical,https://malegislature.gov/Bills/193/H4450
 H4632,P-001,c.93M s.2,variant: drops civic-engagement purpose and explicit targeted-ads secondary purpose,verified-text-identical,https://malegislature.gov/Bills/193/H4632
 H4632,P-002,"c.93M ss.1(a)(10),2(c),4(b),5(c),10(f)",variant: codifies dark-pattern definition incl. FTC reference,verified-text-identical,https://malegislature.gov/Bills/193/H4632
 H4632,P-003,c.93M s.3(a)(1),,verified-text-identical,https://malegislature.gov/Bills/193/H4632
@@ -289,9 +305,10 @@ H4844,P-283,c.93M s.2(b)(iv),narrowed to reproductive/gender-affirming-care loca
 H4844,P-284,c.93M s.2(b)(iii),narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action); adds 'gift' to the sale ban,inferred-analytic,https://malegislature.gov/Bills/193/H4844
 H4844,P-285,c.93M s.2(b)(v),narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action),inferred-analytic,https://malegislature.gov/Bills/193/H4844
 H4844,P-286,c.93M s.4(vi),H4844 only,sole-carrier,https://malegislature.gov/Bills/193/H4844
-H4940,P-301,notice-of-liability clause (no frontal images; no operator/passenger/contents identification),ENACTED as 2024 c.399,inferred-analytic,https://malegislature.gov/Bills/193/H4940
-H4940,P-302,ownership/vendor clause (images property of municipality; vendor no-other-use),ENACTED as 2024 c.399,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
-H4940,P-332,destruction clauses (30-day / 1-year with annual attestation to the state secretary),ENACTED as 2024 c.399,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
+H4940,P-301,new c.90 s.14C(c)(3),House Ways and Means redraft of H4450; superseded by the S3005 text before enactment,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
+H4940,P-302,new c.90 s.14C(d)(2),House Ways and Means redraft of H4450; superseded by the S3005 text before enactment,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
+H4940,P-332,new c.90 s.14C(d)(2),House Ways and Means redraft of H4450; superseded by the S3005 text before enactment,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
+H4940,P-371,new c.90 s.14C(d)(1),House Ways and Means redraft of H4450; superseded by the S3005 text before enactment,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
 H4977,P-295,2024 c.150 s.52 (new c.239 s.16),enacted vehicle (Affordable Homes Act),inferred-analytic,https://malegislature.gov/Bills/193/H4977
 H4977,P-296,"2024 c.150 ss.28,52 (c.93 s.52(a)(7); c.239 s.16(i))",enacted vehicle (Affordable Homes Act),inferred-analytic,https://malegislature.gov/Bills/193/H4977
 H5049,P-294,SECTION 70 (amending c.268B s.3),closeout-supplemental stage carrying the withholding expansion,verified-official-lineage,https://malegislature.gov/Bills/193/H5049
@@ -626,6 +643,10 @@ S30,P-094,"SECTIONS 4(ii),10",identical companion of H76,verified-text-identical
 S30,P-095,SECTION 2,identical companion of H76,verified-text-identical,https://malegislature.gov/Bills/193/S30
 S30,P-096,SECTION 7,identical companion of H76; broad harm categories,verified-text-identical,https://malegislature.gov/Bills/193/S30
 S30,P-097,SECTIONS 8-10,identical companion of H76; depends on P-093 subclause references,verified-text-identical,https://malegislature.gov/Bills/193/S30
+S3005,P-301,SECTION 2 (new c.90 s.14C(c)(3)); ENACTED as 2024 c.399 s.2,text substituted for H4940 and enacted verbatim,verified-official-lineage,https://malegislature.gov/Bills/193/S3005
+S3005,P-302,SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2,text substituted for H4940 and enacted verbatim,verified-official-lineage,https://malegislature.gov/Bills/193/S3005
+S3005,P-332,SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2,text substituted for H4940 and enacted verbatim; adds the annual destruction attestation to the state secretary,verified-official-lineage,https://malegislature.gov/Bills/193/S3005
+S3005,P-371,SECTION 2 (new c.90 s.14C(d)(1)); ENACTED as 2024 c.399 s.2,text substituted for H4940 and enacted verbatim,verified-official-lineage,https://malegislature.gov/Bills/193/S3005
 S343,P-154,"c.7E ss.1,2(a)-(d),3(a)-(b),(f),4",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S343
 S343,P-155,c.7E s.3(c)-(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S343
 S343,P-156,c.7E s.2(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S343

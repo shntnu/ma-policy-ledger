@@ -124,5 +124,24 @@ def get(url: str, max_retries: int = 3) -> bytes:
     return body
 
 
+def status(url: str) -> int:
+    """Recorded HTTP status for url, fetching (and caching) it if needed.
+
+    get() raises on a non-200 the first time and then silently returns the
+    cached error body on every later call, so a caller that must distinguish
+    "this page does not exist" from "this page is empty" cannot rely on it.
+    An expected 404 - a session-law series with no chapters in a year - is
+    data, not a failure, so this reports the status instead of raising.
+    Offline-mode cache misses still raise.
+    """
+    if url not in _index:
+        try:
+            get(url)
+        except RuntimeError as e:
+            if not str(e).startswith("HTTP "):
+                raise
+    return _index[url]["status"]
+
+
 def get_json(url: str):
     return json.loads(get(url).decode("utf-8-sig"))

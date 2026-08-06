@@ -227,6 +227,17 @@ ADDITIONS = {
     # a chapter the SessionLaws API list omits.
     "H4450": ("An Act concerning the safety of school children embarking and disembarking school buses", "IN-ENACTED-FEEDBACK", "redraft of census camera bills H3336/H3375; carries vendor-use and destruction rules"),
     "H4940": ("An Act concerning the safety of school children embarking and disembarking school buses", "IN-ENACTED-VEHICLE", "enacted as 2024 c.399 per its official history; carries camera-data rules"),
+    # Seventh-pass review finding 2: the remaining stages of the same lineage
+    # were fetched into link_targets.json but never admitted, so the ledger
+    # carried the chain without carrying its carriers.
+    # H4450's history names five parents ("New draft of S2275, H3306, H3336,
+    # H3375 and H3440"); S2275/H3336/H3375 were already census rows.
+    "H3306": ("An Act relative to the safety of school children embarking and disembarking school buses", "IN-ENACTED-FEEDBACK", "filed parent of H4450; carries the camera identification, court-order access, destruction and vendor-use rules"),
+    "H3440": ("An Act relative to the safety of school children embarking and disembarking school buses", "IN-ENACTED-FEEDBACK", "filed parent of H4450; same camera-data rules as H3306"),
+    # H4940's history: the Senate struck all text after the enacting clause
+    # and inserted S3005, so S3005 - not the cached pre-amendment H4940 PDF -
+    # is the text that became 2024 c.399.
+    "S3005": ("An Act concerning the safety of school children embarking and disembarking school buses", "IN-ENACTED-VEHICLE", "Senate Ways and Means text substituted for H4940 and enacted verbatim as 2024 c.399"),
     # Term-form-independent primary-object filings (sixth-pass finding 2)
     "S1136": ("An Act establishing a task force to review domestic violence reports and confidentiality", "IN-CORPUS-SCREEN", "confidentiality-law review task force; found by independent construction screen, not the term regex"),
     "S1503": ("An Act relative to victim notification of protected police-report access requests", "IN-CORPUS-SCREEN", "access-notification rule on protected reports; found by independent construction screen"),

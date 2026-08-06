@@ -1,0 +1,1884 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/Icons/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/Icons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/Icons/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="/Icons/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/Icons/favicon-16x16.png" sizes="16x16" />
+    <link rel="manifest" href="/Icons/manifest.json" />
+    <link rel="mask-icon" href="/Icons/safari-pinned-tab.svg" color="#0168c9" />
+    <link rel="shortcut icon" href="/Icons/favicon.ico" />
+    <meta name="msapplication-config" content="/Icons/browserconfig.xml" />
+    <meta name="theme-color" content="#ffffff" />
+        <meta name="mg_organization" content="massachusetts-legislature" />
+        <meta name="category" content="laws-regulations" />
+                <meta name="mg_type" content="session-law" />
+                <meta name="mg_date" content="20250108" />
+                <meta name="mg_key_actions" content="[{ &quot;name&quot;: &quot;Search for Session Laws&quot;, &quot;url&quot;: &quot;https:\/\/malegislature.gov\/Laws\/SessionLaws&quot;}]" />
+    <title>Session Law - Acts of 2024 Chapter 350</title>
+
+    <!-- Core CSS -->
+    <link rel="stylesheet" href="/bundles/css/core.min.css?v=vMti85r0XjmVGXwTJ-V0nl45bGXOMNaxp6pGpWuPGWY" />
+
+    <!-- Fonts -->
+    <link href="//fonts.googleapis.com/css?family=Cinzel|Cinzel+Decorative|Raleway|Roboto&display=swap" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/Content/font-awesome.min.css" />
+
+    
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-0RK1DK5FZ1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'G-S38HL5DE45');
+        </script>
+    <script src="/bundles/jquery.min.js"></script>
+    
+    <script src="/bundles/virtualtour.min.js"></script>
+</head>
+<body class="subpage">
+
+    <div id="alertContainer">
+        <!-- Alert Banner -->
+    </div>
+
+    <!-- Skip to Content Link -->
+    <a href="#mainContent" class="sr-only sr-only-focusable skipToContent">Skip to Content</a>
+    <div id="background" style="background: ">
+        <!--Header-->
+        
+<header>
+    
+        <div class="visible-lg-inline weatherBox">
+    <span class="weatherDate">August 05, 2026</span>
+    <img id="wicon" class="weatherIcon" src="https://openweathermap.org/img/w/04d.png" alt="Clouds">
+    <span class="weatherDivider"> &#124; </span>
+    <span class="weatherStats">83&deg;F</span>
+</div>
+
+    
+    <div class="container">
+        <a class="masthead" href="/">
+            <span class="headNumber">The 194th General Court of the </span>
+            <span class="headCommonwealth">Commonwealth of <span class="headMass">Massachusetts</span></span>
+        </a>
+        <div class="utilityLinks hidden-xs dropdown navbar-right">
+                <button id="utilMyLegBtn" class="utilityButton dropdown-toggle" aria-controls="loginFlyout" data-toggle="dropdown">
+                    <span class="fa-stack fa-lg">
+                        <span class="fa fa-user fa-stack-2x"></span>
+                    </span>
+                    <span class="fa-stack mlTitle">MyLegislature <span class="fa fa-caret-down"></span></span>
+                </button>
+                <div id="loginFlyout" class="dropdown-menu dropdownLogin" aria-live="assertive">
+                    
+<h2 class="text-center loginTitle">MyLegislature</h2>
+<p class="sr-only">Use MyLegislature to follow bills, hearings, and legislators that interest you.</p>
+<form id="loginFlyoutForm" class="form-horizontal clearfix" role="form" method="post" data-ajax="true" data-ajax-method="POST" data-ajax-begin="inProgress" data-ajax-complete="loginFlyoutFormOnComplete" action="/Account/Login?isModal=false">
+    
+<legend class="text-center legSignIn">Sign in with MyLegislature Account</legend>
+<span class="requiredFields">* Indicates required fields</span>
+<div class="form-group">
+    <label class="col-sm-3 control-label" for="Email">Email*</label>
+    <div class="col-sm-9">
+        <input autocomplete="email" class="form-control" data-val="true" data-val-email="Invalid email address." data-val-required="Email address is required." id="Email" name="Email" type="text" value="" />
+        <span class="help-block field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+    </div>
+</div>
+<div class="form-group passwordField">
+    <label class="col-sm-3 control-label" for="Password">Password*</label>
+    <div class="col-sm-9 clearfix">
+        <input autocomplete="off" class="form-control" data-val="true" data-val-required="Password required." id="Password" name="Password" type="password" />
+        <span class="help-block field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+        
+    </div>
+</div>
+<div class="col-xs-12 text-center">
+    <div class="clearfix">
+        <a class="forgotPassword" aria-haspopup="true" data-toggle="modal" data-target="#forgotPasswordModal" tabindex="0">Forgot Password?</a>
+    </div>
+    <input type="submit" value="Sign in" class="btn btn-default btn-lg fnStart"/>
+    <input type="submit" value="Signing In..." class="btn btn-default btn-lg fnEnd" style="display: none" />
+</div>
+
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzJD2_67qECyc9_yRhJFW08mV_F0vKkR4rn_8V18U5kr2B9OYhSf_Yi_QTiHf4iEwD9Vt81Fl4mgwgaEXFN-XCB-u82fsuiYC6CVsRh0jb7nyxG7_EZ1qG5k4aKkxanGI0E" /></form>
+<div class="form-group text-center">
+    <button type="button" onclick="window.location='/Account/ExternalLogin?provider=Facebook';" class="btn btn-facebook btn-md oauthButton"><span class="fa fa-facebook-official fa-fw"></span> Sign in with Facebook</button>
+    <button type="button" onclick="window.location='/Account/ExternalLogin?provider=Google';" class="btn btn-google btn-md oauthButton"><span class="fa fa-google-plus fa-fw"></span> Sign in with Google</button>
+</div>
+<div class="row">
+    <div class="col-xs-12 loginFooterWrapper">
+        <p class="loginFooter clearfix">
+          <a class="pull-left" href="#" data-toggle="modal" data-target="#registrationModal">Not Registered?</a>
+          <a class="pull-right" href="/MyLegislature/About">Learn More Here! &raquo;</a>
+        </p>
+    </div>
+</div>
+
+                </div>
+        </div>
+        <!-- /.utilityLinks -->
+    </div>
+    <!-- /.container -->
+</header>
+
+        <!-- NAVIGATION -->
+        
+<nav class="navbar yamm" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed btn menubutton" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" tabindex="0">Menu<span class="sr-only">Toggle navigation</span></button>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="visible-xs"><a href="/">Home</a></li>
+                <li class="visible-xs"><a role="button" href="#" data-toggle="modal" data-target="#mobileSearch" aria-haspopup="true">Search</a></li>
+                    <li class="visible-xs">
+                        <a data-toggle="modal" data-target="#loginModal" id="myLegNavLinkSm" tabindex="0">
+                            <span class="fa fa-user"></span>
+                            MyLegislature
+                        </a>
+                    </li>
+                <li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Bills &amp; Laws</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Bills">Bills</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Bills/Search">
+        All Bills
+    </a>
+</li>
+<li>
+    <a href="/Bills/RecentBills">
+        Recent &amp; Popular Bills
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/Senate/Deadlines">
+        Senate Deadlines
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/House/Deadlines">
+        House Deadlines
+    </a>
+</li>
+<li>
+    <a href="/Bills/CityTown">
+        Browse Bills by City/Town
+    </a>
+</li>
+
+
+<li class="form-group">
+    <form action="/Bills/Search" method="get">    <label class="" for="billsSearch">Search Bills</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="billsSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Bills"
+                       data-tt-search-reset="Bills"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Bills..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Bills">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Laws/GeneralLaws">General Laws</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Laws/GeneralLaws">
+        Browse General Laws
+    </a>
+</li>
+
+
+<li class="form-group">
+    <form action="/Laws/GeneralLaws/Search" method="get">    <label class="" for="generalLawsSearch">Search General Laws</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="generalLawsSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="GeneralLaws"
+                       data-tt-search-reset="GeneralLaws"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search General Laws..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search General Laws">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+
+
+<li class="form-inline generalLawsDirect">
+<form action="/Laws/GeneralLaws/GoTo" method="get">            <span class="navLabel">Go to a General Law:</span>
+            <div class="form-group">
+                <label for="GLChapterGoTo" class="sr-only">Chapter:</label>
+                <input id="GLChapterGoTo" name="ChapterGoTo" type="text" value="" class="form-control" placeholder="Chapter"/>
+            </div>
+            <div class="form-group">
+                <label for="GLSectionGoTo" class="sr-only">Section Number:</label>
+                <input id="GLSectionGoTo" name="SectionGoTo" type="text" value="" class="form-control" placeholder="Section"/>
+            </div>
+            <div class="form-group">
+                <label for="keyword" class="sr-only">Keyword:</label>
+                <input id="keyword" name="keyword" type="text" value="" class="form-control" placeholder="Keyword"/>
+            </div>
+            <button class="btn btn-primary searchButton" type="submit">Go <span class="sr-only"> to that General Law</span><span class="fa fa-angle-right"></span></button>
+</form></li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Laws/SessionLaws">Session Laws</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Laws/SessionLaws">
+        Browse Session Laws
+    </a>
+</li>
+
+
+<li class="form-group">
+    <form action="/Laws/SessionLaws/Search" method="get">    <label class="" for="sessionLawsSearch">Search Session Laws</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="sessionLawsSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="SessionLaws"
+                       data-tt-search-reset="SessionLaws"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Session Laws..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Session Laws">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+
+
+<li class="form-inline generalLawsDirect">
+<form action="/Laws/SessionLaws/GoTo" method="get">            <script>
+                var sessionLawActYears = [{"Disabled":false,"Group":null,"Selected":false,"Text":"2026","Value":"2026"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2025","Value":"2025"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2024","Value":"2024"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2023","Value":"2023"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2022","Value":"2022"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2021","Value":"2021"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2020","Value":"2020"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2019","Value":"2019"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2018","Value":"2018"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2017","Value":"2017"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2016","Value":"2016"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2015","Value":"2015"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2014","Value":"2014"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2013","Value":"2013"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2012","Value":"2012"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2011","Value":"2011"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2010","Value":"2010"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2009","Value":"2009"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2008","Value":"2008"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2007","Value":"2007"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2006","Value":"2006"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2005","Value":"2005"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2004","Value":"2004"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2003","Value":"2003"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2002","Value":"2002"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2001","Value":"2001"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2000","Value":"2000"},{"Disabled":false,"Group":null,"Selected":false,"Text":"1999","Value":"1999"},{"Disabled":false,"Group":null,"Selected":false,"Text":"1998","Value":"1998"},{"Disabled":false,"Group":null,"Selected":false,"Text":"1997","Value":"1997"}];
+                var sessionLawResolveYears = [{"Disabled":false,"Group":null,"Selected":false,"Text":"2024","Value":"2024"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2020","Value":"2020"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2018","Value":"2018"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2016","Value":"2016"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2014","Value":"2014"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2013","Value":"2013"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2012","Value":"2012"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2010","Value":"2010"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2009","Value":"2009"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2008","Value":"2008"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2007","Value":"2007"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2006","Value":"2006"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2004","Value":"2004"},{"Disabled":false,"Group":null,"Selected":false,"Text":"2001","Value":"2001"},{"Disabled":false,"Group":null,"Selected":false,"Text":"1998","Value":"1998"}];
+            </script>
+            <span class="navLabel">Go to a Session Law:</span>
+            <div class="form-group sessionLawType">
+                <label for="TypeGoTo" class="sr-only">Type:</label>
+                <select name="TypeGoTo" id="TypeGoTo" class="form-control" onchange="sessionLawTypeChange(this, 'Resolves')">
+                        <option value="Acts">Act</option>
+                        <option value="Resolves">Resolve</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="SLChapterGoTo" class="sr-only">Chapter:</label>
+                <input id="SLChapterGoTo" name="ChapterGoTo" type="text" value="" class="form-control" placeholder="Chapter"/>
+            </div>
+            <div class="form-group">
+                <label for="YearGoTo" class="sr-only">Year:</label>
+                <select name="YearGoTo" id="YearGoTo" class="form-control sessionLawYearList">
+                        <option value="2026">2026</option>
+                        <option value="2025">2025</option>
+                        <option value="2024">2024</option>
+                        <option value="2023">2023</option>
+                        <option value="2022">2022</option>
+                        <option value="2021">2021</option>
+                        <option value="2020">2020</option>
+                        <option value="2019">2019</option>
+                        <option value="2018">2018</option>
+                        <option value="2017">2017</option>
+                        <option value="2016">2016</option>
+                        <option value="2015">2015</option>
+                        <option value="2014">2014</option>
+                        <option value="2013">2013</option>
+                        <option value="2012">2012</option>
+                        <option value="2011">2011</option>
+                        <option value="2010">2010</option>
+                        <option value="2009">2009</option>
+                        <option value="2008">2008</option>
+                        <option value="2007">2007</option>
+                        <option value="2006">2006</option>
+                        <option value="2005">2005</option>
+                        <option value="2004">2004</option>
+                        <option value="2003">2003</option>
+                        <option value="2002">2002</option>
+                        <option value="2001">2001</option>
+                        <option value="2000">2000</option>
+                        <option value="1999">1999</option>
+                        <option value="1998">1998</option>
+                        <option value="1997">1997</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Go <span class="sr-only">to Session Law</span><span class="fa fa-angle-right"></span></button>
+</form></li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/Laws/Constitution">
+            Massachusetts Constitution
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Journal/Senate">
+            Senate Journals
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Journal/House">
+            House Journals
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Laws/Rules/Joint">
+            Rules
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Reports">
+            Reports and Communications
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Download/Joint/Legislative%20Drafting%20Manual" target="_blank">
+            Drafting Manual
+                <span class="fa fa-file-pdf-o"></span>
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/StateHouse/Glossary">
+            Glossary
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Budget</a>
+<ul class="dropdown-menu" id="budgetMenu">
+    <li>
+        <div class="yamm-content homeBudget">
+            <h2><a href="/Budget">FY 2027 Budget</a></h2>
+            <ol>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/GovernorsBudget">
+                            Governor&#x27;s Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/HouseWaysMeansBudget">
+                            House Ways &amp; Means Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/HouseDebate">
+                            House Debate
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/HouseBudget">
+                            House Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/SenateWaysMeansBudget">
+                            Senate Ways &amp; Means Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/SenateDebate">
+                            Senate Debate
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/SenateBudget">
+                            Senate Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="completed" aria-current="">
+                        <a href="/Budget/ConferenceCommittee">
+                            Conference Committee
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                                <span class="indicatorLine right" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li class="current" aria-current="step">
+                        <a href="/Budget/FinalBudget">
+                            Final Budget
+                            <span class="indicator" aria-hidden="true"></span>
+                                <span class="indicatorLine left" aria-hidden="true"></span>
+                        </a>
+                    </li>
+            </ol>
+            <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+        </div>
+    </li>
+</ul></li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Legislators</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Legislators">Legislators</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Redistricting">
+        Redistricting
+    </a>
+</li>
+<li>
+    <a href="/Search/FindMyLegislator">
+        Find Your Legislators
+    </a>
+</li>
+
+
+<li class="form-group">
+    <form action="/Legislators/Search" method="get">    <label class="" for="legisSearch">Search Legislators</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="legisSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Legislators"
+                       data-tt-search-reset="Legislators"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Legislators..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Legislators">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Legislators/Leadership">Legislative Leadership</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Legislators/Leadership">
+        All Leadership
+    </a>
+</li>
+<li>
+    <a href="/Legislators/Leadership/Senate">
+        Senate Leadership
+    </a>
+</li>
+<li>
+    <a href="/Legislators/Leadership/House">
+        House Leadership
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Legislators/Senate">Senate</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Legislators/Members/Senate">
+        All Senators
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/Senate">
+        Senate Clerk
+    </a>
+</li>
+<li>
+    <a href="/OpenRecords/Senate">
+        Senate Open Records
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Legislators/House">House</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Legislators/Members/House">
+        All Representatives
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/House">
+        House Clerk
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Clerks</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Dockets/Search">Dockets</a>
+                </h3>
+            <ul class="list-unstyled">
+
+
+<li class="form-group">
+    <form action="" method="get">    <label class="" for="docketsSearch">Search Dockets</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="docketsSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Dockets"
+                       data-tt-search-reset="Dockets"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Dockets..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Dockets">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/ClerksOffice/Senate">Senate Clerk</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/ClerksOffice/Senate/Agenda">
+        Agenda
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/Senate/Calendar">
+        Calendar
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/Senate/Dockets">
+        Dockets
+    </a>
+</li>
+<li>
+    <a href="/Laws/Rules/Senate">
+        Rules
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/ClerksOffice/House">House Clerk</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/ClerksOffice/House/Calendar">
+        Calendar
+    </a>
+</li>
+<li>
+    <a href="/ClerksOffice/House/Dockets">
+        Dockets
+    </a>
+</li>
+<li>
+    <a href="/Laws/Rules/House">
+        Rules
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/ClerksOffice/Senate/Audits">
+            Senate Audits
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Journal/Senate">
+            Senate Journals
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/ClerksOffice/House/Audits">
+            House Audits
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Journal/House">
+            House Journals
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Hearings &amp; Events</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Events">All Hearings &amp; Events</a>
+                </h3>
+            <ul class="list-unstyled">
+
+
+<li class="form-group">
+    <form action="/Events/Search" method="get">    <label class="" for="eventSearch">Search Events</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="eventSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Events"
+                       data-tt-search-reset="Events"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Events..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Events">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Events/Sessions">Sessions</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Events/Sessions/Joint">
+        Joint Sessions
+    </a>
+</li>
+<li>
+    <a href="/Events/Sessions/Senate">
+        Senate Sessions
+    </a>
+</li>
+<li>
+    <a href="/Events/Sessions/House">
+        House Sessions
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Events/Hearings">Hearings</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Events/Hearings/Senate">
+        Senate Committee Hearings
+    </a>
+</li>
+<li>
+    <a href="/Events/Hearings/House">
+        House Committee Hearings
+    </a>
+</li>
+<li>
+    <a href="/Events/Hearings/Joint">
+        Joint Committee Hearings
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/Events/SpecialEvents">
+            Special Events
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">Committees &amp; Commissions</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Committees">All Committees</a>
+                </h3>
+            <ul class="list-unstyled">
+
+
+<li class="form-group">
+    <form action="/Committees/Search" method="get">    <label class="" for="committeeSearch">Search Committees</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="committeeSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Committees"
+                       data-tt-search-reset="Committees"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search Committees..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search Committees">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</li>
+
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Committees">Committees</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Committees/Joint">
+        Joint Committees
+    </a>
+</li>
+<li>
+    <a href="/Committees/Senate">
+        Senate Committees
+    </a>
+</li>
+<li>
+    <a href="/Committees/House">
+        House Committees
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/Events/Hearings">Committee Hearings</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/Events/Hearings/Joint">
+        Joint Committee Hearings
+    </a>
+</li>
+<li>
+    <a href="/Events/Hearings/Senate">
+        Senate Committee Hearings
+    </a>
+</li>
+<li>
+    <a href="/Events/Hearings/House">
+        House Committee Hearings
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/Commissions">
+            Commissions
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Download/House/Committee%20Book" target="_blank">
+            Committee Book
+                <span class="fa fa-file-pdf-o"></span>
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/Committees/HearingAttendanceOverview">
+            Hearing Attendance
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+<li class="dropdown yamm-fw">
+        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">State House</a>
+        <ul class="dropdown-menu">
+            <li>
+                <div class="yamm-content">
+                    <div class="row">
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/StateHouse/Visit">Visit the State House</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/StateHouse/Tour">
+        On-site Tour
+    </a>
+</li>
+<li>
+    <a href="/VirtualTour/Home">
+        Virtual Tour
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/StateHouse/Accessibility">Accessibility</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/StateHouse/AccessibilityForm">
+        Request Accessibility
+    </a>
+</li>
+<li>
+    <a href="/StateHouse/WebAccessibilityPolicy">
+        Web Accessibility Policy
+    </a>
+</li>
+<li>
+    <a href="/StateHouse/AccessibilityInitiatives">
+        Accessibility Initiatives
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+        <li>
+                <h3>
+                    <a href="/StateHouse/EducationalOpportunities">Educational Opportunities</a>
+                </h3>
+            <ul class="list-unstyled">
+<li>
+    <a href="/StateHouse/EducationalOpportunities/Internships">
+        Internships
+    </a>
+</li>
+<li>
+    <a href="/StateHouse/EducationalOpportunities/StudentGovernmentDay">
+        Student Government Day
+    </a>
+</li>
+<li>
+    <a href="/StateHouse/EducationalOpportunities/CitizensLegislativeSeminar">
+        Citizens&#x27; Legislative Seminar
+    </a>
+</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+<div class="col-xs-12 col-sm-3">
+    <ul class="list-unstyled">
+
+
+<li>
+    <h3>
+        <a href="/CreateYourOwnBill/Idea">
+            Create Your Own Bill
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/StateHouse/MediaGallery">
+            Media Gallery
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/StateHouse/FAQ">
+            FAQ
+        </a>
+    </h3>
+</li>
+
+
+
+<li>
+    <h3>
+        <a href="/StateHouse/Contact">
+            Contact Us
+        </a>
+    </h3>
+</li>
+
+    </ul>
+</div>
+
+                        <button class="sr-only sr-only-focusable btn-link" onclick="closeNavMenu()">Close Menu</button>
+                    </div>
+                </div>
+            </li>
+        </ul>
+</li>
+
+            </ul>
+        </div>
+        <!--/.nav-collapse -->
+    </div>
+    <!--/.container -->
+</nav>
+
+        <!-- MAIN CONTENT -->
+        <span id="mainContent" class="sr-only"></span>
+        <main>
+            
+<div class="titleBar clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-7 col-md-8">
+                <ol class="breadcrumb-titleBar">
+                    <li class="hidden-print"><a href="/Laws/SessionLaws">Session Laws</a></li>
+                    <li><a href="/Laws/SessionLaws/Acts/2024">Acts (2024)</a></li>
+                    <li class="visible-print-block"><a href="#">Chapter 350</a></li>
+                </ol>
+                <h1>Chapter 350</h1>
+            </div>
+            <div class="hidden-xs col-sm-5 col-md-4">
+                <div class="typeahead-wrapper-md"><form action="/Search" method="get">        <h2 class="sr-only">Search the Legislature</h2>
+    <label class="sr-only" for="detailSearch">Search the Legislature</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query ">
+                <input id="detailSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       data-tt-search-type="Bills, GeneralLaws, SessionLaws, Committees, Legislators, Events, Journals, Reports, Videos, Amendments, ClerkContents"
+                       data-tt-search-reset="Bills, GeneralLaws, SessionLaws, Committees, Legislators, Events, Journals, Reports, Videos, Amendments, ClerkContents"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search the Legislature..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search the Legislature">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /TITLEBAR -->
+
+<div class="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-8">
+                <div class="col-xs-12">
+                    
+<div class="btn-toolbar pull-right" role="toolbar">
+    <div class="btn-group" role="group">
+        <button class="btn btn-sm btn-secondary printButton" type="button" onclick="javascript:window.print();" aria-haspopup="true"><span class="fa fa-print"></span>&nbsp;Print Page</button>
+    </div>
+	<div class="btn-group" role="group">
+			<button class="btn btn-sm btn-secondary prevButton" onclick="location.href ='/Laws/SessionLaws/Acts/2024/Chapter349';"><span class="fa fa-angle-left"></span> Prev<span class="sr-only">ious</span></button>
+	        <button class="btn btn-sm btn-secondary nextButton" onclick="location.href = '/Laws/SessionLaws/Acts/2024/Chapter351';">Next <span class="fa fa-angle-right"></span></button>
+	</div>
+</div>
+
+                </div>
+
+
+                <div class="col-xs-12">
+                    <h2 class="h3 chapterTitle">AN ACT RELATIVE TO BOATER SAFETY TO BE KNOWN AS THE HANSON MILONE ACT</h2>
+                </div>
+
+                <div class="col-xs-12">
+                    <p class="MsoNormal" style="text-align: justify; text-indent: .4in;"><em>Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority of the same, as follows:</em></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 1. Section 1 of chapter 90B of the General Laws, as appearing in the 2022 Official Edition, is hereby amended by striking out the definitions of &ldquo;Director&rdquo; and &ldquo;Division&rdquo; and inserting in place thereof the following 2 definitions:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Director&rdquo;, the director of law enforcement or an authorized designee.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Division&rdquo;, the office of law enforcement.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 2. Said section 1 of said chapter 90B, as so appearing, is hereby further amended by inserting after the definition of &ldquo;Motorboat&rdquo; the following definition:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Office of law enforcement&rdquo;, the office of law enforcement established pursuant to section 10A of chapter 21A.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 3. Said section 1 of said chapter 90B, as so appearing, is hereby further amended by striking out the definition of &nbsp;&ldquo;Personal flotation devices&rdquo; and inserting in place thereof the following 2 definitions:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Personal flotation device&rdquo;, a wearable or throwable personal flotation device approved by the Commandant of the United States Coast Guard under 46 C.F.R. Part 160.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Personal watercraft&rdquo;, a vessel propelled by a water jet pump or other machinery as its primary source of motor propulsion that is designed to be operated by a person sitting, standing or kneeling on the vessel rather than being operated in the conventional manner by a person sitting or standing inside the vessel and shall include, but not be limited to, jet skis, surf jets, wetbikes and water jet devices.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 4. Said section 1 of said chapter 90B, as so appearing, is hereby further amended by inserting after the definition of &nbsp;&ldquo;Surf jet&rdquo; the following definition:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Throwable personal flotation device&rdquo;, a personal flotation device that is intended to be thrown to a person in the water, including personal flotation devices marked as Type IV or Type V with Type IV performance; provided, however, that unless specifically marked otherwise, a wearable personal flotation device shall not be considered a throwable personal flotation device.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 5. Said section 1 of said chapter 90B, as so appearing, is hereby further amended by inserting after the definition of &nbsp;&ldquo;Vessel&rdquo; the following definition:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Water jet device&rdquo;, a personal watercraft that consists of a device or system that utilizes a high-velocity jet or stream of water for the purpose of lifting a person off the surface of the water or the deck of a vessel into the air, including, but not limited to, jetlevs, flyboards, flyrides, jetovators, hydrolifts and jet-packs.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 6. Said section 1 of said chapter 90B, as so appearing, is hereby further amended by inserting after the definition of &nbsp;&ldquo;Waters of the commonwealth&rdquo; the following 2 definitions:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Wearable personal flotation device&rdquo;, a personal flotation device that is intended to be worn or otherwise attached to the body, including personal flotation devices marked as Type I, Type II, Type III or Type V with Type I, II or III performance.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Wet exit training&rdquo;, the practice of escaping from a capsized kayak in a controlled water setting.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 7. Section 3 of said chapter 90B, as so appearing, is hereby amended by striking out, in lines 11 and 12, the word &nbsp;&ldquo;department&rdquo; and inserting in place thereof the following word:- division.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 8. Section 5 of said chapter 90B, as so appearing, is hereby amended by striking out subsections (f) to (h), inclusive, and inserting in place thereof the following subsections:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f) Every vessel required to carry a bell pursuant to federal laws or regulations shall have a bell in accordance with 33 C.F.R. 86.02.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g) Every motorboat shall carry at least 1 personal flotation device for each person aboard. Every motorboat of Class A, 1, 2 or 3 shall carry at least 1 wearable personal flotation device for each person aboard. Such flotation devices shall be clearly labeled or imprinted with United States Coast Guard approval, of appropriate size and type for the intended user, as determined by the director, and shall be readily accessible and maintained in good and serviceable condition. Every vessel not less than 16 feet shall have a throwable personal flotation device that is readily accessible and in good and serviceable condition. Devices that use kapok or fibrous glass for flotation material shall have such material encased in plastic covers. Every motorboat carrying passengers for hire shall carry at least 1 wearable personal flotation device for each person on board that is readily accessible, in good and serviceable condition and of appropriate size and type.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(h) Every motorboat shall carry the fire extinguishing equipment required by 33 C.F.R. Part 175. Fire extinguishers shall be of an approved type for use on the vessel, immediately accessible, in good and serviceable condition, unexpired, not previously used and in a condition for immediate and effective use.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 9. Said section 5 of said chapter 90B, as so appearing, is hereby further amended by adding the following subsection:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(m) Persons operating a motorboat or personal watercraft equipped by the manufacturer with a lanyard type engine cutoff switch shall attach said lanyard to themselves or their clothing or wearable personal flotation device as appropriate for the specific vessel.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 10. Said chapter 90B is hereby further amended by striking out section 5A, as so appearing, and inserting in place thereof the following section:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 5A. Every vessel not subject to section 5, including, but not limited to, unpowered vessels such as canoes, kayaks and stand-up-paddleboards, shall carry at least 1 United States Coast Guard approved wearable personal flotation device of appropriate size and type for each person on board in good and serviceable condition in a readily accessible location and additional personal flotation devices as the director may deem necessary. Each amphibious landing vehicle shall have at least 1 United States Coast Guard approved wearable personal flotation device of appropriate size and type in good and serviceable condition that shall be in a readily accessible location for each passenger under 10 years of age. This section shall not apply to vessels used in competitive rowing, sculling or supervised intercollegiate sailing programs, rafts, surfboards, sail fish or any similar type of vessel.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 11. Said chapter 90B is hereby further amended by inserting after section 9B the following 4 sections:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 9C. As used in sections 9D to 9F, inclusive, the following words shall have the following meanings unless the context clearly requires otherwise:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Approved jurisdiction&rdquo;, any other state, territory and the District of Columbia, any state, province or territory of Canada or other jurisdiction with which the division has established a reciprocity arrangement for boating safety education.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Non-resident&rdquo;, a person whose legal residence is not within the commonwealth.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 9D. (a)(1) The director shall establish a boater safety education program for motorboat and personal watercraft operators.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) To complete the boater safety education program and be issued a valid boater safety certificate under this section, a person shall successfully complete an examination established by the division.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Boater safety certificates issued pursuant to this section shall be in a form prescribed by the director.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4) Boater safety certificates shall be valid for the lifetime of the person named on the certificate, except as otherwise provided by law, court judgement or order or administrative hearing conducted by the director or a designee.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) No person under 12 years of age shall be issued a boater safety certificate.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)(1) The division shall provide a boater safety education program and examination, for which it may require a payment of a reasonable fee as determined by the director. Upon the successful completion of the online boater safety education program and examination, the person shall be immediately issued a printable, temporary boater safety certificate; provided, however, that the director or the program provider shall mail an original boater safety certificate to the person thereafter.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) The director may require boater safety education program providers who offer on-site boating safety examinations to certify under pains and penalties of perjury that they comply with course requirements established by the division, including proctored examination conditions; provided, however, that if a provider fails to so certify, the director may bar the provider from providing boater safety education programs or examinations.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) If a person does not pass the boater safety education examination on the first attempt, the person may take the examination an unlimited number of times until the person successfully completes the examination.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4) Upon the successful completion of the examination by a person taking an on-site boating safety examination, the boater safety education program provider may arrange for an electronic copy of the successful certificate to be made available to the person. Section 9E. (a) No person shall operate a motorboat or personal watercraft on the waters of the commonwealth unless the person complies with the boater safety educational requirements established under section 9D and has on board and available for inspection an original valid boater safety certificate; provided, however, that a person shall not be required to hold a boater safety certificate if the person:<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) is accompanied on board and directly supervised by a person not less than 18 years of age who has on board and available for inspection a valid boater safety certificate;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) holds a valid merchant mariner credential, pursuant to 46 U.S.C. 7510, as a vessel master or mate of any tonnage, operator of uninspected passenger vessel, launch operator&rsquo;s license or other similar license to captain a commercial vessel issued by the United States Coast Guard, or an equivalent type license issued by any state of the United States or foreign government; provided, however, that the license shall be on board when operating the vessel and available for inspection;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (iii) is a non-resident and has in possession and available for inspection a boater safety education certificate or similar documentation issued by an approved jurisdiction;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (iv) is an active member in the armed forces of the United States, National Guard or United States Coast Guard and who is qualified to operate motorboats based on training or position in such branch or organization; provided, however, that the person has on board and available for inspection documentation showing such qualification;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v) has within the past 6 months acquired ownership of a motorboat that is numbered by the commonwealth or documented by the United States Coast Guard and has on board and available for inspection a valid temporary boater safety certificate to operate the vessel printed pursuant to subsection (c) of section 9D;<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (vi) is an operator of a motorboat in a boater safety education program;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(vii) is the operator of a commercial fishing vessel, subject to the Commercial Fishing Industry Vessel Safety Act of 1988, 46 U.S.C. 4501, et seq., as amended; or<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (viii) is a student attending an accredited secondary school, maritime school, college or university and is operating a motorboat in conjunction with a prescribed course of instruction and has evidence of the same on board.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Notwithstanding subsection (a), no person less than 12 years of age shall operate a motorboat on the waters of the commonwealth unless the person is accompanied on board and directly supervised by a person not less than 18 years of age who holds a valid boater safety certificate.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) The boater safety education requirements established under section 9D and operator age requirements to operate motorboats shall not apply when: (i) the vessel is operated by a division law enforcement officer or employee of a municipal fire department or the department of fire services in the performance of their official duties; (ii) the person is operating the motorboat in reasonable response to an onboard emergency, including, but not limited to, if the operator or person supervising the operator pursuant to this section becomes incapacitated or physically unable to operate or supervise the operation of the vessel or in response to another vessel that has declared an emergency situation; (iii) the person is operating the motorboat under the direction of a division law enforcement officer; (iv) the vessel is a ship&rsquo;s lifeboat; (v) the vessel is the property of a branch of the armed forces of the United States, the National Guard or the United States Coast Guard or is a military vessel of a foreign country; or (vi) the person operating the vessel is exempted pursuant to regulation or by waiver issued by the director.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)(1) An owner of a motorboat or other person not less than 18 years of age, having custody or control of a motorboat, who knowingly permits a person under the age of 18 to operate the vessel in violation of this section, shall be held liable, jointly and severally with the operator, for any violations, damages or injuries caused by such person&rsquo;s operation of the vessel and for any fines, penalties or restitution resulting therefrom.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Lack of ownership of the vessel or mistake as to the age of the operator shall not be defenses in an action filed pursuant to this section.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e) The director may promulgate regulations for the administration of this section. The division shall publish on its website all current laws and regulations applicable to the boater safety education requirements for motorboat operators.<br /> Section 9F. Whoever violates any provision of section 9E shall be punished by a fine of not less than $50 or, for a second or subsequent offense, $100.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 12. Said chapter 90B is hereby further amended by inserting after section 13A the following section:-<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 13B. (a) A person holding themself as a kayak instructor for hire shall obtain and maintain: (i) first aid training certification approved by the department of public health; (ii) cardiopulmonary resuscitation training approved by the department of public health; and (iii) a watercraft and water safety certification program approved by the director.<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) A kayak instructor shall train students on the safety procedures appropriate to the level of paddling difficulty. Wet exit training shall be required of all beginners and novice level operators who use an attached spray skirt during any part of the kayak instructional session. A liability release that limits an instructor&rsquo;s responsibility to comply with this section shall be void.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 13. A boater safety certificate or equivalent documentation issued by an approved jurisdiction to an individual operating a vessel in the commonwealth prior to the effective date of this act shall continue to be valid.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 14. Persons born not later than January 1, 1989 shall have until April 1, 2028 to comply with section 9E of chapter 90B of the General Laws.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 15. Sections 9D to 9F, inclusive, of chapter 90B of the General Laws shall take effect on April 1, 2026; provided, however, that no operator of any motorboat or personal watercraft shall be assessed a penalty for a violation of section 9B of said chapter 90B until September 1, 2026.</p>
+<p class="MsoNormal" style="text-align: justify; text-indent: .4in;">SECTION 16. The office of law enforcement shall publish guidance or promulgate regulations to implement sections 9D to 9F, inclusive, of chapter 90B of the General Laws not later than October 1, 2025.</p>
+<p style="text-align: center;">Approved, January 8, 2025.</p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-4">
+                <aside class="sidebar">
+                    
+<form action="/Laws/SessionLaws/GoTo" method="post">     <div class="form-inline sessionLawsDirect">
+         <h3 class="h4">Go Directly to a Session Law</h3>
+         <div class="form-group">
+             <label for="ChapterGoTo">Chapter</label>
+             <input class="form-control" id="ChapterGoTo" name="ChapterGoTo" type="text" value="" />
+             <span class="field-validation-valid" data-valmsg-for="ChapterGoTo" data-valmsg-replace="true"></span>
+         </div>
+         <div class="form-group">
+             <label for="TypeGoTo">Type</label>
+             <select class="form-control" data-val="true" data-val-required="The Type field is required." id="TypeGoTo" name="TypeGoTo" onchange="sessionLawTypeChange(this, &#x27;Resolves&#x27;)"><option selected="selected" value="Acts">Act</option>
+<option value="Resolves">Resolve</option>
+</select>
+             <span class="field-validation-valid" data-valmsg-for="TypeGoTo" data-valmsg-replace="true"></span>
+         </div>
+         <div class="form-group">
+             <label for="YearGoTo">Year</label>
+             <select class="form-control sessionLawYearList" data-val="true" data-val-required="The Year field is required." id="YearGoTo" name="YearGoTo"><option value="2026">2026</option>
+<option value="2025">2025</option>
+<option value="2024">2024</option>
+<option value="2023">2023</option>
+<option value="2022">2022</option>
+<option value="2021">2021</option>
+<option value="2020">2020</option>
+<option value="2019">2019</option>
+<option value="2018">2018</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+<option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+</select>
+             <span class="field-validation-valid" data-valmsg-for="YearGoTo" data-valmsg-replace="true"></span>
+         </div>
+
+         <button type="submit" class="btn btn-primary">Go <span class="sr-only">to Session Law</span><span class="fa fa-angle-right"></span></button>
+     </div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzJD2_67qECyc9_yRhJFW08mV_F0vKkR4rn_8V18U5kr2B9OYhSf_Yi_QTiHf4iEwD9Vt81Fl4mgwgaEXFN-XCB-u82fsuiYC6CVsRh0jb7nyxG7_EZ1qG5k4aKkxanGI0E" /></form>
+                </aside>
+                <aside class="sidebar">
+                    <h2 class="h3">Most Popular Session Laws</h2>
+                    <div class="table-responsive">
+                        <table class="table table-condensed table-striped popularTable sessionLawsTable">
+                            <caption class="sr-only">Popular Session Laws</caption>
+                            
+                                
+<thead>
+    <tr>
+        <th scope="col" class="yearCol">Year</th>
+        <th scope="col" class="numberCol">Chapter</th>
+        <th scope="col" class="titleCol">Chapter Name</th>
+    </tr>
+</thead>
+<tbody>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2022">2022</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2022/Chapter154">Ch. 154</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT RELATIVE TO MILITARY SPOUSE-LICENSURE PORTABILITY, EDUCATION AND ENROLLMENT OF DEPENDENTS" tabindex="0">AN ACT RELATIVE TO MILITARY SPOUSE-LICENSURE PORTABILITY, EDUCATION AND ENROLLMENT OF DEPENDENTS</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2006">2006</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2006/Chapter113">Ch. 113</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT CHANGING THE MEMBERSHIP OF THE TOWN MEETING OF THE TOWN OF SHREWSBURY." tabindex="0">AN ACT CHANGING THE MEMBERSHIP OF THE TOWN MEETING OF THE TOWN OF SHREWSBURY.</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/1998">1998</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/1998/Chapter36">Ch. 36</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT RELATIVE TO THE HEALTH INSURANCE OF CERTAIN RETIRED EMPLOYEES OF THE TOWN OF PLYMOUTH." tabindex="0">AN ACT RELATIVE TO THE HEALTH INSURANCE OF CERTAIN RETIRED EMPLOYEES OF THE TOWN OF PLYMOUTH.</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2006">2006</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2006/Chapter246">Ch. 246</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT AUTHORIZING THE MASSACHUSETTS WATER RESOURCES AUTHORITY TO ENTER INTO AN AGREEMENT WITH THE TOWN OF WALPOLE TO USE CERTAIN LAND FOR RECREATIONAL PURPOSES." tabindex="0">AN ACT AUTHORIZING THE MASSACHUSETTS WATER RESOURCES AUTHORITY TO ENTER INTO AN AGREEMENT WITH THE TOWN OF WALPOLE TO USE CERTAIN LAND FOR RECREATIONAL PURPOSES.</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2023">2023</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2023/Chapter74">Ch. 74</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT CHANGING THE BOARD OF SELECTMEN OF THE TOWN OF AVON TO A SELECT BOARD" tabindex="0">AN ACT CHANGING THE BOARD OF SELECTMEN OF THE TOWN OF AVON TO A SELECT BOARD</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2024">2024</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2024/Chapter282">Ch. 282</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT AUTHORIZING THE TOWN OF LEE TO CONTINUE THE EMPLOYMENT OF GLENN M. WILCOX AS ASSISTANT FIRE CHIEF" tabindex="0">AN ACT AUTHORIZING THE TOWN OF LEE TO CONTINUE THE EMPLOYMENT OF GLENN M. WILCOX AS ASSISTANT FIRE CHIEF</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2026">2026</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2026/Chapter137">Ch. 137</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT MAKING APPROPRIATIONS FOR THE FISCAL YEAR 2027 FOR THE MAINTENANCE OF THE DEPARTMENTS, BOARDS, COMMISSIONS, INSTITUTIONS, AND CERTAIN ACTIVITIES OF THE COMMONWEALTH, FOR INTEREST, SINKING FUND, AND SERIAL BOND REQUIREMENTS, AND FOR CERTAIN PERMANENT IMPROVEMENTS" tabindex="0">AN ACT MAKING APPROPRIATIONS FOR THE FISCAL YEAR 2027 FOR THE MAINTENANCE OF THE DEPARTMENTS, BOARDS, COMMISSIONS, INSTITUTIONS, AND CERTAIN ACTIVITIES OF THE COMMONWEALTH, FOR INTEREST, SINKING FUND, AND SERIAL BOND REQUIREMENTS, AND FOR CERTAIN PERMANENT IMPROVEMENTS</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2024">2024</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2024/Chapter135">Ch. 135</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT MODERNIZING FIREARM LAWS" tabindex="0">AN ACT MODERNIZING FIREARM LAWS</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2026">2026</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2026/Chapter101">Ch. 101</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT AUTHORIZING THE TOWN OF SCITUATE TO ISSUE 4 ADDITIONAL LICENSES FOR THE SALE OF ALL ALCOHOLIC BEVERAGES TO BE DRUNK ON THE PREMISES" tabindex="0">AN ACT AUTHORIZING THE TOWN OF SCITUATE TO ISSUE 4 ADDITIONAL LICENSES FOR THE SALE OF ALL ALCOHOLIC BEVERAGES TO BE DRUNK ON THE PREMISES</td>
+        </tr>
+        <tr>
+            <td><a href="/Laws/SessionLaws/Acts/2026">2026</a></td>
+            <td><a href="/Laws/SessionLaws/Acts/2026/Chapter101">Ch. 101</a></td>
+            <td data-toggle="tooltip" data-placement="top" data-container="body" data-aria-describedby="none" title="AN ACT MAKING APPROPRIATIONS FOR THE FISCAL YEAR 2026 TO PROVIDE FOR SUPPLEMENTING CERTAIN EXISTING APPROPRIATIONS AND FOR CERTAIN OTHER ACTIVITIES AND PROJECTS" tabindex="0">AN ACT MAKING APPROPRIATIONS FOR THE FISCAL YEAR 2026 TO PROVIDE FOR SUPPLEMENTING CERTAIN EXISTING APPROPRIATIONS AND FOR CERTAIN OTHER ACTIVITIES AND PROJECTS</td>
+        </tr>
+</tbody>
+
+
+                            
+                        </table>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </main>
+    </div>
+    <!--Footer-->
+    <footer>
+    <h2 class="sr-only">Site Information & Links</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <h3>Helpful Massachusetts Links</h3>
+                <ul class="list-unstyled">
+                    <li><a target="_blank" href="http://www.mass.gov/">Mass.gov <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="http://jobs.hrd.state.ma.us/">Commonwealth Employment Opportunities <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="http://www.sec.state.ma.us/">Secretary of the Commonwealth <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="https://www.mass.gov/orgs/massachusetts-department-of-transportation/">Mass DOT <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="https://www.mass.gov/appointments-to-boards-and-commissions">Boards & Commissions <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="http://www.mass.gov/ago/doing-business-in-massachusetts/public-charities-or-not-for-profits/">Non-Profits & Charities <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="http://libraries.state.ma.us/">Libraries <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                    <li><a target="_blank" href="https://cloud.google.com/translate/attribution">Google Translate <p class="sr-only">link to an external site</p><span class="fa fa-external-link"></span></a></li>
+                </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <h3>Quick Links</h3>
+                <ul class="list-unstyled">
+                    <li><a href="/StateHouse/Accessibility">Accessibility</a></li>
+                    <li><a href="/MyLegislature">MyLegislature</a></li>
+                    <li><a href="/Laws/GeneralLaws">Massachusetts General Laws</a></li>
+                    <li><a href="/Search/FindMyLegislator">Find My Legislator</a></li>
+                    <li><a href="/StateHouse/Visit">Visit the State House</a></li>
+                    <li><a href="/StateHouse/Contact">Contact Us</a></li>
+                    <li><a href="/StateHouse/Privacy">Privacy Policy</a></li>
+                    <li><a href="/StateHouse/TermsAndConditions">Terms And Conditions</a></li>
+                </ul>
+            </div>
+            <div class="col-xs-12 col-md-6 copyright">
+                Copyright &copy; 2026 The General Court of the Commonwealth of Massachusetts
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <div class="modal fade" tabindex="-1" role="dialog" aria-modal="true" id="registrationModal">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content registrationModal">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close dialog">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title">Register for MyLegislature</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-5">
+                        <h5 class="text-center">Register With An Existing Account</h5>
+                        <button onclick="window.location = '/Account/ExternalLogin?provider=Facebook'" type="button" class="btn btn-facebook btn-lg btn-block oauthButton"><span class="fa fa-facebook-official fa-fw"></span> Sign in<span class="hidden-xs hidden-sm"> with Facebook</span></button>
+<button onclick="window.location = '/Account/ExternalLogin?provider=Google'" type="button" class="btn btn-google btn-lg btn-block oauthButton"><span class="fa fa-google-plus fa-fw"></span> Sign in<span class="hidden-xs hidden-sm"> with Google</span></button>
+                    </div>
+                    <div class="col-xs-12 col-sm-7 vDivide">
+                        <h5 class="text-center">Register With Your Email Address</h5>
+                        <form method="post" id="registrationModalForm" role="form" data-ajax="true" data-ajax-method="POST" data-ajax-begin="inProgress" data-ajax-success="registrationModalFormOnSuccess" action="/Account/Register">
+                            
+
+
+<div class="form-group">
+    <label class="sr-only" for="RegistrationEmail">Email Address</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-user fa-fw"></span></span>
+        <input autocomplete="email" class="form-control" data-val="true" data-val-email="Invalid email address." data-val-required="Email address is required." id="RegistrationEmail" name="RegistrationEmail" placeholder="Email Address" type="email" value="" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="RegistrationEmail" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group">
+    <label class="sr-only" for="RegistrationPassword">Password</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-lock fa-fw"></span></span>
+        <input aria-label="Passwords must contain at least one number, lowercase and uppercase letters, and be seven or more characters long." autocomplete="off" class="form-control fnPasswordStrength" data-placement="top" data-toggle="password-tooltip" data-val="true" data-val-required="Password required." id="RegistrationPassword" name="RegistrationPassword" placeholder="Password" type="password" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="RegistrationPassword" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group">
+    <label class="sr-only" for="PasswordConfirmation">Confirm Password</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-lock fa-fw"></span></span>
+        <input autocomplete="off" class="form-control" data-val="true" data-val-equalto="Passwords do not match." data-val-equalto-other="*.RegistrationPassword" data-val-required="Password confirmation required." id="PasswordConfirmation" name="PasswordConfirmation" placeholder="Confirm Password" type="password" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="PasswordConfirmation" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group">
+    <div class="col-md-offset-2 col-xs-offset-0 captcha">
+        <script src='https://www.google.com/recaptcha/api.js'></script><div class="g-recaptcha" data-callback="recaptcha_callback" data-sitekey="6LffVvYUAAAAAFgtGnNLexZBT_BK7JzNbOEBaljw"></div>
+        
+    </div>
+</div>
+<button class="btn btn-primary btn-lg btn-default actionButton fnStart" type="submit">Register</button>
+<button class="btn btn-primary btn-lg btn-default actionButton fnEnd" style="display: none" type="button" disabled>Registering...</button>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzJD2_67qECyc9_yRhJFW08mV_F0vKkR4rn_8V18U5kr2B9OYhSf_Yi_QTiHf4iEwD9Vt81Fl4mgwgaEXFN-XCB-u82fsuiYC6CVsRh0jb7nyxG7_EZ1qG5k4aKkxanGI0E" /></form>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onclick="switchModal('#loginModal')">Already have an account? Sign in here.</button>
+                <button type="button" class="btn btn-secondary" onclick="switchModal('#forgotPasswordModal')">Forgot Password?</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="modal fade" tabindex="-1" role="dialog" id="loginModal" aria-modal="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content loginModal">
+            <div class="modal-header">
+                <button class="close" data-dismiss="modal" type="button" aria-label="Close dialog">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title">Sign in to MyLegislature</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row fnProgressLoader">
+                    <div class="col-xs-12 col-sm-5">
+                        <h5 class="text-center sr-only">Sign In With Your Facebook or Google+ Account</h5>
+                        <button onclick="window.location = '/Account/ExternalLogin?provider=Facebook'" type="button" class="btn btn-facebook btn-lg btn-block oauthButton"><span class="fa fa-facebook-official fa-fw"></span> Sign in<span class="hidden-xs hidden-sm"> with Facebook</span></button>
+<button onclick="window.location = '/Account/ExternalLogin?provider=Google'" type="button" class="btn btn-google btn-lg btn-block oauthButton"><span class="fa fa-google-plus fa-fw"></span> Sign in<span class="hidden-xs hidden-sm"> with Google</span></button>
+                    </div>
+                    <div class="col-xs-12 col-sm-7 vDivide">
+                        <h5 class="text-center sr-only">Sign In With Your MyLegislature Account</h5>
+                        <form method="post" id="loginModalForm" role="form" data-ajax="true" data-ajax-method="POST" data-ajax-begin="inProgress" data-ajax-complete="loginModalFormOnComplete" action="/Account/Login?isModal=true">
+                            
+<div class="form-group">
+    <label class="sr-only" for="loginEmail">Email*</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-user fa-fw"></span></span>
+        <input class="form-control" data-val="true" data-val-email="Invalid email address." data-val-required="Email address is required." id="loginEmail" name="Email" placeholder="Email Address" type="text" value="" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="loginEmail" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group passwordField">
+    <label class="sr-only" for="loginPassword">Password*</label>
+    <div class="input-group">
+        <span class="input-group-addon"><span class="fa fa-lock fa-fw"></span></span>
+        <input autocomplete="false" class="form-control" data-val="true" data-val-required="Password required." id="loginPassword" name="Password" placeholder="Password" type="password" />
+    </div>
+    <span class="help-block field-validation-valid" data-valmsg-for="loginPassword" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group clearfix">
+    <a class="forgotPassword" aria-haspopup="true" data-toggle="modal" data-target="#forgotPasswordModal" tabindex="0">Forgot Password?</a>
+</div>
+<div class="center-block">
+    <button type="submit" class="btn btn-primary btn-lg btn-default actionButton fnStart">Sign In</button>
+    <button class="btn btn-primary btn-lg btn-default actionButton fnEnd" style="display: none">Signing In...</button>
+</div>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzJD2_67qECyc9_yRhJFW08mV_F0vKkR4rn_8V18U5kr2B9OYhSf_Yi_QTiHf4iEwD9Vt81Fl4mgwgaEXFN-XCB-u82fsuiYC6CVsRh0jb7nyxG7_EZ1qG5k4aKkxanGI0E" /></form>
+                    </div>
+                </div>
+            </div>
+          <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" onclick="switchModal('#registrationModal')">Not Registered? Click here.</button>
+                <a class="text-center visible-xs-block" href="/MyLegislature/About">Learn More Here! &raquo;</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="modal fade" tabindex="-1" role="dialog" aria-modal="true" id="forgotPasswordModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close dialog">
+                    <span aria-hidden="true">&times;</span>                    
+                </button>
+            <h4 class="modal-title">Forgot Password</h4>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="forgotPasswordModalForm" role="form" onsubmit="if($(this).valid()){ $(this).find('.fnEnd').show(); $(this).find('.fnStart').hide(); }" data-ajax="true" data-ajax-method="POST" data-ajax-complete="forgotPasswordModalFormOnComplete" action="/Account/ForgotPassword">
+                        <p><strong>Please enter your email address.</strong> If there is an account associated with that address, a password reset link will be mailed to you.</p>
+    <div class="row">
+        <div class="form-group clearfix">
+            <div class="col-sm-12 col-md-9">
+                <label class="sr-only" for="EmailAddress">Email Address</label>
+                <input autocomplete="email" class="form-control" data-val="true" data-val-email="Invalid email address." data-val-required="Email required." id="EmailAddress" name="EmailAddress" placeholder="Email Address" type="text" value="" />
+                <span class="help-block field-validation-valid" data-valmsg-for="EmailAddress" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 resetButtons">
+            <button type="submit" id="passwordResetButton" class="btn btn-danger fnStart">Reset Password</button>
+            <button type="button" class="btn btn-danger fnEnd" style="display: none">Processing...</button>
+            <button data-dismiss="modal" type="button" class="btn btn-secondary">Cancel</button>
+        </div>
+    </div>
+
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8E7qM9t4yWdHu4CDIYsAmzJD2_67qECyc9_yRhJFW08mV_F0vKkR4rn_8V18U5kr2B9OYhSf_Yi_QTiHf4iEwD9Vt81Fl4mgwgaEXFN-XCB-u82fsuiYC6CVsRh0jb7nyxG7_EZ1qG5k4aKkxanGI0E" /></form>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="modal fade fnModalStack" tabindex="-1" role="dialog" aria-modal="true" id="exclusiveFeatureModal">
+  <div class="modal-dialog exclusiveModal">
+    <div class="modal-content">
+      <div class="modal-header">
+          <button class="close" data-dismiss="modal" type="button" aria-label="Close dialog">
+              <span aria-hidden="true">&times;</span>
+          </button>
+        <h4 class="modal-title">Sign In Required</h4>
+      </div>
+      <div class="modal-body">
+        <div class="container-fluid">
+        	<div class="row">
+        	  <div class="col-xs-12">
+        	    <p class="exclusiveModalContent">This feature is exclusive to users of<span>MyLegislature</span></p>
+        	  </div>
+        	  <div class="col-xs-6">
+        	    <button type="button" onclick="switchModal('#loginModal')" class="btn btn-primary btn-lg btn-block">Sign In</button>
+        	  </div>
+        	  <div class="col-xs-6">
+        	    <button type="button" onclick="switchModal('#registrationModal')" class="btn btn-primary btn-lg btn-block">Register</button>
+        	  </div>
+        	</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div id="locationModal" class="modal fade fnModalRemoveData fnModalStack" tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+
+    <div id="billModal" class="modal fade fnModalRemoveData modalFixedHeight"tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog printPreviewModal">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+<div id="amendmentModal" class="modal fade fnModalRemoveData modalFixedHeight" tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+<div id="downloadModal" class="modal fade fnModalRemoveData modalFixedHeight" tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+    <div class="modal" id="mobileSearch" tabindex="-1" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close dialog">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title">Search The Legislature</h4>
+            </div>
+            <div class="modal-body">
+                <form action="/Search" class="container" method="get">        <h2 class="sr-only">Search the Legislature</h2>
+    <label class="sr-only" for="mobileFullSearch">Search the Legislature</label>
+    <div class="typeahead-container">
+        <div class="typeahead-field">
+            <div class="input-group typeahead-query input-group-lg">
+                <input id="mobileFullSearch"
+                       name="SearchTerms"
+                       class="searchBox form-control"
+                       type="search"
+                       value=""
+                       data-tt-search-type="Bills, GeneralLaws, SessionLaws, Committees, Legislators, Events, Journals, Reports, Videos, Amendments, ClerkContents"
+                       data-tt-search-reset="Bills, GeneralLaws, SessionLaws, Committees, Legislators, Events, Journals, Reports, Videos, Amendments, ClerkContents"
+                       data-tt-url="/TypeAheadSearch"
+                       data-tt-branch=""
+                       data-tt-limit="7"
+                       aria-haspopup="true"
+                       aria-autocomplete="list"
+                       autocomplete="off"
+                       placeholder="Search the Legislature..." />
+
+                <div class="input-group-btn typeahead-button">
+                    <button type="submit" class="btn btn-primary searchButton" aria-label="Search the Legislature">
+                                <span class="fa fa-search"></span>
+                                <span class="sr-only">Search</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div id="badgeModal" class="modal fade fnModalRemoveData fnModalStack" tabindex="-1" role="dialog" aria-modal="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+
+    <script src="/bundles/bootstrap.min.js"></script>
+    <script src="/bundles/common.min.js"></script>
+    <script src="/bundles/validate.min.js"></script>
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/Scripts/ie10-viewport-bug-workaround.js"></script>
+    <script src="/Scripts/jquery-yammcessible.js"></script>
+
+    <script>
+        $("document").ready(function () {
+            $('.yamm').accessibleMegaMenu();
+        });
+    </script>
+</body>
+</html>

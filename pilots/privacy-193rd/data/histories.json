@@ -9900,6 +9900,135 @@
    }
   ]
  },
+ "H3306": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on Transportation",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-13T15:05:38.7466667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-10T12:02:30.47",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 10/17/2023 from 01:00 PM-05:00 PM in A-1                         ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-07T16:43:38.85",
+    "Branch": "House",
+    "Action": "Accompanied a new draft, see H4450",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 191,
+    "bill": "H2998"
+   },
+   {
+    "general_court": 192,
+    "bill": "H3440"
+   },
+   {
+    "general_court": 192,
+    "bill": "H4478"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4450"
+   },
+   {
+    "general_court": 193,
+    "bill": "H4940"
+   }
+  ]
+ },
+ "H3440": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on Transportation",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-03-13T15:11:35.2",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-10-10T12:02:33.6766667",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 10/17/2023 from 01:00 PM-05:00 PM in A-1                         ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-07T16:43:38.85",
+    "Branch": "House",
+    "Action": "Accompanied a new draft, see H4450",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 190,
+    "bill": "H2729"
+   },
+   {
+    "general_court": 190,
+    "bill": "H1900"
+   },
+   {
+    "general_court": 190,
+    "bill": "H2722"
+   },
+   {
+    "general_court": 191,
+    "bill": "H3142"
+   },
+   {
+    "general_court": 191,
+    "bill": "H2994"
+   }
+  ]
+ },
+ "S3005": {
+  "actions": [
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "Senate",
+    "Action": "Reported from the committee on Senate Ways and Means ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "Senate",
+    "Action": "Recommended new text for H4940",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "Senate",
+    "Action": "Substituted for H4940",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-26T00:00:00",
+    "Branch": "Senate",
+    "Action": "See H4940",
+    "IsStricken": false
+   }
+  ],
+  "similar": []
+ },
  "S1136": {
   "actions": [
    {

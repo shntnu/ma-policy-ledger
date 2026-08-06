@@ -226,8 +226,8 @@ P-297,demographic-data-collection-standard,govt-data,"Government agencies collec
 P-298,demographic-pii-confidentiality,govt-data,Personal identifying information in agency demographic data is confidential; only aggregated data preventing identification may be published,2
 P-299,bus-camera-records-exemption,surveillance-tech,Bus-camera photographs and personal identifying information exempt from the public records law,9
 P-300,bus-camera-litigation-limits,surveillance-tech,Bus-camera evidence not discoverable or admissible outside enforcement proceedings absent a court order with materiality findings,9
-P-301,bus-camera-occupant-id-ban,surveillance-tech,Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue,8
-P-302,bus-camera-vendor-confidentiality,surveillance-tech,"Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing",12
+P-301,bus-camera-occupant-id-ban,surveillance-tech,Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue,12
+P-302,bus-camera-vendor-confidentiality,surveillance-tech,"Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing",15
 P-303,tnc-trip-data-reporting-mandate,location,"TNCs must report trip-level data monthly, including continuous 60-second in-ride geolocation, driver identifier, and vehicle plate, to the DPU division",7
 P-304,tnc-trip-data-confidentiality,location,Reported TNC trip data is not a public record; sharing only de-identified under confidentiality agreements with listed agencies; breach triggers destruction and notification,7
 P-305,judicial-pii-agency-posting-ban,govt-records,"State/county/municipal agencies barred from posting protected judicial officers' personal information online without written consent, with confidential-marking and 72-hour removal",2
@@ -250,8 +250,8 @@ P-324,workplace-ads-notice-inventory,workplace,Notice and annual inventory dutie
 P-325,workplace-ads-use-prohibitions,workplace,"Prohibited ADS uses (profiling rights-exercise, facial/gait/emotion recognition, customer-rating reliance) and human-oversight requirements",1
 P-326,workplace-algorithmic-impact-assessments,workplace,Algorithmic impact assessments for workplace ADS with worker dispute rights,1
 P-328,monitoring-data-disclosure-limits,workplace,Disclosure restrictions on collected monitoring data with consent/warrant exceptions,1
-P-332,camera-capture-limit-destruction,surveillance-tech,Camera systems may capture images only upon violation; destruction within 48 hours of final disposition (variant: 30-day/1-year schedules),9
-P-333,buscam-vendor-rmv-access-security,surveillance-tech,"Camera vendor access to RMV owner data limited to enforcement purpose with security protocol, background checks, encryption, and annual independent audit",1
+P-332,camera-capture-limit-destruction,surveillance-tech,Camera systems may capture images only upon violation; destruction within 48 hours of final disposition (variant: 30-day/1-year schedules),12
+P-333,buscam-vendor-rmv-access-security,surveillance-tech,"Camera vendor access to RMV owner data limited to enforcement purpose with security protocol, background checks, encryption, and annual independent audit",2
 P-335,ltc-sogi-nondisclosure,health,"Long-term care facilities barred from disclosing residents' sexual orientation, gender identity/transition, intersex, or HIV status, with a duty to minimize inadvertent disclosure",3
 P-336,rmv-federal-access-warrant-gate,govt-records,"RMV files and data closed to federal civil immigration enforcement absent a judge-signed probable-cause warrant, with AG quash authority",2
 P-337,cori-noncriminal-access-ban,govt-records,CORI may not be accessed or disclosed for non-criminal-justice purposes including civil enforcement,2
@@ -269,12 +269,10 @@ P-353,worker-vendor-return-delete,workplace,Vendor duty to return and delete wor
 P-354,fusion-internal-data-audits,surveillance-tech,"Annual internal audits of each fusion-center database (users, access levels, data quantities, sources)",1
 P-355,fusion-ig-oversight,surveillance-tech,Inspector General access to criminal intelligence systems with biennial compliance reports,1
 P-356,fusion-sar-audit-purge,surveillance-tech,Independent audit of suspicious-activity reports with purge of noncompliant records,1
-P-357,client-data-bank-system,govt-data,"State-run centralized client data bank with standardized application, client ID-card issuance, and provider-acceptance duties",1
 P-358,client-data-bank-consent-gate,govt-data,"Written informed client consent required before the data bank discloses client personal data, with c.66A protection duties",1
 P-359,client-data-bank-records-exclusion,govt-data,Data-bank client information excluded from the public-records definition,1
 P-360,immunization-exemption-record-confidentiality,health,Medical immunization-exemption certifications confidential; no disclosure outside the school health program,1
 P-361,worker-vendor-information-supply,workplace,Vendor duty to supply the employer all information necessary for chapter compliance,1
-P-362,client-data-bank-membership-conditions,govt-data,"Nonprofit providers' state grant/loan eligibility conditioned on data-bank participation, with an application fee set by the secretary",1
 P-363,immunization-exemption-inadmissibility,health,Immunization-exemption certifications inadmissible in proceedings absent written parental consent,1
 P-364,immunization-exemption-physician-shield,health,"Certifications may not be used against the certifying physician's rating or standing with employers, insurers, or affiliations",1
 P-365,taxpayer-examination-records-shield,govt-records,Identities of persons under municipal tax examination and records disclosed to the treasurer excluded from public-records disclosure,1
@@ -283,3 +281,10 @@ P-367,union-communications-privilege,workplace,"Labor organizations may not be c
 P-368,dv-report-confidentiality-study,govt-records,Task force to review domestic-violence report confidentiality laws and recommend survivor protections,1
 P-369,victim-notice-protected-report-access,govt-records,Victim must be notified when an advocate or counselor not specifically authorized requests access to a protected police report,1
 P-370,immunization-certifier-disciplinary-immunity,health,Certifying physicians immune from licensing or disciplinary action absent manifest bad faith,1
+P-371,buscam-court-order-only-access,surveillance-tech,"School-bus camera images may be made available only under a court order, except for enforcement of, or defense against, a violation",6
+P-372,client-data-bank-establishment,govt-data,Executive Office of Health and Human Services must establish and operate a single centralized shared client data bank for nonprofit service providers,1
+P-373,client-data-bank-standardized-application,govt-data,"Clients may apply for social services through one standardized application submitted via a central website, a provider, or the data bank, and may designate preferred providers",1
+P-374,client-data-bank-id-card-issuance,govt-data,The secretary must issue each client a data bank identification card within 30 days of receiving the client's information,1
+P-375,client-data-bank-card-acceptance-duty,govt-data,"Nonprofit service providers must accept the data bank identification card as verification for services, except where federal law prohibits it",1
+P-376,client-data-bank-application-fee,govt-data,"Nonprofit service providers pay a secretary-set fee when applying for a state-administered grant or loan, credited to the Healthy Communities Trust Fund",1
+P-377,client-data-bank-eligibility-condition,govt-data,"Nonprofit service providers are eligible for state contracts, grants, and loans only if they are members of the shared client data bank",1

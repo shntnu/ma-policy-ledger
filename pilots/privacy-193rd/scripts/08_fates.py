@@ -34,7 +34,7 @@ import re
 from pathlib import Path
 
 import actions
-import fetchlib
+import sessionlaws
 
 PILOT = Path(__file__).resolve().parent.parent
 DATA = PILOT / "data"
@@ -70,6 +70,12 @@ PROBES = {
     "scorecard": ["scorecard"],
     "doxing": ["doxing", "personal information with the intent"],
     "ndii": ["visual material", "digitization"],
+    # added seventh-pass: 2024 c.399 regulates camera images (capture limits,
+    # destruction, occupant-identification ban, court-order-only access)
+    # without using any TEXT_TERMS phrase, so the term scan alone cannot see
+    # it. These signatures find it and 2024 c.363 independently of the bill
+    # -history feedback loop that first surfaced c.399.
+    "camera-enforcement": ["camera", "violation detection monitoring system"],
 }
 
 # Enactment is established structurally: enacted origin vehicles are census
@@ -169,7 +175,8 @@ ADJUDICATIONS = {
         ("c.150F s.5(A) and related", "EX-PROGRAM-INCIDENT", "driver-record public-records exemption and list-sharing incident to the bargaining board the act creates"),
     ],
     (2024, "399"): [
-        ("school-bus camera act (destruction, ownership/vendor-use, no-identification clauses)", "IN-CORE", "camera-data rules (P-301, P-302, P-332 variants); enacted vehicle H4940 per its official history (Signed ... Chapter 399 of the Acts of 2024); NOTE: the /api/SessionLaws/2024 list omits this chapter - evidence is the bill history, the recovered official PDF text, and the chapter page (cached)"),
+        ("s.2 (new c.90 s.14C(c)(3),(d)(1),(d)(2))", "IN-CORE", "camera-data rules: occupant-identification ban (P-301), court-order-only availability (P-371), destruction schedule with annual attestation (P-332), municipal ownership and vendor use ban (P-302); enacted vehicle H4940, whose text after the enacting clause was struck and replaced by S3005 - S3005 is this chapter verbatim, so S3005 and this chapter page are the evidence for the enacted version; NOTE: /api/SessionLaws/2024 omits this chapter, which is why 03b_acts_index.py enumerates the official index instead"),
+        ("ss.1, 3 (c.40 s.71 local acceptance; MassDOT regulations)", "EX-PROGRAM-INCIDENT", "local-acceptance and rulemaking mechanics of the enforcement program the act creates"),
     ],
     (2024, "363"): [
         ("s.1 (c.4 s.7 cl.26(w)); c.90K s.5", "IN-CORE", "bus-camera records exemption (P-299), litigation limits (P-300), occupant-ID ban (P-301), vendor confidentiality (P-302); enacted vehicle S2884 (found by the widened scan)"),
@@ -236,25 +243,26 @@ def bill_status(acts):
 
 
 def run_probe():
+    # the universe is the official year indexes, not the incomplete
+    # /api/SessionLaws feed (seventh-pass review finding 1), so the
+    # signature sweep reaches the 33 chapters the feed omits
     rows = []
-    for year in (2023, 2024):
-        laws = fetchlib.get_json(f"{API}/SessionLaws/{year}")
-        for law in laws:
-            plain = re.sub(r"<[^>]+>", " ", law.get("ChapterText") or "")
-            plain = re.sub(r"\s+", " ", plain)
-            low = plain.lower()
-            for fam in sorted(PROBES):
-                for ph in PROBES[fam]:
-                    m = re.search(re.escape(ph), low)
-                    if m:
-                        rows.append({
-                            "family": fam, "phrase": ph, "year": year,
-                            "chapter": law["ChapterNumber"],
-                            "title": (law.get("Title") or "")[:80],
-                            "snippet": plain[max(0, m.start() - 100): m.end() + 150],
-                            "url": f"https://malegislature.gov/Laws/SessionLaws/Acts/{year}/Chapter{law['ChapterNumber']}",
-                        })
-    adjudicated = {(r["year"], r["chapter"]) for r in rows} & set()
+    for law in sessionlaws.universe():
+        plain = law["text"]
+        low = plain.lower()
+        for fam in sorted(PROBES):
+            for ph in PROBES[fam]:
+                m = re.search(re.escape(ph), low)
+                if m:
+                    rows.append({
+                        "family": fam, "phrase": ph, "year": law["year"],
+                        "chapter": law["key"],
+                        "title": law["title"][:80],
+                        "snippet": plain[max(0, m.start() - 100): m.end() + 150],
+                        "url": law["url"],
+                    })
+    rows.sort(key=lambda r: (r["family"], r["phrase"], r["year"],
+                             int(r["chapter"].lstrip("R"))))
     for r in rows:
         key = (r["year"], r["chapter"])
         if key in ADJUDICATIONS:
@@ -268,10 +276,11 @@ def run_probe():
     with (DATA / "enacted_adjudication.csv").open("w", newline="") as f:
         w = csvutil.writer(f)
         w.writerow(["year", "chapter", "sections", "verdict", "note", "url"])
-        for (year, ch) in sorted(ADJUDICATIONS):
+        for (year, ch) in sorted(ADJUDICATIONS, key=lambda k: (k[0], int(k[1].lstrip("R")))):
+            series = "Resolves" if ch.startswith("R") else "Acts"
             for sec, verdict, note in ADJUDICATIONS[(year, ch)]:
                 w.writerow([year, ch, sec, verdict, note,
-                            f"https://malegislature.gov/Laws/SessionLaws/Acts/{year}/Chapter{ch}"])
+                            sessionlaws.chapter_url(series, year, ch.lstrip("R"))])
     un = sorted({(r["year"], r["chapter"]) for r in rows if r["verdict"] == "UNADJUDICATED"})
     if un:
         raise SystemExit(f"unadjudicated probe chapters: {un}")
@@ -323,22 +332,33 @@ def main() -> None:
                     return True
             return b == target
 
+        # A proposition can reach the statute book through more than one
+        # vehicle (P-299..P-302 were enacted both as 2024 c.363 via S2884 and
+        # as 2024 c.399 via H4940). Seventh-pass review finding 4: naming only
+        # enacted_finals[0] and sweeping the rest into the "died" narrative
+        # contradicted the official record, so every enacted final vehicle is
+        # represented and cited, and only carriers whose own terminal class is
+        # non-enacted can be described as having died.
         enacted_finals = sorted(b for b in finals if statuses[b][0] == "enacted")
         if enacted_finals:
             fb = enacted_finals[0]
-            others = [b for b in bills if b != fb]
-            chained = sorted(b for b in others if chains_to(b, fb))
+            enacted_desc = "; ".join(f"{b}: {statuses[b][2]}" for b in enacted_finals)
+            others = [b for b in bills if b not in enacted_finals]
+            chained = sorted(b for b in others
+                             if any(chains_to(b, e) for e in enacted_finals))
             unchained = sorted(b for b in others if b not in chained)
+            died = sorted(b for b in unchained if statuses[b][1] != "enacted")
             if not others or chained:
                 fate = "enacted_as_filed"
-                detail = f"enacted via {fb}: {statuses[fb][2]}"
-                if unchained:
+                detail = f"enacted via {enacted_desc}"
+                if died:
                     detail += (f"; independent filings of the same proposition "
-                               f"({','.join(unchained)}) died without an official chain to {fb}")
+                               f"({','.join(died)}) died without an official chain to "
+                               f"{' or '.join(enacted_finals)}")
             else:
                 fate = "enacted_other_vehicle"
-                detail = (f"enacted via vehicle {fb} ({statuses[fb][2]}); filed carriers "
-                          f"{','.join(unchained)} have no official chain to it (absorption "
+                detail = (f"enacted via vehicle {enacted_desc}; filed carriers "
+                          f"{','.join(died)} have no official chain to it (absorption "
                           "established by text adjudication, see data/enacted_adjudication.csv "
                           "and the absorbed_into_vehicle links)")
             cite = f"https://malegislature.gov/Bills/193/{fb}"
@@ -376,10 +396,13 @@ def main() -> None:
             "furthest_stage_vehicle": stage_bill,
             "dropped_in_consolidation": "yes" if dropped else "no",
             "final_vehicles": ";".join(finals),
+            "enacted_vehicles": ";".join(enacted_finals),
             "all_vehicles": ";".join(bills),
             "roll_calls": "; ".join(statuses[stage_bill][3]),
             "detail": detail,
             "fate_citation": cite,
+            "enacted_vehicle_citations": ";".join(
+                f"https://malegislature.gov/Bills/193/{b}" for b in enacted_finals),
             "stage_citation": f"https://malegislature.gov/Bills/193/{stage_bill}",
         })
     with (DATA / "proposition_fates.csv").open("w", newline="") as f:

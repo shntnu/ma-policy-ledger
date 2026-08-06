@@ -317,6 +317,8 @@ RETIRED = {
     "P-319": "split into P-352/P-353 (fourth-pass review finding 5)",
     "P-345": "split into P-354/P-355/P-356 (fourth-pass review finding 5)",
     "P-347": "split into P-357/P-358/P-359 (fourth-pass review finding 5)",
+    "P-357": "split into P-372/P-373/P-374/P-375 (seventh-pass review finding 5)",
+    "P-362": "split into P-376/P-377 (seventh-pass review finding 5)",
 }
 
 # (bill, prop_id, section_cite, note)
@@ -937,8 +939,8 @@ PROPS.update({
     "P-356": ("fusion-sar-audit-purge", "surveillance-tech", "Independent audit of suspicious-activity reports with purge of noncompliant records"),
     "P-346": ("fusion-subject-access", "surveillance-tech", "Subject right of access to personal data held in criminal intelligence systems"),
     # P-347 retired 2026-08-05: split into P-357/P-358/P-359.
-    "P-357": ("client-data-bank-system", "govt-data", "State-run centralized client data bank with standardized application, client ID-card issuance, and provider-acceptance duties"),
-    "P-362": ("client-data-bank-membership-conditions", "govt-data", "Nonprofit providers' state grant/loan eligibility conditioned on data-bank participation, with an application fee set by the secretary"),
+    # P-357 and P-362 retired 2026-08-05 (seventh-pass finding 5): split into
+    # P-372..P-375 and P-376/P-377 respectively.
     "P-358": ("client-data-bank-consent-gate", "govt-data", "Written informed client consent required before the data bank discloses client personal data, with c.66A protection duties"),
     "P-359": ("client-data-bank-records-exclusion", "govt-data", "Data-bank client information excluded from the public-records definition"),
 })
@@ -990,10 +992,9 @@ for b, note in (("H4166", "Cambridge home-rule petition, same regime"), ("H4287"
     edges(b,
         ("P-299", "s.8(c)", note), ("P-300", "s.8(b)", note),
         ("P-302", "s.8(e)", note), ("P-332", "s.8(a)", note))
-edges("H3336",
-    ("P-333", "new c.90 s.14C(c)(1)", ""),
-    ("P-332", "c.90 s.14C(c)(2)", "variant: 30-day non-violation/1-year violation destruction with attestation"),
-    ("P-302", "c.90 s.14C(c)(2)", "variant: recordings municipal property; vendor use ban"))
+# H3336's edges are written with the rest of the c.90 s.14C line at the end of
+# this file (seventh-pass finding 3); its (c)(2)/(e)(2) citations were wrong
+# here - the destruction and vendor-use rules are at (e)(2), not (c)(2).
 edges("S2600",
     ("P-299", "SECTION 6 (c.4 s.7 cl.26(w)); SECTION 8 (c.90K s.5(b))", "parent vehicle of S2884 (Reported on a part of)"),
     ("P-300", "c.90K s.5(a)", ""),
@@ -1021,9 +1022,10 @@ edges("H3637",
     ("P-355", "new c.66A s.2B", "s.2E transparency attaches"),
     ("P-356", "new c.66A s.2D", ""),
     ("P-346", "new c.66A s.2F", ""))
+# H219's four remaining rules are written with the seventh-pass splits at the
+# end of this file; only the consent gate and the records exclusion are
+# assigned here.
 edges("H219",
-    ("P-357", "new c.6A s.16DD(d)", "system, standardized application, ID card"),
-    ("P-362", "new c.6A s.16DD(b)-(c)", "application fee (b); provider eligibility conditioning (c)"),
     ("P-358", "new c.6A s.16DD(e)", ""),
     ("P-359", "new c.6A s.16DD(a)", ""))
 edges("S23", ("P-291", "SECTION 30 (new c.222 s.29)", "Senate supplemental-budget vehicle carrying the notary restriction"))
@@ -1175,19 +1177,124 @@ QUOTES.update({
 # H3336/H3375; H4940 enacted as 2024 c.399 per its official history - the
 # SessionLaws API list omits this chapter, see the adjudication note) and
 # two term-form-independent primary-object filings.
-edges("H4450",
-    ("P-302", "school-bus camera section (municipal ownership; vendor no-other-use)", "redraft of H3336/H3375; RMV-vendor security regime (P-333) not carried"),
-    ("P-332", "destruction clauses (30-day non-violation / 1-year post-disposition)", "redraft of H3336/H3375"))
-edges("H4940",
-    ("P-301", "notice-of-liability clause (no frontal images; no operator/passenger/contents identification)", "ENACTED as 2024 c.399"),
-    ("P-302", "ownership/vendor clause (images property of municipality; vendor no-other-use)", "ENACTED as 2024 c.399"),
-    ("P-332", "destruction clauses (30-day / 1-year with annual attestation to the state secretary)", "ENACTED as 2024 c.399"))
 edges("S1136", ("P-368", "new c.41 s.97D1/2", "sole section"))
 edges("S1503", ("P-369", "c.41 s.97D amendment (sole section)", ""))
-QUOTES.update({
-    ("H4450", "P-302"): "shall be the property of the municipality under agreement with a vendor and shall not be used by a vendor for any other purpose",
-    ("H4940", "P-302"): "shall be the property of the municipality under agreement with a vendor and shall not be used by a vendor for any other purpose",
-    ("H4450", "P-332"): "destroyed ... within 30 days of the date the image was recorded ... destroyed within 1 year of final disposition",
-    ("H4940", "P-332"): "destroyed ... within 30 days of the date the image was recorded ... destroyed within 1 year of final disposition",
-    ("H4940", "P-301"): "shall not include a frontal view photograph or video image ... or images that identify the operator, passengers or contents of the vehicle",
+
+
+# --- Seventh-pass: the school-bus-camera lineage, atomized from every stage.
+#
+# Findings 2 and 3. H4450's history names five parents ("New draft of S2275,
+# H3306, H3336, H3375 and H3440"); H4940's history records that the Senate
+# struck everything after the enacting clause and inserted S3005, and S3005 is
+# 2024 c.399 verbatim (the diff is PDF line numbers, the Senate committee
+# cover sheet, and the renumbering of new c.40 s.70 to s.71). The cached
+# H4940 PDF is the PRE-amendment House text, so S3005 and the chapter page are
+# the evidence for the enacted version.
+#
+# Two drafting lines run through the camera family and they do NOT share the
+# off-purpose-access mechanism:
+#
+#   c.90J/c.90K line (H3393, S1483, S2275, H3375, H4166, H4287, S2600, S2884,
+#   H5154, 2024 c.363): evidentiary exclusion - camera evidence is not
+#   discoverable or admissible in other proceedings absent a court order that
+#   makes a materiality finding (P-300), plus a public-records exemption
+#   (P-299).
+#
+#   c.90 s.14C line (H3306, H3336, H3440, H4450, H4940, S3005, 2024 c.399):
+#   an availability restriction - the images "shall only be made available
+#   under an order by a court of competent jurisdiction" other than for
+#   enforcement of, or defense against, a violation. This governs release of
+#   the images to anyone for any purpose, not their admissibility as evidence,
+#   and it carries no materiality gate. These bills have no public-records
+#   exemption and no discoverability rule.
+#
+# Under the codebook's identity test (same legal mechanism aimed at the same
+# target, not merely the same goal) these are different mechanisms, and no
+# bill in the census carries both, so the second gets its own ID rather than
+# being recorded as a P-300 variant. Nothing is retired: P-371 is new.
+PROPS.update({
+    "P-371": ("buscam-court-order-only-access", "surveillance-tech", "School-bus camera images may be made available only under a court order, except for enforcement of, or defense against, a violation"),
 })
+
+# Every stage of the c.90 s.14C line, cited to its own subsections.
+# Filed stages (H3306/H3336/H3440) and the Transportation redraft (H4450) use
+# (b)(4)/(c)(1)/(e)(1)/(e)(2); H4940, S3005 and the chapter renumber these to
+# (c)(3)/(d)(1)/(d)(2).
+_BUSCAM_FILED = [
+    ("P-301", "new c.90 s.14C(b)(4)", "no frontal view; no operator/passenger/contents identification"),
+    ("P-371", "new c.90 s.14C(e)(1)", "images obtainable only by court order outside enforcement or defense"),
+    ("P-332", "new c.90 s.14C(e)(2)", "variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary"),
+    ("P-302", "new c.90 s.14C(e)(2)", "variant: images are municipal property; vendor may not use them for any other purpose"),
+]
+edges("H3306",
+    *_BUSCAM_FILED,
+    ("P-333", "new c.90 s.14C(c)(1)", "weaker: vendor RMV access limited to building the evidence file and delivering the citation, without H3336's security-protocol, background-check, encryption and annual-audit regime"))
+edges("H3336",
+    # H3336 omits the frontal-view/occupant-identification clause the other
+    # filings carry; its (c)(1) is the full vendor security regime.
+    ("P-371", "new c.90 s.14C(e)(1)", "images obtainable only by court order outside enforcement or defense"),
+    ("P-333", "new c.90 s.14C(c)(1)", ""),
+    ("P-332", "new c.90 s.14C(e)(2)", "variant: 30-day non-violation/1-year violation destruction with attestation"),
+    ("P-302", "new c.90 s.14C(e)(2)", "variant: recordings municipal property; vendor use ban"))
+edges("H3440", *_BUSCAM_FILED)
+edges("H4450",
+    *[(p, c, "Transportation redraft of S2275/H3306/H3336/H3375/H3440; " + n)
+      for p, c, n in _BUSCAM_FILED])
+edges("H4940",
+    ("P-301", "new c.90 s.14C(c)(3)", "House Ways and Means redraft of H4450; superseded by the S3005 text before enactment"),
+    ("P-371", "new c.90 s.14C(d)(1)", "House Ways and Means redraft of H4450; superseded by the S3005 text before enactment"),
+    ("P-332", "new c.90 s.14C(d)(2)", "House Ways and Means redraft of H4450; superseded by the S3005 text before enactment"),
+    ("P-302", "new c.90 s.14C(d)(2)", "House Ways and Means redraft of H4450; superseded by the S3005 text before enactment"))
+edges("S3005",
+    ("P-301", "SECTION 2 (new c.90 s.14C(c)(3)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim"),
+    ("P-371", "SECTION 2 (new c.90 s.14C(d)(1)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim"),
+    ("P-332", "SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim; adds the annual destruction attestation to the state secretary"),
+    ("P-302", "SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim"))
+
+_BUSCAM_QUOTES = {
+    "P-301": "shall not include a frontal view photograph or video image of the motor vehicle that is in violation of the stop arm traffic control sign or images that identify the operator, passengers or contents of the vehicle",
+    "P-371": "other than for purposes of enforcement of a violation of this section or section 14 or for purposes of an owner of a vehicle defending a violation of this section, recorded video images and photographs taken or created under this section shall only be made available under an order by a court of competent jurisdiction",
+    "P-332": "destroyed ... within 30 days of the date the image was recorded ... destroyed within 1 year of the final disposition of proceedings related to the enforcement or defense of a violation",
+    "P-302": "shall be the property of the municipality under agreement with a vendor and shall not be used by a vendor for any other purpose",
+    "P-333": "the vendor may obtain limited access to the rmv for the sole purpose of facilitating the mounting of evidence",
+}
+QUOTES.update({
+    (b, p): q
+    for b in ("H3306", "H3336", "H3440", "H4450", "H4940", "S3005")
+    for p, q in _BUSCAM_QUOTES.items()
+    if (b, p) in {(bb, pp) for bb, pp, _, _ in E}
+})
+
+
+# --- Seventh-pass finding 5: H219's remaining bundles split to the grain.
+#
+# P-357 combined four rules of new c.6A s.16DD(d) and P-362 combined the
+# subsection (b) fee with the subsection (c) eligibility condition. Each of
+# the six survives the codebook's severability and standalone-sense tests:
+# strike any one and the others still function and still read as a policy.
+# The only dependency is that the provider acceptance duty presupposes a card;
+# it is recorded on that proposition's edge note rather than by re-bundling,
+# because the two duties fall on different parties (the secretary issues, the
+# provider accepts) and either could be enacted without the other.
+#
+# SECTION 2's Healthy Communities Trust Fund is not a separate proposition:
+# it is a fund that exists only to receive the subsection (b) fee and support
+# the data bank, so under the codebook it attaches to the fee rule.
+#
+# H219 is the sole carrier of all six, so no cross-bill identity claim is made
+# and no comparator quotes are required.
+PROPS.update({
+    "P-372": ("client-data-bank-establishment", "govt-data", "Executive Office of Health and Human Services must establish and operate a single centralized shared client data bank for nonprofit service providers"),
+    "P-373": ("client-data-bank-standardized-application", "govt-data", "Clients may apply for social services through one standardized application submitted via a central website, a provider, or the data bank, and may designate preferred providers"),
+    "P-374": ("client-data-bank-id-card-issuance", "govt-data", "The secretary must issue each client a data bank identification card within 30 days of receiving the client's information"),
+    "P-375": ("client-data-bank-card-acceptance-duty", "govt-data", "Nonprofit service providers must accept the data bank identification card as verification for services, except where federal law prohibits it"),
+    "P-376": ("client-data-bank-application-fee", "govt-data", "Nonprofit service providers pay a secretary-set fee when applying for a state-administered grant or loan, credited to the Healthy Communities Trust Fund"),
+    "P-377": ("client-data-bank-eligibility-condition", "govt-data", "Nonprofit service providers are eligible for state contracts, grants, and loans only if they are members of the shared client data bank"),
+})
+edges("H219",
+    ("P-372", "new c.6A s.16DD(d) (first sentence)", ""),
+    ("P-373", "new c.6A s.16DD(d) (standardized-application and provider-preference sentences)", ""),
+    ("P-374", "new c.6A s.16DD(d) (30-day card issuance sentence)", ""),
+    ("P-375", "new c.6A s.16DD(d) (final sentence)", "presupposes the card P-374 issues, but binds a different party and is separately enforceable"),
+    ("P-376", "new c.6A s.16DD(b); SECTION 2 (new c.29 s.2RRRRR)", "the trust fund attaches to the fee it receives"),
+    ("P-377", "new c.6A s.16DD(c)", ""))
