@@ -21,6 +21,7 @@ universe from here, so the numerator and the recall guarantee rest on the same
 enumerated set.
 """
 
+import functools
 import html as _html
 import re
 
@@ -47,6 +48,15 @@ def adj_key(series: str, chapter: str) -> str:
     return chapter if series == "Acts" else "R" + chapter
 
 
+def split_key(key: str) -> tuple[str, int]:
+    """Inverse of adj_key: "399" -> ("Acts", 399), "R1" -> ("Resolves", 1).
+    Every consumer that sorts or builds URLs from a key decodes it here, so
+    the convention has exactly one owner."""
+    if key.startswith("R"):
+        return "Resolves", int(key[1:])
+    return "Acts", int(key)
+
+
 def official_index() -> list[dict]:
     """Every chapter the official year indexes list, as
     {year, series, chapter, url}. A series with no index page for a year
@@ -68,19 +78,23 @@ def official_index() -> list[dict]:
 
 
 def index_status() -> list[dict]:
-    """One row per (year, series) saying whether the official index exists."""
+    """One row per (year, series): whether the official index exists and how
+    many chapters it lists."""
+    idx = official_index()
     out = []
     for year in YEARS:
         for series in SERIES:
-            body = _index_body(series, year)
             out.append({
                 "year": year, "series": series,
-                "present": "yes" if body is not None else "no",
+                "present": "yes" if _index_body(series, year) is not None else "no",
+                "chapters_listed": sum(1 for r in idx if r["year"] == year
+                                       and r["series"] == series),
                 "url": index_url(series, year),
             })
     return out
 
 
+@functools.cache
 def _index_body(series: str, year: int):
     """The official index page, or None when the series has no chapters that
     year (2023 has no Resolves, and that page 404s). Any other non-200 is a
@@ -94,7 +108,10 @@ def _index_body(series: str, year: int):
     return fetchlib.get(url).decode("utf-8", "replace")
 
 
+@functools.cache
 def _api_rows() -> dict:
+    """The API feed keyed by (year, series, chapter). Cached: the two JSON
+    responses are ~10 MB together and chapter() consults them per chapter."""
     from pathlib import Path
     fetchlib.seed(
         f"{API}/SessionLaws/2023",
@@ -129,36 +146,46 @@ def page_parts(body: str) -> tuple[str, str]:
     return title, _strip(body[head_end + 5:j])
 
 
-def universe() -> list[dict]:
-    """Every officially indexed chapter with its official text.
+def chapter(year: int, ch: str, series: str = "Acts") -> dict:
+    """One officially indexed chapter with its official text, preferring the
+    API's ChapterText and falling back to the official chapter page.
 
-    Each record: year, series, chapter, key, title, origin_bill, text,
-    source ("api" or "chapter_page"), url. `text` is "" only when the
-    chapter page could not be parsed, which 09_checks.py treats as a
-    coverage failure unless a reason is recorded."""
-    api = _api_rows()
-    out = []
-    for rec in official_index():
-        year, series, ch = rec["year"], rec["series"], rec["chapter"]
-        law = api.get((year, series, ch))
-        if law is not None:
-            text = _strip(law.get("ChapterText") or "")
-            title = (law.get("Title") or "").strip()
-            origin = (law.get("OriginBill") or {}) if isinstance(law.get("OriginBill"), dict) else {}
-            source = "api"
+    Keys: year, series, chapter, key, title, origin_bill, text, source
+    ("api" or "chapter_page"), url, problem. `text` is "" only when the
+    chapter could not be obtained, and `problem` then says why - a non-200
+    on the chapter page, or a page that carried no act body. 09_checks.py
+    treats an empty text with no problem recorded as a coverage failure."""
+    law = _api_rows().get((year, series, ch))
+    url = chapter_url(series, year, ch)
+    title, text, origin, problem = "", "", {}, ""
+    if law is not None:
+        source = "api"
+        text = _strip(law.get("ChapterText") or "")
+        title = (law.get("Title") or "").strip()
+        origin = law.get("OriginBill") or {}
+        if not text:
+            problem = "the API feed carried no chapter text"
+    else:
+        source = "chapter_page"
+        st = fetchlib.status(url)
+        if st != 200:
+            problem = f"chapter page returned HTTP {st}"
         else:
-            body = fetchlib.get(rec["url"]).decode("utf-8", "replace")
-            title, text = page_parts(body)
-            origin = {}
-            source = "chapter_page"
-        out.append({
-            "year": year, "series": series, "chapter": ch,
-            "key": adj_key(series, ch),
-            "title": re.sub(r"\s+", " ", title).strip(),
-            "origin_bill": (origin.get("BillNumber") or "") if origin else "",
-            "text": text, "source": source, "url": rec["url"],
-        })
-    return out
+            title, text = page_parts(fetchlib.get(url).decode("utf-8", "replace"))
+            if not text:
+                problem = "chapter page carried no act body"
+    return {
+        "year": year, "series": series, "chapter": ch,
+        "key": adj_key(series, ch),
+        "title": re.sub(r"\s+", " ", title).strip(),
+        "origin_bill": (origin.get("BillNumber") or "") if isinstance(origin, dict) else "",
+        "text": text, "source": source, "url": url, "problem": problem,
+    }
+
+
+def universe() -> list[dict]:
+    """Every officially indexed chapter, as chapter() records."""
+    return [chapter(r["year"], r["chapter"], r["series"]) for r in official_index()]
 
 
 def _selftest() -> None:

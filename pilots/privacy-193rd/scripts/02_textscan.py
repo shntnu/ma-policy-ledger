@@ -50,6 +50,29 @@ TEXT_TERMS = {
 }
 
 
+def scan_terms(text: str, before: int = 120, after: int = 120) -> tuple[dict, str]:
+    """Apply TEXT_TERMS to text; return ({term: hit_count}, snippet).
+
+    The single implementation of the domain term scan, shared by the filed
+    side (this script, 01b_full_corpus_screen.py) and the enacted side
+    (03_sessionlaws.py, 03b_acts_index.py) so the four cannot drift. The
+    snippet surrounds the first match of the first term that hits, cut from
+    `text` as given; callers format the hit counts themselves because they
+    differ on ordering.
+    """
+    low = text.lower()
+    hits = {}
+    snippet = ""
+    for k, rx in TEXT_TERMS.items():
+        found = list(re.finditer(rx, low))
+        if found:
+            hits[k] = len(found)
+            if not snippet:
+                m = found[0]
+                snippet = text[max(0, m.start() - before): m.end() + after].strip()
+    return hits, snippet
+
+
 def main() -> None:
     rows = list(csv.DictReader((DATA / "census_candidates.csv").open()))
     out = []
@@ -70,16 +93,7 @@ def main() -> None:
         text = (doc.get("DocumentText") or "")
         plain = re.sub(r"<[^>]+>", " ", text)
         plain = re.sub(r"\s+", " ", plain)
-        low = plain.lower()
-        hits = {}
-        snippet = ""
-        for k, rx in TEXT_TERMS.items():
-            found = list(re.finditer(rx, low))
-            if found:
-                hits[k] = len(found)
-                if not snippet:
-                    m = found[0]
-                    snippet = plain[max(0, m.start() - 120) : m.end() + 120].strip()
+        hits, snippet = scan_terms(plain)
         out.append(
             {
                 **base(r),

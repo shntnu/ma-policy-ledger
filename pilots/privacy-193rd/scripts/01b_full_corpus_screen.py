@@ -40,15 +40,7 @@ def main() -> None:
         if text is None:
             unscanned.append(bn)
             continue
-        hits = {}
-        snippet = ""
-        for k, rx in textscan.TEXT_TERMS.items():
-            found = list(re.finditer(rx, text))
-            if found:
-                hits[k] = len(found)
-                if not snippet:
-                    m = found[0]
-                    snippet = text[max(0, m.start() - 100): m.end() + 150].strip()
+        hits, snippet = textscan.scan_terms(text, before=100, after=150)
         if not hits:
             continue
         rows.append({

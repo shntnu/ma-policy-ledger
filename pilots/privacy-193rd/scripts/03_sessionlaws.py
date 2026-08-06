@@ -30,17 +30,7 @@ def main() -> None:
     laws = sessionlaws.universe()
     rows = []
     for law in laws:
-        plain = law["text"]
-        low = plain.lower()
-        hits = {}
-        snippet = ""
-        for k, rx in textscan.TEXT_TERMS.items():
-            found = list(re.finditer(rx, low))
-            if found:
-                hits[k] = len(found)
-                if not snippet:
-                    m = found[0]
-                    snippet = plain[max(0, m.start() - 120): m.end() + 120].strip()
+        hits, snippet = textscan.scan_terms(law["text"])
         if not hits:
             continue
         rows.append({
@@ -49,12 +39,12 @@ def main() -> None:
             "type": law["series"],
             "text_source": law["source"],
             "title": law["title"],
-            "text_chars": len(plain),
+            "text_chars": len(law["text"]),
             "text_terms": ";".join(f"{k}:{v}" for k, v in hits.items()),
             "snippet": snippet,
             "url": law["url"],
         })
-    rows.sort(key=lambda r: (r["year"], r["type"], int(r["chapter"].lstrip("R"))))
+    rows.sort(key=lambda r: (r["year"], *sessionlaws.split_key(r["chapter"])))
     with (DATA / "sessionlaw_scan.csv").open("w", newline="") as f:
         w = csvutil.dict_writer(f, fieldnames=list(rows[0].keys()))
         w.writeheader()

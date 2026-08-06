@@ -43,42 +43,27 @@ FIELDS = [
 ]
 
 
-def scan(text: str) -> tuple[str, str]:
-    low = text.lower()
-    hits = {}
-    snippet = ""
-    for k, rx in textscan.TEXT_TERMS.items():
-        found = list(re.finditer(rx, low))
-        if found:
-            hits[k] = len(found)
-            if not snippet:
-                m = found[0]
-                snippet = text[max(0, m.start() - 120): m.end() + 120].strip()
-    return ";".join(f"{k}:{v}" for k, v in hits.items()), snippet
-
-
 def main() -> None:
     with (DATA / "acts_index_sources.csv").open("w", newline="") as f:
         w = csvutil.writer(f)
         w.writerow(["year", "series", "index_present", "chapters_listed", "url"])
-        idx = sessionlaws.official_index()
         for s in sessionlaws.index_status():
-            n = sum(1 for r in idx
-                    if r["year"] == s["year"] and r["series"] == s["series"])
-            w.writerow([s["year"], s["series"], s["present"], n, s["url"]])
+            w.writerow([s["year"], s["series"], s["present"],
+                        s["chapters_listed"], s["url"]])
 
     rows = []
     for rec in sessionlaws.universe():
-        terms, snippet = scan(rec["text"])
+        hits, snippet = textscan.scan_terms(rec["text"])
         rows.append({
             "year": rec["year"], "series": rec["series"],
             "chapter": rec["chapter"], "key": rec["key"],
-            "title": re.sub(r"\s+", " ", rec["title"]).strip(),
+            "title": rec["title"],
             "origin_bill": rec["origin_bill"], "source": rec["source"],
             "text_chars": len(rec["text"]),
             "obtained": "yes" if rec["text"] else "no",
-            "unobtainable_reason": "" if rec["text"] else "chapter page carried no act body",
-            "text_terms": terms, "snippet": re.sub(r"\s+", " ", snippet),
+            "unobtainable_reason": rec["problem"],
+            "text_terms": ";".join(f"{k}:{v}" for k, v in hits.items()),
+            "snippet": snippet,
             "url": rec["url"],
         })
     rows.sort(key=lambda r: (r["year"], r["series"], int(r["chapter"])))

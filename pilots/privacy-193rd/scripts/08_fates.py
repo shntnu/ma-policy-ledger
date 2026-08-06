@@ -38,7 +38,6 @@ import sessionlaws
 
 PILOT = Path(__file__).resolve().parent.parent
 DATA = PILOT / "data"
-API = "https://malegislature.gov/api"
 
 STAGES = [
     "referred", "heard", "reporting_extended", "reported_favorably",
@@ -262,7 +261,7 @@ def run_probe():
                         "url": law["url"],
                     })
     rows.sort(key=lambda r: (r["family"], r["phrase"], r["year"],
-                             int(r["chapter"].lstrip("R"))))
+                             *sessionlaws.split_key(r["chapter"])))
     for r in rows:
         key = (r["year"], r["chapter"])
         if key in ADJUDICATIONS:
@@ -276,11 +275,12 @@ def run_probe():
     with (DATA / "enacted_adjudication.csv").open("w", newline="") as f:
         w = csvutil.writer(f)
         w.writerow(["year", "chapter", "sections", "verdict", "note", "url"])
-        for (year, ch) in sorted(ADJUDICATIONS, key=lambda k: (k[0], int(k[1].lstrip("R")))):
-            series = "Resolves" if ch.startswith("R") else "Acts"
+        for (year, ch) in sorted(ADJUDICATIONS,
+                                 key=lambda k: (k[0], *sessionlaws.split_key(k[1]))):
+            series, number = sessionlaws.split_key(ch)
             for sec, verdict, note in ADJUDICATIONS[(year, ch)]:
                 w.writerow([year, ch, sec, verdict, note,
-                            sessionlaws.chapter_url(series, year, ch.lstrip("R"))])
+                            sessionlaws.chapter_url(series, year, str(number))])
     un = sorted({(r["year"], r["chapter"]) for r in rows if r["verdict"] == "UNADJUDICATED"})
     if un:
         raise SystemExit(f"unadjudicated probe chapters: {un}")
@@ -340,14 +340,18 @@ def main() -> None:
         # represented and cited, and only carriers whose own terminal class is
         # non-enacted can be described as having died.
         enacted_finals = sorted(b for b in finals if statuses[b][0] == "enacted")
+        # carriers this proposition lost along the way; only meaningful for an
+        # enacted fate, where it names the filings that did NOT reach the
+        # statute book (never a vehicle that was itself enacted)
+        died = []
         if enacted_finals:
             fb = enacted_finals[0]
             enacted_desc = "; ".join(f"{b}: {statuses[b][2]}" for b in enacted_finals)
             others = [b for b in bills if b not in enacted_finals]
             chained = sorted(b for b in others
                              if any(chains_to(b, e) for e in enacted_finals))
-            unchained = sorted(b for b in others if b not in chained)
-            died = sorted(b for b in unchained if statuses[b][1] != "enacted")
+            died = sorted(b for b in others
+                          if b not in chained and statuses[b][1] != "enacted")
             if not others or chained:
                 fate = "enacted_as_filed"
                 detail = f"enacted via {enacted_desc}"
@@ -397,6 +401,7 @@ def main() -> None:
             "dropped_in_consolidation": "yes" if dropped else "no",
             "final_vehicles": ";".join(finals),
             "enacted_vehicles": ";".join(enacted_finals),
+            "died_carriers": ";".join(died),
             "all_vehicles": ";".join(bills),
             "roll_calls": "; ".join(statuses[stage_bill][3]),
             "detail": detail,

@@ -103,11 +103,11 @@ for name in ("bill_propositions.csv", "links.csv", "verification_queue.csv",
              "proposition_fates.csv", "bill_fates.csv", "corpus_scan.csv",
              "census.csv", "sessionlaw_scan.csv", "enacted_probe.csv",
              "enacted_adjudication.csv", "study_order_status.csv",
-             "propositions.csv"):
+             "propositions.csv", "acts_index.csv", "acts_index_sources.csv"):
     snap[name] = (DATA / name).read_bytes()
-for script in ("03_sessionlaws.py", "01b_full_corpus_screen.py",
-               "04_inclusion.py", "06_compile_atoms.py", "07_links.py",
-               "08_fates.py"):
+for script in ("03b_acts_index.py", "03_sessionlaws.py",
+               "01b_full_corpus_screen.py", "04_inclusion.py",
+               "06_compile_atoms.py", "07_links.py", "08_fates.py"):
     subprocess.run([sys.executable, script], cwd=PILOT / "scripts",
                    check=True, capture_output=True)
 for name, before in snap.items():
@@ -128,40 +128,46 @@ for pid, expected in (("P-266", "enacted_as_filed"), ("P-280", "enacted_as_filed
           f"{pid} fate is {expected}")
 
 # --- enacted universe: the official index is the denominator (finding 1)
+import importlib
 import sessionlaws
-ORDER_STAGE = {s: i for i, s in enumerate([
-    "referred", "heard", "reporting_extended", "reported_favorably",
-    "second_reading", "engrossed_one_branch", "in_second_branch",
-    "conference", "passed_both", "enacted"])}
+ORDER_STAGE = importlib.import_module("08_fates").ORDER
 acts = rows("acts_index.csv")
 official = {(str(r["year"]), r["series"], r["chapter"]) for r in sessionlaws.official_index()}
 indexed = {(r["year"], r["series"], r["chapter"]) for r in acts}
 check(indexed == official,
       f"acts_index.csv is exactly the official index "
       f"(missing {sorted(official - indexed)[:5]}, extra {sorted(indexed - official)[:5]})")
+# the substantive coverage claim: every officially indexed chapter yielded
+# text. (Asserting "obtained or a reason recorded" would be vacuous - 03b
+# derives both fields from the same emptiness test.)
 for r in acts:
-    check(r["obtained"] == "yes" or r["unobtainable_reason"],
-          f"chapter {r['year']} c.{r['chapter']} is scanned or has an unobtainable reason")
-check(all(int(r["text_chars"]) > 0 for r in acts if r["obtained"] == "yes"),
-      "every obtained chapter has text")
-# every term-flagged chapter of that universe reaches the adjudication table
+    check(int(r["text_chars"]) > 0,
+          f"chapter {r['year']} c.{r['chapter']} yielded no text: "
+          f"{r['unobtainable_reason'] or 'no reason recorded'}")
+# every term-flagged chapter of that universe reaches the adjudication table.
+# Both sides are compared in adj_key space (Acts bare, Resolves "R"-prefixed),
+# or an Acts chapter and a Resolve of the same number would collide.
 scan_keys = {(r["year"], r["chapter"]) for r in scan}
-flagged_from_index = {(r["year"], r["chapter"]) for r in acts if r["text_terms"]}
+flagged_from_index = {(r["year"], r["key"]) for r in acts if r["text_terms"]}
 check(scan_keys == flagged_from_index,
       "sessionlaw_scan.csv flags exactly the term-hit chapters of the official index")
 
-# --- finding 4: no enacted vehicle may be described as having died or as
-# lacking a chain to the vehicle that carried the proposition into law
+# --- finding 4: a bill that was itself enacted may never be counted among a
+# proposition's dead carriers, and every enacted carrier must be represented.
+# Both are checked against the structured columns; the prose detail is
+# generated from the same lists, so there is nothing to re-parse.
 enacted_bills = {r["bill"] for r in rows("bill_fates.csv") if r["terminal_class"] == "enacted"}
 for r in fates:
-    narrated = set()
-    for clause in (r"independent filings of the same proposition \(([^)]*)\) died without",
-                   r"filed carriers ([HS\d,]+) have no official chain"):
-        for m in _re.finditer(clause, r["detail"]):
-            narrated |= set(_re.findall(r"[HS]\d+", m.group(1)))
-    check(not (narrated & enacted_bills),
-          f"{r['prop_id']}: enacted vehicle in the died narrative "
-          f"({sorted(narrated & enacted_bills)})")
+    died = set(filter(None, r["died_carriers"].split(";")))
+    check(not (died & enacted_bills),
+          f"{r['prop_id']}: enacted vehicle counted as a dead carrier "
+          f"({sorted(died & enacted_bills)})")
+    carried_and_enacted = set(r["all_vehicles"].split(";")) & enacted_bills
+    check(carried_and_enacted == set(filter(None, r["enacted_vehicles"].split(";"))),
+          f"{r['prop_id']}: enacted carriers {sorted(carried_and_enacted)} "
+          f"vs enacted_vehicles {r['enacted_vehicles']!r}")
+    for bn in died:
+        check(bn in r["detail"], f"{r['prop_id']}: died carrier {bn} absent from the detail")
     if r["fate"].startswith("enacted"):
         check(r["enacted_vehicles"], f"{r['prop_id']}: enacted fate names its vehicles")
         check(all(v in r["final_vehicles"].split(";") for v in r["enacted_vehicles"].split(";")),
@@ -210,22 +216,49 @@ HEADLINES = [
     (r"; ([\d,]+) were enacted\.", len(enacted_props)),
     (r"([\d,]+) cross-bill proposition-identity claims",
      sum(1 for r in bp if r["identity_basis"] == "inferred-analytic")),
+    # remaining counts the memo asserts
+    (r"of [\d,]+ in-domain filings, ([\d,]+) were enacted", len(enacted_bills)),
+    (r"([\d,]+) stalled in policy committee",
+     sum(1 for r in fates if r["furthest_stage"] in ("heard", "reporting_extended"))),
+    (r"\(([\d,]+) heard only", sum(1 for r in fates if r["furthest_stage"] == "heard")),
+    (r"([\d,]+) with repeated reporting extensions",
+     sum(1 for r in fates if r["furthest_stage"] == "reporting_extended")),
+    (r"([\d,]+) cleared committee and stalled afterward",
+     sum(1 for r in fates if r["furthest_stage"] == "reported_favorably")),
+    (r"([\d,]+) got further \(a second reading",
+     sum(1 for r in fates if r["furthest_stage"] in ("second_reading", "in_second_branch"))),
+    (r"([\d,]+) filed-side triage verdicts",
+     sum(1 for _ in csv.DictReader((PILOT / "scripts" / "corpus_triage_verdicts.csv").open()))),
+    (r"\(([\d,]+) inferred links", sum(1 for r in queue if r["item_type"] != "judgment_flag")),
+    (r"plus ([\d,]+) judgment flags",
+     sum(1 for r in queue if r["item_type"] == "judgment_flag")),
+    (r"([A-Za-z]+) of the sixteen a standalone filing",
+     sum(1 for r in enacted_props if r["died_carriers"])),
+    (r"for [a-z]+ of the ([a-z]+) a standalone filing", len(enacted_props)),
+    (r"([\d,]+) of the [\d,]+ numbered filings .{0,40}were full-text screened",
+     len(rows("corpus_scan.csv")) and 8183 - len(rows("unscanned_bills.csv"))),
+    (r"([\d,]+) chapters \(2023 Acts", len(acts)),
 ]
-WORDS = {"twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15, "sixteen": 16,
-         "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "four": 4}
+WORDS = {"four": 4, "eight": 8, "twelve": 12, "thirteen": 13, "sixteen": 16}
 for pattern, expected in HEADLINES:
     found = _re.findall(pattern, memo, _re.IGNORECASE)
     check(bool(found), f"memo headline present: /{pattern}/")
     for raw in found:
-        val = WORDS.get(raw.lower(), None)
-        if val is None:
-            val = int(raw.replace(",", ""))
+        if raw.replace(",", "").isdigit():
+            val = raw.replace(",", "")
+            val = int(val)
+        elif raw.lower() in WORDS:
+            val = WORDS[raw.lower()]
+        else:
+            # an unmapped number word must be a reported failure, not a crash
+            check(False, f"memo headline /{pattern}/ says {raw!r}, which "
+                         f"09_checks.WORDS cannot read (tables say {expected})")
+            continue
         check(val == expected,
               f"memo headline /{pattern}/ says {raw}, tables say {expected}")
 pct = round(100 * len(enacted_props) / len(props), 1)
-for hit in _re.findall(r"\((\d+\.\d)%\)|the (\d+\.\d)% rate", memo):
-    got = float(hit[0] or hit[1])
-    check(got == pct, f"memo passage rate says {got}%, tables say {pct}%")
+for raw in _re.findall(r"(\d+\.\d)%", memo):
+    check(float(raw) == pct, f"memo passage rate says {raw}%, tables say {pct}%")
 
 if fails:
     print(f"\n{len(fails)} check(s) failed")

@@ -1173,10 +1173,9 @@ QUOTES.update({
 })
 
 
-# Sixth-pass admissions: camera-lineage successor stages (H4450 redraft of
-# H3336/H3375; H4940 enacted as 2024 c.399 per its official history - the
-# SessionLaws API list omits this chapter, see the adjudication note) and
-# two term-form-independent primary-object filings.
+# Sixth-pass admissions: two term-form-independent primary-object filings.
+# (The camera-lineage stages admitted in the same pass are atomized with the
+# rest of that family in the seventh-pass block below.)
 edges("S1136", ("P-368", "new c.41 s.97D1/2", "sole section"))
 edges("S1503", ("P-369", "c.41 s.97D amendment (sole section)", ""))
 
@@ -1251,19 +1250,21 @@ edges("S3005",
     ("P-332", "SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim; adds the annual destruction attestation to the state secretary"),
     ("P-302", "SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim"))
 
-_BUSCAM_QUOTES = {
-    "P-301": "shall not include a frontal view photograph or video image of the motor vehicle that is in violation of the stop arm traffic control sign or images that identify the operator, passengers or contents of the vehicle",
-    "P-371": "other than for purposes of enforcement of a violation of this section or section 14 or for purposes of an owner of a vehicle defending a violation of this section, recorded video images and photographs taken or created under this section shall only be made available under an order by a court of competent jurisdiction",
-    "P-332": "destroyed ... within 30 days of the date the image was recorded ... destroyed within 1 year of the final disposition of proceedings related to the enforcement or defense of a violation",
-    "P-302": "shall be the property of the municipality under agreement with a vendor and shall not be used by a vendor for any other purpose",
-    "P-333": "the vendor may obtain limited access to the rmv for the sole purpose of facilitating the mounting of evidence",
-}
-QUOTES.update({
-    (b, p): q
-    for b in ("H3306", "H3336", "H3440", "H4450", "H4940", "S3005")
-    for p, q in _BUSCAM_QUOTES.items()
-    if (b, p) in {(bb, pp) for bb, pp, _, _ in E}
-})
+# No QUOTES entries are added for this family. QUOTES exists to ground
+# cross-bill identity claims that rest on analytic judgment: 07_links.py
+# queues only inferred-analytic edges, and every edge above is
+# verified-text-identical, verified-text-near-identical, or
+# verified-official-lineage, so none needs one.
+#
+# An earlier draft of this block fanned one quote per proposition across all
+# six bills. That was wrong twice over: it silently overwrote the curated
+# H3336 entries written in an earlier pass, and it attributed the CHAPTER's
+# wording to the filed bills, which word the same rules differently - the
+# filed line says images "may only be obtained" and "are the property of the
+# municipality ... may not be used by a vendor for any other purposes",
+# against the enacted "shall only be made available" and "shall be the
+# property of ... shall not be used by a vendor or manufacturer for any other
+# purpose". A quote attributed to a bill must come from THAT bill's text.
 
 
 # --- Seventh-pass finding 5: H219's remaining bundles split to the grain.
