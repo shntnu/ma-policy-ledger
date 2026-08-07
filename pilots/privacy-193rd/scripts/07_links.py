@@ -176,7 +176,10 @@ KINSHIPS = [
      "Facial recognition and other biometric matching technology shall not be used to analyze data produced by an unmanned",
      "unlawful for a law enforcement agency or officer to acquire, possess, access, use, assist with the use of",
      f"{K}/family-facial-recognition.md"),
-    ("P-213", "P-196", "ALPR restrictions: c.90K summary regime (H3404) vs comprehensive c.90J regime (H3431)",
+    # eighth-pass finding 9: P-213 was split; the retention prong (P-383) is
+    # the half this kinship was about. H3404's disclosure prong is no longer a
+    # kinship at all - it is now a P-196 identity edge.
+    ("P-383", "P-196", "ALPR restrictions: c.90K retention cap (H3404) vs comprehensive access regime (H3431)",
      "retain ALPR data longer than 14 days except in connection with a specific criminal investigation",
      "a governmental entity may not access, search, review, disclose, or exchange ALPR data from any source",
      f"{K}/family-driver-commercial.md; {K}/family-facial-recognition.md"),
@@ -313,9 +316,16 @@ def main() -> None:
             acts = [a["Action"].strip() for a in lt[so]["actions"] if not a.get("IsStricken")]
             reported = []
             for a in acts:
-                m = re.search(r"Reported \(in part\)[,;]?\s*([HS]\d+)", a)
-                if m:
-                    ref = m.group(1)
+                # Eighth-pass review: this used an ad-hoc regex matching only
+                # the parenthesised form, so H4675's "Reported, in part, by
+                # H3107" was missed and its reported_out cell came out blank
+                # even though 05c had already fetched H3107 - which made the
+                # codebook's "relevance recorded" claim false. The shared
+                # parser in actions.py knows both forms; there is no reason
+                # for a second copy here.
+                s_ref = actions.successor_of(a)
+                if s_ref and s_ref[1] == "reported_in_part_by":
+                    ref = s_ref[0]
                     refd = lt.get(ref)
                     if refd is None:
                         reported.append(f"{ref} (NOT FETCHED - incomplete)")

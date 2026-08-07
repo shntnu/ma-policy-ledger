@@ -100,7 +100,13 @@ ADJUDICATIONS = {
     ],
     (2023, "10"): [("ballot-order lottery", "EX-FALSEPOS", "town-clerk candidate-order drawing; no personal data")],
     (2024, "139"): [("IT bond act line items", "EX-FALSEPOS", "'digitization' = municipal records digitization funding; no handling rule")],
-    (2024, "135"): [("DCJIS firearms dashboard", "EX-FALSEPOS", "publishes non-personally-identifying aggregate statistics; no handling rule")],
+    (2024, "135"): [
+        ("s.26 (c.140 s.129B(c) DCJIS firearms dashboard)", "EX-FALSEPOS", "publishes non-personally-identifying aggregate statistics; no handling rule"),
+        # eighth-pass review: the scan flags this chapter on two families and
+        # only the dashboard had a verdict, so "adjudicated provision by
+        # provision" was not true of it.
+        ("c.123 s.12 restraint records transmitted for firearm licensing", "EX-PROGRAM-INCIDENT", "sole-use and nondisclosure limits on records transmitted to licensing authorities, incident to the background-check system the act builds; the filed-side triage gives the identical provision class in S2584 the same verdict"),
+    ],
     (2023, "28"): [
         ("s.7 (new c.6A s.109)", "IN-CORE", "demographic-data collection standard (P-297) and PII confidentiality (P-298); filed parent H3003; enacted vehicle H4040"),
         ("s.2 items 3000-1000, 7010-0005, 4120-1000, 4800-0015, 7004-0099/0108/9024 (c.66A overrides, SSN eligibility, fair-hearing redaction)", "EX-PROGRAM-INCIDENT", "recurring benefit/education program-administration data provisos"),
@@ -172,13 +178,14 @@ ADJUDICATIONS = {
     ],
     (2024, "252"): [
         ("c.150F s.5(A) and related", "EX-PROGRAM-INCIDENT", "driver-record public-records exemption and list-sharing incident to the bargaining board the act creates"),
+        ("c.150F s.6 cl.6 (unfair practice: spying on or surveilling TND activities)", "EX-FALSEPOS", "labor-law unfair-practice prohibition on surveilling organizing activity; no rule governing a class of personal data"),
     ],
     (2024, "399"): [
-        ("s.2 (new c.90 s.14C(c)(3),(d)(1),(d)(2))", "IN-CORE", "camera-data rules: occupant-identification ban (P-301), court-order-only availability (P-371), destruction schedule with annual attestation (P-332), municipal ownership and vendor use ban (P-302); enacted vehicle H4940, whose text after the enacting clause was struck and replaced by S3005 - S3005 is this chapter verbatim, so S3005 and this chapter page are the evidence for the enacted version; NOTE: /api/SessionLaws/2024 omits this chapter, which is why 03b_acts_index.py enumerates the official index instead"),
+        ("s.2 (new c.90 s.14C(c)(3),(d)(1),(d)(2))", "IN-CORE", "camera-data rules: occupant-identification limit (P-380), court-order-only availability (P-371), destruction schedule with annual attestation (P-379), municipal ownership and vendor use ban (P-302); the chapter contains NO capture-only-on-violation limit (P-378) and no redaction-before-notice duty (P-381); enacted vehicle H4940, whose text after the enacting clause was struck and replaced by S3005 - S3005 is this chapter verbatim, so S3005 and this chapter page are the evidence for the enacted version; NOTE: /api/SessionLaws/2024 omits this chapter, which is why 03b_acts_index.py enumerates the official index instead"),
         ("ss.1, 3 (c.40 s.71 local acceptance; MassDOT regulations)", "EX-PROGRAM-INCIDENT", "local-acceptance and rulemaking mechanics of the enforcement program the act creates"),
     ],
     (2024, "363"): [
-        ("s.1 (c.4 s.7 cl.26(w)); c.90K s.5", "IN-CORE", "bus-camera records exemption (P-299), litigation limits (P-300), occupant-ID ban (P-301), vendor confidentiality (P-302); enacted vehicle S2884 (found by the widened scan)"),
+        ("s.1 (c.4 s.7 cl.26(w)); c.90K s.5", "IN-CORE", "bus-camera records exemption (P-299), litigation limits (P-300), occupant-identification limit (P-380), redaction-before-notice duty (P-381), vendor confidentiality (P-302); enacted vehicle S2884 (found by the widened scan)"),
     ],
     (2024, "343"): [
         ("s.48 (patient-safety data transmission)", "EX-PROGRAM-INCIDENT", "transmission-with-safeguards rule incident to the Lehman center program"),
@@ -188,6 +195,22 @@ ADJUDICATIONS = {
         ("ss.1, 3", "EX-FALSEPOS", "cybersecurity-insurance definition; insurer financial confidentiality"),
     ],
 }
+
+
+# An adverse tally defeats the BILL only when the question put was the bill's
+# own progress. A rejected amendment or a rejected procedural motion is an
+# adverse roll call but leaves the bill alive, so neither may set a terminal
+# class. Both forms occur in this census and both are excluded here.
+_PROCEDURAL_QUESTION = re.compile(
+    r"^(?:motion|amendment|amendment\s*#|order|point of order|substitute)\b|"
+    r"\bamendment\b|\bmotion to\b|\brule \d+\b",
+    re.IGNORECASE,
+)
+
+
+def is_bill_question(action: str) -> bool:
+    """True when a recorded tally was taken on the bill's own question."""
+    return not _PROCEDURAL_QUESTION.search(action.splitlines()[0])
 
 
 def bill_status(acts):
@@ -206,7 +229,13 @@ def bill_status(acts):
         act = a["Action"].strip()
         d = a["Date"][:10]
         low = act.lower()
-        if "hearing scheduled" in low:
+        # Eighth-pass review finding 1: thirteen census bills carry ONLY an
+        # unstricken "Hearing rescheduled to" row - the original "Hearing
+        # scheduled" row is stricken and superseded by it. Matching the first
+        # form alone reported those bills as never heard, which the official
+        # history contradicts. `heard` means a hearing was scheduled OR
+        # rescheduled on the official history (see codebook).
+        if "hearing scheduled" in low or "hearing rescheduled" in low:
             bump("heard")
         if "reporting date extended" in low:
             bump("reporting_extended")
@@ -225,10 +254,23 @@ def bill_status(acts):
         if "signed by the governor" in low or re.search(r"chapter \d+ of the acts", low):
             bump("enacted")
             terminal, terminal_ref = "enacted", act
-        for rx in (r"\d+\s*YEAS?\s*to\s*\d+\s*NAYS?\s*\(See YEA and NAY No\. \d+\)",
-                   r"Roll Call #\d+ \(Yeas \d+ to Nays \d+\)"):
-            if re.search(rx, act):
+        for rx in (r"(\d+)\s*YEAS?\s*to\s*(\d+)\s*NAYS?\s*\(See YEA and NAY No\. \d+\)",
+                   r"Roll Call #\d+ \(Yeas (\d+) to Nays (\d+)\)"):
+            m = re.search(rx, act)
+            if m:
                 roll_calls.append(f"{d} {act.splitlines()[0][:80]}")
+                # Eighth-pass review finding 2: rejected_by_recorded_vote was
+                # documented here and in the codebook but no code path could
+                # emit it - roll-call strings were collected and yeas were
+                # never compared to nays. BRIEF.md Goal 4 requires the
+                # category, so "none occurred" has to be a measurement rather
+                # than an artifact of an unwritten branch. It is now reachable
+                # (see _self_test), and it still does not occur: the only two
+                # adverse tallies in the census are a rejected procedural
+                # motion (H4040, Rule 40) and a rejected amendment (S2834
+                # Amendment 25), neither a vote on a bill's own passage.
+                if int(m.group(2)) > int(m.group(1)) and is_bill_question(act):
+                    terminal, terminal_ref = "rejected_by_recorded_vote", act.splitlines()[0][:120]
                 break
         s = actions.successor_of(act)
         if s:
@@ -239,6 +281,23 @@ def bill_status(acts):
         if "no further action taken" not in low:
             last_real = f"{d} {act[:100]}"
     return stage, terminal, terminal_ref, roll_calls, last_real
+
+
+def successor_universe(hist: dict) -> dict:
+    """Census histories plus the history-bearing link targets.
+
+    Eighth-pass review finding 3: fate chains must be able to run through
+    bills the census correctly excludes. `data/link_targets.json` already
+    holds those bills' official histories (fetched by 05c and committed), so
+    no new fetch is needed and the merge replays offline. Sorted merge, and
+    census entries always win, so the result is deterministic.
+    """
+    out = dict(hist)
+    targets = json.loads((DATA / "link_targets.json").read_text())
+    for bn in sorted(targets):
+        if bn not in out and targets[bn].get("actions"):
+            out[bn] = {"actions": targets[bn]["actions"]}
+    return out
 
 
 def run_probe():
@@ -306,7 +365,28 @@ def main() -> None:
             w.writerow([bn, st[0], st[1], st[2], "; ".join(st[3]), st[4],
                         f"https://malegislature.gov/Bills/193/{bn}"])
 
-    successor = actions.successor_map(hist)
+    # Eighth-pass review finding 3. The successor map used to be built from
+    # histories.json, which holds CENSUS bills only, so a chain broke the
+    # moment it passed through a bill correctly excluded from the census. The
+    # eviction-sealing lineage is exactly that shape: H4138 -> H4707 -> H4726
+    # -> H4977, where H4707/H4726 are House prints that struck the sealing
+    # regime (and H4726 then had the S2834 text, which restores it, inserted
+    # after the enacting clause) and so are not carriers. The result was that
+    # P-295/P-296 were labelled enacted_other_vehicle on the stated ground
+    # that their carriers "have no official chain" to H4977 - a chain
+    # data/links.csv already publishes as verified-official-record.
+    #
+    # The intermediate stages' own histories are committed in
+    # data/link_targets.json and replay offline, so the map is built from the
+    # union. This ADDS entries only for non-census bills; no census bill's own
+    # successor changes, which 09_checks.py asserts, so `final_vehicles` and
+    # `dropped_in_consolidation` are untouched and only chain-following moves.
+    #
+    # THE METHODOLOGICAL DECISION (codebook, "Fate rules"): an official
+    # successor chain establishes enacted_as_filed even when an intermediate
+    # stage does not carry the proposition. See the codebook for the reasoning
+    # and the limit; the alternative reading is recorded there too.
+    successor = actions.successor_map(successor_universe(hist))
 
     out = []
     for pid in sorted(carriers):
@@ -355,6 +435,12 @@ def main() -> None:
             if not others or chained:
                 fate = "enacted_as_filed"
                 detail = f"enacted via {enacted_desc}"
+                if chained:
+                    # name the chain that establishes the fate, so the detail
+                    # points at evidence a reader can walk (finding 3: it used
+                    # to assert the ABSENCE of a chain the project publishes)
+                    detail += ("; official successor chain from filed carriers "
+                               + ",".join(chained))
                 if died:
                     detail += (f"; independent filings of the same proposition "
                                f"({','.join(died)}) died without an official chain to "
@@ -362,9 +448,17 @@ def main() -> None:
             else:
                 fate = "enacted_other_vehicle"
                 detail = (f"enacted via vehicle {enacted_desc}; filed carriers "
-                          f"{','.join(died)} have no official chain to it (absorption "
-                          "established by text adjudication, see data/enacted_adjudication.csv "
-                          "and the absorbed_into_vehicle links)")
+                          f"{','.join(died)} have no official successor chain to it "
+                          "(absorption established by text adjudication, see "
+                          "data/enacted_adjudication.csv and the absorbed_into_vehicle links)")
+            cite = f"https://malegislature.gov/Bills/193/{fb}"
+        elif "rejected_by_recorded_vote" in terms.values():
+            # ranked above study/no-action: a recorded defeat is the most
+            # informative terminal the record can offer (BRIEF.md Goal 4)
+            fb = min(b for b in finals if terms[b] == "rejected_by_recorded_vote")
+            fate = "rejected_by_recorded_vote"
+            detail = (f"final vehicle {fb} was defeated on a recorded vote: "
+                      f"{statuses[fb][2]}")
             cite = f"https://malegislature.gov/Bills/193/{fb}"
         elif "sent_to_study" in terms.values():
             fb = min(b for b in finals if terms[b] == "sent_to_study")
@@ -424,5 +518,37 @@ def main() -> None:
     print(f"enacted-probe hits: {len(probe_rows)}; enacted propositions: {enacted_props}")
 
 
+def _self_test() -> None:
+    """The recorded-vote-rejection branch must be reachable.
+
+    Eighth-pass review finding 2: the category was documented in this
+    docstring and in the codebook while no input could produce it, so a green
+    suite certified a claim ("parsed for but did not occur") that was false in
+    its first half. These fixtures use the two real adverse tallies in the
+    census plus a synthetic bill defeat.
+    """
+    def st(action, date="2024-01-01"):
+        return bill_status([{"Action": action, "Date": date, "IsStricken": False}])
+
+    # synthetic: the bill's own engrossment question, defeated
+    assert st("Passed to be engrossed - 12 YEAS to 145 NAYS (See YEA and NAY No. 99)")[1] \
+        == "rejected_by_recorded_vote"
+    assert st("Passed to be engrossed -see Roll Call #12 (Yeas 12 to Nays 145)")[1] \
+        == "rejected_by_recorded_vote"
+    # real, and correctly NOT a bill defeat: a procedural motion and an amendment
+    assert st("Motion to suspend Rule 40 rejected - 25 YEAS to 132 NAYS (See YEA and NAY No. 31)")[1] \
+        == "died_no_further_action"
+    assert st("Amendment #25 (Tarr) rejected  -see Roll Call #194 (Yeas 6 to Nays 34)")[1] \
+        == "died_no_further_action"
+    # a favorable tally on the bill's own question is not a rejection
+    assert st("Passed to be engrossed - 159 YEAS to 0 NAYS (See YEA and NAY No. 70)")[1] \
+        == "died_no_further_action"
+    print("08_fates.py fixtures pass")
+
+
 if __name__ == "__main__":
-    main()
+    import sys
+    if "--self-test" in sys.argv:
+        _self_test()
+    else:
+        main()

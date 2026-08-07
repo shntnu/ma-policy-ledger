@@ -9176,3 +9176,11 @@
 {"url": "https://malegislature.gov/Bills/193/H3440/SimilarBills", "path": "raw/cache/2702e1f4fc13d5acbaf2641180812e1d20c7cc59.bin", "fetched_at": "2026-08-05T23:51:35.400964+00:00", "status": 200}
 {"url": "https://malegislature.gov/Bills/193/S3005", "path": "raw/cache/2e4e729161ec842b7f04a56e3c1cae86c0786fac.bin", "fetched_at": "2026-08-05T23:51:37.363564+00:00", "status": 200}
 {"url": "https://malegislature.gov/Bills/193/S3005/SimilarBills", "path": "raw/cache/304f62162d12e1148e4de1d5cfa1bc2b834eaef5.bin", "fetched_at": "2026-08-05T23:51:41.593824+00:00", "status": 200}
+{"url": "https://malegislature.gov/api/GeneralCourts/193/Documents/H4193/DocumentHistoryActions", "path": "raw/cache/743a063cdae6fdf0b84ce59ddb5d930b527d5040.bin", "fetched_at": "2026-08-07T11:15:48.937092+00:00", "status": 200}
+{"url": "https://malegislature.gov/api/GeneralCourts/193/Documents/S2889/DocumentHistoryActions", "path": "raw/cache/71ae963dd855a5dfcc886324574d452ca3d6ca27.bin", "fetched_at": "2026-08-07T11:15:51.488523+00:00", "status": 200}
+{"url": "https://malegislature.gov/api/GeneralCourts/193/Documents/H5033/DocumentHistoryActions", "path": "raw/cache/fb30b6d6335483a2f8c061f1c856929f80736585.bin", "fetched_at": "2026-08-07T11:15:54.045476+00:00", "status": 200}
+{"url": "https://malegislature.gov/api/GeneralCourts/193/Documents/S2900/DocumentHistoryActions", "path": "raw/cache/7e6857973419d490d8a81b2bf7da25c2467818a8.bin", "fetched_at": "2026-08-07T11:15:56.639152+00:00", "status": 200}
+{"url": "https://malegislature.gov/api/GeneralCourts/193/Documents/H3524/DocumentHistoryActions", "path": "raw/cache/bbea3a85df303be5bab3ce007b677e09944b1cee.bin", "fetched_at": "2026-08-07T11:18:06.520089+00:00", "status": 200}
+{"url": "https://malegislature.gov/Bills/193/H3524", "path": "raw/cache/2835cdbf674a8bfdb5637f143a5dcb49c633f3f1.bin", "fetched_at": "2026-08-07T11:18:10.348402+00:00", "status": 200}
+{"url": "https://malegislature.gov/Bills/193/H3524/SimilarBills", "path": "raw/cache/20d42a9c6ff4cbc5df612933e0991609dba0793f.bin", "fetched_at": "2026-08-07T11:18:13.893675+00:00", "status": 200}
+{"url": "https://malegislature.gov/api/GeneralCourts/193/Documents/H4869/DocumentHistoryActions", "path": "raw/cache/ac76b9e4cc14d76f47858bbfcfe02ac660f1e2bb.bin", "fetched_at": "2026-08-07T11:18:19.267470+00:00", "status": 200}

@@ -15,9 +15,20 @@ SUCCESSOR_PATTERNS = [
     (r"Published as amended, see ([HS]\d+)", "superseded_by"),
     (r"Text of an amendment, see ([HS]\d+)", "amendment_stage_of"),
     (r"Substituted (?:as a new text )?for ([HS]\d+)", "substituted_for"),
-    (r"Reported[,]? \(?in part\)?,? by ([HS]\d+)", "reported_in_part_by"),
+    # "by" is optional: the two forms in this corpus are "Reported, in part,
+    # by H3107" (H4675) and "Reported (in part) S2538" (S2612). 07_links.py
+    # used to carry its own regex for the second one only, which left H4675's
+    # reported_out cell blank (eighth-pass review).
+    (r"Reported[,]? \(?in part\)?,? (?:by )?([HS]\d+)", "reported_in_part_by"),
     (r"Reported by ([HS]\d+)", "reported_by"),
     (r"^See ([HS]\d+)$", "see"),
+    # Eighth-pass review finding 8: the bare form. S2604's history ends
+    # "Accompanied H4193" and contains no "No further action taken", yet
+    # bill_status defaulted it to died_no_further_action, so the fate detail
+    # contradicted the last line of the page it cites. Anchored, so it cannot
+    # swallow "Accompanied a new draft, see X" or "Accompanied a study order,
+    # see X" - the only other two forms in this corpus.
+    (r"^Accompanied ([HS]\d+)$", "accompanied"),
 ]
 # backward pointers (successor names its parents)
 PARENT_PATTERNS = [
@@ -95,8 +106,13 @@ _FIXTURES = [
     ("Reported (in part) by S2884", ("S2884", "reported_in_part_by")),
     ("Reported, in part, by H5077", ("H5077", "reported_in_part_by")),
     ("Reported, in part, by H3107", ("H3107", "reported_in_part_by")),
+    ("Reported (in part) S2538", ("S2538", "reported_in_part_by")),
     ("See H58", ("H58", "see")),
     ("Reported by H4744", ("H4744", "reported_by")),
+    ("Accompanied H4193", ("H4193", "accompanied")),
+    # the anchor must keep the two longer forms on their own patterns
+    ("Accompanied a new draft, see H4632", ("H4632", "superseded_by")),
+    ("Accompanied a study order, see H4517", None),
 ]
 
 

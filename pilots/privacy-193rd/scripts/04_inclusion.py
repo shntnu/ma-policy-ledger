@@ -15,6 +15,8 @@ Output: data/census.csv - the reviewed census with decision + reason per row.
 import csv
 
 import csvutil
+import json
+import re
 from pathlib import Path
 
 PILOT = Path(__file__).resolve().parent.parent
@@ -303,12 +305,28 @@ def main() -> None:
         counts[dec] = counts.get(dec, 0) + 1
     corpus_path = DATA / "corpus_scan.csv"
     if corpus_path.exists():
-        already = {r["bill_number"] for r in out if r.get("bill_number")}
+        by_bill = {r["bill_number"]: r for r in out if r.get("bill_number")}
+        already = set(by_bill)
         missing = []
         for r in csv.DictReader(corpus_path.open()):
             bn = r["bill"]
             if bn in already or bn in ADDITIONS:
-                continue  # decided by the legacy candidate path or ADDITIONS
+                # Eighth-pass review: the guarantee below ("04 fails if any
+                # corpus hit lacks a verdict") did not hold on this path. A
+                # bill decided by the legacy candidate path was skipped even
+                # when its own decision was still `review`, so a live corpus
+                # hit could be discarded silently. An unresolved legacy row
+                # with a corpus hit now takes the triage verdict, or fails.
+                prior = by_bill.get(bn)
+                if prior is not None and prior["decision"] == "review":
+                    if bn not in TRIAGE:
+                        missing.append(bn)
+                        continue
+                    dec, reason, note = TRIAGE[bn]
+                    prior.update(decision=dec, reason=reason, note=note)
+                    prior["text_terms"] = prior["text_terms"] or r["text_terms"]
+                    prior["snippet"] = prior["snippet"] or r["snippet"]
+                continue  # otherwise decided by the legacy path or ADDITIONS
             if bn not in TRIAGE:
                 missing.append(bn)
                 continue
@@ -335,9 +353,20 @@ def main() -> None:
             raise SystemExit(
                 f"corpus-screen hits without triage verdicts: {len(missing)} "
                 f"(worklist written to data/corpus_triage_needed.csv): {sorted(missing)[:10]}")
+    # Eighth-pass review: eight census rows carried hand-written prose in the
+    # `title` column instead of the official title, while 18 of the 26
+    # ADDITIONS rows carried the official one - a slip, not a convention. The
+    # official title now always wins, and the hand-written string survives in
+    # the note where a shorthand label is genuinely useful.
+    official = {d["BillNumber"]: re.sub(r"\s+", " ", (d.get("Title") or "")).strip()
+                for d in json.loads((DATA / "documents_193.json").read_text())
+                if d.get("BillNumber")}
     for bn, (title, reason, note) in ADDITIONS.items():
+        real = official.get(bn) or title
+        if real != title:
+            note = f"{note} (shorthand label: {title})"
         out.append({
-            "bill_number": bn, "title": title, "domain_title_terms": "",
+            "bill_number": bn, "title": real, "domain_title_terms": "",
             "broad_title_terms": "", "committee_net": "",
             "fetch_status": "added_by_feedback", "legislation_type": "Bill",
             "text_chars": "", "text_terms": "", "snippet": "",
@@ -348,7 +377,15 @@ def main() -> None:
         w = csvutil.dict_writer(f, fieldnames=list(out[0].keys()))
         w.writeheader()
         w.writerows(out)
+    # recount from the rows actually written: a legacy `review` row resolved
+    # by a triage verdict above is mutated in place after `counts` saw it
+    counts = {}
+    for r in out:
+        counts[r["decision"]] = counts.get(r["decision"], 0) + 1
     print(counts)
+    unresolved = sorted(r["bill_number"] for r in out if r["decision"] == "review")
+    if unresolved:
+        raise SystemExit(f"census rows left undecided: {unresolved}")
 
 
 if __name__ == "__main__":

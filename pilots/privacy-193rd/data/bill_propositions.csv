@@ -115,27 +115,30 @@ H326,P-224,c.93 s.116(f),,sole-carrier,https://malegislature.gov/Bills/193/H326
 H326,P-225,c.93 s.117,,sole-carrier,https://malegislature.gov/Bills/193/H326
 H3289,P-342,SECTIONS 1-2 (c.90 s.30A; c.147 s.30 para 12),companions,inferred-analytic,https://malegislature.gov/Bills/193/H3289
 H3289,P-343,c.147 s.30 para 13,companions; license revocation attaches,inferred-analytic,https://malegislature.gov/Bills/193/H3289
-H3306,P-301,new c.90 s.14C(b)(4),no frontal view; no operator/passenger/contents identification,verified-text-identical,https://malegislature.gov/Bills/193/H3306
 H3306,P-302,new c.90 s.14C(e)(2),variant: images are municipal property; vendor may not use them for any other purpose,verified-text-identical,https://malegislature.gov/Bills/193/H3306
-H3306,P-332,new c.90 s.14C(e)(2),variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary,verified-text-identical,https://malegislature.gov/Bills/193/H3306
 H3306,P-333,new c.90 s.14C(c)(1),"weaker: vendor RMV access limited to building the evidence file and delivering the citation, without H3336's security-protocol, background-check, encryption and annual-audit regime",verified-text-near-identical,https://malegislature.gov/Bills/193/H3306
 H3306,P-371,new c.90 s.14C(e)(1),images obtainable only by court order outside enforcement or defense,verified-text-identical,https://malegislature.gov/Bills/193/H3306
+H3306,P-379,new c.90 s.14C(e)(2),variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary,verified-text-identical,https://malegislature.gov/Bills/193/H3306
+H3306,P-380,new c.90 s.14C(b)(4),variant: best-efforts ('to the extent practicable'); no redaction duty,verified-text-identical,https://malegislature.gov/Bills/193/H3306
 H331,P-340,c.93B s.4(c)(14),companions,verified-text-identical,https://malegislature.gov/Bills/193/H331
 H331,P-341,c.93B s.4(c)(14) indemnification clause,companions,verified-text-identical,https://malegislature.gov/Bills/193/H331
 H3336,P-302,new c.90 s.14C(e)(2),variant: recordings municipal property; vendor use ban,verified-text-identical,https://malegislature.gov/Bills/193/H3336
-H3336,P-332,new c.90 s.14C(e)(2),variant: 30-day non-violation/1-year violation destruction with attestation,verified-text-identical,https://malegislature.gov/Bills/193/H3336
 H3336,P-333,new c.90 s.14C(c)(1),,verified-text-near-identical,https://malegislature.gov/Bills/193/H3336
 H3336,P-371,new c.90 s.14C(e)(1),images obtainable only by court order outside enforcement or defense,verified-text-identical,https://malegislature.gov/Bills/193/H3336
+H3336,P-379,new c.90 s.14C(e)(2),variant: 30-day non-violation/1-year violation destruction with attestation,verified-text-identical,https://malegislature.gov/Bills/193/H3336
 H3375,P-299,c.4 s.7 cl.26(w); c.90J s.8(c),"school-bus camera authorization, same regime",verified-text-identical,https://malegislature.gov/Bills/193/H3375
 H3375,P-300,c.90J s.8(b),"school-bus camera authorization, same regime",verified-text-identical,https://malegislature.gov/Bills/193/H3375
-H3375,P-301,c.90J s.8(d),"school-bus camera authorization, same regime",verified-text-identical,https://malegislature.gov/Bills/193/H3375
 H3375,P-302,c.90J s.8(e),"school-bus camera authorization, same regime",verified-text-identical,https://malegislature.gov/Bills/193/H3375
-H3375,P-332,c.90J s.8(a),"school-bus camera authorization, same regime",verified-text-identical,https://malegislature.gov/Bills/193/H3375
+H3375,P-378,c.90J s.8(a),"school-bus camera authorization, same regime",verified-text-identical,https://malegislature.gov/Bills/193/H3375
+H3375,P-379,c.90J s.8(a),"school-bus camera authorization, same regime; variant: destruction not more than 48 hours after final disposition",verified-text-identical,https://malegislature.gov/Bills/193/H3375
+H3375,P-380,c.90J s.8(d),"school-bus camera authorization, same regime; variant: best-efforts ('to the extent practicable, additional efforts shall be made'), against the c.363 line's flat prohibition",verified-text-identical,https://malegislature.gov/Bills/193/H3375
 H3393,P-299,c.4 s.7 cl.26(w); c.90J s.8(c),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/H3393
 H3393,P-300,c.90J s.8(b),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/H3393
-H3393,P-301,c.90J s.8(d),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/H3393
 H3393,P-302,c.90J s.8(e),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/H3393
-H3393,P-332,c.90J s.8(a),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/H3393
+H3393,P-378,c.90J s.8(a),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/H3393
+H3393,P-379,c.90J s.8(a),road-safety/bus-camera c.90J regime; variant: destruction not more than 48 hours after final disposition,verified-text-identical,https://malegislature.gov/Bills/193/H3393
+H3393,P-380,c.90J s.8(d),"road-safety/bus-camera c.90J regime; variant: best-efforts ('to the extent practicable, additional efforts shall be made'), against the c.363 line's flat prohibition",verified-text-identical,https://malegislature.gov/Bills/193/H3393
+H3404,P-196,c.90K Sec.2(c),variant: single exception (as required in a judicial proceeding) where H3431 enumerates several,inferred-analytic,https://malegislature.gov/Bills/193/H3404
 H3404,P-205,c.90K Sec.3(a),,inferred-analytic,https://malegislature.gov/Bills/193/H3404
 H3404,P-206,c.90K Sec.4,variant: warrant or production order; extends to vehicle data,inferred-analytic,https://malegislature.gov/Bills/193/H3404
 H3404,P-207,c.90K Sec.5,variant: broader (ALPR/tolling/vehicle data; administrative proceedings),inferred-analytic,https://malegislature.gov/Bills/193/H3404
@@ -143,14 +146,16 @@ H3404,P-208,c.90K Sec.6(a)-(b),variant: treble or exemplary,inferred-analytic,ht
 H3404,P-210,c.90K Sec.3(b),,inferred-analytic,https://malegislature.gov/Bills/193/H3404
 H3404,P-211,c.90K Sec.3(c),,inferred-analytic,https://malegislature.gov/Bills/193/H3404
 H3404,P-212,c.90K Sec.6(c),,sole-carrier,https://malegislature.gov/Bills/193/H3404
-H3404,P-213,c.90K Sec.2,,sole-carrier,https://malegislature.gov/Bills/193/H3404
 H3404,P-214,"c.90K Secs.1,4",,sole-carrier,https://malegislature.gov/Bills/193/H3404
+H3404,P-382,c.90K Sec.2(a),,sole-carrier,https://malegislature.gov/Bills/193/H3404
+H3404,P-383,c.90K Sec.2(b),,sole-carrier,https://malegislature.gov/Bills/193/H3404
+H3404,P-384,c.90K Sec.2(d),,sole-carrier,https://malegislature.gov/Bills/193/H3404
 H3431,P-191,c.90J s.2,,sole-carrier,https://malegislature.gov/Bills/193/H3431
 H3431,P-192,c.90J s.3,,sole-carrier,https://malegislature.gov/Bills/193/H3431
 H3431,P-193,c.90J s.4,,sole-carrier,https://malegislature.gov/Bills/193/H3431
 H3431,P-194,c.90J s.5,,sole-carrier,https://malegislature.gov/Bills/193/H3431
 H3431,P-195,c.90J s.6,,sole-carrier,https://malegislature.gov/Bills/193/H3431
-H3431,P-196,c.90J s.7,,sole-carrier,https://malegislature.gov/Bills/193/H3431
+H3431,P-196,c.90J s.7,,inferred-analytic,https://malegislature.gov/Bills/193/H3431
 H3431,P-197,"c.90J ss.8,10(b)",,sole-carrier,https://malegislature.gov/Bills/193/H3431
 H3431,P-198,c.90J s.9,,sole-carrier,https://malegislature.gov/Bills/193/H3431
 H3431,P-199,c.90J s.10(a),,sole-carrier,https://malegislature.gov/Bills/193/H3431
@@ -160,10 +165,12 @@ H3434,P-206,Sec.2(c)-(d),variant: felony-only; production order/preservation req
 H3434,P-208,Sec.4,variant: treble or exemplary,inferred-analytic,https://malegislature.gov/Bills/193/H3434
 H3434,P-210,Sec.2,,inferred-analytic,https://malegislature.gov/Bills/193/H3434
 H3434,P-211,Sec.3,,inferred-analytic,https://malegislature.gov/Bills/193/H3434
-H3440,P-301,new c.90 s.14C(b)(4),no frontal view; no operator/passenger/contents identification,verified-text-identical,https://malegislature.gov/Bills/193/H3440
 H3440,P-302,new c.90 s.14C(e)(2),variant: images are municipal property; vendor may not use them for any other purpose,verified-text-identical,https://malegislature.gov/Bills/193/H3440
-H3440,P-332,new c.90 s.14C(e)(2),variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary,verified-text-identical,https://malegislature.gov/Bills/193/H3440
 H3440,P-371,new c.90 s.14C(e)(1),images obtainable only by court order outside enforcement or defense,verified-text-identical,https://malegislature.gov/Bills/193/H3440
+H3440,P-379,new c.90 s.14C(e)(2),variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary,verified-text-identical,https://malegislature.gov/Bills/193/H3440
+H3440,P-380,new c.90 s.14C(b)(4),variant: best-efforts ('to the extent practicable'); no redaction duty,verified-text-identical,https://malegislature.gov/Bills/193/H3440
+H3524,P-385,SECTION 1 (new c.60 s.35A(a)),,sole-carrier,https://malegislature.gov/Bills/193/H3524
+H3524,P-386,SECTION 2 (c.62C s.21),,sole-carrier,https://malegislature.gov/Bills/193/H3524
 H3548,P-291,inserted c.222 s.29 (amendment lines 740-744),House further-amendment stage of the FY23 supplemental,verified-official-lineage,https://malegislature.gov/Bills/193/H3548
 H357,P-121,"c.93L ss.1,2(a),(b),(d),6; SECTIONS 2-3",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H357
 H357,P-122,c.93L s.2(c),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H357
@@ -223,14 +230,16 @@ H4138,P-296,SECTION 47 (c.239 s.15 consumer-report provisions),Affordable Homes 
 H4166,P-299,s.8(c),"Cambridge home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4166
 H4166,P-300,s.8(b),"Cambridge home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4166
 H4166,P-302,s.8(e),"Cambridge home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4166
-H4166,P-332,s.8(a),"Cambridge home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4166
+H4166,P-378,s.8(a),"Cambridge home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4166
+H4166,P-379,s.8(a),Cambridge home-rule petition; variant: 48 hours after final disposition,inferred-analytic,https://malegislature.gov/Bills/193/H4166
+H4166,P-380,s.8(d),Cambridge home-rule petition; variant: best-efforts,inferred-analytic,https://malegislature.gov/Bills/193/H4166
 H4241,P-266,engrossed text of H4115 SECTION 6 lineage (API text empty; see c.118 s.6),House-engrossed vehicle,verified-official-lineage,https://malegislature.gov/Bills/193/H4241
 H4241,P-280,"engrossed text (see c.118 s.6, s.43A(b)(5))",,verified-official-lineage,https://malegislature.gov/Bills/193/H4241
 H4266,P-153,new c.66 s.22,redraft: H1283 text plus agency carve-out only,verified-official-lineage,https://malegislature.gov/Bills/193/H4266
-H4287,P-299,s.8(c),"Salem home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4287
+H4287,P-299,s.8(c),Salem home-rule petition; variant: 'are not public record' rather than the clause 26 cross-reference,inferred-analytic,https://malegislature.gov/Bills/193/H4287
 H4287,P-300,s.8(b),"Salem home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4287
-H4287,P-302,s.8(e),"Salem home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4287
-H4287,P-332,s.8(a),"Salem home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4287
+H4287,P-378,s.8(a),"Salem home-rule petition, same regime",inferred-analytic,https://malegislature.gov/Bills/193/H4287
+H4287,P-379,s.8(a),Salem home-rule petition; variant: 48 hours after final disposition,inferred-analytic,https://malegislature.gov/Bills/193/H4287
 H4323,P-251,c.6A s.18G(b),"redraft: public-records-exemption mechanism, broader access list, $1,000 fine",verified-official-lineage,https://malegislature.gov/Bills/193/H4323
 H4323,P-252,c.6A s.18G(c),weaker public access: PII redactable,verified-official-lineage,https://malegislature.gov/Bills/193/H4323
 H4323,P-253,c.6A s.18G(a),H4323 only,sole-carrier,https://malegislature.gov/Bills/193/H4323
@@ -249,10 +258,10 @@ H4421,P-155,c.7E s.3(c)-(e),redraft of H530/S343; identical,verified-text-identi
 H4421,P-156,c.7E s.2(e),redraft; stricter: adds 20 C.F.R. Part 603 UI-confidentiality condition,verified-text-identical,https://malegislature.gov/Bills/193/H4421
 H4421,P-157,c.7E s.5,redraft of H530/S343; identical,verified-text-identical,https://malegislature.gov/Bills/193/H4421
 H4421,P-158,c.7E s.6,redraft of H530/S343; identical,verified-text-identical,https://malegislature.gov/Bills/193/H4421
-H4450,P-301,new c.90 s.14C(b)(4),Transportation redraft of S2275/H3306/H3336/H3375/H3440; no frontal view; no operator/passenger/contents identification,verified-text-identical,https://malegislature.gov/Bills/193/H4450
 H4450,P-302,new c.90 s.14C(e)(2),Transportation redraft of S2275/H3306/H3336/H3375/H3440; variant: images are municipal property; vendor may not use them for any other purpose,verified-text-identical,https://malegislature.gov/Bills/193/H4450
-H4450,P-332,new c.90 s.14C(e)(2),Transportation redraft of S2275/H3306/H3336/H3375/H3440; variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary,verified-text-identical,https://malegislature.gov/Bills/193/H4450
 H4450,P-371,new c.90 s.14C(e)(1),Transportation redraft of S2275/H3306/H3336/H3375/H3440; images obtainable only by court order outside enforcement or defense,verified-text-identical,https://malegislature.gov/Bills/193/H4450
+H4450,P-379,new c.90 s.14C(e)(2),Transportation redraft of S2275/H3306/H3336/H3375/H3440; variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary,verified-text-identical,https://malegislature.gov/Bills/193/H4450
+H4450,P-380,new c.90 s.14C(b)(4),Transportation redraft of S2275/H3306/H3336/H3375/H3440; variant: best-efforts ('to the extent practicable'); no redaction duty,verified-text-identical,https://malegislature.gov/Bills/193/H4450
 H4632,P-001,c.93M s.2,variant: drops civic-engagement purpose and explicit targeted-ads secondary purpose,verified-text-identical,https://malegislature.gov/Bills/193/H4632
 H4632,P-002,"c.93M ss.1(a)(10),2(c),4(b),5(c),10(f)",variant: codifies dark-pattern definition incl. FTC reference,verified-text-identical,https://malegislature.gov/Bills/193/H4632
 H4632,P-003,c.93M s.3(a)(1),,verified-text-identical,https://malegislature.gov/Bills/193/H4632
@@ -305,10 +314,10 @@ H4844,P-283,c.93M s.2(b)(iv),narrowed to reproductive/gender-affirming-care loca
 H4844,P-284,c.93M s.2(b)(iii),narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action); adds 'gift' to the sale ban,inferred-analytic,https://malegislature.gov/Bills/193/H4844
 H4844,P-285,c.93M s.2(b)(v),narrowed to reproductive/gender-affirming-care location information; enforcement is 93A/AG only (no private right of action),inferred-analytic,https://malegislature.gov/Bills/193/H4844
 H4844,P-286,c.93M s.4(vi),H4844 only,sole-carrier,https://malegislature.gov/Bills/193/H4844
-H4940,P-301,new c.90 s.14C(c)(3),House Ways and Means redraft of H4450; superseded by the S3005 text before enactment,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
 H4940,P-302,new c.90 s.14C(d)(2),House Ways and Means redraft of H4450; superseded by the S3005 text before enactment,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
-H4940,P-332,new c.90 s.14C(d)(2),House Ways and Means redraft of H4450; superseded by the S3005 text before enactment,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
 H4940,P-371,new c.90 s.14C(d)(1),House Ways and Means redraft of H4450; superseded by the S3005 text before enactment,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
+H4940,P-379,new c.90 s.14C(d)(2),House Ways and Means redraft of H4450; superseded by the S3005 text before enactment; variant: 30-day/1-year,verified-official-lineage,https://malegislature.gov/Bills/193/H4940
+H4940,P-380,new c.90 s.14C(c)(3),"House Ways and Means redraft of H4450, superseded by the S3005 text before enactment; variant: best-efforts, no redaction duty",verified-official-lineage,https://malegislature.gov/Bills/193/H4940
 H4977,P-295,2024 c.150 s.52 (new c.239 s.16),enacted vehicle (Affordable Homes Act),inferred-analytic,https://malegislature.gov/Bills/193/H4977
 H4977,P-296,"2024 c.150 ss.28,52 (c.93 s.52(a)(7); c.239 s.16(i))",enacted vehicle (Affordable Homes Act),inferred-analytic,https://malegislature.gov/Bills/193/H4977
 H5049,P-294,SECTION 70 (amending c.268B s.3),closeout-supplemental stage carrying the withholding expansion,verified-official-lineage,https://malegislature.gov/Bills/193/H5049
@@ -316,8 +325,9 @@ H5077,P-294,2024 c.248 s.27 (c.268B s.3),enacted vehicle (December 2024 suppleme
 H5132,P-294,SECTION 27 (amending c.268B s.3),closeout-supplemental stage carrying the withholding expansion,verified-official-lineage,https://malegislature.gov/Bills/193/H5132
 H5154,P-299,SECTION 1 (c.4 s.7 cl.26(w)); c.90K s.5(b),House redraft of S2884,verified-official-lineage,https://malegislature.gov/Bills/193/H5154
 H5154,P-300,c.90K s.5(a),House redraft of S2884,verified-official-lineage,https://malegislature.gov/Bills/193/H5154
-H5154,P-301,c.90K s.5(c),House redraft of S2884,verified-official-lineage,https://malegislature.gov/Bills/193/H5154
 H5154,P-302,c.90K s.5(d),House redraft of S2884,verified-official-lineage,https://malegislature.gov/Bills/193/H5154
+H5154,P-380,c.90K s.5(c),House redraft of S2884; flat prohibition,verified-official-lineage,https://malegislature.gov/Bills/193/H5154
+H5154,P-381,c.90K s.5(c),House redraft of S2884; redaction duty,verified-official-lineage,https://malegislature.gov/Bills/193/H5154
 H530,P-154,"c.7E ss.1,2(a)-(d),3(a)-(b),(f),4",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H530
 H530,P-155,c.7E s.3(c)-(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H530
 H530,P-156,c.7E s.2(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/H530
@@ -444,9 +454,10 @@ S148,P-284,c.93L s.2(e)(3),identical companion,verified-text-identical,https://m
 S148,P-285,c.93L s.2(e)(5),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S148
 S1483,P-299,c.4 s.7 cl.26(w); c.90J s.8(c),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S1483
 S1483,P-300,c.90J s.8(b),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S1483
-S1483,P-301,c.90J s.8(d),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S1483
 S1483,P-302,c.90J s.8(e),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S1483
-S1483,P-332,c.90J s.8(a),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S1483
+S1483,P-378,c.90J s.8(a),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S1483
+S1483,P-379,c.90J s.8(a),road-safety/bus-camera c.90J regime; variant: destruction not more than 48 hours after final disposition,verified-text-identical,https://malegislature.gov/Bills/193/S1483
+S1483,P-380,c.90J s.8(d),"road-safety/bus-camera c.90J regime; variant: best-efforts ('to the extent practicable, additional efforts shall be made'), against the c.363 line's flat prohibition",verified-text-identical,https://malegislature.gov/Bills/193/S1483
 S1503,P-369,c.41 s.97D amendment (sole section),,sole-carrier,https://malegislature.gov/Bills/193/S1503
 S151,P-340,c.93B s.4(c)(14),companions,verified-text-identical,https://malegislature.gov/Bills/193/S151
 S151,P-341,c.93B s.4(c)(14) indemnification clause,companions,verified-text-identical,https://malegislature.gov/Bills/193/S151
@@ -507,9 +518,10 @@ S227,P-275,c.93M s.10,identical companion,verified-text-identical,https://malegi
 S227,P-276,c.93M s.10,identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S227
 S2275,P-299,c.4 s.7 cl.26(w); c.90J s.8(c),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S2275
 S2275,P-300,c.90J s.8(b),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S2275
-S2275,P-301,c.90J s.8(d),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S2275
 S2275,P-302,c.90J s.8(e),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S2275
-S2275,P-332,c.90J s.8(a),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S2275
+S2275,P-378,c.90J s.8(a),road-safety/bus-camera c.90J regime,verified-text-identical,https://malegislature.gov/Bills/193/S2275
+S2275,P-379,c.90J s.8(a),road-safety/bus-camera c.90J regime; variant: destruction not more than 48 hours after final disposition,verified-text-identical,https://malegislature.gov/Bills/193/S2275
+S2275,P-380,c.90J s.8(d),"road-safety/bus-camera c.90J regime; variant: best-efforts ('to the extent practicable, additional efforts shall be made'), against the c.363 line's flat prohibition",verified-text-identical,https://malegislature.gov/Bills/193/S2275
 S23,P-291,SECTION 30 (new c.222 s.29),Senate supplemental-budget vehicle carrying the notary restriction,verified-official-lineage,https://malegislature.gov/Bills/193/S23
 S24,P-291,s.19 (new c.222 s.29),Senate Ways and Means FY23 supplemental stage,verified-official-lineage,https://malegislature.gov/Bills/193/S24
 S25,P-001,c.93L s.2,identical companion,verified-official-lineage,https://malegislature.gov/Bills/193/S25
@@ -555,8 +567,9 @@ S2539,P-288,SECTION 1 (c.7D s.17(f)(iv)),delegated rulemaking; boundary call in 
 S2539,P-289,SECTION 1 (c.7D s.17(f)(iv)),deletion/de-identification when data no longer needed,sole-carrier,https://malegislature.gov/Bills/193/S2539
 S2600,P-299,SECTION 6 (c.4 s.7 cl.26(w)); SECTION 8 (c.90K s.5(b)),parent vehicle of S2884 (Reported on a part of),verified-official-lineage,https://malegislature.gov/Bills/193/S2600
 S2600,P-300,c.90K s.5(a),,verified-official-lineage,https://malegislature.gov/Bills/193/S2600
-S2600,P-301,c.90K s.5(c),,verified-official-lineage,https://malegislature.gov/Bills/193/S2600
 S2600,P-302,c.90K s.5(d),,verified-official-lineage,https://malegislature.gov/Bills/193/S2600
+S2600,P-380,c.90K s.5(c),flat prohibition,verified-official-lineage,https://malegislature.gov/Bills/193/S2600
+S2600,P-381,c.90K s.5(c),redaction duty,verified-official-lineage,https://malegislature.gov/Bills/193/S2600
 S2604,P-335,new c.111 s.72CC(f),Senate redraft; clause dropped from enacted 2024 c.197 s.17 (see adjudication),verified-official-lineage,https://malegislature.gov/Bills/193/S2604
 S2666,P-154,"c.7E ss.1,2(a)-(d),3(a)-(b),(f),4",redraft of H530/S343; identical,verified-text-identical,https://malegislature.gov/Bills/193/S2666
 S2666,P-155,c.7E s.3(c)-(e),redraft of H530/S343; identical,verified-text-identical,https://malegislature.gov/Bills/193/S2666
@@ -630,8 +643,9 @@ S2850,P-295,"new c.239 s.16(b)-(h),(j)",Senate Affordable Homes vehicle,verified
 S2850,P-296,new c.239 s.16(i); c.93 s.52(a)(7),Senate Affordable Homes vehicle,verified-official-lineage,https://malegislature.gov/Bills/193/S2850
 S2884,P-299,SECTION 1 (c.4 s.7 cl.26(w)); c.90K s.5(b),enacted as 2024 c.363,verified-official-lineage,https://malegislature.gov/Bills/193/S2884
 S2884,P-300,c.90K s.5(a),enacted as 2024 c.363,verified-official-lineage,https://malegislature.gov/Bills/193/S2884
-S2884,P-301,c.90K s.5(c),enacted as 2024 c.363,verified-official-lineage,https://malegislature.gov/Bills/193/S2884
 S2884,P-302,c.90K s.5(d),enacted as 2024 c.363,verified-official-lineage,https://malegislature.gov/Bills/193/S2884
+S2884,P-380,c.90K s.5(c),enacted as 2024 c.363; flat prohibition on using photographs to identify,verified-official-lineage,https://malegislature.gov/Bills/193/S2884
+S2884,P-381,c.90K s.5(c),enacted as 2024 c.363; redaction duty absent from the c.90 s.14C line and from 2024 c.399,verified-official-lineage,https://malegislature.gov/Bills/193/S2884
 S2888,P-303,s.14/s.15 (c.159A1/2 s.12(a)-(b)),Senate supplemental stage; pre-geolocation drafting variant,verified-official-lineage,https://malegislature.gov/Bills/193/S2888
 S2888,P-304,s.14/s.15 (c.159A1/2 s.12(d)),Senate supplemental stage; pre-geolocation drafting variant,verified-official-lineage,https://malegislature.gov/Bills/193/S2888
 S2891,P-303,s.14/s.15 (c.159A1/2 s.12(a)-(b)),Senate supplemental reprint (text adopted by H4799),verified-official-lineage,https://malegislature.gov/Bills/193/S2891
@@ -643,10 +657,10 @@ S30,P-094,"SECTIONS 4(ii),10",identical companion of H76,verified-text-identical
 S30,P-095,SECTION 2,identical companion of H76,verified-text-identical,https://malegislature.gov/Bills/193/S30
 S30,P-096,SECTION 7,identical companion of H76; broad harm categories,verified-text-identical,https://malegislature.gov/Bills/193/S30
 S30,P-097,SECTIONS 8-10,identical companion of H76; depends on P-093 subclause references,verified-text-identical,https://malegislature.gov/Bills/193/S30
-S3005,P-301,SECTION 2 (new c.90 s.14C(c)(3)); ENACTED as 2024 c.399 s.2,text substituted for H4940 and enacted verbatim,verified-official-lineage,https://malegislature.gov/Bills/193/S3005
 S3005,P-302,SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2,text substituted for H4940 and enacted verbatim,verified-official-lineage,https://malegislature.gov/Bills/193/S3005
-S3005,P-332,SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2,text substituted for H4940 and enacted verbatim; adds the annual destruction attestation to the state secretary,verified-official-lineage,https://malegislature.gov/Bills/193/S3005
 S3005,P-371,SECTION 2 (new c.90 s.14C(d)(1)); ENACTED as 2024 c.399 s.2,text substituted for H4940 and enacted verbatim,verified-official-lineage,https://malegislature.gov/Bills/193/S3005
+S3005,P-379,SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2,text substituted for H4940 and enacted verbatim; adds the annual destruction attestation to the state secretary; the chapter contains no capture limit,verified-official-lineage,https://malegislature.gov/Bills/193/S3005
+S3005,P-380,SECTION 2 (new c.90 s.14C(c)(3)); ENACTED as 2024 c.399 s.2,"text substituted for H4940 and enacted verbatim; variant: best-efforts, and the chapter adds a savings clause that no notice is dismissed solely because a photograph identifies the operator",verified-official-lineage,https://malegislature.gov/Bills/193/S3005
 S343,P-154,"c.7E ss.1,2(a)-(d),3(a)-(b),(f),4",identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S343
 S343,P-155,c.7E s.3(c)-(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S343
 S343,P-156,c.7E s.2(e),identical companion,verified-text-identical,https://malegislature.gov/Bills/193/S343

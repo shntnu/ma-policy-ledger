@@ -16,6 +16,7 @@ import re
 from pathlib import Path
 
 import fetchlib
+import textsim
 
 PILOT = Path(__file__).resolve().parent.parent
 DATA = PILOT / "data"
@@ -26,7 +27,9 @@ API = "https://malegislature.gov/api"
 TEXT_TERMS = {
     # widened 2026-08-05 (third-pass review finding 1): the original pattern
     # missed "personal identifying information" (e.g. 2024 c.363)
-    "personal_information": r"personal(?:ly)?(?: identif(?:iable|ying))? (?:information|data)|identif(?:iable|ying) personal information",
+    # widened 2026-08-07 (eighth-pass review finding 7): "individually
+    # identifying information" (H3524) matched none of the earlier forms
+    "personal_information": r"personal(?:ly)?(?: identif(?:iable|ying))? (?:information|data)|identif(?:iable|ying) personal information|individually identif(?:iable|ying) (?:information|data)",
     "consumer_privacy": r"consumer['s]{0,2}\s+(data\s+)?privacy|privacy of consumers",
     "data_privacy": r"data privacy|information privacy|privacy protection",
     "data_broker": r"data broker",
@@ -46,7 +49,7 @@ TEXT_TERMS = {
     "privacy_generic": r"privac(y|ies)",
     # widened 2026-08-05 (fourth-pass review finding 1): confidentiality,
     # nondisclosure, and public-record-exclusion language
-    "record_nondisclosure": r"shall not be (?:a )?public record|not be deemed (?:a )?public record|(?:are|is) not (?:a )?public records?|not be open to (?:the )?public inspection|exempt(?:ed)? from (?:the )?(?:provisions of )?(?:chapter 66|section 10 of chapter 66|the public records law)|shall (?:be|remain) confidential|shall not be (?:disclosed|made public)|shall be kept confidential|may not be compelled to disclose|not (?:be )?subject to (?:public )?disclosure",
+    "record_nondisclosure": r"shall not be (?:a )?public record|not be deemed (?:a )?public record|(?:are|is) not (?:a )?public records?|not be open to (?:the )?public inspection|exempt(?:ed)? from (?:the )?(?:provisions of )?(?:chapter 66|section 10 of chapter 66|the public records law)|shall (?:be|remain) confidential|shall not be (?:disclosed|made public|published|released)|shall be kept confidential|may not be compelled to disclose|not (?:be )?subject to (?:public )?disclosure",
 }
 
 
@@ -93,6 +96,17 @@ def main() -> None:
         text = (doc.get("DocumentText") or "")
         plain = re.sub(r"<[^>]+>", " ", text)
         plain = re.sub(r"\s+", " ", plain)
+        # Eighth-pass review: this scan stopped at the API text while
+        # 01b_full_corpus_screen.py already fell back to recovered PDF text, so
+        # seven candidates whose API text is empty reached auto_decision() with
+        # NO evidence and were excluded as EX-ADJACENT on that emptiness.
+        # H4844 (geolocation:38, a core location-privacy bill) was in the
+        # census only because a hand-written OVERRIDE rescued it. Both scans
+        # now read the same best-available official text.
+        if len(plain.strip()) < 50:
+            recovered = textsim.full_text(bn)
+            if recovered:
+                plain = recovered
         hits, snippet = scan_terms(plain)
         out.append(
             {

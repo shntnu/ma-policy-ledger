@@ -152,7 +152,7 @@ P-192,alpr-accuracy-verification,surveillance-tech,24-hour hot-list updates and 
 P-193,alpr-le-48h-destruction,surveillance-tech,Law enforcement must destroy ALPR data within 48 hours (optional transfer to EOPSS),1
 P-194,alpr-eopss-120day-retention,surveillance-tech,"EOPSS retains transferred ALPR data 120 days then destroys, absent legal process",1
 P-195,alpr-vendor-retention-parity,surveillance-tech,No government contracts with private ALPR vendors exceeding the 120-day retention standard,1
-P-196,alpr-access-limits,surveillance-tech,Default ban on government access/search/disclosure of ALPR data with enumerated exceptions,1
+P-196,alpr-access-limits,surveillance-tech,Default ban on government access/search/disclosure of ALPR data with enumerated exceptions,2
 P-197,alpr-secondary-use-ban,surveillance-tech,"No ALPR data use for credit, insurance, employment, or marketing decisions",1
 P-198,alpr-admissibility-limits,surveillance-tech,Suppression of unlawfully obtained ALPR data; civil/administrative inadmissibility,1
 P-199,alpr-private-right-of-action,surveillance-tech,Civil action with treble or exemplary damages for ALPR violations,1
@@ -166,7 +166,6 @@ P-209,toll-data-93a-hook,location,Use of violation-obtained tolling data is itse
 P-210,dot-tolling-access-restriction,location,MassDOT barred from accessing/disclosing tolling data except four enumerated purposes,2
 P-211,tolling-data-120day-destruction,location,Mandatory permanent erasure of tolling data 120 days after creation,2
 P-212,toll-data-ag-enforcement,location,AG enforcement of the driver-privacy chapter,1
-P-213,alpr-14day-retention-90K,surveillance-tech,"ALPR restrictions under proposed c.90K: no protected-activity tracking, 14-day retention cap, warrant for access",1
 P-214,vehicle-telematics-le-warrant,location,Warrant requirement extended to OEM/telematics/aftermarket GPS vehicle data held by private parties,1
 P-215,vehicle-tracking-device-criminal-ban,location,Criminal ban on nonconsensual installation of tracking devices on motor vehicles,2
 P-223,trigger-lead-solicitation-93a,commercial,Mortgage trigger-lead solicitation practices declared unfair/deceptive under c.93A,1
@@ -226,8 +225,7 @@ P-297,demographic-data-collection-standard,govt-data,"Government agencies collec
 P-298,demographic-pii-confidentiality,govt-data,Personal identifying information in agency demographic data is confidential; only aggregated data preventing identification may be published,2
 P-299,bus-camera-records-exemption,surveillance-tech,Bus-camera photographs and personal identifying information exempt from the public records law,9
 P-300,bus-camera-litigation-limits,surveillance-tech,Bus-camera evidence not discoverable or admissible outside enforcement proceedings absent a court order with materiality findings,9
-P-301,bus-camera-occupant-id-ban,surveillance-tech,Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue,12
-P-302,bus-camera-vendor-confidentiality,surveillance-tech,"Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing",15
+P-302,bus-camera-vendor-confidentiality,surveillance-tech,"Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing",14
 P-303,tnc-trip-data-reporting-mandate,location,"TNCs must report trip-level data monthly, including continuous 60-second in-ride geolocation, driver identifier, and vehicle plate, to the DPU division",7
 P-304,tnc-trip-data-confidentiality,location,Reported TNC trip data is not a public record; sharing only de-identified under confidentiality agreements with listed agencies; breach triggers destruction and notification,7
 P-305,judicial-pii-agency-posting-ban,govt-records,"State/county/municipal agencies barred from posting protected judicial officers' personal information online without written consent, with confidential-marking and 72-hour removal",2
@@ -250,7 +248,6 @@ P-324,workplace-ads-notice-inventory,workplace,Notice and annual inventory dutie
 P-325,workplace-ads-use-prohibitions,workplace,"Prohibited ADS uses (profiling rights-exercise, facial/gait/emotion recognition, customer-rating reliance) and human-oversight requirements",1
 P-326,workplace-algorithmic-impact-assessments,workplace,Algorithmic impact assessments for workplace ADS with worker dispute rights,1
 P-328,monitoring-data-disclosure-limits,workplace,Disclosure restrictions on collected monitoring data with consent/warrant exceptions,1
-P-332,camera-capture-limit-destruction,surveillance-tech,Camera systems may capture images only upon violation; destruction within 48 hours of final disposition (variant: 30-day/1-year schedules),12
 P-333,buscam-vendor-rmv-access-security,surveillance-tech,"Camera vendor access to RMV owner data limited to enforcement purpose with security protocol, background checks, encryption, and annual independent audit",2
 P-335,ltc-sogi-nondisclosure,health,"Long-term care facilities barred from disclosing residents' sexual orientation, gender identity/transition, intersex, or HIV status, with a duty to minimize inadvertent disclosure",3
 P-336,rmv-federal-access-warrant-gate,govt-records,"RMV files and data closed to federal civil immigration enforcement absent a judge-signed probable-cause warrant, with AG quash authority",2
@@ -288,3 +285,12 @@ P-374,client-data-bank-id-card-issuance,govt-data,The secretary must issue each 
 P-375,client-data-bank-card-acceptance-duty,govt-data,"Nonprofit service providers must accept the data bank identification card as verification for services, except where federal law prohibits it",1
 P-376,client-data-bank-application-fee,govt-data,"Nonprofit service providers pay a secretary-set fee when applying for a state-administered grant or loan, credited to the Healthy Communities Trust Fund",1
 P-377,client-data-bank-eligibility-condition,govt-data,"Nonprofit service providers are eligible for state contracts, grants, and loans only if they are members of the shared client data bank",1
+P-378,camera-capture-limit,surveillance-tech,Camera systems may capture images only when a violation occurs,6
+P-379,camera-image-destruction-schedule,surveillance-tech,"Camera images must be destroyed on a fixed schedule (48 hours after final disposition; variant: 30 days for non-violation images and 1 year after final disposition, with annual attestation)",12
+P-380,buscam-occupant-id-limit,surveillance-tech,"Camera photographs may not be used to identify the vehicle operator, passengers, or contents",13
+P-381,buscam-redaction-before-notice,surveillance-tech,"Photographs capturing the operator, passengers, or contents must be redacted to remove or obscure them before a notice of violation issues",3
+P-382,alpr-protected-activity-tracking-ban,surveillance-tech,No ALPR use to track or monitor constitutionally protected activity,1
+P-383,alpr-14day-retention-cap,surveillance-tech,ALPR data may not be retained beyond 14 days absent a specific criminal investigation based on articulable facts,1
+P-384,alpr-outside-data-warrant,surveillance-tech,No access to other governmental or non-governmental entities' ALPR data without a valid search warrant,1
+P-385,veteran-tax-municipal-nondisclosure,govt-records,Municipalities may not publish the name or other individually identifying information of a veteran who still owes a tax,1
+P-386,veteran-tax-list-name-exclusion,govt-records,The name and address of a veteran may not be published as part of the commissioner's public list of delinquent taxpayers under c.62C s.21,1

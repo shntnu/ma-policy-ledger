@@ -201,7 +201,10 @@ PROPS = {
     "P-210": ("dot-tolling-access-restriction", "location", "MassDOT barred from accessing/disclosing tolling data except four enumerated purposes"),
     "P-211": ("tolling-data-120day-destruction", "location", "Mandatory permanent erasure of tolling data 120 days after creation"),
     "P-212": ("toll-data-ag-enforcement", "location", "AG enforcement of the driver-privacy chapter"),
-    "P-213": ("alpr-14day-retention-90K", "surveillance-tech", "ALPR restrictions under proposed c.90K: no protected-activity tracking, 14-day retention cap, warrant for access"),
+    # P-213 retired 2026-08-07 (eighth-pass finding 9): H3404's proposed c.90K
+    # s.2 is a shared-stem prohibition list of four severable duties, split
+    # here into P-382..P-384; its prong (c) is P-196's mechanism and now
+    # carries a P-196 edge instead of a fourth new ID.
     "P-214": ("vehicle-telematics-le-warrant", "location", "Warrant requirement extended to OEM/telematics/aftermarket GPS vehicle data held by private parties"),
     "P-215": ("vehicle-tracking-device-criminal-ban", "location", "Criminal ban on nonconsensual installation of tracking devices on motor vehicles"),
     # --- Commercial data practices ---
@@ -293,11 +296,40 @@ PROPS = {
     # --- bus-camera data rules (S2884; enacted 2024 c.363) ---
     "P-299": ("bus-camera-records-exemption", "surveillance-tech", "Bus-camera photographs and personal identifying information exempt from the public records law"),
     "P-300": ("bus-camera-litigation-limits", "surveillance-tech", "Bus-camera evidence not discoverable or admissible outside enforcement proceedings absent a court order with materiality findings"),
-    "P-301": ("bus-camera-occupant-id-ban", "surveillance-tech", "Bus-camera photographs may not be used to identify vehicle occupants or contents; mandatory redaction before notices issue"),
+    # P-301 retired 2026-08-07 (eighth-pass finding 4): it bundled the
+    # occupant-identification limit, which all twelve carriers state, with a
+    # mandatory redaction-before-notice duty that only the c.363 line has and
+    # that 2024 c.399 does not contain. Split into P-380/P-381.
     "P-302": ("bus-camera-vendor-confidentiality", "surveillance-tech", "Enforcing authorities and camera vendors must keep camera data confidential; no use, disclosure, sale, or access beyond violation processing"),
     # --- TNC trip-data regime (outside section; enacted 2024 c.206 s.15 via H4799) ---
     "P-303": ("tnc-trip-data-reporting-mandate", "location", "TNCs must report trip-level data monthly, including continuous 60-second in-ride geolocation, driver identifier, and vehicle plate, to the DPU division"),
     "P-304": ("tnc-trip-data-confidentiality", "location", "Reported TNC trip data is not a public record; sharing only de-identified under confidentiality agreements with listed agencies; breach triggers destruction and notification"),
+    # --- eighth-pass finding 4: splits of retired P-332 (camera images) ---
+    # The severability test separates them cleanly: strike the capture limit
+    # and the destruction schedule still functions, and vice versa. Only the
+    # c.90J drafting line carries the capture limit; the c.90 s.14C line
+    # (which reached the statute book as 2024 c.399) carries only destruction.
+    "P-378": ("camera-capture-limit", "surveillance-tech", "Camera systems may capture images only when a violation occurs"),
+    "P-379": ("camera-image-destruction-schedule", "surveillance-tech", "Camera images must be destroyed on a fixed schedule (48 hours after final disposition; variant: 30 days for non-violation images and 1 year after final disposition, with annual attestation)"),
+    # --- eighth-pass finding 4: splits of retired P-301 (occupant privacy) ---
+    # The occupant-identification limit is the rule all twelve carriers state,
+    # at differing strictness (recorded per edge); the redaction duty is a
+    # separate affirmative processing obligation that only three carriers, and
+    # only one of the two enacting chapters, impose.
+    "P-380": ("buscam-occupant-id-limit", "surveillance-tech", "Camera photographs may not be used to identify the vehicle operator, passengers, or contents"),
+    "P-381": ("buscam-redaction-before-notice", "surveillance-tech", "Photographs capturing the operator, passengers, or contents must be redacted to remove or obscure them before a notice of violation issues"),
+    # --- eighth-pass finding 9: splits of retired P-213 (H3404 c.90K s.2) ---
+    # Prong (c) of the same list (no disclosure, sale, or permitted access to
+    # ALPR data except in a judicial proceeding) is P-196's mechanism at a
+    # different strictness, so it is recorded as a P-196 edge, not a new ID.
+    "P-382": ("alpr-protected-activity-tracking-ban", "surveillance-tech", "No ALPR use to track or monitor constitutionally protected activity"),
+    "P-383": ("alpr-14day-retention-cap", "surveillance-tech", "ALPR data may not be retained beyond 14 days absent a specific criminal investigation based on articulable facts"),
+    "P-384": ("alpr-outside-data-warrant", "surveillance-tech", "No access to other governmental or non-governmental entities' ALPR data without a valid search warrant"),
+    # --- eighth-pass finding 7: H3524 (veteran tax-delinquency nondisclosure) ---
+    # Two severable disclosure restrictions on different record classes held by
+    # different publishers; strike either and the other still functions.
+    "P-385": ("veteran-tax-municipal-nondisclosure", "govt-records", "Municipalities may not publish the name or other individually identifying information of a veteran who still owes a tax"),
+    "P-386": ("veteran-tax-list-name-exclusion", "govt-records", "The name and address of a veteran may not be published as part of the commissioner's public list of delinquent taxpayers under c.62C s.21"),
 }
 
 # Retired proposition IDs (never reused). Kept for the audit trail.
@@ -319,6 +351,9 @@ RETIRED = {
     "P-347": "split into P-357/P-358/P-359 (fourth-pass review finding 5)",
     "P-357": "split into P-372/P-373/P-374/P-375 (seventh-pass review finding 5)",
     "P-362": "split into P-376/P-377 (seventh-pass review finding 5)",
+    "P-332": "split into P-378/P-379 (eighth-pass review finding 4): the capture limit is in six of twelve carriers and in neither enacting chapter; the destruction schedule is in all twelve and in 2024 c.399",
+    "P-301": "split into P-380/P-381 (eighth-pass review finding 4): the redaction-before-notice duty is in three of twelve carriers and in 2024 c.363 only, not in 2024 c.399",
+    "P-213": "split into P-382/P-383/P-384 (eighth-pass review finding 9): H3404 c.90K s.2 is four severable prohibitions; prong (c) is P-196's mechanism and became a P-196 edge",
 }
 
 # (bill, prop_id, section_cite, note)
@@ -623,7 +658,13 @@ edges("H3434",
     ("P-208", "Sec.4", "variant: treble or exemplary"),
 )
 edges("H3404",
-    ("P-213", "c.90K Sec.2", ""),
+    # eighth-pass finding 9: c.90K Sec.2 is one shared-stem list of four
+    # severable prohibitions, (a)-(d). It was one proposition whose published
+    # description named only three of them.
+    ("P-382", "c.90K Sec.2(a)", ""),
+    ("P-383", "c.90K Sec.2(b)", ""),
+    ("P-196", "c.90K Sec.2(c)", "variant: single exception (as required in a judicial proceeding) where H3431 enumerates several"),
+    ("P-384", "c.90K Sec.2(d)", ""),
     ("P-205", "c.90K Sec.3(a)", ""),
     ("P-210", "c.90K Sec.3(b)", ""),
     ("P-211", "c.90K Sec.3(c)", ""),
@@ -673,6 +714,14 @@ edges("H4323",
     ("P-253", "c.6A s.18G(a)", "H4323 only"),
 )
 edges("S194", ("P-254", "c.10 s.24 (sole section)", ""))
+# Eighth-pass finding 7: H3524's entire 840-character text is two disclosure
+# restrictions on personal information held in government records - the same
+# included subdomain, and the same mechanism, as S194 above. It reached the
+# census only after the term scan was widened for "individually identifying
+# information" and the passive form "shall not be published".
+edges("H3524",
+    ("P-385", "SECTION 1 (new c.60 s.35A(a))", ""),
+    ("P-386", "SECTION 2 (c.62C s.21)", ""))
 edges("S938", ("P-255", "c.258C s.15 (sole section)", ""))
 edges("H3863",
     ("P-256", "SECTION 1 para.1", ""),
@@ -759,7 +808,8 @@ edges("H4799",
 edges("S2884",
     ("P-299", "SECTION 1 (c.4 s.7 cl.26(w)); c.90K s.5(b)", "enacted as 2024 c.363"),
     ("P-300", "c.90K s.5(a)", "enacted as 2024 c.363"),
-    ("P-301", "c.90K s.5(c)", "enacted as 2024 c.363"),
+    ("P-380", "c.90K s.5(c)", "enacted as 2024 c.363; flat prohibition on using photographs to identify"),
+    ("P-381", "c.90K s.5(c)", "enacted as 2024 c.363; redaction duty absent from the c.90 s.14C line and from 2024 c.399"),
     ("P-302", "c.90K s.5(d)", "enacted as 2024 c.363"))
 
 EDGES = E
@@ -829,7 +879,7 @@ QUOTES = {
     ("H3434", "P-211"): "permanently erase or destroy ... not later than 120 days following the date on which the tolling data was created",
     ("H3434", "P-206"): "comply with a search warrant, production order, or preservation request ... prosecution of a felony",
     ("H3434", "P-208"): "liable for treble damages, or, in the alternative, exemplary damages",
-    ("H4844", "P-121"): "shall collect or process an individual's reproductive or gender-affirming care location information if: (i) ... location privacy policy; (ii) obtains consent",
+    ("H4844", "P-121"): "may collect or process an individual's reproductive or gender-affirming care location information if: (i) a covered entity or service provider provides the individual with a copy of their location privacy policy; (ii) obtains consent from the individual",
     ("H357", "P-121"): "unlawful for a covered entity to collect or process an individual's location information except for a permissible purpose",
     ("H4844", "P-122"): "any limitations or restrictions on the use of targeted advertisements by a covered entity or service provider",
     ("H357", "P-122"): "a clear, conspicuous, and simple means to opt out of the processing of their location information",
@@ -844,11 +894,11 @@ QUOTES = {
     ("H4844", "P-282"): "retain reproductive or gender-affirming care location information longer than necessary",
     ("H357", "P-282"): "retain location information longer than necessary to carry out the permissible purpose",
     ("H4844", "P-283"): "derive or infer from reproductive or gender-affirming care location information any",
-    ("H357", "P-283"): "derive or infer ... beyond ... the permissible purpose",
+    ("H357", "P-283"): "derive or infer from location information any data that is not necessary to carry out a permissible purpose",
     ("H4844", "P-284"): "sell, rent, trade, gift or lease reproductive or gender-affirming care location information",
     ("H357", "P-284"): "sell, rent, trade, or lease location information to third parties",
     ("H4844", "P-285"): "disclose, cause to disclose or assist with or facilitate the disclosure of an individual's",
-    ("H357", "P-285"): "disclose ... to a third party unless ... necessary ... or requested by the individual",
+    ("H357", "P-285"): "disclose, cause to disclose, or assist with or facilitate the disclosure of an individual's location information to third parties, unless such disclosure is (i) necessary to carry out the permissible purpose for which the information was collected, or (ii) requested by the individual",
     ("H63", "P-081"): "shall not collect or process an individual's biometric information for identification purposes unless it first",
     ("S195", "P-081"): "receives written consent executed by the subject of the biometric identifier or biometric information",
     ("H63", "P-082"): "shall always maintain and make available to the individual a Biometric Privacy Policy",
@@ -869,24 +919,24 @@ QUOTES.update({
     ("H4356", "P-290"): "may petition the court to seal the court record",
 })
 QUOTES.update({
-    ("H1525", "P-291"): "shall not use, sell, or offer to sell to another person, or transfer to another person for use or sale, any personal inf[ormation]",
+    ("H1525", "P-291"): "a notary public shall not use, sell, or offer to sell to another person, or transfer to another person for use or sale, any personal information obtained under section 28 that identifies a remotely-located individual",
 })
 QUOTES.update({
     ("H3003", "P-292"): "except for personal identifying information, which shall be deemed confidential, each government agency shall make the data available",
-    ("H2991", "P-294"): "statements of financial interest filed pursuant to section 5, which contain the home address of the filer",
+    ("H2991", "P-294"): "to exempt from public disclosure those portions of a statement of financial interest filed pursuant to section 5, which contain the home address of the filer",
 })
 QUOTES.update({
     ("H1690", "P-295"): "may petition the court to seal the court record",
     ("H4356", "P-295"): "may petition the court to seal the court record",
     ("H1690", "P-296"): "a consumer reporting agency shall not disclose the existence of, or information regarding, an eviction record sealed under this section",
-    ("H4356", "P-296"): "a consumer reporting agency shall not disclose the existence of, or information regarding, an eviction record sealed under this section",
+    ("H4356", "P-296"): "a consumer reporting agency shall not disclose the existence of, or information regarding, a court record sealed under this section",
     ("H4977", "P-295"): "may petition the court to seal the court record (2024 c.150 s.52)",
     ("H4977", "P-296"): "a consumer reporting agency shall not disclose the existence of, or information regarding, an eviction record sealed (2024 c.150 s.52)",
-    ("H3003", "P-297"): "every government agency that collects demographic data as to the race or ethnicity of residents ... shall use separate collection categories",
+    ("H3003", "P-297"): "every government agency that collects demographic data as to the race or ethnicity of residents of the commonwealth of massachusetts, shall use separate collection and tabulations",
     ("H3003", "P-298"): "except for personal identifying information, which shall be deemed confidential, each government agency shall make the data available",
-    ("H4040", "P-297"): "shall use separate collection categories and tabulations (2023 c.28 s.7)",
+    ("H4040", "P-297"): "every government agency that collects demographic data as to the race or ethnicity of residents of the commonwealth shall use separate collection and tabulations",
     ("H4040", "P-298"): "except for personal identifying information, which shall be deemed confidential (2023 c.28 s.7)",
-    ("H58", "P-291"): "shall not use, sell or offer to sell to another person or transfer to another person for use or sale any personal information (2023 c.2 s.33)",
+    ("H58", "P-291"): "a notary public shall not use, sell, offer to sell to another person or transfer to another person for use or sale any personal information obtained under section 28",
     ("H5077", "P-294"): "home address, personal email address and personal and home telephone number of the filer and the name and home address of a family member (2024 c.248 s.27)",
 })
 
@@ -922,7 +972,11 @@ PROPS.update({
     "P-325": ("workplace-ads-use-prohibitions", "workplace", "Prohibited ADS uses (profiling rights-exercise, facial/gait/emotion recognition, customer-rating reliance) and human-oversight requirements"),
     "P-326": ("workplace-algorithmic-impact-assessments", "workplace", "Algorithmic impact assessments for workplace ADS with worker dispute rights"),
     "P-328": ("monitoring-data-disclosure-limits", "workplace", "Disclosure restrictions on collected monitoring data with consent/warrant exceptions"),
-    "P-332": ("camera-capture-limit-destruction", "surveillance-tech", "Camera systems may capture images only upon violation; destruction within 48 hours of final disposition (variant: 30-day/1-year schedules)"),
+    # P-332 retired 2026-08-07 (eighth-pass finding 4): it bundled a
+    # capture-only-on-violation limit with a destruction schedule. Only six of
+    # its twelve carriers state the capture limit and 2024 c.399 contains the
+    # word "capture" zero times, so labelling the whole proposition enacted
+    # asserted a mechanism the chapter lacks. Split into P-378/P-379.
     "P-333": ("buscam-vendor-rmv-access-security", "surveillance-tech", "Camera vendor access to RMV owner data limited to enforcement purpose with security protocol, background checks, encryption, and annual independent audit"),
     "P-335": ("ltc-sogi-nondisclosure", "health", "Long-term care facilities barred from disclosing residents' sexual orientation, gender identity/transition, intersex, or HIV status, with a duty to minimize inadvertent disclosure"),
     "P-336": ("rmv-federal-access-warrant-gate", "govt-records", "RMV files and data closed to federal civil immigration enforcement absent a judge-signed probable-cause warrant, with AG quash authority"),
@@ -981,24 +1035,41 @@ edges("H3597",
 _CAM90J = [
     ("P-299", "c.4 s.7 cl.26(w); c.90J s.8(c)", ""),
     ("P-300", "c.90J s.8(b)", ""),
-    ("P-301", "c.90J s.8(d)", ""),
+    ("P-380", "c.90J s.8(d)", "variant: best-efforts ('to the extent practicable, additional efforts shall be made'), against the c.363 line's flat prohibition"),
     ("P-302", "c.90J s.8(e)", ""),
-    ("P-332", "c.90J s.8(a)", ""),
+    ("P-378", "c.90J s.8(a)", ""),
+    ("P-379", "c.90J s.8(a)", "variant: destruction not more than 48 hours after final disposition"),
 ]
 for b in ("H3393", "S1483", "S2275"):
-    edges(b, *[(pp, cc, "road-safety/bus-camera c.90J regime") for pp, cc, nn in _CAM90J])
-edges("H3375", *[(pp, cc, "school-bus camera authorization, same regime") for pp, cc, nn in _CAM90J])
-for b, note in (("H4166", "Cambridge home-rule petition, same regime"), ("H4287", "Salem home-rule petition, same regime")):
-    edges(b,
-        ("P-299", "s.8(c)", note), ("P-300", "s.8(b)", note),
-        ("P-302", "s.8(e)", note), ("P-332", "s.8(a)", note))
+    edges(b, *[(pp, cc, ("road-safety/bus-camera c.90J regime; " + nn).rstrip("; ")) for pp, cc, nn in _CAM90J])
+edges("H3375", *[(pp, cc, ("school-bus camera authorization, same regime; " + nn).rstrip("; ")) for pp, cc, nn in _CAM90J])
+# H4166 and H4287 are home-rule petitions on the same c.90J template, but they
+# are not identical to it: eighth-pass finding 5's verbatim check showed that
+# H4287's section 8 stops at subsection (d) - it has no vendor use-limitation
+# clause at all (no "use, disclose", "sell", "permit access", "vendor" or
+# "manufacturer" anywhere in the bill), and its (d) is a bare frontal-view ban
+# with no occupant-identification rule. The P-302 edge asserted against a
+# nonexistent s.8(e) is therefore removed.
+edges("H4166",
+    ("P-299", "s.8(c)", "Cambridge home-rule petition, same regime"),
+    ("P-300", "s.8(b)", "Cambridge home-rule petition, same regime"),
+    ("P-380", "s.8(d)", "Cambridge home-rule petition; variant: best-efforts"),
+    ("P-302", "s.8(e)", "Cambridge home-rule petition, same regime"),
+    ("P-378", "s.8(a)", "Cambridge home-rule petition, same regime"),
+    ("P-379", "s.8(a)", "Cambridge home-rule petition; variant: 48 hours after final disposition"))
+edges("H4287",
+    ("P-299", "s.8(c)", "Salem home-rule petition; variant: 'are not public record' rather than the clause 26 cross-reference"),
+    ("P-300", "s.8(b)", "Salem home-rule petition, same regime"),
+    ("P-378", "s.8(a)", "Salem home-rule petition, same regime"),
+    ("P-379", "s.8(a)", "Salem home-rule petition; variant: 48 hours after final disposition"))
 # H3336's edges are written with the rest of the c.90 s.14C line at the end of
 # this file (seventh-pass finding 3); its (c)(2)/(e)(2) citations were wrong
 # here - the destruction and vendor-use rules are at (e)(2), not (c)(2).
 edges("S2600",
     ("P-299", "SECTION 6 (c.4 s.7 cl.26(w)); SECTION 8 (c.90K s.5(b))", "parent vehicle of S2884 (Reported on a part of)"),
     ("P-300", "c.90K s.5(a)", ""),
-    ("P-301", "c.90K s.5(c)", ""),
+    ("P-380", "c.90K s.5(c)", "flat prohibition"),
+    ("P-381", "c.90K s.5(c)", "redaction duty"),
     ("P-302", "c.90K s.5(d)", ""))
 for b in ("H637", "S381"):
     edges(b, ("P-335", "new c.111 s.72CC(f)", "companions; DPH penalties attach"))
@@ -1040,37 +1111,48 @@ for b in ("S2834", "S2850"):
         ("P-295", "new c.239 s.16(b)-(h),(j)", "Senate Affordable Homes vehicle"),
         ("P-296", "new c.239 s.16(i); c.93 s.52(a)(7)", "Senate Affordable Homes vehicle"))
 QUOTES.update({
-    ("S1116", "P-226"): "a person may bring a civil action ... doxing ... disclosure of personally identifying information with intent to harass",
+    # eighth-pass finding 9: H3404's prong (c) is P-196's mechanism, so the
+    # merge is analytic and needs both sides shown.
+    ("H3404", "P-196"): "disclose, sell or permit access to alpr data except as required in a judicial proceeding",
+    ("H3431", "P-196"): "a governmental entity may not access, search, review, disclose, or exchange alpr data from any source",
+    # eighth-pass finding 4: H4166 carries the occupant-identification limit
+    # at the weaker best-efforts strictness; the edge is analytic.
+    ("H4166", "P-380"): "to the extent practicable, additional efforts shall be made to ensure that photographs produced by an automated road safety camera system do not identify the vehicle operator, the passengers or the contents of the vehicle",
+})
+QUOTES.update({
+    ("S1116", "P-226"): "may pursue a cause of action for doxing ... intended to cause stalking, physical harm to person, or serious property damage",
     ("H1707", "P-226"): "the person disseminated the personal information with the malicious intent to cause, aid, encourage or facilitate the harassment",
-    ("S23", "P-291"): "notary shall not use, sell, offer for sale, or transfer personal information obtained from remote notarization (SECTION 30)",
-    ("H3375", "P-299"): "photographs ... and personal identifying information ... shall not be a public record",
-    ("H4166", "P-299"): "photographs and personal identifying information not a public record (s.8(c))",
-    ("H4287", "P-299"): "photographs and personal identifying information not a public record (s.8(c))",
+    ("S23", "P-291"): "a notary public shall not use, sell or offer to sell to another person or transfer to another person for use or sale, any personal information obtained under section 28 that identifies a remotely-located individual",
+    ("H3375", "P-299"): "photographs and other personal identifying information collected by a city or town pursuant to this chapter shall not be a public record",
+    ("H4166", "P-299"): "photographs and other personal identifying information collected by the city pursuant to this chapter shall not be a public record",
+    ("H4287", "P-299"): "photographs and other personally identifying information collected by the city pursuant to this chapter are not public record",
     ("H3375", "P-300"): "shall not be discoverable in any judicial or administrative proceeding ... without a court order",
-    ("H4166", "P-300"): "non-discoverability absent court order (s.8(b))",
-    ("H4287", "P-300"): "non-discoverability absent court order (s.8(b))",
-    ("H3375", "P-302"): "may not use, disclose, sell or permit access to camera data except to process violations",
-    ("H3336", "P-302"): "recordings property of the municipality; vendor use for any other purpose banned",
-    ("H4166", "P-302"): "city/manufacturer/vendor use/disclosure/sale/access ban beyond violation processing (s.8(e))",
-    ("H4287", "P-302"): "use-limitation on camera operation and data (s.8(d)-(e))",
-    ("H3375", "P-332"): "capture only on violation; destruction within 48 hours of final disposition",
-    ("H3336", "P-332"): "non-violation footage destroyed in 30 days; violation records destroyed 1 year after final disposition",
-    ("H4166", "P-332"): "capture only on violation + destruction within 48h of final disposition (s.8(a))",
-    ("H4287", "P-332"): "capture only on violation + destruction within 48h of final disposition (s.8(a))",
-    ("H1873", "P-320"): "electronic monitoring notice, notice of change, annual systems inventory (c.149B ss.3-3B)",
-    ("S1228", "P-320"): "general/director's/specific/simultaneous notice regimes with reasonable-suspicion exception (SS.3-6)",
-    ("H3597", "P-320"): "pre-monitoring notice regime incl. vendors, dates/times, right-to-access notice (s.105E(i))",
-    ("H1873", "P-321"): "allowable-purpose/strictly-necessary/least-invasive limits; prohibited practices: off-duty, private areas, facial/gait/emotion recognition (s.3C)",
-    ("S1228", "P-321"): "collection limited to employer premises and work-related data; private-area monitoring ban (SS.2,7,12)",
-    ("H1873", "P-322"): "use limits and no sole reliance on monitoring data for decisions (s.3D)",
-    ("S1228", "P-322"): "no adverse action without compliance; no sole-basis quotas (SECTION 9)",
-    ("H3597", "P-322"): "practical-necessity plus least-invasive test; ban on relying on biometric/in-home/personal-device/geofencing data (s.105E(i))",
-    ("S1228", "P-323"): "employee right to review/copy monitoring data (SECTION 8)",
-    ("H3597", "P-323"): "employee right to copy work-speed data every 7 days, correction rights (s.105E(j))",
-    ("H3289", "P-342"): "adds licensed private detectives/investigators to c.90 s.30A; prohibits use of RMV computer data inconsistent with c.147 s.22(2)",
-    ("S2250", "P-342"): "adds PIs to authorized RMV computer-data users; prohibition on use of RMV data inconsistent with c.147 s.22",
-    ("H3289", "P-343"): "prohibits accessing the RMV facial recognition system, with mandatory license revocation",
-    ("S2250", "P-343"): "prohibition on accessing the RMV facial recognition system; mandatory license revocation",
+    ("H4166", "P-300"): "no photographs taken in conformance with this chapter shall be discoverable in any judicial or administrative proceeding other than a proceeding held pursuant to this chapter without a court order",
+    ("H4287", "P-300"): "no photographs taken in conformance with this chapter shall be discoverable in any judicial or administrative proceeding other than a proceeding held pursuant to this chapter without a court order",
+    ("H3375", "P-302"): "may not use, disclose, sell or permit access to data collected by an automated road safety camera system except as necessary to process camera enforceable violations in accordance with this chapter",
+    ("H3336", "P-302"): "are the property of the municipality under agreement with a vendor and may not be used by a vendor for any other purposes",
+    ("H4166", "P-302"): "the city or a manufacturer or vendor of an automated road safety camera system may not use, disclose, sell or permit access to data collected by an automated road safety camera system except as necessary to process camera enforceable violations",
+    ("H3375", "P-378"): "an automated road safety camera system shall only take photographs when a camera enforceable violation occurs",
+    ("H3375", "P-379"): "photographs and other recorded evidence shall be destroyed not more than 48 hours after the final disposition of a camera enforceable violation",
+    ("H3336", "P-379"): "that do not identify a violation shall be destroyed by any city, town, school department or vendor within 30 days of the date the image was recorded ... shall be destroyed within 1 year of final disposition of proceedings related to the enforcement or defense of a violation",
+    ("H4166", "P-378"): "photographs and other recorded evidence shall only be captured when a camera enforceable violation occurs",
+    ("H4166", "P-379"): "photographs and other recorded evidence shall be destroyed within 48 hours of the final disposition of a violation",
+    ("H4287", "P-378"): "photographs and other recorded evidence shall only be captured when a camera enforceable violation occurs",
+    ("H4287", "P-379"): "photographs and other recorded evidence shall be destroyed within 48 hours of the final disposition of a violation",
+    ("H1873", "P-320"): "an employer or vendor acting on behalf of an employer that is planning to electronically monitor a worker shall provide a worker with notice that electronic monitoring will occur prior to conducting each specific form of electronic monitoring",
+    ("S1228", "P-320"): "each employer who engages in any type of electronic monitoring shall provide prior written notice to all employees, customers or consumers who may be affected",
+    ("H3597", "P-320"): "notice of the employees' right to access or correct the data ... notice of the specific form of electronic monitoring shall be clear and conspicuous",
+    ("H1873", "P-321"): "an employer or vendor acting on behalf of an employer shall not electronically monitor a worker unless all of the following conditions are met: (i) the electronic monitoring is primarily intended to accomplish any of the following allowable purposes",
+    ("S1228", "P-321"): "the information is collected at the employer's premises and (2) the information is confined to the employee's work ... no electronic monitoring shall take place in bathrooms, locker rooms, shower facilities, dressing areas",
+    ("H1873", "P-322"): "shall use worker data collected through electronic monitoring only to accomplish its specified allowable purpose ... shall not solely rely on worker data collected through electronic monitoring when making hiring, promotion, termination, or disciplinary decisions",
+    ("S1228", "P-322"): "an employer shall not take any action against an employee on the basis of personal data obtained by electronic monitoring of such employee unless the employer has complied with all the requirements of this act",
+    ("H3597", "P-322"): "there is no other practical means of tracking or assessing employee performance; (ii) the employer is using the least invasive form of electronic monitoring available",
+    ("S1228", "P-323"): "a reasonable opportunity to review and, upon request, a copy of all personal data obtained or maintained by electronic monitoring of the employee",
+    ("H3597", "P-323"): "a current employee shall have the right to request a copy of employee work speed data that may be used for the purposes of discipline and termination at least once every seven days",
+    ("H3289", "P-342"): "private detectives and private investigators as defined in section 22 of chapter 147 ... use computer data or equipment under the control of the registrar of motor vehicles in accordance with section 30a of chapter 90 for any purpose inconsistent with (2) of section 22 of chapter 147",
+    ("S2250", "P-342"): "private detectives and private investigator as defined in section 22 of chapter 147 ... use computer data or equipment under the control of the registrar of motor vehicles in accordance with section 30a of chapter 90 for any purpose inconsistent with section 22 of chapter 147",
+    ("H3289", "P-343"): "access the facial recognition system operated by the registry of motor vehicles ... the license of a licensee who violates paragraphs 12 and 13 shall be revoked",
+    ("S2250", "P-343"): "access the facial recognition system operated by the registry of motor vehicles ... the license of a licensee who violates paragraphs 12 and 13 shall be revoked",
 })
 
 # Fourth-pass review corrections: filed carriers of the TNC trip-data regime
@@ -1085,13 +1167,13 @@ QUOTES.update({
     ("S666", "P-303"): "the geographic position of the vehicle during the entire duration of the pre-arranged ride, provided at intervals of not less than every 60 seconds",
     ("H4799", "P-303"): "the geographic position of the vehicle during the entire duration of the pre-arranged ride, provided at intervals of not less than every 60 seconds (2024 c.206 s.15)",
     ("S666", "P-304"): "shall not be considered a public record ... shall not be disclosed to any person or entity other than those listed",
-    ("H4799", "P-304"): "shall not be considered a public record ... de-identified trip data (2024 c.206 s.15)",
+    ("H4799", "P-304"): "any data received by an entity from the division through a confidential data-sharing agreement under this subsection shall not be considered a public record",
     ("H1099", "P-303"): "trip-level data ... at intervals of not less than every 60 seconds",
     ("H1158", "P-303"): "trip-level data ... at intervals of not less than every 60 seconds",
     ("S627", "P-303"): "trip-level data ... at intervals of not less than every 60 seconds",
-    ("H1099", "P-304"): "shall not be considered a public record; de-identified sharing under agreements",
-    ("H1158", "P-304"): "shall not be considered a public record; de-identified sharing under agreements",
-    ("S627", "P-304"): "shall not be considered a public record; de-identified sharing under agreements",
+    ("H1099", "P-304"): "any data received by an entity from the division through a confidential data-sharing agreement under this subsection shall not be considered a public record",
+    ("H1158", "P-304"): "any record furnished to the department or other state agency by a transportation network company/delivery network company pursuant to this chapter ... shall not be considered a public record",
+    ("S627", "P-304"): "any record furnished to the department or other state agency by a transportation network company/delivery network company pursuant to this chapter ... shall not be considered a public record",
     ("H1791", "P-255"): "shall be confidential and privileged, and shall not be disclosed by the division",
     ("S938", "P-255"): "shall be confidential and privileged, and shall not be disclosed by the division",
 })
@@ -1132,29 +1214,31 @@ for b, sec in (("H5049", "SECTION 70"), ("H5132", "SECTION 27")):
 edges("H5154",
     ("P-299", "SECTION 1 (c.4 s.7 cl.26(w)); c.90K s.5(b)", "House redraft of S2884"),
     ("P-300", "c.90K s.5(a)", "House redraft of S2884"),
-    ("P-301", "c.90K s.5(c)", "House redraft of S2884"),
+    ("P-380", "c.90K s.5(c)", "House redraft of S2884; flat prohibition"),
+    ("P-381", "c.90K s.5(c)", "House redraft of S2884; redaction duty"),
     ("P-302", "c.90K s.5(d)", "House redraft of S2884"))
 QUOTES.update({
-    ("H57", "P-291"): "prohibition on notary use, sale, or transfer of personal information obtained in remote notarization (c.222 s.29)",
-    ("S24", "P-291"): "notary may not use, sell, or transfer personal information identifying a remotely-located individual (s.19, c.222 s.29)",
-    ("H3548", "P-291"): "prohibition on notary use, sale, or transfer of personal information obtained in remote notarization (c.222 s.29)",
-    ("S2888", "P-303"): "mandatory trip-level data reporting to the DPU division incl. driver universally-unique identifier",
-    ("S2888", "P-304"): "sharing only of de-identified trip-level data under confidential data-sharing agreements; not a public record",
-    ("S2891", "P-303"): "trip-level data reporting mandate incl. driver UUID and residence (s.15)",
-    ("S2891", "P-304"): "de-identified sharing under confidential data-sharing agreements only; not a public record (s.15)",
-    ("H4138", "P-295"): "eviction-record sealing with petition right (SECTION 47, new c.239 s.15)",
-    ("H4138", "P-296"): "consumer-report inquiry duties with AG warning enforcement (SECTION 47)",
-    ("H5049", "P-294"): "personal email, personal/home telephone, and family-member name and home address withheld (SECTION 70)",
-    ("H5132", "P-294"): "personal email, personal/home telephone, and family-member name and home address withheld (SECTION 27)",
-    ("H5154", "P-299"): "public-records exemption for photographs/PII collected under new c.90K",
-    ("H5154", "P-302"): "confidentiality and no use/disclosure/sale of camera data by enforcing authorities and vendors",
+    ("H57", "P-291"): "a notary public shall not use, sell, offer to sell to another person or transfer to another person for use or sale any personal information obtained under section 28",
+    ("S24", "P-291"): "a notary public shall not use, sell or offer to sell to another person or transfer to another person for use or sale, any personal information obtained under section 28",
+    ("H3548", "P-291"): "a notary public shall not use, sell or offer to sell to another person or transfer to another person for use or sale any personal information obtained under section 28",
+    ("S2888", "P-303"): "the universally-unique identifier associated with the transportation network driver ... the transportation network driver's city or town of residence as appearing on the driver's license",
+    ("S2888", "P-304"): "any data received by an entity from the division through a confidential data-sharing agreement under this subsection shall not be considered a public record",
+    ("S2891", "P-303"): "the universally-unique identifier associated with the transportation network driver ... the transportation network driver's city or town of residence as appearing on the driver's license",
+    ("S2891", "P-304"): "any data received by an entity from the division through a confidential data-sharing agreement under this subsection shall not be considered a public record",
+    ("H4138", "P-295"): "any person having a court record of a no-fault eviction on file in a court may petition the court to seal the court record at any time after the conclusion of the action and exhaustion of all rights of appeal",
+    ("H4138", "P-296"): "a consumer reporting agency shall not disclose the existence of, or information regarding, a court record sealed under this section",
+    ("H5049", "P-294"): "home address, personal email address, personal and home telephone number of the filer, and the name and home address of a family member of the filer",
+    ("H5132", "P-294"): "home address, personal email address and personal and home telephone number of the filer and the name and home address of a family member of the filer",
+    ("H5154", "P-299"): "photographs and other recorded data collected by an enforcing authority pursuant to this chapter shall not be a public record",
+    ("H5154", "P-302"): "an enforcing authority or a manufacturer, servicer or vendor of a bus mounted or bus stop camera system shall maintain the confidentiality of and may not use, disclose, sell or permit access to data collected by such camera system",
 })
 QUOTES.update({
-    ("H5154", "P-300"): "non-discoverability/non-admissibility of camera evidence absent court order (c.90K s.5(a))",
-    ("H5154", "P-301"): "ban on using photographs to identify operator/passengers/contents plus redaction duty (c.90K s.5(c))",
+    ("H5154", "P-300"): "a photograph or other recorded evidence taken pursuant to this chapter shall not be discoverable in any judicial or administrative proceeding, other than a proceeding held pursuant to this chapter, without a court order",
+    ("H5154", "P-380"): "photographs produced by a bus mounted or bus stop camera system shall not be used by an enforcing authority to identify the vehicle operator, the passengers or the contents of the vehicle",
+    ("H5154", "P-381"): "the enforcing authority shall redact the photograph to remove or obscure the vehicle operator, passengers or contents of the vehicle before issuing a notice of violation under this chapter",
 })
 QUOTES.update({
-    ("H3375", "P-301"): "no frontal photographs; avoid identifying operator, passengers or contents (s.8(d))",
+    ("H3375", "P-380"): "to the extent practicable, additional efforts shall be made to ensure that photographs produced by an automated road safety camera system do not identify the vehicle operator, the passengers or the contents of the vehicle",
 })
 
 # Fifth-pass grammar-screen admissions.
@@ -1220,9 +1304,9 @@ PROPS.update({
 # (b)(4)/(c)(1)/(e)(1)/(e)(2); H4940, S3005 and the chapter renumber these to
 # (c)(3)/(d)(1)/(d)(2).
 _BUSCAM_FILED = [
-    ("P-301", "new c.90 s.14C(b)(4)", "no frontal view; no operator/passenger/contents identification"),
+    ("P-380", "new c.90 s.14C(b)(4)", "variant: best-efforts ('to the extent practicable'); no redaction duty"),
     ("P-371", "new c.90 s.14C(e)(1)", "images obtainable only by court order outside enforcement or defense"),
-    ("P-332", "new c.90 s.14C(e)(2)", "variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary"),
+    ("P-379", "new c.90 s.14C(e)(2)", "variant: 30-day non-violation / 1-year post-disposition destruction with annual attestation to the state secretary"),
     ("P-302", "new c.90 s.14C(e)(2)", "variant: images are municipal property; vendor may not use them for any other purpose"),
 ]
 edges("H3306",
@@ -1233,21 +1317,21 @@ edges("H3336",
     # filings carry; its (c)(1) is the full vendor security regime.
     ("P-371", "new c.90 s.14C(e)(1)", "images obtainable only by court order outside enforcement or defense"),
     ("P-333", "new c.90 s.14C(c)(1)", ""),
-    ("P-332", "new c.90 s.14C(e)(2)", "variant: 30-day non-violation/1-year violation destruction with attestation"),
+    ("P-379", "new c.90 s.14C(e)(2)", "variant: 30-day non-violation/1-year violation destruction with attestation"),
     ("P-302", "new c.90 s.14C(e)(2)", "variant: recordings municipal property; vendor use ban"))
 edges("H3440", *_BUSCAM_FILED)
 edges("H4450",
     *[(p, c, "Transportation redraft of S2275/H3306/H3336/H3375/H3440; " + n)
       for p, c, n in _BUSCAM_FILED])
 edges("H4940",
-    ("P-301", "new c.90 s.14C(c)(3)", "House Ways and Means redraft of H4450; superseded by the S3005 text before enactment"),
+    ("P-380", "new c.90 s.14C(c)(3)", "House Ways and Means redraft of H4450, superseded by the S3005 text before enactment; variant: best-efforts, no redaction duty"),
     ("P-371", "new c.90 s.14C(d)(1)", "House Ways and Means redraft of H4450; superseded by the S3005 text before enactment"),
-    ("P-332", "new c.90 s.14C(d)(2)", "House Ways and Means redraft of H4450; superseded by the S3005 text before enactment"),
+    ("P-379", "new c.90 s.14C(d)(2)", "House Ways and Means redraft of H4450; superseded by the S3005 text before enactment; variant: 30-day/1-year"),
     ("P-302", "new c.90 s.14C(d)(2)", "House Ways and Means redraft of H4450; superseded by the S3005 text before enactment"))
 edges("S3005",
-    ("P-301", "SECTION 2 (new c.90 s.14C(c)(3)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim"),
+    ("P-380", "SECTION 2 (new c.90 s.14C(c)(3)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim; variant: best-efforts, and the chapter adds a savings clause that no notice is dismissed solely because a photograph identifies the operator"),
     ("P-371", "SECTION 2 (new c.90 s.14C(d)(1)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim"),
-    ("P-332", "SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim; adds the annual destruction attestation to the state secretary"),
+    ("P-379", "SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim; adds the annual destruction attestation to the state secretary; the chapter contains no capture limit"),
     ("P-302", "SECTION 2 (new c.90 s.14C(d)(2)); ENACTED as 2024 c.399 s.2", "text substituted for H4940 and enacted verbatim"))
 
 # No QUOTES entries are added for this family. QUOTES exists to ground

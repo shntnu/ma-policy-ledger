@@ -1,34 +1,52 @@
 # Codebook: consumer data privacy, 193rd General Court (2023-2024)
 
-Status: complete through fate classification (Goals 1-4); revised 2026-08-05 in response to external review (see "Revision log" at the end).
+Status: complete through fate classification (Goals 1-4); last revised 2026-08-07 (eighth pass; see "Revision log" at the end).
 
 ## Fate rules (Goal 4)
 
 Bill-level terminal classes (`data/bill_fates.csv`), parsed from official histories by `scripts/08_fates.py`:
 
-- `superseded_by_redraft`: history ends in "Accompanied a new draft, see X", "New draft substituted, see X", or "Reported by X" (conference)
+- `superseded_by_redraft`: history ends in "Accompanied a new draft, see X", "New draft substituted, see X", "Reported by X" (conference), or the bare "Accompanied X"
 - `sent_to_study`: history ends in "Accompanied a study order, see X"
-- `died_no_further_action`: history ends in "No further action taken"
+- `died_no_further_action`: history ends in "No further action taken".
+  This is also the DEFAULT when no other terminal pattern matches; `scripts/actions.py` is the single list of patterns, and every form present in this corpus is covered by a fixture there.
 - `enacted`: "Signed by the Governor, Chapter N of the Acts of YYYY" (eight bills: H58, H4040, H4744, H4799, H4940, H4977, H5077, S2884)
-- (recorded-vote rejection is parsed for but did not occur)
+- `rejected_by_recorded_vote`: an unstricken action carries a recorded tally with more nays than yeas AND the question put was the bill's own (not an amendment and not a procedural motion).
+  None occurred; see the fate section below for what the two adverse tallies in this census actually were.
 
 Furthest-stage ladder: referred < heard < reporting_extended < reported_favorably < second_reading < engrossed_one_branch < in_second_branch < conference < passed_both < enacted.
+`heard` means the official history records a hearing SCHEDULED or RESCHEDULED.
+Both forms count because thirteen census bills carry only an unstricken "Hearing rescheduled to" row - the original "Hearing scheduled" row having been stricken and superseded by it - so matching the first form alone reported bills as never heard whose own history shows a hearing.
 
 Proposition-level fate (`data/proposition_fates.csv`): a proposition's final vehicles are its carrier bills excluding any bill superseded by a redraft that still carries the proposition (the chain is followed through redrafts).
 Fate is the most informative terminal across final vehicles:
 
-- `enacted_as_filed`: the enacted carrier is connected to the proposition's filed lineage by official successor records (the shared parser in `scripts/actions.py`: redraft, substitution, reprint, reported-(in-part)-by, conference, "See X"), or is the proposition's only carrier.
+- `enacted_as_filed`: the enacted carrier is connected to the proposition's filed lineage by official successor records (the shared parser in `scripts/actions.py`: redraft, substitution, reprint, reported-(in-part)-by, conference, "See X", bare "Accompanied X"), or is the proposition's only carrier.
   An enacted carrier is always a final vehicle even when vehicle-stage successor records form cycles.
-  Occurrences: P-266/P-280 (H4744 chain, 2024 c.118); P-299..P-302 (S2884 chain incl.
-  House redraft H5154, 2024 c.363); P-301/P-302/P-332/P-371 (the school-bus camera chain H3306/H3336/H3375/H3440 -> H4450 -> H4940, whose text the Senate replaced with S3005, 2024 c.399 s.2); P-303/P-304 (S2888 -> S2891 -> H4799 chain, 2024 c.206 s.15); P-291 (H57/S24/H3548/S23 -> H58 budget chain, 2023 c.2 s.33; standalone H1525/S943 died independently); P-294 (H5049/H5132 -> H5077 chain, 2024 c.248 s.27; standalone H2991 died independently).
-  A proposition may reach the statute book through MORE THAN ONE vehicle: P-301 and P-302 were enacted independently as 2024 c.363 (via S2884) and as 2024 c.399 (via H4940).
+  Occurrences: P-266/P-280 (H4744 chain, 2024 c.118); P-299/P-300/P-302/P-380/P-381 (S2884 chain incl.
+  House redraft H5154, 2024 c.363); P-302/P-371/P-379/P-380 (the school-bus camera chain H3306/H3336/H3375/H3440 -> H4450 -> H4940, whose text the Senate replaced with S3005, 2024 c.399 s.2); P-295/P-296 (the Affordable Homes chain H4138 -> H4707 -> H4726 -> H4977, 2024 c.150 ss.28/52); P-303/P-304 (S2888 -> S2891 -> H4799 chain, 2024 c.206 s.15); P-291 (H57/S24/H3548/S23 -> H58 budget chain, 2023 c.2 s.33; standalone H1525/S943 died independently); P-294 (H5049/H5132 -> H5077 chain, 2024 c.248 s.27; standalone H2991 died independently).
+  A proposition may reach the statute book through MORE THAN ONE vehicle: P-380 and P-302 were enacted independently as 2024 c.363 (via S2884) and as 2024 c.399 (via H4940).
   Every enacted final vehicle is listed in the `enacted_vehicles` column, cited in `enacted_vehicle_citations`, and named in the fate detail; only carriers whose own terminal class is non-enacted may appear in the "died without an official chain" narrative, which `scripts/09_checks.py` asserts.
-- `enacted_other_vehicle`: the proposition's filed carriers have no official chain to the enacted vehicle; absorption is established by text adjudication and recorded as `absorbed_into_vehicle` links.
-  Occurrences: P-295/P-296 (HOMES filings; H4977/2024 c.150), P-297/P-298 (H3003; H4040/2023 c.28).
-  The enacted-side sweep runs BEFORE fate assignment; every flagged chapter carries row-level verdicts in `ADJUDICATIONS` in `scripts/08_fates.py`, exported to `data/enacted_adjudication.csv`, with coverage of the scan/probe union asserted by `scripts/09_checks.py`.
-- `rejected_by_recorded_vote`: none occurred.
+
+CHAINS THROUGH NON-CARRIER STAGES (methodological decision, eighth pass).
+An official successor chain establishes `enacted_as_filed` EVEN WHERE AN INTERMEDIATE STAGE DOES NOT CARRY THE PROPOSITION.
+The eviction-sealing regime is the case that forced the decision: H4138 carries the regime, its new draft H4707 and the print H4726 do not, and the conference report H4977 does, so the chain passes through two stages whose cached text lacks the proposition.
+The decision rests on three things.
+First, every hop is an official record already published in `data/links.csv` as verified-official-record ("New draft of H4138", "Published as amended, see H4726", "Reported by H4977", "Reported on H4726").
+Second, this is ONE bill lineage rather than a transfer to an unrelated vehicle: H4726's own history records that its text after the enacting clause was struck and replaced with the text of S2834, which is where the sealing regime comes back, so the "non-carrier" print is a stage of the same bill mid-amendment, and the cached text is one version of it.
+Third, the distinction the brief asks for is between an idea that passed through its own vehicle's lineage and one picked up by a different vehicle; requiring carriage at every stage would reclassify every proposition stripped in one branch and restored in conference as "absorbed into another vehicle", which misdescribes the record.
+THE ALTERNATIVE READING, recorded because it is defensible: require the proposition to be present at every stage, which would leave P-295/P-296 as `enacted_other_vehicle`.
+Under that rule the classification would turn on which print a chamber happened to be working from at a given hop, and no other proposition in this census is affected either way.
+The fate stage builds its successor map from `data/histories.json` UNION the history-bearing entries of `data/link_targets.json` so such chains can be followed at all; `scripts/09_checks.py` asserts that this union changes no census bill's own successor, only whether a chain can continue past a non-census stage.
+- `enacted_other_vehicle`: the proposition's filed carriers have no official successor chain to the enacted vehicle; absorption is established by text adjudication and recorded as `absorbed_into_vehicle` links.
+  Occurrence: P-297/P-298 (H3003; H4040/2023 c.28) - a standalone demographic-data bill with no official record of any kind connecting it to the FY24 budget conference report.
+  The enacted-side sweep runs BEFORE fate assignment; every flagged chapter carries row-level verdicts in `ADJUDICATIONS` in `scripts/08_fates.py`, exported to `data/enacted_adjudication.csv`, with coverage of the scan/probe union asserted at chapter level by `scripts/09_checks.py`.
+- `rejected_by_recorded_vote`: none occurred, and the branch that would emit it is implemented and reachable.
+  It fires when an unstricken action carries a recorded tally with more nays than yeas and the question put was the bill's own; `scripts/08_fates.py --self-test` proves reachability with a synthetic defeated engrossment and asserts that the two real adverse tallies do NOT set it.
+  (Through the seventh pass the category was documented but unreachable: roll-call strings were collected and yeas were never compared to nays, so "none occurred" was an artifact rather than a measurement.)
   Every roll call recorded ON A CENSUS PROPOSITION was in favor (H4844's 159-0 House passage; H4744's unanimous enactment votes).
-  The census bills' histories do contain one adverse roll call - S2834 Amendment 25, "MBTA Communities Act - Zoning Appeal", rejected 6-34 (Roll Call #194) - but that amendment carried no privacy proposition, so no proposition was defeated on the record.
+  The census bills' histories contain exactly TWO adverse roll calls, neither on a bill's own question and neither carrying a privacy proposition: H4040's "Motion to suspend Rule 40 rejected - 25 YEAS to 132 NAYS (See YEA and NAY No. 31)", a procedural motion in the FY24 budget vehicle, and S2834 Amendment 25, "MBTA Communities Act - Zoning Appeal", rejected 6-34 (Roll Call #194).
+  An "adverse roll call" here means any recorded tally, on any question, whose nays exceed its yeas; `scripts/09_checks.py` asserts the count and the two bills.
 - `sent_to_study`: a final vehicle was accompanied by a study order
 - `died_no_recorded_action`: final vehicles ended with no further action, or every carrier was consolidated into a redraft that dropped the proposition (`dropped_in_consolidation` = yes, always with "no public explanation" in the detail, since the record never explains drops)
 - `indeterminate`: reserved for unparseable records; none occurred
@@ -61,6 +79,13 @@ Every edge now carries an `identity_basis` (review finding 10): `sole-carrier` (
 Empty or sub-8-word texts yield an empty shingle set and can never be "identical" (H4241/H4744, whose API text is empty, rest on official lineage).
 All `inferred-analytic` edges are queued in `data/verification_queue.csv` as `proposition_identity` items with verbatim side-by-side quotes (`QUOTES` in `scripts/atoms.py`).
 
+VERBATIM IS ENFORCED, NOT ASSERTED (eighth pass).
+`scripts/verbatim.py` is the single test of whether an excerpt occurs in the text of the bill it is attributed to, and `scripts/09_checks.py` runs it over every `QUOTES` entry AND every queue excerpt.
+The matcher is deliberately generous, so that it can never push an author toward paraphrase: it is case- and punctuation-insensitive, treats " ... " as an elision and requires each fragment separately, drops standalone digit tokens (recovered PDF text has line numbers interleaved through it), and strips a trailing pinpoint cite such as "(s.8(c))" or "(2024 c.206 s.15)".
+A quote attributed to a bill with no recoverable text is a failure, not a pass.
+This was added because 58 of 155 quote entries were analyst descriptions rather than quotations, and one of them - S1116's - asserted an intent element ("disclosure of personally identifying information with intent to harass") that the bill does not contain, on the exact axis where it and its comparator H1707 differ.
+Where a proposition's carriers word a rule differently, the quotes now show the difference rather than smoothing it.
+
 ## Atomization rules (Goal 2)
 
 A proposition is the smallest change in law that could stand alone: it could be enacted by itself as a coherent, self-contained policy.
@@ -75,6 +100,9 @@ Operational tests, applied in order:
 Propositions are identified across bills, not within one bill: two bills proposing the same smallest change carry the same proposition ID.
 Whether two provisions are "the same" proposition: same legal mechanism aimed at the same target (not merely the same goal).
 A stricter and a weaker version of the same mechanism are the same proposition (the difference is recorded on the bill-proposition edge); a different mechanism for the same goal is a different proposition.
+The line between "weaker version" and "different mechanism" is drawn by the severability test: an ADDITIONAL affirmative duty that would still function if the shared rule were struck is its own proposition, not a strictness variant.
+The eighth pass applied this to the bus-camera family, where a flat "photographs shall not be used to identify the operator" (2024 c.363) and a best-efforts "to the extent practicable, additional efforts shall be made" (2024 c.399) are the same proposition at two strictnesses, recorded per edge, while the duty to REDACT a photograph before a notice of violation issues - present in three of twelve carriers and in only one of the two enacting chapters - is a separate proposition.
+When the recorded difference matters to whether a chapter enacted the proposition at all, split rather than merge: a merged proposition labelled enacted asserts to the reader that the chapter contains every mechanism the description names.
 
 IDs are `P-NNN` (persistent, never reused; retired IDs stay retired - the full list with the reason for each retirement is `RETIRED` in `scripts/atoms.py`).
 Rights granted in one bill section but severable as policies (access, correction, deletion, portability) are separate propositions; the initial bundling of H83 s.8 violated this and was split (review finding 4).
@@ -137,6 +165,8 @@ Excluded, with the boundary rationale:
   Every filing with any domain-term hit carries an explicit decision; hits with no prior decision are adjudicated in documented reading passes (`scripts/corpus_triage_verdicts.csv`, reason per bill), and `04_inclusion.py` fails - writing a worklist - if any hit lacks a verdict.
   Filings enter the census this way under `IN-CORPUS-SCREEN` (the current counts live in the generated tables; the screen has admitted, among others, a second doxing bill, judicial and election-worker PII shields, a workplace-surveillance family, an automated-camera family, fusion-center data rules, and dealer customer-data restrictions).
   Two primary-object filings expressed without any screened construction (S1136, S1503) were admitted from the external reviewer's independent construction screen; term-form dependence remains the census's residual recall limitation.
+  The eighth pass widened the scan again - "individually identifying information" and the passive "shall not be published|released" - and admitted H3524, whose entire text is two disclosure restrictions.
+  Each widening so far has admitted at least one further filing, which is the honest measure of how much residual recall risk remains.
 
 ## Candidate-generation rules (recall net)
 
@@ -223,7 +253,9 @@ Every override entry names its reason code and a one-line justification; the aut
 1. Fixed-point successor traversal found that the school-bus camera lineage ends in enactment (2024 c.399), correcting P-332's false "dropped in consolidation" fate; H4450 and H4940 were admitted.
 2. S1136 and S1503 admitted as term-form-independent primary-object filings (P-368, P-369).
 3. Amendment 25's discrete record was fetched and the memo corrected with its actual subject.
-4. The determinism check was extended to every generated output.
+4. The determinism check was extended to most generated outputs.
+   (Corrected in the eighth pass: it did not in fact cover `02_textscan.py` or `05_histories.py`, so `text_scan.csv` and `histories.json` were never re-derived from the raw cache.
+   Both are covered now.)
 
 2026-08-05, seventh pass, in response to a follow-up external review (all six findings accepted):
 
@@ -239,3 +271,26 @@ Every override entry names its reason code and a one-line justification; the aut
    Both retired IDs stay retired.
 6. `scripts/09_checks.py` now parses the headline numbers out of `memo/findings.md` and asserts they equal the generated tables, so a green check can no longer coexist with stale prose.
    The codebook's enacted-bill list, fate occurrences, roll-call statement, and corpus-screen count were brought current, and this log's missing fourth, fifth, and sixth entries were written from the commit record.
+
+2026-08-07, eighth pass.
+Unlike passes one through seven this review was produced in-repo rather than by an external reviewer (a multi-agent adversarial pass, each finding handed to a separate verifier instructed to refute it); `memo/review-eighth-pass.md` is the report.
+All nine ranked findings and all five minor ones were accepted.
+Every finding was reproduced before it was fixed.
+
+1. Verbatim excerpts are now enforced by `scripts/verbatim.py` and `scripts/09_checks.py` over both the quote table and the verification queue, and all 58 non-verbatim entries were replaced with real quotations from the cited bills.
+   S1116's excerpt had asserted an intent element the bill does not contain; H4356 had been given H1690's wording; H3003/H4040 had been given a phrase in neither bill nor chapter.
+   Applying the check also found that H4287's section 8 has no subsection (e) at all, so its P-302 edge was asserted against a nonexistent provision and has been removed.
+2. The stage parser now counts "Hearing rescheduled to" as a hearing record.
+   Thirteen census bills carry only that form, and the memo's "19 propositions never got a hearing" was false against their own histories; the figure is 0.
+3. Two adverse roll calls are recorded, not one; the memo and this codebook had omitted H4040's rejected Rule 40 motion, which is published in `data/bill_fates.csv` and reaches P-297/P-298.
+   `rejected_by_recorded_vote` was implemented (it had been documented but unreachable) and is asserted reachable by a self-test; it still measures zero.
+4. The methodological decision on chains through non-carrier stages was made explicitly and written into the fate rules above; P-295/P-296 move from `enacted_other_vehicle` to `enacted_as_filed`, and fate details now cite the chain that establishes the fate rather than asserting the absence of one.
+5. P-332 was split into P-378/P-379 and P-301 into P-380/P-381: each had bundled a mechanism that only some carriers, and only one of the two enacting chapters, contain.
+   P-213 was split into P-382/P-383/P-384 and its fourth prong recorded as a P-196 edge.
+   All three retired IDs stay retired.
+6. H3524 was admitted after the term scan was widened for "individually identifying information" and the passive "shall not be published"; nine new corpus hits were adjudicated, one of them in-core. 143 in-domain filings, 295 propositions, 17 enacted.
+7. `02_textscan.py` now falls back to recovered PDF text as the corpus screen already did, so seven candidates decided on an empty API text are decided on their real text; H4844 no longer depends on a hand-written override, and a corpus hit on a bill left undecided by the legacy path now demands a triage verdict instead of being discarded.
+8. The determinism check covers `02_textscan.py` and `05_histories.py`, which it had not; the sixth-pass claim that it covered "every generated output" was inaccurate.
+   `actions.py` gained the bare "Accompanied X" form (S2604's terminal record had contradicted its own citation) and the unparenthesised "Reported (in part) X"; `07_links.py`'s duplicate regex for the latter was deleted.
+9. Provision-level verdicts were added for 2024 c.135 and c.252, whose scans flag two families each and which carried one row each.
+   Eight census rows carrying hand-written prose in the `title` column now carry the official title, asserted by `scripts/09_checks.py`.

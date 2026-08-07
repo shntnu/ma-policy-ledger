@@ -219,6 +219,12 @@ H3440,190:H1900,official_similar,verified-official-record,Similar Bills tab,http
 H3440,190:H2722,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3440/SimilarBills
 H3440,191:H3142,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3440/SimilarBills
 H3440,191:H2994,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3440/SimilarBills
+H3524,H4869,sent_to_study,verified-official-record,"Accompanied a study order, see H4869",https://malegislature.gov/Bills/193/H3524
+H3524,194:H3869,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3524/SimilarBills
+H3524,192:H3680,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3524/SimilarBills
+H3524,190:H1933,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3524/SimilarBills
+H3524,191:H3224,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3524/SimilarBills
+H3524,194:H3235,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3524/SimilarBills
 H3548,H58,amendment_stage_of,verified-official-record,"Text of an amendment, see H58",https://malegislature.gov/Bills/193/H3548
 H3548,192:H4911,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3548/SimilarBills
 H3548,192:H5394,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/H3548/SimilarBills
@@ -673,6 +679,7 @@ S2600,194:S2861,official_similar,verified-official-record,Similar Bills tab,http
 S2600,186:S976,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2600/SimilarBills
 S2604,S381,redraft_of,verified-official-record,New draft of S381 and H637,https://malegislature.gov/Bills/193/S2604
 S2604,H637,redraft_of,verified-official-record,New draft of S381 and H637,https://malegislature.gov/Bills/193/S2604
+S2604,H4193,accompanied,verified-official-record,Accompanied H4193,https://malegislature.gov/Bills/193/S2604
 S2604,193:S381,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2604/SimilarBills
 S2604,193:H637,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2604/SimilarBills
 S2604,194:H3776,official_similar,verified-official-record,Similar Bills tab,https://malegislature.gov/Bills/193/S2604/SimilarBills
@@ -883,7 +890,7 @@ P-091,P-081,proposition_kinship,inferred-needs-review,Biometric protection: 93H 
 P-068,P-072,proposition_kinship,inferred-needs-review,ISP opt-in consent: private franchised ISPs (S218/H3179) vs public ISP (H3831),memo/atomization/family-mipsa-internet.md
 P-076,P-131,proposition_kinship,inferred-needs-review,Warrant for user data: public-ISP rule vs general stored-records regime,memo/atomization/family-mipsa-internet.md; memo/atomization/family-location.md
 P-183,P-171,proposition_kinship,inferred-needs-review,Biometric analysis of drone data (S1557) vs LE biometric surveillance ban (FR bills); S1557 cross-references c.6 s.220,memo/atomization/family-facial-recognition.md
-P-213,P-196,proposition_kinship,inferred-needs-review,ALPR restrictions: c.90K summary regime (H3404) vs comprehensive c.90J regime (H3431),memo/atomization/family-driver-commercial.md; memo/atomization/family-facial-recognition.md
+P-383,P-196,proposition_kinship,inferred-needs-review,ALPR restrictions: c.90K retention cap (H3404) vs comprehensive access regime (H3431),memo/atomization/family-driver-commercial.md; memo/atomization/family-facial-recognition.md
 P-211,P-194,proposition_kinship,inferred-needs-review,120-day retention/destruction: tolling data (H3434/H3404) vs ALPR data at EOPSS (H3431),memo/atomization/family-driver-commercial.md; memo/atomization/family-facial-recognition.md
 P-141,P-162,proposition_kinship,inferred-needs-review,Targeted ads to minors: edtech school-data ban vs product-category ban on minor-directed services,memo/atomization/family-student-education.md
 P-015,P-162,proposition_kinship,inferred-needs-review,Minors and targeted advertising: comprehensive-bill ban vs H80 product-category ban,memo/atomization/family-comprehensive-mdppa.md; memo/atomization/family-student-education.md
