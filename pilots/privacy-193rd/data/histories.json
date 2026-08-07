@@ -4767,6 +4767,62 @@
    }
   ]
  },
+ "H3508": {
+  "actions": [
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "House",
+    "Action": "Referred to the committee on Veterans and Federal Affairs",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-02-16T10:48:21.2666667",
+    "Branch": "Senate",
+    "Action": "Senate concurred",
+    "IsStricken": false
+   },
+   {
+    "Date": "2023-06-06T15:34:28.87",
+    "Branch": "Joint",
+    "Action": "Hearing scheduled for 06/13/2023 from 09:00 AM-01:00 PM in A-1  ",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-03-04T12:33:21.9333333",
+    "Branch": "House",
+    "Action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+    "IsStricken": false
+   },
+   {
+    "Date": "2024-12-31T23:59:00",
+    "Branch": "House",
+    "Action": "No further action taken",
+    "IsStricken": false
+   }
+  ],
+  "similar": [
+   {
+    "general_court": 194,
+    "bill": "H3852"
+   },
+   {
+    "general_court": 192,
+    "bill": "H4873"
+   },
+   {
+    "general_court": 192,
+    "bill": "H3643"
+   },
+   {
+    "general_court": 194,
+    "bill": "H1609"
+   },
+   {
+    "general_court": 194,
+    "bill": "H3722"
+   }
+  ]
+ },
  "H3524": {
   "actions": [
    {

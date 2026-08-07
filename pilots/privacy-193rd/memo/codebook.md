@@ -81,6 +81,9 @@ All `inferred-analytic` edges are queued in `data/verification_queue.csv` as `pr
 
 VERBATIM IS ENFORCED, NOT ASSERTED (eighth pass).
 `scripts/verbatim.py` is the single test of whether an excerpt occurs in the text of the bill it is attributed to, and `scripts/09_checks.py` runs it over every `QUOTES` entry AND every queue excerpt.
+A `proposition_identity` row names a bill-proposition pair, so its excerpt is tested against that bill.
+A `proposition_kinship` row names two bare propositions, so each excerpt is tested against that proposition's carrier bills and must be verbatim from at least one.
+The kinship rows were originally exempt from the check by construction - 80 of the 248 excerpt sides - while this section claimed full coverage; the exemption is removed, and the two kinship excerpts it had been hiding (P-274's export right and P-266's distribution offence) are replaced with real quotations.
 The matcher is deliberately generous, so that it can never push an author toward paraphrase: it is case- and punctuation-insensitive, treats " ... " as an elision and requires each fragment separately, drops standalone digit tokens (recovered PDF text has line numbers interleaved through it), and strips a trailing pinpoint cite such as "(s.8(c))" or "(2024 c.206 s.15)".
 A quote attributed to a bill with no recoverable text is a failure, not a pass.
 This was added because 58 of 155 quote entries were analyst descriptions rather than quotations, and one of them - S1116's - asserted an intent element ("disclosure of personally identifying information with intent to harass") that the bill does not contain, on the exact axis where it and its comparator H1707 differ.
@@ -288,7 +291,10 @@ Every finding was reproduced before it was fixed.
 5. P-332 was split into P-378/P-379 and P-301 into P-380/P-381: each had bundled a mechanism that only some carriers, and only one of the two enacting chapters, contain.
    P-213 was split into P-382/P-383/P-384 and its fourth prong recorded as a P-196 edge.
    All three retired IDs stay retired.
-6. H3524 was admitted after the term scan was widened for "individually identifying information" and the passive "shall not be published"; nine new corpus hits were adjudicated, one of them in-core. 143 in-domain filings, 295 propositions, 17 enacted.
+6. H3524 was admitted after the term scan was widened for "individually identifying information" and the passive "shall not be published"; nine new corpus hits were adjudicated, one of them in-core.
+   The same widening moved H3508's recorded hit onto the identical c.60 s.35A(a) rule, but its verdict had been written against its burn-pit clause and was not revisited, so one bill was admitted for a provision while another carrying it verbatim stayed excluded; H3508 is now IN-CORE and carries P-385 (not P-386 - chapter 62C appears nowhere in it).
+   A triage verdict is keyed to a bill, not to the term hit that prompted it, so a widening that changes which provision a bill is flagged for can leave a stale reason in place; that is what happened here and it is the failure mode to watch at the next widening.
+   144 in-domain filings, 295 propositions, 17 enacted (5.8%, unchanged by the admission).
 7. `02_textscan.py` now falls back to recovered PDF text as the corpus screen already did, so seven candidates decided on an empty API text are decided on their real text; H4844 no longer depends on a hand-written override, and a corpus hit on a bill left undecided by the legacy path now demands a triage verdict instead of being discarded.
 8. The determinism check covers `02_textscan.py` and `05_histories.py`, which it had not; the sixth-pass claim that it covered "every generated output" was inaccurate.
    `actions.py` gained the bare "Accompanied X" form (S2604's terminal record had contradicted its own citation) and the unparenthesised "Reported (in part) X"; `07_links.py`'s duplicate regex for the latter was deleted.

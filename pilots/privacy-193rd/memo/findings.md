@@ -4,7 +4,7 @@
 
 Does "the legislature passes almost nothing" survive when you count policy ideas instead of bills?
 For this domain and session: yes.
-Of 295 distinct policy propositions, 17 became law (5.8%); of 143 in-domain filings, 8 were enacted, and none of those eight was a standalone privacy bill: six were omnibus, budget, or conference vehicles and two were transportation acts carrying camera-data rules.
+Of 295 distinct policy propositions, 17 became law (5.8%); of 144 in-domain filings, 8 were enacted, and none of those eight was a standalone privacy bill: six were omnibus, budget, or conference vehicles and two were transportation acts carrying camera-data rules.
 
 ## What was measured
 
@@ -12,8 +12,8 @@ The census is a full-text screen of the complete corpus: 8,178 of the 8,183 numb
 On the enacted side the universe is the official session-law index rather than the API feed: 497 chapters (2023 Acts 1-89, 2024 Acts 1-407, and the single 2024 Resolve, https://malegislature.gov/Laws/SessionLaws/Acts/2024), every one of them obtained and full-text scanned, and every flagged chapter carries row-level verdicts (`data/acts_index.csv` is the chapter-by-chapter coverage record; `data/enacted_adjudication.csv` carries 54 row-level verdicts across 25 chapters).
 This matters because `/api/SessionLaws/2024` returns only 374 of the 407 Acts chapters the official index lists, and one of the 33 it omits - Chapter 399 - is in-domain.
 Enacted chapters' origin bills, including budget vehicles carrying outside sections, are census units, so ideas that entered law without a standalone filing are counted.
-The 143 in-domain filings were atomized into 295 propositions on 689 bill-proposition edges, each citing its bill section and carrying an identity-basis label; a 901-edge link graph connects redrafts, consolidations, study orders, text-identical filings, and absorptions into enacted vehicles; 134 items sit in `data/verification_queue.csv` (124 inferred links with verbatim side-by-side excerpts, plus 10 judgment flags).
-Every excerpt in that queue, and every quote in the analyst's quote table, is checked by `scripts/09_checks.py` against the cached text of the bill it is attributed to.
+The 144 in-domain filings were atomized into 295 propositions on 690 bill-proposition edges, each citing its bill section and carrying an identity-basis label; a 906-edge link graph connects redrafts, consolidations, study orders, text-identical filings, and absorptions into enacted vehicles; 136 items sit in `data/verification_queue.csv` (126 inferred links with verbatim side-by-side excerpts, plus 10 judgment flags).
+Every excerpt in that queue, and every quote in the analyst's quote table, is checked by `scripts/09_checks.py` against cached official text: an identity-row excerpt against the bill it names, and a kinship-row excerpt against the carrier bills of the proposition it names, where it must be verbatim from at least one.
 
 ## The answer
 
@@ -37,21 +37,24 @@ The other 278 propositions died, and the anatomy of those deaths is the finding:
    The census bills' histories contain two adverse roll calls, and neither fell on a bill's own question: a procedural motion in the FY24 budget vehicle H4040, "Motion to suspend Rule 40 rejected - 25 YEAS to 132 NAYS (See YEA and NAY No. 31)" (https://malegislature.gov/Bills/193/H4040), and S2834 Amendment 25, titled in its official record "MBTA Communities Act - Zoning Appeal", rejected 6-34 (Roll Call #194, https://malegislature.gov/api/GeneralCourts/193/Documents/S2834/Branches/Senate/Amendments/25/), which carried no privacy proposition.
 2. **The modal fate is silence.** 144 propositions (49%) died with no recorded action; 134 (45%) were sent to study through study orders whose own fetched histories (`data/study_order_status.csv`) end discharged to Rules with no further action.
    For all 278, the record offers no public explanation.
-3. **The process did real work, then discarded most of it.** 126 propositions (43%) cleared a policy committee in at least one vehicle; 49 (17%) were dropped during official consolidations - present in parent bills, absent from the redraft - with the merger recorded but the drops never explained.
+3. **The process did real work, then discarded most of it.** 127 propositions (43%) cleared a policy committee in at least one vehicle; 49 (17%) were dropped during official consolidations - present in parent bills, absent from the redraft - with the merger recorded but the drops never explained.
    The two omnibus consumer-privacy consolidations died in Ways and Means without a vote: H4632, absorbing five bills, in House Ways and Means, and S2539, absorbing thirteen, in Senate Ways and Means (https://malegislature.gov/Bills/193/H4632). Consolidation as such was not fatal, and the memo's own enacted list shows why: of the nine census redrafts absorbing two or more parents, H4115 (eight parents) became 2024 c.118 and H4450 (five parents) became 2024 c.399, while H4266 and H4356 never reached Ways and Means at all and died after a second reading.
 4. **What passed traveled around the privacy pipeline, not through it.** The dedicated privacy regimes - comprehensive consumer-data acts, biometric acts, location shields, breach modernization - all died.
    What reached the Governor rode in an abuse-prevention conference report, a housing act, two camera-enforcement transportation acts, and four budget bills; every enacted proposition has filed carriers, and for thirteen of the seventeen a standalone filing of the same proposition had already died when the idea passed inside a vehicle.
 
-Where ideas stall: 0 propositions never got a hearing; 169 stalled in policy committee (83 heard only, 86 with repeated reporting extensions); 97 cleared committee and stalled afterward, overwhelmingly in Ways and Means; 12 got further (a second reading, eleven in a second branch incl. one full House passage at 159-0); 17 were enacted.
+Where ideas stall: 0 propositions never got a hearing; 168 stalled in policy committee (83 heard only, 85 with repeated reporting extensions); 98 cleared committee and stalled afterward, overwhelmingly in Ways and Means; 12 got further (a second reading, eleven in a second branch incl. one full House passage at 159-0); 17 were enacted.
 
 ## Limitations
 
 - One domain, one session; the 5.8% rate may not generalize.
 - The census is a full-text term screen (privacy, data, confidentiality, nondisclosure, and public-record-exclusion language): a filing touching the domain only in language outside that set would still be missed.
-  The enacted side does not rely on that screen alone - Chapter 399 regulates camera images without using a single screen term, and is in the ledger because the signature probe and the enacted-origin feedback loop found it independently - but the same blind spot on the filed side is real, and each widening of the term set has so far admitted at least one more filing (H3524 this pass).
+  The enacted side does not rely on that screen alone - Chapter 399 regulates camera images without using a single screen term, and is in the ledger because the signature probe and the enacted-origin feedback loop found it independently - but the same blind spot on the filed side is real, and each widening of the term set has so far admitted at least one more filing (H3524 and H3508 this pass).
+  That limit is one-directional against the headline, and this is the reason the rate is reportable despite it: because the enacted universe is enumerated from the official index rather than from the screen, and enacted chapters' origin bills are census units, a filing the screen misses can only add propositions that died.
+  It cannot add an enactment, because an enacted privacy provision is reached from the chapter side regardless of the filed-side terms.
+  An undiscovered in-domain filing therefore pushes 5.8% down, never up.
   Five bills have no recoverable text and are recorded in `data/unscanned_bills.csv`.
 - The domain boundary excludes program-incident data clauses (confidentiality boilerplate attached to registries, compacts, review boards, benefit programs) symmetrically on both the filed and enacted sides; every such verdict is recorded row-level (511 filed-side triage verdicts in `scripts/corpus_triage_verdicts.csv`, enacted-side in `data/enacted_adjudication.csv`), and the closest calls are queued.
-- 84 cross-bill proposition-identity claims rest on analytic judgment rather than text-identity or official lineage; each is queued with verbatim side-by-side quotes.
+- 86 cross-bill proposition-identity claims rest on analytic judgment rather than text-identity or official lineage; each is queued with verbatim side-by-side quotes.
 - `enacted_as_filed` follows an official successor chain even where an intermediate print does not carry the proposition, which is how the eviction-sealing regime is classified; the codebook states the rule and the alternative reading.
 - 1,973 docket-book-only filings have no retrievable text through the bill API and are accounted for but not atomizable.
 - "Sent to study" is treated as terminal because every study order's fetched history ends without further action on any privacy matter.

@@ -722,6 +722,17 @@ edges("S194", ("P-254", "c.10 s.24 (sole section)", ""))
 edges("H3524",
     ("P-385", "SECTION 1 (new c.60 s.35A(a))", ""),
     ("P-386", "SECTION 2 (c.62C s.21)", ""))
+# The same widening that admitted H3524 moved H3508's recorded term hit onto the
+# identical c.60 s.35A(a) rule, but H3508 kept a triage verdict written against
+# its burn-pit clause, so one bill was admitted for a provision while another
+# carrying that provision verbatim stayed excluded. H3508 is the omnibus veterans
+# act; it carries P-385 only - chapter 62C appears nowhere in it, so there is no
+# P-386 edge - and its open-burn-pit database confidentiality clause remains
+# program-incident.
+edges("H3508",
+    ("P-385", "SECTION xx (new c.60 s.35A(a))", "omnibus carrier; s.35A(b) names the "
+     "veteran service officer where H3524 names the veterans' agent, which is the "
+     "notice channel and not the nondisclosure rule"))
 edges("S938", ("P-255", "c.258C s.15 (sole section)", ""))
 edges("H3863",
     ("P-256", "SECTION 1 para.1", ""),
@@ -1383,3 +1394,15 @@ edges("H219",
     ("P-375", "new c.6A s.16DD(d) (final sentence)", "presupposes the card P-374 issues, but binds a different party and is separately enforceable"),
     ("P-376", "new c.6A s.16DD(b); SECTION 2 (new c.29 s.2RRRRR)", "the trust fund attaches to the fee it receives"),
     ("P-377", "new c.6A s.16DD(c)", ""))
+
+# P-385 gained a second carrier when H3508 was admitted, so its edges are no
+# longer sole-carrier and the identity claim reaches the verification queue.
+# The two operative texts are word-identical; the reviewer should see that.
+QUOTES.update({
+    ("H3524", "P-385"): "no municipality shall publish or cause to be published the name, "
+                        "or other individually identifying information, of a veteran still "
+                        "owing a tax pursuant to this chapter after it has become due and payable",
+    ("H3508", "P-385"): "no municipality shall publish or cause to be published the name, "
+                        "or other individually identifying information, of a veteran still "
+                        "owing a tax pursuant to this chapter after it has become due and payable",
+})

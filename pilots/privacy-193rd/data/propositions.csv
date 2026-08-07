@@ -292,5 +292,5 @@ P-381,buscam-redaction-before-notice,surveillance-tech,"Photographs capturing th
 P-382,alpr-protected-activity-tracking-ban,surveillance-tech,No ALPR use to track or monitor constitutionally protected activity,1
 P-383,alpr-14day-retention-cap,surveillance-tech,ALPR data may not be retained beyond 14 days absent a specific criminal investigation based on articulable facts,1
 P-384,alpr-outside-data-warrant,surveillance-tech,No access to other governmental or non-governmental entities' ALPR data without a valid search warrant,1
-P-385,veteran-tax-municipal-nondisclosure,govt-records,Municipalities may not publish the name or other individually identifying information of a veteran who still owes a tax,1
+P-385,veteran-tax-municipal-nondisclosure,govt-records,Municipalities may not publish the name or other individually identifying information of a veteran who still owes a tax,2
 P-386,veteran-tax-list-name-exclusion,govt-records,The name and address of a veteran may not be published as part of the commissioner's public list of delinquent taxpayers under c.62C s.21,1
