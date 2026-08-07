@@ -1,0 +1,68 @@
+H1474 | EX-ADJACENT | Amends c.41 s.97D to require release of DV/sexual-assault statistical data on public request; transparency mandate with c.66 s.10 redaction incidental
+H1477 | EX-ADJACENT | Upskirting recording offense rewrite (c.272 s.105(a)-(b)); visual/physical privacy with no dissemination or data-handling rule
+H1485 | EX-PROGRAM-INCIDENT | Supporter confidentiality duty incident to the supported decision-making agreement framework the bill creates
+H1486 | EX-PROGRAM-INCIDENT | Child advocate's records-access authority; data clauses incident to oversight-office program
+H1547 | EX-ADJACENT | Adds "technological abuse" (incl. monitoring, image sharing) to abuse definition; protective-order/abuse conduct law, no disclosure rule
+H1566 | IN-CORE | Judicial Security Act: agency posting ban, data broker sale ban, and takedown rights over judges' personal information (full text read)
+H1566 | MECHANISMS | New c.221D: s.2(a) ban on state/county/municipal agencies posting protected individuals' personal info online without written consent; s.2(b)-(c) confidentiality-marking request with 72-hour removal; s.3(a) data broker ban on selling/licensing/trading judges' personal info; s.3(b)-(e) post-request takedown duty on any person/business (72-hour removal, no subsidiary-site availability, no onward transfer); s.3(f) private action for injunctive/declaratory relief with costs and fees
+H1573 | EX-ADJACENT | Phishing offense (new c.266 s.37F): criminal fraud by business impersonation to procure payment/PII; fraud mechanism, not a data-handling rule (full text read)
+H1602 | EX-ADJACENT | Parentage act; genetic-testing and case-privacy provisions are family-law procedure, expressly excluded
+H1655 | EX-FALSEPOS | "Genetic information" appears only in c.151B nondiscrimination protected-class list
+H1677 | EX-FALSEPOS | "Genetic information" in a protected-class enumeration; no data-handling provision
+H1708 | EX-FALSEPOS | "Genetic information" in investment-practices nondiscrimination list
+H1713 | EX-ADJACENT | Parentage equality; genetic-testing challenge procedure is family-law, expressly excluded
+H1747 | EX-PROGRAM-INCIDENT | Confidentiality of medical peer review proceedings, incident to the peer-review system
+H1752 | EX-ADJACENT | Wrongful-conviction compensation; court-discretion expungement/sealing consideration is case procedure incident to the claim
+H1788 | EX-FALSEPOS | Swatting offense; "automatic location information" is a 911 ALI definition, not a data rule
+H1820 | EX-ADJACENT | Duplicate of H1752 pattern: compensation bill with incidental expungement/sealing consideration
+H1848 | EX-FALSEPOS | "Genetic information" in TNC-driver nondiscrimination list
+H1857 | EX-FALSEPOS | "Genetic information" added to apprenticeship nondiscrimination list
+H1858 | EX-ADJACENT | Mandates publishing PFML hearing decisions; PII redaction clause incidental to the transparency/publication mandate (full text read)
+H1873 | IN-CORE | Comprehensive worker-data privacy and workplace electronic monitoring/ADS regime, new c.149B (full text read)
+H1873 | MECHANISMS | c.149B: s.2 notice of data collection (incl. vendor/third-party disclosure notice, copy to department); s.2A worker right to access worker data in portable format on verifiable request; s.2B accuracy duty and correction right with downstream third-party correction; s.2C data minimization/purpose limitation (a)-(d), sale/license ban on worker data incl. deidentified (e), disclosure-by-contract-only with security (f), biometric/health third-party transfer ban (g), government-sharing limits (h), biometric/health destruction (i), use bans for employment decisions (j)-(k); s.2D security safeguards and breach notification to workers and department; s.2E vendor compliance, joint liability, return-and-delete; s.3-3B electronic monitoring notice, notice of change, annual systems inventory; s.3C allowable-purpose/strictly-necessary/least-invasive limits on monitoring, prohibited practices (off-duty, private areas, facial/gait/emotion recognition), productivity-system pre-review, personal-device/implant limits with location-tracking disable; s.3D use limits and no sole reliance on monitoring data for decisions; s.4-4B ADS notice, change notice, annual inventory; s.4C-4D prohibited ADS uses (profiling rights-exercise, facial/gait/emotion recognition, customer ratings), productivity-algorithm pre-review, human-oversight corroboration requirement, no sole reliance for wages/hiring/firing; s.4E vendor ADS duties and return-delete; s.5 algorithmic impact assessments (with worker dispute right per s.5C); s.6 recourse/enforcement and state-worker application
+H1882 | EX-PROGRAM-INCIDENT | Complaint-record privacy clause incident to the workplace-safety complaint program the bill creates
+H1918 | EX-PROGRAM-INCIDENT | Privacy/confidentiality appears as a training-content topic incident to employment protections for abuse victims
+H1927 | EX-PROGRAM-INCIDENT | Public-records privacy-exemption denial clause incident to workers-comp data access provisions
+H2003 | EX-FALSEPOS | "Surveillance" is the DPH injury surveillance program, statistics sense
+H2023 | EX-FALSEPOS | House Rules order; genetic info in anti-harassment protected-class list
+H2117 | EX-FALSEPOS | "Privacy barrier" is a dog-pen fence
+H2132 | EX-FALSEPOS | Children's vision "surveillance registry", public-health statistics sense
+H2147 | EX-FALSEPOS | Long COVID study resolve; disease-surveillance sense
+H2151 | EX-PROGRAM-INCIDENT | Immunization program bill; 93H personal-info disclosure carve-out incident to the program
+H2158 | EX-PROGRAM-INCIDENT | Disease-reporting/MAVEN surveillance-system inclusion; registry program with incidental data clauses
+H2172 | EX-FALSEPOS | Pupil dental health; "statement of privacy" boilerplate reference
+H2178 | EX-FALSEPOS | Alzheimer's; BRFSS survey "surveillance" is statistics sense
+H2182 | EX-FALSEPOS | Genetic testing appears as insurance-coverage survey subject
+H2204 | EX-PROGRAM-INCIDENT | Public-health infrastructure; publish-data-excluding-PII clause incident to the program
+H2233 | EX-PROGRAM-INCIDENT | PT licensure compact; biometric background-check clause incident to compact (codebook-listed pattern)
+H2247 | EX-FALSEPOS | Safe patient handling; "privacy regulations" passing reference
+H2254 | EX-PROGRAM-INCIDENT | Telehealth access bill; conform-to-privacy-standards clause incident to the telehealth framework
+H2256 | EX-PROGRAM-INCIDENT | Interstate Medical Licensure Compact; PII-disclosure clause incident to compact
+H2257 | EX-FALSEPOS | Cancer surveillance fund; statistics sense
+H2265 | EX-PROGRAM-INCIDENT | Pregnancy-loss data collection with privacy-protection proviso incident to awareness program
+H2280 | EX-FALSEPOS | Lead poisoning public-health surveillance; statistics sense
+H2288 | EX-ADJACENT | Safe Communities Act: immigration-enforcement limits on police conduct; PII public-record carve-outs incidental, and (e) expressly preserves status-info sharing (full text read)
+H2314 | EX-PROGRAM-INCIDENT | Visitor personal-info minimization item incident to corrections visitation-policy provisions
+H2319 | EX-PROGRAM-INCIDENT | Medical parole report shall-not-include-PII clause, incident to reporting
+H2357 | EX-PROGRAM-INCIDENT | Corrections reporting/intake provisions with no-PII clauses incident to the program
+H2371 | EX-PROGRAM-INCIDENT | Medically-necessary disclosure limit incident to incarcerated reproductive-health-care program
+H2397 | EX-PROGRAM-INCIDENT | Parole report no-PII clause, incident to reporting
+H2399 | EX-PROGRAM-INCIDENT | Voluntary do-not-sell firearms list: registry the bill creates; confidentiality (s.131Z(b)) and record-destruction (f) clauses incident to the firearms program (full text read)
+H2539 | EX-PROGRAM-INCIDENT | Civil-service proceeding protective-order clause for sensitive info, incident to procedure
+H2721 | EX-FALSEPOS | Donation reporting "except as necessary to comply with privacy laws" boilerplate
+H2752 | EX-FALSEPOS | Home-care "client/consumer privacy" respected in worker-safety standards; passing sense
+H2986 | EX-PROGRAM-INCIDENT | Psychology interjurisdictional compact; PII-disclosure clause incident to compact
+H3008 | EX-FALSEPOS | Evidence-facility siting study; "privacy and security concerns" as siting factor
+H3019 | EX-FALSEPOS | Gender-neutral bathrooms; "privacy walls" physical sense
+H3029 | EX-FALSEPOS | "Keep... personal data" in agency-powers boilerplate for new food-security office
+H3050 | EX-ADJACENT | State auditor access to agency databases including PII; government-transparency/audit authority, not data-handling regulation
+H3060 | EX-FALSEPOS | GINA cited in list of labor laws for contractor compliance
+H3084 | EX-PROGRAM-INCIDENT | Report-protects-privacy clause incident to language-access program
+H3089 | EX-PROGRAM-INCIDENT | Constituent-info sharing authorization incident to legislator-referral process it establishes
+H3171 | EX-PROGRAM-INCIDENT | Energy-neighborhoods initiative; prevent-PII-disclosure evaluation clause (same pattern as reclassified H3217)
+H3173 | EX-FALSEPOS | Gas-leak "surveillance" is pipeline monitoring
+H3192 | EX-PROGRAM-INCIDENT | Building-energy data program with incidental PII-disclosure prevention clause (H3217 pattern)
+H3195 | EX-FALSEPOS | Gas-leak "continuous surveillance" is pipeline monitoring
+H3267 | EX-PROGRAM-INCIDENT | Somerville speed-camera authorization; s.8 data safeguards (48-hour destruction, non-discoverability, not public record, no frontal photos) are incident to the enforcement program the act creates (full text read)
+H3289 | IN-CORE | Bill's primary subject is PI access to the RMV personal-data and facial recognition systems: grants c.90 s.30A data access, then prohibits misuse and bars facial recognition access with license revocation (full text read)
+H3289 | MECHANISMS | SECTION 1 adds licensed private detectives/investigators to c.90 s.30A (RMV computer data/equipment access); SECTION 2 amends c.147 s.30 adding para 12 (prohibits use of RMV computer data inconsistent with c.147 s.22(2)) and para 13 (prohibits accessing the RMV facial recognition system), with mandatory license revocation for violating paras 12-13

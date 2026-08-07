@@ -1,0 +1,1495 @@
+1 of 64 
+ 
+HOUSE . . . . . . . . . . . . . . No. 5159 
+ 
+The Commonwealth of Massachusetts 
+ 
+ 
+_______________ 
+The committee of conference on the disagreeing votes of the two branches with reference 
+to the Senate amendments (striking out all after the enacting clause and inserting in place thereof 
+the text contained in Senate document numbered 2881; and by striking out the title and inserting 
+in place thereof the following title: “An Act enhancing the health care market review process.”) of 
+the House Bill enhancing the market review process (House, No. 4653), reports recommending 
+passage of the accompanying bill (House, No. 5159). December 27, 2024. 
+ 
+ 
+ 
+John J. Lawn, Jr. Cindy F. Friedman 
+Frank A. Moran John J. Cronin 
+Hannah Kane 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 of 64 
+ FILED ON: 12/27/2024 
+HOUSE . . . . . . . . . . . . . . . No. 5159 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act enhancing the market review process. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1 SECTION 1. Section 16 of chapter 6A of the General Laws, as appearing in the 2022 
+2 Official Edition, is hereby amended by striking out, in lines 24 to 26, inclusive, the words “, the 
+3 division of medical assistance and the Betsy Lehman center for patient safety and medical error 
+4 reduction” and inserting in place thereof the following words:- and the division of medical 
+5 assistance. 
+6 SECTION 2. Section 16D of said chapter 6A, as so appearing, is hereby amended by 
+7 striking out, in lines 22 to 23, inclusive, the words “in the department of public health established 
+8 by section 217 of chapter 111” and inserting in place thereof the following words:- within the 
+9 health policy commission established by section 16 of chapter 6D. 
+10 SECTION 3. Section 16N of said chapter 6A of the General Laws is hereby repealed.
+11 SECTION 4. Section 16T of said chapter 6A of the General Laws is hereby repealed. 
+3 of 64 
+12 SECTION 5. Section 1 of chapter 6D of the General Laws, as appearing in the 2022 
+13 Official Edition, is hereby amended by inserting after the definition of “Health care provider” the 
+14 following 2 definitions:- 
+15 “Health care real estate investment trust”, a real estate investment trust, as defined by 26 
+16 U.S.C section 856, whose assets consist of real property held in connection with the use or 
+17 operations of a provider or provider organization. 
+18 “Health care resource”, any resource, whether personal or institutional in nature and 
+19 whether owned or operated by any person, the commonwealth or political subdivision thereof, 
+20 the principal purpose of which is to provide, or facilitate the provision of, services for the 
+21 prevention, detection, diagnosis or treatment of those physical and mental conditions, which 
+22 usually are the result of, or result in, disease, injury, deformity or pain; provided, however, that 
+23 the term “treatment”, as used in this definition, shall include custodial and rehabilitative care 
+24 incident to infirmity, developmental disability or old age. 
+25 SECTION 6. Said section 1 of said chapter 6D, as so appearing, is hereby further 
+26 amended by inserting after the definition of “Health care services” the following 2 definitions:- 
+27 “Health disparities”, preventable differences in the burden of disease, injury, violence or 
+28 opportunities to achieve optimal health that are experienced by socially disadvantaged 
+29 populations. 
+30 “Health equity”, the state in which a health system offers the infrastructure, facilities, 
+31 services, geographic coverage, affordability and all other relevant features, conditions and 
+32 capabilities that will provide all people with the opportunity and reasonable expectation that they 
+33 can reach their full health potential and well-being and are not disadvantaged in access to health 
+4 of 64 
+34 care by their race, ethnicity, language, disability, age, gender, gender identity, sexual orientation, 
+35 social class, intersections among these communities or identities, or their socially determined 
+36 circumstances. 
+37 SECTION 7. Said section 1 of said chapter 6D, as so appearing, is hereby further 
+38 amended by inserting after the definition of “Hospital service corporation” the following 
+39 definition:- 
+40 “Management services organization”, a corporation that provides management or 
+41 administrative services to a provider or provider organization for compensation. 
+42 SECTION 8. Said section 1 of said chapter 6D, as so appearing, is hereby further 
+43 amended by striking out the definition of “Payer” and inserting in place thereof the following 
+44 definition:- 
+45 “Payer”, any entity, other than an individual, that pays providers for the provision of 
+46 health care services; provided, however, that “payer” shall include both governmental and 
+47 private entities; and provided further, that “payer” shall include self-insured plans to the extent 
+48 allowed under the Employee Retirement Income Security Act of 1974. 
+49 SECTION 9. Said section 1 of said chapter 6D, as so appearing, is hereby further 
+50 amended by inserting after the definition of “Performance penalty” the following 2 definitions:- 
+51 “Pharmaceutical manufacturing company”, an entity engaged in the: (i) production, 
+52 preparation, propagation, compounding, conversion or processing of prescription drugs, directly 
+53 or indirectly, by extraction from substances of natural origin, independently by means of 
+54 chemical synthesis or by a combination of extraction and chemical synthesis; or (ii) packaging, 
+5 of 64 
+55 repackaging, labeling, relabeling or distribution of prescription drugs; provided, however, that 
+56 “pharmaceutical manufacturing company” shall not include a hospital licensed under section 51 
+57 of chapter 111, a wholesale drug distributor licensed under section 36B of chapter 112 or a retail 
+58 pharmacist registered under section 39 of said chapter 112. 
+59 “Pharmacy benefit manager”, as defined in section 1 of chapter 176Y. 
+60 SECTION 10. Said section 1 of said chapter 6D, as so appearing, is hereby further 
+61 amended by inserting after the definition of “Primary care provider” the following definition:- 
+62 “Private equity company”, any company that collects capital investments from 
+63 individuals or entities and purchases, as a parent company or through another entity that the 
+64 company completely or partially owns or controls, a direct or indirect ownership share of a 
+65 provider, provider organization or management services organization; provided, however, that 
+66 “private equity company” shall not include venture capital firms exclusively funding startups or 
+67 other early-stage businesses. 
+68 SECTION 11. Said section 1 of said chapter 6D, as so appearing, is hereby further 
+69 amended by inserting after the definition of “Shared decision-making” the following definition:- 
+70 “Significant equity investor”, (i) any private equity company with a financial interest in a 
+71 provider, provider organization or management services organization; or (ii) an investor, group 
+72 of investors or other entity with a direct or indirect possession of equity in the capital, stock or 
+73 profits totaling more than 10 per cent of a provider, provider organization or management 
+74 services organization; provided, however, that “significant equity investor” shall not include 
+75 venture capital firms exclusively funding startups or other early-stage businesses. 
+6 of 64 
+76 SECTION 12. Section 2 of said chapter 6D, as so appearing, is hereby amended by 
+77 striking out subsections (b) and (c) and inserting in place thereof the following 2 subsections:- 
+78 (b)(1) There shall be a board, with duties and powers established by this chapter, which 
+79 shall govern the commission. The board shall consist of 11 members: 1 of whom shall be the 
+80 secretary of health and human services, or a designee; 1 of whom shall be the commissioner of 
+81 insurance, or a designee; 6 of whom shall be appointed by the governor, 1 of whom shall serve as 
+82 chairperson, 1 of whom shall be selected from a list of 3 nominees submitted by the president of 
+83 the senate and 1 of whom shall be selected from a list of 3 nominees submitted by the speaker of 
+84 the house or representatives; and 3 of whom shall be appointed by the attorney general. All 
+85 appointed members shall serve for a term of 5 years, but a person appointed to fill a vacancy 
+86 shall serve only for the remainder of the unexpired term. An appointed member of the board 
+87 shall be eligible for reappointment; provided, however, that no appointed member shall hold full 
+88 or part-time employment in the executive branch of state government. The board shall annually 
+89 elect 1 of its members to serve as vice-chairperson. Each member of the board shall be a resident 
+90 of the commonwealth. 
+91 (2) The person appointed by the governor to serve as chairperson shall have demonstrated 
+92 expertise in health care administration, finance and management at a senior level. The second 
+93 person appointed by the governor, shall have demonstrated expertise in representing hospitals or 
+94 hospital health systems. The third person appointed by the governor shall have demonstrated 
+95 expertise in health plan administration and finance. The fourth person appointed by the governor 
+96 shall be a registered nurse with expertise in the delivery of care and development and utilization 
+97 of innovative treatments in the practice of patient care. The fifth person appointed by the 
+98 governor, from the list of nominees submitted by the president of the senate, shall have 
+7 of 64 
+99 demonstrated expertise in representing the health care workforce as a leader in a labor 
+100 organization. The sixth person appointed by the governor, from the list of nominees submitted by 
+101 the speaker of the house of representatives, shall have demonstrated expertise in health care 
+102 innovation, including pharmaceuticals, biotechnology or medical devices. The first person 
+103 appointed by the attorney general shall be a health economist. The second person appointed by 
+104 the attorney general shall have demonstrated expertise in health care consumer advocacy. The 
+105 third person appointed by the attorney general shall have expertise in behavioral health, 
+106 substance use disorder, mental health services and mental health reimbursement systems. 
+107 (c) Six members of the board shall constitute a quorum, and the affirmative vote of 6 
+108 members of the board shall be necessary and sufficient for any action taken by the board. No 
+109 vacancy in the membership of the board shall impair the right of a quorum to exercise all the 
+110 rights and duties of the commission. The appointed members of the board shall receive a stipend 
+111 in an amount not more than 10 per cent of the salary of the secretary of administration and 
+112 finance under section 4 of chapter 7; provided, however, that the chairperson shall receive a 
+113 stipend in an amount not more than 12 per cent of the salary of the secretary of administration 
+114 and finance under said section 4 of said chapter 7. The secretary of health and human services 
+115 and the commissioner of insurance, or their designees, shall not receive a stipend for their service 
+116 as board members. A member of the board shall not be employed by, a consultant to, a member 
+117 of the board of directors of, affiliated with, have a financial stake in or otherwise be a 
+118 representative of a health care entity while serving on the board. 
+119 SECTION 13. Section 5 of said chapter 6D, as so appearing, is hereby amended by 
+120 striking out, in line 10, the words “and (vii)” and inserting in place thereof the following words:- 
+8 of 64 
+121 ; (vii) monitor the location and distribution of health care services and health care resources; and 
+122 (viii). 
+123 SECTION 14. Said chapter 6D is hereby further amended by striking out section 6, most 
+124 recently amended by section 5 of chapter 140 of the acts of 2024, and inserting in place thereof 
+125 the following section:- 
+126 Section 6. (a) For the purposes of this section, “non-hospital provider organization” shall 
+127 mean a provider organization required to register under section 11 that is: (i) a non-hospital-
+128 based physician practice with not less than $500,000,000 in annual gross patient service revenue; 
+129 (ii) a clinical laboratory; (iii) an imaging facility; or (iv) a network of affiliated urgent care 
+130 centers. 
+131 (b) Each acute hospital, ambulatory surgical center, non-hospital provider organization, 
+132 pharmaceutical manufacturing company and pharmacy benefit manager shall pay to the 
+133 commonwealth an amount for the estimated expenses of the commission. 
+134 (c) The assessed amount for acute hospitals, ambulatory surgical centers and non-hospital 
+135 provider organizations shall be not less than 30 per cent nor more than 40 per cent of the amount 
+136 appropriated by the general court for the expenses of the commission minus amounts collected 
+137 from: (i) filing fees; (ii) fees and charges generated by the commission; and (iii) federal matching 
+138 revenues received for these expenses or received retroactively for expenses of predecessor 
+139 agencies; provided, however, that, to the maximum extent permissible under federal law, non-
+140 hospital provider organizations shall be assessed not less than 3 per cent nor more than 8 per cent 
+141 of the total assessed amount for acute hospitals, ambulatory surgical centers and non-hospital 
+142 provider organizations. Each acute hospital, ambulatory surgical center and non-hospital 
+9 of 64 
+143 provider organization shall pay such assessed amount multiplied by the ratio of the acute 
+144 hospital’s, ambulatory surgical center’s or non-hospital provider organization’s gross patient 
+145 service revenues to the total gross patient service revenues of all such hospitals, ambulatory 
+146 surgical centers and non-hospital provider organizations. Each acute hospital, ambulatory 
+147 surgical center and non-hospital provider organization shall make a preliminary payment to the 
+148 commission on October 1 of each year in an amount equal to 1/2 of the previous year’s total 
+149 assessment. Thereafter, each acute hospital, ambulatory surgical center and non-hospital provider 
+150 organization shall pay, within 30 days’ notice from the commission, the balance of the total 
+151 assessment for the current year based upon its most current projected gross patient service 
+152 revenue. The commission shall subsequently adjust the assessment for any variation in actual and 
+153 estimated expenses of the commission and for changes in acute hospital, ambulatory surgical 
+154 center and non-hospital provider organization gross patient service revenue. Such estimated and 
+155 actual expenses shall include an amount equal to the cost of fringe benefits and indirect 
+156 expenses, as established by the comptroller under section 5D of chapter 29. In the event of late 
+157 payment by any such acute hospital, ambulatory surgical center or non-hospital provider 
+158 organization, the treasurer shall advance the amount of due and unpaid funds to the commission 
+159 prior to the receipt of such monies in anticipation of such revenues up to the amount authorized 
+160 in the then current budget attributable to such assessments and the commission shall reimburse 
+161 the treasurer for such advances upon receipt of such revenues. This section shall not apply to any 
+162 state institution or to any acute hospital which is operated by a city or town. 
+163 (d) To the maximum extent permissible under federal law, and provided that such 
+164 assessment will not result in any reduction of federal financial participation in Medicaid, the 
+165 assessed amount for pharmaceutical manufacturing companies shall be not less than 5 per cent 
+10 of 64 
+166 nor more than 10 per cent of the amount appropriated by the general court for the expenses of the 
+167 commission minus amounts collected from: (i) filing fees; (ii) fees and charges generated by the 
+168 commission; and (iii) federal matching revenues received for these expenses or received 
+169 retroactively for expenses of predecessor agencies. Each pharmaceutical manufacturing company 
+170 shall pay such assessed amount multiplied by the ratio of MassHealth’s net spending for the 
+171 manufacturer’s prescription drugs used in the MassHealth rebate program to MassHealth’s total 
+172 pharmacy spending. 
+173 (e) To the maximum extent permissible under federal law, and provided that such 
+174 assessment will not result in any reduction of federal financial participation in Medicaid, the 
+175 assessed amount for pharmacy benefit managers shall be not less than 5 per cent nor more than 
+176 10 per cent of the amount appropriated by the general court for the expenses of the commission 
+177 minus amounts collected from: (i) filing fees; (ii) fees and charges generated by the commission; 
+178 and (iii) federal matching revenues received for these expenses or received retroactively for 
+179 expenses of predecessor agencies. Each pharmacy benefit manager shall pay such assessed 
+180 amount multiplied by the ratio of the claims paid by the pharmacy benefit manager attributed to 
+181 residents of the commonwealth for whom it manages pharmaceutical benefits on behalf of 
+182 carriers to the total of all such claims paid by all pharmacy benefit managers attributed to 
+183 residents of the commonwealth for whom they manage pharmaceutical benefits on behalf of 
+184 carriers. 
+185 (f) Each pharmaceutical manufacturing company and each pharmacy benefit manager 
+186 shall make a preliminary payment to the commission annually on October 1 in an amount equal 
+187 to 1/2 of the previous year’s total assessment. Thereafter, each pharmaceutical manufacturing 
+188 company and each pharmacy benefit manager shall pay, within 30 days of receiving notice from 
+11 of 64 
+189 the commission, the balance of the total assessment for the current year as determined by the 
+190 commission. 
+191 SECTION 15. Section 7 of said chapter 6D, as appearing in the 2022 Official Edition, is 
+192 hereby amended by striking out, in line 35, the words “and (vi)” and inserting in place thereof 
+193 the following words:- (vi) advance health equity; and (vii). 
+194 SECTION 16. Subsection (a) of section 8 of said chapter 6D, as so appearing, is hereby 
+195 amended by striking out the second sentence and inserting in place thereof the following 
+196 sentence:- The hearings shall examine the costs, prices and cost trends of health care providers, 
+197 provider organizations, private and public health care payers, pharmaceutical manufacturing 
+198 companies and pharmacy benefit managers and any relevant impact of significant equity 
+199 investors, health care real estate investment trusts, management services organizations on such 
+200 costs, prices and cost trends, with particular attention to factors that contribute to cost growth 
+201 within the commonwealth's health care system and trends in annual primary care and behavioral 
+202 health expenditures. 
+203 SECTION 17. Said section 8 of said chapter 6D, as so appearing, is hereby further 
+204 amended by inserting after the word “payers” in line 16, the following words:- , significant 
+205 equity investors, health care real estate investment trusts, management services organizations, 
+206 pharmaceutical manufacturing companies, pharmacy benefit managers. 
+207 SECTION 18. Said section 8 of said chapter 6D, as so appearing, is hereby further 
+208 amended by striking out, in lines 29 through 34, inclusive, the words “(x) at least 4 provider 
+209 organizations, at least 2 of which shall be certified as accountable care organizations, 1 of which 
+210 has been certified as a model ACO, which shall be from diverse geographic regions of the 
+12 of 64 
+211 commonwealth; and (xi) any witness identified by the attorney general or the center” and 
+212 inserting in place thereof the following words:- (x) at least 4 provider organizations which shall 
+213 be from diverse geographic regions of the commonwealth, at least 2 of which shall be certified as 
+214 accountable care organizations and 1 of which shall be certified as a model ACO; (xi) any 
+215 significant equity investor, health care real estate investment trust or management services 
+216 organization associated with a provider or provider organization; (xii) a representative from the 
+217 division of insurance; (xiii) the executive director of the commonwealth health insurance 
+218 connector authority; (xiv) the assistant secretary for MassHealth; (xv) not less than 2 
+219 representatives of the pharmacy benefit management industry; (xvi) not less than 3 
+220 representatives of pharmaceutical manufacturing companies, 1 of whom shall be a representative 
+221 of a publicly traded company that manufactures specialty drugs, 1 of whom shall be a 
+222 representative of a company that manufacturers generic drugs and 1 of whom shall be a 
+223 representative of a company that has been in existence for fewer than 10 years; and (xvii) any 
+224 witness identified by the attorney general or the center. The commission shall also request 
+225 testimony from officials representing the federal Centers for Medicare and Medicaid Services. 
+226 SECTION 19. Said section 8 of said chapter 6D, as so appearing, is hereby further 
+227 amended by striking out, in line 49, the first time it appears, the word “and”. 
+228 SECTION 20. Said section 8 of said chapter 6D, as so appearing, is hereby further 
+229 amended by inserting after the word “commission”, in line 60, the first time it appears, the 
+230 following words:- ; (iii) in the case of the assistant secretary for MassHealth, testimony 
+231 concerning the structure, benefits, eligibility, caseload and financing of MassHealth and other 
+232 Medicaid programs administered by the office of Medicaid or in partnership with other state and 
+233 federal agencies and the agency’s activities to align or redesign those programs in order to 
+13 of 64 
+234 encourage the development of more integrated and efficient health care delivery systems; (iv) in 
+235 the case of pharmacy benefit managers and pharmaceutical manufacturing companies, testimony 
+236 concerning factors underlying prescription drug costs and price increases, the impact of 
+237 aggregate manufacturer rebates, discounts and other price concessions on net pricing; provided, 
+238 however, that such testimony shall be suitable for public release and not likely to compromise 
+239 the financial, competitive or proprietary nature of any information or data; and (v) in the case of 
+240 significant equity investors, health care real estate investment trusts or management services 
+241 organization associated with a provider or provider organization, testimony concerning health 
+242 outcomes, prices charged to insurers and patients, staffing levels, clinical workflow, financial 
+243 stability and ownership structure of an associated provider or provider organization, dividends 
+244 paid out to investors, compensation including, but not limited to, base salaries, incentives, 
+245 bonuses, stock options, deferred compensations, benefits and contingent payments to officers, 
+246 managers and directors of provider organizations in the commonwealth acquired, owned or 
+247 managed, in whole or in part, by said significant equity investors, health care real estate 
+248 investment trusts or management services organizations. 
+249 SECTION 21. Said section 8 of said chapter 6D, as so appearing, is hereby further 
+250 amended by striking out subsection (g) and inserting in place thereof the following subsection:- 
+251 (g) The commission shall compile an annual report concerning spending trends, including 
+252 primary care and behavioral health expenditures, and the underlying factors influencing said 
+253 spending trends. The report shall be based on the commission’s analysis of information provided 
+254 at the hearings by witnesses, providers, provider organizations and payers, registration data 
+255 collected pursuant to section 11, data collected or analyzed by the center pursuant to sections 8 to 
+256 10A, inclusive, of chapter 12C and any other available information that the commission 
+14 of 64 
+257 considers necessary to fulfill its duties under this section, as defined in regulations promulgated 
+258 by the commission. The report shall be submitted to the house and senate committees on ways 
+259 and means and the joint committee on health care financing and shall be published and available 
+260 to the public not later than December 31 of each year. The report shall include recommendations 
+261 for strategies to increase the efficiency of the health care system and promote affordability for 
+262 individuals and families, recommendations on the specific spending trends that impede the 
+263 commonwealth’s ability to meet the health care cost growth benchmark and draft legislation 
+264 necessary to implement said recommendations. 
+265 SECTION 22. Section 11 of chapter 6D, as so appearing, is hereby amended by inserting 
+266 after the word “affiliates”, in line 17, the following words:- , significant equity investors, health 
+267 care real estate investment trusts, management services organizations. 
+268 SECTION 23. Section 12 of said chapter 6D, as so appearing, is hereby amended by 
+269 striking out, in lines 8 and 9, the words “carriers or third party administrators” and inserting in 
+270 place thereof the following word:- payers. 
+271 SECTION 24. Said chapter 6D is hereby further amended by striking out section 13, as 
+272 so appearing, and inserting in place thereof the following section:- 
+273 Section 13. (a) Every provider or provider organization shall, before making any material 
+274 change to its operations or governance structure, submit notice to the commission, the center and 
+275 the attorney general of such change, not fewer than 60 days before the date of the proposed 
+276 change. Material changes shall include, but not be limited to: (i) significant expansions in a 
+277 provider or provider organization’s capacity; (ii) a corporate merger, acquisition or affiliation of 
+278 a provider or provider organization and a carrier; (iii) mergers or acquisitions of hospitals or 
+15 of 64 
+279 hospital systems; (iv) acquisition of insolvent provider organizations; (v) transactions involving a 
+280 significant equity investor which result in a change of ownership or control of a provider or 
+281 provider organization; (vi) significant acquisitions, sales or transfers of assets including, but not 
+282 limited to, real estate sale lease-back arrangements; (vii) conversion of a provider or provider 
+283 organization from a non-profit entity to a for-profit entity; and (viii) mergers or acquisitions of 
+284 provider organizations which will result in a provider organization having a dominant market 
+285 share in a given service or region. 
+286 Within 30 days of receipt of a completed notice filed under the commission’s regulations, 
+287 the commission shall conduct a preliminary review to determine whether the material change is 
+288 likely to result in a significant impact on the commonwealth’s ability to meet the health care cost 
+289 growth benchmark established in section 9, or on the competitive market. If the commission 
+290 finds that the material change is likely to have a significant impact on the commonwealth’s 
+291 ability to meet the health care cost growth benchmark, or on the competitive market, the 
+292 commission may conduct a cost and market impact review under this section. 
+293 (b) In addition to the grounds for a cost and market impact review set forth in subsection 
+294 (a), if the commission finds, based on the center’s annual report under section 16 of chapter 12C, 
+295 that the percentage change in total health care expenditures exceeded the health care cost growth 
+296 benchmark in the previous calendar year, the commission may conduct a cost and market impact 
+297 review of any provider organization identified by the center under section 18 of said chapter 
+298 12C. 
+299 (c)(1) The commission shall initiate a cost and market impact review by sending the 
+300 provider or provider organization notice of a cost and market impact review, which shall explain 
+16 of 64 
+301 the basis for the review and the particular factors that the commission seeks to examine through 
+302 the review. The provider or provider organization shall submit to the commission, within 21 days 
+303 of the commission’s notice, a written response to the notice, including, but not limited to, any 
+304 information or documents sought by the commission that are described in the commission’s 
+305 notice. The commission may require that any provider, provider organization, significant equity 
+306 investor, or other party involved in a given transaction submit documents and information in 
+307 connection with a notice of material change or a cost and market impact review under this 
+308 section. The commission shall keep confidential all nonpublic information and documents 
+309 obtained under this section and shall not disclose the information or documents to any person 
+310 without the consent of the provider or payer that produced the information or documents, except 
+311 in a preliminary report or final report under this section if the commission believes that such 
+312 disclosure should be made in the public interest after taking into account any privacy, trade 
+313 secret or anti-competitive considerations. The confidential information and documents shall not 
+314 be public records and shall be exempt from disclosure under clause Twenty-sixth of section 7 of 
+315 chapter 4 or section 10 of chapter 66. 
+316 (2) For any material change involving a significant equity investor, the commission may 
+317 specify certain information required to be submitted as part of the notice, including, but not 
+318 limited to, information regarding the significant equity investor’s capital structure, general 
+319 financial condition, ownership and management structure and audited financial statements. 
+320 (3) The commission may also require, for a period of 5 years following the completion of 
+321 a material change, that any provider or provider organization submit data and information 
+322 necessary for the commission to assess the post-transaction impacts of a material change. 
+17 of 64 
+323 (d) A cost and market impact review may examine factors relating to the provider or 
+324 provider organization’s business and its relative market position, including, but not limited to: (i) 
+325 the provider or provider organization’s size and market share within its primary service areas by 
+326 major service category, and within its dispersed service areas; (ii) the provider or provider 
+327 organization’s prices for services, including its relative price compared to other providers for the 
+328 same services in the same market; (iii) the provider or provider organization’s health status 
+329 adjusted total medical expense, including its health status adjusted total medical expense 
+330 compared to similar providers; (iv) the quality of the services provided by the provider or 
+331 provider organization, including patient experience; (v) provider cost and cost trends in 
+332 comparison to total health care expenditures statewide; (vi) the availability and accessibility of 
+333 services similar to those provided, or proposed to be provided, through the provider or provider 
+334 organization within its primary service areas and dispersed service areas; (vii) the provider or 
+335 provider organization’s impact on competing options for the delivery of health care services 
+336 within its primary service areas and dispersed service areas including, if applicable, the impact 
+337 on existing service providers of a provider or provider organization’s expansion, affiliation, 
+338 merger or acquisition, to enter a primary or dispersed service area in which it did not previously 
+339 operate; (viii) the methods used by the provider or provider organization to attract patient volume 
+340 and to recruit or acquire health care professionals or facilities; (ix) the role of the provider or 
+341 provider organization in serving at-risk, underserved and government payer patient populations, 
+342 including those with behavioral, substance use disorder and mental health conditions, within its 
+343 primary service areas and dispersed service areas; (x) the role of the provider or provider 
+344 organization in providing low margin or negative margin services within its primary service 
+345 areas and dispersed service areas; (xi) consumer concerns, including but not limited to, 
+18 of 64 
+346 complaints or other allegations that the provider or provider organization has engaged in any 
+347 unfair method of competition or any unfair or deceptive act or practice; (xii) the size and market 
+348 share of any corporate affiliates or significant equity investors of the provider or provider 
+349 organization; (xiii) the inventory of health care resources maintained by the department of public 
+350 health, pursuant to section 25A of chapter 111; (xiv) any related data or reports from the office of 
+351 health resource planning, established in section 22; and (xv) any other factors that the 
+352 commission determines to be in the public interest. 
+353 (e) The commission shall make factual findings and issue a preliminary report on the cost 
+354 and market impact review. In the report, the commission shall identify any provider or provider 
+355 organization that meets all of the following criteria: (i) the provider or provider organization has, 
+356 or likely will have as a result of the proposed material change, a dominant market share for the 
+357 services it provides; (ii) the provider or provider organization charges, or likely will charge as a 
+358 result of the proposed material change, prices for services that are materially higher than the 
+359 median prices charged by comparable providers for the same services in the same market; and 
+360 (iii) the provider or provider organization has, or likely will have as a result of the proposed 
+361 material change, a health status adjusted total medical expense that is materially higher than the 
+362 median total medical expense of comparable providers in the same market. 
+363 (f) Within 30 days after issuance of a preliminary report, the provider or provider 
+364 organization may respond in writing to the findings in the report. The commission shall then 
+365 issue its final report. The commission shall refer to the attorney general its report on any provider 
+366 or provider organization that meets all 3 criteria under subsection (e). The commission shall 
+367 issue its final report on the cost and market impact review within 185 days from the date that the 
+368 provider or provider organization has submitted a completed notice to the commission; provided, 
+19 of 64 
+369 that the provider or provider organization has certified substantial compliance with the 
+370 commission’s requests for data and information pursuant to subsection (c) within 21 days of the 
+371 commission’s notice, or by a later date set by mutual agreement of the provider or provider 
+372 organization and the commission. 
+373 (g) Nothing in this section shall prohibit a proposed material change under subsection (a); 
+374 provided, however, that any proposed material change shall not be completed: (i) until at least 30 
+375 days after the commission has issued its final report; or (ii) if the attorney general brings an 
+376 action under chapter 93A or any other law related to the material change, while such action is 
+377 pending and prior to a final judgment being issued by a court of competent jurisdiction, 
+378 whichever is later. 
+379 (h) When the commission, under subsection (f), refers a report on a provider or provider 
+380 organization to the attorney general, the attorney general may: (i) conduct an investigation to 
+381 determine whether the provider or provider organization engaged in unfair methods of 
+382 competition or anti-competitive behavior in violation of chapter 93A or any other law; (ii) report 
+383 to the commission in writing the findings of the investigation and a conclusion as to whether the 
+384 provider or provider organization engaged in unfair methods of competition or anti-competitive 
+385 behavior in violation of chapter 93A or any other law; and (iii) if appropriate, take action under 
+386 chapter 93A or any other law to protect consumers in the health care market. The commission’s 
+387 final report may be evidence in any such action. 
+388 (i) Nothing in this section shall limit the authority of the attorney general to protect 
+389 consumers in the health care market under any other law. 
+20 of 64 
+390 (j) The commission shall adopt regulations for conducting cost and market impact 
+391 reviews and for administering this section. These regulations shall include definitions of material 
+392 change and non-material change, primary service areas, dispersed service areas, dominant market 
+393 share, materially higher prices and materially higher health status adjusted total medical 
+394 expenses, and any other terms as necessary to provide market participants with appropriate 
+395 notice. These regulations may identify filing thresholds in connection with this section; provided, 
+396 however, that any financial threshold identified by the commission shall be adjusted annually 
+397 based on any inflation index established by the United States Department of Health and Human 
+398 Services or similarly reliable national index, as set forth by the commission. All regulations 
+399 promulgated by the commission shall comply with chapter 30A. 
+400 (k) Nothing in this section shall limit the application of other laws or regulations that may 
+401 be applicable to a provider or provider organization, including laws and regulations governing 
+402 insurance. 
+403 (l) Upon issuance of its final report pursuant to subsection (f), the commission shall 
+404 provide a copy of said final report to the department of public health. The final report shall be 
+405 included in the written record and considered by the department of public health during its 
+406 review of an application for determination of need and considered where relevant in connection 
+407 with licensure or other regulatory actions involving the provider or provider organization. 
+408 SECTION 25. Said chapter 6D is hereby further amended by adding the following 
+409 section:- 
+410 Section 22. (a)(1) There shall be within the commission an office for health resource 
+411 planning. The office shall develop a state health resource plan to identify: (i) the anticipated 
+21 of 64 
+412 needs of the commonwealth for health care services, providers, programs and facilities; (ii) the 
+413 existing health care resources, providers, programs and facilities available to meet those needs; 
+414 (iii) the projected resources, including the health care workforce, necessary to meet those 
+415 anticipated needs; (iv) recommendations for the appropriate supply and distribution of resources, 
+416 workforce, programs, capacities, technologies and services on a statewide and regional basis; (v) 
+417 the priorities for addressing those needs; and (vi) recommendations for any further legislative, 
+418 regulatory or other state action to assist the commonwealth in achieving the recommendations 
+419 identified in the plan. 
+420 (2) The state health resource plan developed by the office shall be a forecast of 
+421 anticipated demand, production, supply and distribution of health care resources on a state-wide 
+422 and regional basis during a 5-year planning period, and shall include the location, distribution 
+423 and nature of all health care resources in the commonwealth, including: (i) acute care units; (ii) 
+424 non-acute care units; (iii) specialty care units, including, but not limited to, burn, coronary care, 
+425 cancer care, neonatal care, post-obstetric and post-operative recovery care, pulmonary care, rare 
+426 diseases care, renal dialysis and surgical, including trauma and intensive care units; (iv) skilled 
+427 nursing facilities; (v) assisted living facilities; (vi) long-term care facilities; (vii) ambulatory 
+428 surgical centers; (viii) office-based surgical centers; (ix) urgent care centers; (x) home health; 
+429 (xi) adult and pediatric behavioral health and mental health services and supports; (xii) substance 
+430 use disorder treatment and recovery services; (xiii) emergency care; (xiv) ambulatory care 
+431 services; (xv) primary care resources; (xvi) pediatric care services; (xvii) pharmacy and 
+432 pharmacological services; (xviii) family planning services; (xix) obstetrics and gynecology and 
+433 maternal health services; (xx) allied health services including, but not limited to, optometric care, 
+434 chiropractic services, oral health care and midwifery services; (xxi) federally qualified health 
+22 of 64 
+435 centers and free clinics; (xxii) numbers of technologies or equipment defined as innovative 
+436 services or new technologies by the department of public health pursuant to section 25C of 
+437 chapter 111; (xxiii) hospice and palliative care service; (xxiv) health screening and early 
+438 intervention services; and (xxv) any other service or resource identified by the office. 
+439 (3) The goal of the state health resource plan shall be to promote the appropriate and 
+440 equitable distribution of health care resources across geographic regions of the commonwealth 
+441 based on the needs of the population on a statewide basis and the needs of particular geographic 
+442 and demographic groups The recommendations shall support, at a minimum, the 
+443 commonwealth's goals of: (i) maintaining and improving the quality of and access to health care 
+444 services; (ii) ensuring a stable and adequate health care workforce; (iii) meeting the health care 
+445 cost growth benchmark established pursuant to section 9; (iv) supporting innovative health care 
+446 delivery and alternative payment models as identified by the commission; (v) avoiding 
+447 unnecessary duplication of health care resources; (vi) advancing health equity and addressing 
+448 health disparities; (vii) integrating oral health, mental health, behavioral health and substance use 
+449 disorder treatment services with overall medical care; (viii) aligning housing, health care and 
+450 home care to improve overall health outcomes and reduce costs; (ix) tracking trends in utilization 
+451 and promoting the best standards of care; and (x) ensuring equitable access to health care 
+452 resources across geographic regions of the commonwealth. 
+453 (b)(1) In addition to the state health resource plan, the office may conduct focused 
+454 assessments of health care resource supply, distribution and capacity in relation to projected 
+455 need. Each assessment shall be conducted in consultation with the board, the advisory council 
+456 established pursuant to section 4 and other state agencies as appropriate, including, but not 
+457 limited to, the executive office, the executive office of economic development, the board of 
+23 of 64 
+458 higher education, the department of public health, the department of mental health, the office of 
+459 Medicaid, the division of insurance, the center for health information and analysis, the 
+460 Massachusetts Life Sciences Center, the executive office of elder affairs, the board of 
+461 registration in medicine, the bureau of health professions licensure and the office of health equity 
+462 established under section 16AA of chapter 6A. All such agencies shall provide data and 
+463 information necessary for the office to conduct the assessment. The office shall consider 
+464 available state and national data and academic research on health service supply and need and 
+465 relevant community health needs assessments by non-profit hospitals and other organizations 
+466 and other individual and community statements of need. 
+467 (2) Each focused assessment may present findings that include, but are not limited to: (i) 
+468 the extent to which supply, distribution and capacity of a given health care resource aligns with 
+469 projected need at the statewide or regional level; (ii) health system factors driving any 
+470 documented health disparities; (iii) services or providers, including in a specific geographic area, 
+471 that are critical to the proper functioning of the health care system; (iv) estimates of where and 
+472 how many additional units of service would be needed in the state or in a specific geographic 
+473 area to meet projected need; (v) an analysis of health care workforce needs; (vi) identification of 
+474 barriers impacting accessibility of available health care resources by specific populations; and 
+475 (vii) legislative, regulatory or other policy recommendations to address the drivers of health 
+476 disparities, access barriers and areas of misalignment of need and supply, distribution and 
+477 capacity. 
+478 (c) The office shall provide direction to the department of public health to establish and 
+479 maintain on a current basis an inventory of all such health care resources together with all other 
+480 reasonably pertinent information concerning such resources. Agencies of the commonwealth that 
+24 of 64 
+481 license, register, regulate or otherwise collect cost, quality or other data concerning health care 
+482 resources shall cooperate with the office and the department of public health in coordinating such 
+483 data and information collected pursuant to this section and section 25A of chapter 111. The 
+484 inventory compiled pursuant to this section and said section 25A of said chapter 111 and all 
+485 related information shall be maintained in a form usable by the general public and shall 
+486 constitute a public record; provided, however, that any item of information which is confidential 
+487 or privileged in nature under any other law shall not be regarded as a public record pursuant to 
+488 this section. 
+489 (d) In developing the state health resource plan, the office shall conduct no fewer than 1 
+490 annual public hearing seeking input on the development of the plan and any focused assessment 
+491 under development, and shall give interested persons an opportunity to submit their views orally 
+492 and in writing. In addition, the office may create and maintain a website to allow members of the 
+493 public to submit comments electronically and review comments submitted by others. 
+494 (e) The office shall publish analyses, reports and interpretations of information collected 
+495 pursuant to this section to promote awareness of the distribution and nature of health care 
+496 resources in the commonwealth. 
+497 (f) Annually, not later than January 1, the office shall file a report with the joint 
+498 committee on health care financing concerning the activities of the office in general and, in 
+499 particular, describing the progress to date in developing the state health resource plan and any 
+500 focused assessment produced to date or under development, and recommending such further 
+501 legislative action as it considers appropriate. 
+25 of 64 
+502 (g) Nothing in this section shall be construed to impose caps on health care resources in 
+503 the commonwealth or a particular region in the commonwealth. 
+504 SECTION 26. Section 5A of chapter 12 of the General Laws, as appearing in the 2022 
+505 Official Edition, is hereby amended by striking out, in line 26, the words “or “knowingly” and 
+506 inserting in place thereof the following words:- , “knowingly” or “knows”. 
+507 SECTION 27. Said section 5A of said chapter 12, as so appearing, is hereby further 
+508 amended by inserting after the definition of “Overpayment” the following definition:- 
+509 “Ownership or investment interest”, any: (1) direct or indirect possession of equity in the 
+510 capital, stock or profits totaling more than 10 per cent of an entity; (2) interest held by an 
+511 investor or group of investors who engages in the raising or returning of capital and who invests, 
+512 develops or disposes of specified assets; or (3) interest held by a pool of funds by investors, 
+513 including a pool of funds managed or controlled by private limited partnerships, if those 
+514 investors or the management of that pool or private limited partnership employ investment 
+515 strategies of any kind to earn a return on that pool of funds. 
+516 SECTION 28. Section 5B of said chapter 12, as so appearing, is hereby amended by 
+517 striking out, in line 29, the word “or”, the second time it appears. 
+518 SECTION 29. Said section 5B of said chapter 12, as so appearing, is hereby further 
+519 amended by inserting after the word “applicable” in lines 38 and 39, the following words:- ; or 
+520 (11) has an ownership or investment interest in any person who violates clauses (1) through (10), 
+521 knows about the violation, and fails to disclose the violation to the commonwealth or a political 
+522 subdivision thereof within 60 days of identifying the violation. 
+26 of 64 
+523 SECTION 30. Section 11N of said chapter 12, as so appearing, is hereby amended by 
+524 striking out, in line 7, the words “or provider organization” and inserting in place thereof the 
+525 following words:- , provider organization, significant equity investor, health care real estate 
+526 investment trust or management services organization. 
+527 SECTION 31. Section 1 of chapter 12C of the General Laws, as so appearing, is hereby 
+528 amended by inserting after the definition of “Health care cost growth benchmark”, the following 
+529 definition:- 
+530 “Health care real estate investment trust”, a real estate investment trust, as defined by 26 
+531 U.S.C section 856, whose assets consist of real property held in connection with the use or 
+532 operations of a provider or provider organization. 
+533 SECTION 32. Said section 1 of said chapter 12C, as so appearing, is hereby further 
+534 amended by inserting after the definition of “Health care services” the following 2 definitions:- 
+535 “Health disparities”, preventable differences in the burden of disease, injury, violence or 
+536 opportunities to achieve optimal health that are experienced by socially disadvantaged 
+537 populations. 
+538 “Health equity”, the state in which a health system offers the infrastructure, facilities, 
+539 services, geographic coverage, affordability and all other relevant features, conditions and 
+540 capabilities that will provide all people with the opportunity and reasonable expectation that they 
+541 can reach their full health potential and well-being and are not disadvantaged in access to health 
+542 care by their race, ethnicity, language, disability, age, gender, gender identity, sexual orientation, 
+543 social class, intersections among these communities or identities or their socially determined 
+544 circumstances. 
+27 of 64 
+545 SECTION 33. Said section 1 of said chapter 12C, as so appearing, is hereby further 
+546 amended by inserting after the definition of “Major service category” the following definition:- 
+547 “Management services organization”, a corporation that provides management or 
+548 administrative services to a provider or provider organization for compensation. 
+549 SECTION 34. Said section 1 of said chapter 12C, as so appearing, is hereby further 
+550 amended by inserting after the definition of “Patient-centered medical home” the following 3 
+551 definitions:- 
+552 “Payer”, any entity, other than an individual, that pays providers for the provision of 
+553 health care services; provided, however, that “payer” shall include both governmental and 
+554 private entities; and provided further, that “payer” shall include self-insured plans to the extent 
+555 allowed under the Employee Retirement Income Security Act of 1974. 
+556 “Pharmaceutical manufacturing company”, an entity engaged in the: (i) production, 
+557 preparation, propagation, compounding, conversion or processing of prescription drugs, directly 
+558 or indirectly, by extraction from substances of natural origin, independently by means of 
+559 chemical synthesis or by a combination of extraction and chemical synthesis; or (ii) packaging, 
+560 repackaging, labeling, relabeling or distribution of prescription drugs; provided, however, that 
+561 “pharmaceutical manufacturing company” shall not include a hospital licensed under section 51 
+562 of chapter 111, a wholesale drug distributor licensed under section 36B of chapter 112 or a retail 
+563 pharmacist registered under section 39 of said chapter 112. 
+564 “Pharmacy benefit manager”, as defined in section 1 of chapter 176Y. 
+28 of 64 
+565 SECTION 35. Said section 1 of said chapter 12C, as so appearing, is hereby further 
+566 amended by inserting after the definition of “Primary service area” the following definition:- 
+567 “Private equity company”, any company that collects capital investments from 
+568 individuals or entities and purchases, as a parent company or through another entity that the 
+569 company completely or partially owns or controls, a direct or indirect ownership share of a 
+570 provider, provider organization or management services organization; provided, however, that 
+571 “private equity company” shall not include venture capital firms exclusively funding startups or 
+572 other early-stage businesses. 
+573 SECTION 36. Said section 1 of said chapter 12C, as so appearing, is hereby further 
+574 amended by inserting after the definition of “Self-insured group” the following definition:- 
+575 “Significant equity investor”, (i) any private equity company with a financial interest in a 
+576 provider, provider organization or management services organization; or (ii) an investor, group 
+577 of investors or other entity with a direct or indirect possession of equity in the capital, stock or 
+578 profits totaling more than 10 per cent of a provider, provider organization or management 
+579 services organization; provided, however, that “significant equity investor” shall not include 
+580 venture capital firms exclusively funding startups or other early-stage businesses. 
+581 SECTION 37. Section 2A of said chapter 12C, as so appearing, is hereby further 
+582 amended by inserting after the word “cybersecurity”, in line 9, the following words:- and 1 of 
+583 whom shall have experience in health equity advocacy. 
+584 SECTION 38. Said chapter 12C is hereby further amended by striking out section 7, as 
+585 amended by section 18 of chapter 140 of the acts of 2024, and inserting in place thereof the 
+586 following section:- 
+29 of 64 
+587 Section 7. (a) For the purposes of this section, “non-hospital provider organization” shall 
+588 mean a provider organization required to register under section 11 under chapter 6D that is: (i) a 
+589 non-hospital-based physician practice with not less than $500,000,000 in annual gross patient 
+590 service revenue; (ii) a clinical laboratory; (iii) an imaging facility; or (iv) a network of affiliated 
+591 urgent care centers. 
+592 (b) Each acute hospital, ambulatory surgical center, non-hospital provider organization, 
+593 pharmaceutical manufacturing company and pharmacy benefit manager shall pay to the 
+594 commonwealth an amount for the estimated expenses of the center and for the other purposes 
+595 described in this chapter which shall include any transfer made to the Community Hospital 
+596 Reinvestment Trust Fund established in section 2TTTT of chapter 29. 
+597 (c) The assessed amount for acute hospitals, ambulatory surgical centers and non-hospital 
+598 provider organizations shall be not less than 30 per cent nor more than 40 per cent of the amount 
+599 appropriated by the general court for the expenses of the center and for the other purposes 
+600 described in this chapter which shall include any transfer made to the Community Hospital 
+601 Reinvestment Trust Fund established in section 2TTTT of chapter 29 minus amounts collected 
+602 from: (i) filing fees; (ii) fees and charges generated by the center’s publication or dissemination 
+603 of reports and information; and (iii) federal matching revenues received for these expenses or 
+604 received retroactively for expenses of predecessor agencies; provided, however, that, to the 
+605 maximum extent permissible under federal law, non-hospital provider organizations shall be 
+606 assessed not less than 3 per cent nor more than 8 per cent of the total assessed amount for acute 
+607 hospitals, ambulatory surgical centers and non-hospital provider organizations. Each acute 
+608 hospital, ambulatory surgical center and non-hospital provider organization shall pay such 
+609 assessed amount multiplied by the ratio of the acute hospital’s, ambulatory surgical center’s or 
+30 of 64 
+610 non-hospital provider organization’s gross patient service revenues to the total gross patient 
+611 services revenues of all such hospitals, ambulatory surgical centers and non-hospital provider 
+612 organizations. Each acute hospital, ambulatory surgical center and non-hospital provider 
+613 organization shall make a preliminary payment to the center on October 1 of each year in an 
+614 amount equal to 1/2 of the previous year’s total assessment. Thereafter, each acute hospital, 
+615 ambulatory surgical center and non-hospital provider organization shall pay, within 30 days’ 
+616 notice from the center, the balance of the total assessment for the current year based upon its 
+617 most current projected gross patient service revenue. The center shall subsequently adjust the 
+618 assessment for any variation in actual and estimated expenses of the center and for changes in 
+619 acute hospital, ambulatory surgical center and non-hospital provider organization gross patient 
+620 service revenue. Such estimated and actual expenses shall include an amount equal to the cost of 
+621 fringe benefits and indirect expenses, as established by the comptroller under section 5D of 
+622 chapter 29. In the event of late payment by any such acute hospital, ambulatory surgical center or 
+623 non-hospital provider organization, the treasurer shall advance the amount of due and unpaid 
+624 funds to the center prior to the receipt of such monies in anticipation of such revenues up to the 
+625 amount authorized in the then current budget attributable to such assessments and the center shall 
+626 reimburse the treasurer for such advances upon receipt of such revenues. This section shall not 
+627 apply to any state institution or to any acute hospital which is operated by a city or town. 
+628 (d) To the maximum extent permissible under federal law, and provided that such 
+629 assessment will not result in any reduction of federal financial participation in Medicaid, the 
+630 assessed amount for pharmaceutical manufacturing companies shall be not less than 5 per cent 
+631 nor more than 10 per cent of the amount appropriated by the general court for the expenses of the 
+632 center minus amounts collected from: (i) filing fees; (ii) fees and charges generated by the 
+31 of 64 
+633 center’s publication or dissemination of reports and information; and (iii) federal matching 
+634 revenues received for these expenses or received retroactively for expenses of predecessor 
+635 agencies. Each pharmaceutical manufacturing company shall pay such assessed amount 
+636 multiplied by the ratio of MassHealth’s net spending for the manufacturer’s prescription drugs 
+637 used in the MassHealth rebate program to MassHealth’s total pharmacy spending. 
+638 (e) To the maximum extent permissible under federal law, and provided that such 
+639 assessment will not result in any reduction of federal financial participation in Medicaid, the 
+640 assessed amount for pharmacy benefit managers shall be not less than 5 per cent nor more than 
+641 10 per cent of the amount appropriated by the general court for the expenses of the center minus 
+642 amounts collected from: (i) filing fees; (ii) fees and charges generated by the center’s publication 
+643 or dissemination of reports and information; and (iii) federal matching revenues received for 
+644 these expenses or received retroactively for expenses of predecessor agencies. Each pharmacy 
+645 benefit manager shall pay such assessed amount multiplied by the ratio of the claims paid by the 
+646 pharmacy benefit manager attributed to residents of the commonwealth for whom it manages 
+647 pharmaceutical benefits on behalf of carriers to the total of all such claims paid by all pharmacy 
+648 benefit managers attributed to residents of the commonwealth for whom they manage 
+649 pharmaceutical benefits on behalf of carriers. 
+650 (f) Each pharmaceutical manufacturing company and each pharmacy benefit manager 
+651 shall make a preliminary payment to the center annually on October 1 in an amount equal to 1/2 
+652 of the previous year’s total assessment. Thereafter, each pharmaceutical manufacturing company 
+653 and each pharmacy benefit manager shall pay, within 30 days’ notice from the center, the 
+654 balance of the total assessment for the current year as determined by the center. 
+32 of 64 
+655 SECTION 39. Section 8 of said chapter 12C, as appearing in the 2022 Official Edition, is 
+656 hereby amended by inserting after the word “entities”, in line 5, the following words:- including 
+657 significant equity investors, health care real estate investment trusts and management services 
+658 organizations. 
+659 SECTION 40. Said section 8 of said chapter 12C, as so appearing, is hereby further 
+660 amended by inserting after the word “statements”, in line 23, the following words:- , including 
+661 the audited financial statements of the parent organization’s out-of-state operations, significant 
+662 equity investors, health care real estate investment trusts and management services 
+663 organizations,. 
+664 SECTION 41 Said section 8 of said chapter 12C, as so appearing, is hereby further 
+665 amended by striking out, in line 49, the words “and (6)” and inserting in place thereof the 
+666 following words:- (6) margins, including margins by payer type; (7) investments; (8) information 
+667 on any relationships with significant equity investors, health care real estate investment trusts 
+668 and management service organizations; and (9). 
+669 SECTION 42. Said chapter 12C is hereby further amended by striking out section 9, as so 
+670 appearing, and inserting in place thereof the following section:- 
+671 Section 9. (a) The center, in consultation with the commission, shall promulgate 
+672 regulations to require that provider organizations registered under section 11 of chapter 6D shall 
+673 annually report the data as the center considers necessary to better protect the public interest in 
+674 monitoring the financial conditions, organizational structure, business practices, clinical services 
+675 and market share of each registered provider organization. The center may assess administrative 
+676 fees on provider organizations in an amount to help defray the center’s costs in complying with 
+33 of 64 
+677 this section. The center may specify, by regulation, uniform reporting standards and reporting 
+678 thresholds as it determines necessary. 
+679 (b) The center shall require registered provider organizations to annually report 
+680 information necessary to achieve the goals described in subsection (a) which shall include, but 
+681 shall not be limited to: (i) organizational charts showing the ownership, governance and 
+682 operational structure of the provider organization, including any clinical affiliations and 
+683 community advisory boards; (ii) the number of affiliated health care professional full-time 
+684 equivalents by license type, specialty, name and address of practice locations and whether the 
+685 professional is employed by the organization; (iii) the name and address of licensed facilities by 
+686 license number, license type and capacity in each major service category; (iv) the name, address 
+687 and capacity of all other locations where the provider organization, or any of its affiliates, 
+688 delivers health care services, including those services listed in subsection (a) of section 22 of 
+689 chapter 6D; (v) a comprehensive financial statement, including information on parent entities, 
+690 including their out-of-state operations, and corporate affiliates, including significant equity 
+691 investors, health care real estate investment trusts and management services organizations as 
+692 applicable, and including details regarding annual costs, annual receipts, realized capital gains 
+693 and losses, accumulated surplus and accumulated reserves; (vi) information on stop-loss 
+694 insurance and any non-fee-for-service payment arrangements; (vii) information on clinical 
+695 quality, care coordination and patient referral practices; (viii) information regarding expenditures 
+696 and funding sources for payroll, teaching, research, advertising, taxes or payments-in-lieu-of-
+697 taxes and other non-clinical functions; (ix) information regarding charitable care and community 
+698 benefit programs; (x) for any risk-bearing provider organization, a certificate from the division of 
+699 insurance under chapter 176U; (xi) information regarding other assets and liabilities that may 
+34 of 64 
+700 affect the financial condition of the provider organization or the provider organization’s facilities 
+701 including, but not limited to, real estate sale-leaseback arrangements with health care real estate 
+702 investment trusts; and (xii) such other information as the center considers appropriate as set forth 
+703 in the center's regulations; provided, however, that the center shall coordinate with the 
+704 commission and the division of insurance to obtain information directly from the commission or 
+705 division; and provided further, that the center shall consider the administrative burden of 
+706 reporting when developing reporting requirements. The center may, in consultation with the 
+707 division of insurance and the commission, merge similar reporting requirements where 
+708 appropriate. 
+709 (c) Annual reporting shall be in a form provided by the center. The center shall 
+710 promulgate regulations that define criteria for waivers from certain annual reporting 
+711 requirements under this section. Criteria for waivers may include operational size of the provider 
+712 organization, the provider organization's annual net patient service revenue, the degree of risk 
+713 assumed by the provider organization and other criteria as the center considers appropriate. 
+714 (d) Notwithstanding the annual reporting requirements under this section, the center may 
+715 require in writing, at any time, such additional information as it deems reasonable and necessary 
+716 to determine the organizational structure, business practices, clinical services, market share or 
+717 financial condition of a registered provider organization, including information related to its total 
+718 adjusted debt and total adjusted earnings. The center may: (i) modify uniform reporting 
+719 requirements; (ii) require registered provider organizations with private equity investment to 
+720 report required information quarterly; or (iii) require the disclosure of relevant information from 
+721 any significant equity investor associated with a registered provider organization. 
+35 of 64 
+722 (e) The center may enter into interagency agreements with the commission and other 
+723 state agencies to effectuate the goals of this section. 
+724 SECTION 43. Section 11 of said chapter 12C, as so appearing, is hereby amended by 
+725 striking out the second to fifth sentences, inclusive, and inserting in place thereof the following 6 
+726 sentences:- 
+727 The center shall notify entities required to submit data under this chapter of any 
+728 applicable reporting deadlines. The center shall notify, in writing, an entity required to submit 
+729 data under this chapter that has failed to meet a reporting deadline and shall notify such entity 
+730 that failure to respond within 2 weeks of the receipt of the notice may result in penalties. The 
+731 center may assess a penalty against an entity required to submit data under this chapter that fails, 
+732 without just cause, to provide the requested information within 2 weeks following receipt of the 
+733 written notice required under this paragraph, of not more than $25,000 per week for each week 
+734 of delay after the 2-week period following the reporting entity’s receipt of the written notice. 
+735 Amounts collected under this section shall be deposited in the Healthcare Payment Reform Fund 
+736 established in section 100 of chapter 194 of the acts of 2011. The center shall notify the 
+737 commission and the department of public health if a provider or provider organization fails to 
+738 timely report in accordance with this section or if the center has assessed a penalty under this 
+739 section. Such notification shall be considered by the commission in a cost and market impact 
+740 review under section 13 of chapter 6D, and by the department in determining licensure and 
+741 suitability in accordance with section 51 of chapter 111 and for a determination of need under 
+742 section 25C of chapter 111. 
+36 of 64 
+743 SECTION 44. Said chapter 12C is hereby further amended by striking out section 14, as 
+744 so appearing, and inserting in place thereof the following section:- 
+745 Section 14. (a)(1) The center, in consultation with the statewide advisory committee 
+746 established pursuant to subsection (c), shall, not later than March 1 in each even-numbered year, 
+747 establish a standard set of measures of health care provider quality and health system 
+748 performance, hereinafter referred to as the “standard quality measure set”, for use in: (i) contracts 
+749 between payers, including the commonwealth and carriers, and health care providers, provider 
+750 organizations and accountable care organizations, which incorporate quality measures into 
+751 payment terms, including the designation of a set of core measures and a set of non-core 
+752 measures; (ii) assigning tiers to health care providers in the design of any health plan; (iii) 
+753 consumer transparency websites and other methods of providing consumer information; and (iv) 
+754 monitoring systemwide performance. 
+755 (2) The standard quality measure set shall designate: (i) core measures that shall be used 
+756 in contracts that incorporate quality measures into payment terms between payers, including the 
+757 commonwealth and carriers, and health care providers, including provider organizations and 
+758 accountable care organizations, and shall meet the core criteria set by the statewide advisory 
+759 committee pursuant to paragraph (3) of subsection (c); and (ii) a menu of non-core measures that 
+760 may be used in such contracts. The standard quality measure set shall allow for innovation and 
+761 the development of outcome measures for quality and safety. If the standard quality measure set 
+762 established by the center differs from the recommendations of the statewide advisory committee, 
+763 the center shall issue a written report detailing each area of disagreement and the rationale for the 
+764 center’s decision. 
+37 of 64 
+765 (b) The center shall develop uniform reporting requirements for the standard quality 
+766 measure set for each health care provider facility, medical group or provider group in the 
+767 commonwealth. 
+768 (c)(1) The center shall convene a statewide advisory committee which shall make 
+769 recommendations for the standard quality measure set to: (i) ensure consistency in the use of 
+770 quality and safety measures in contracts between payers, including the commonwealth and 
+771 carriers, and health care providers in the commonwealth; (ii) ensure consistency in methods for 
+772 the assignment of tiers to providers in the design of any health plan; (iii) improve quality and 
+773 safety of care; (iv) improve transparency for consumers and employers; (v) improve health 
+774 system monitoring and oversight by relevant state agencies; and (vi) reduce administrative 
+775 burden. 
+776 (2) The statewide advisory committee shall consist of commissioner of insurance and the 
+777 executive director of the health policy commission, or their designees, who shall serve as co-
+778 chairs, and shall include the following members or their designees: the executive director of the 
+779 center; the executive director of the Betsy Lehman center for patient safety and medical error 
+780 reduction; the executive director of the group insurance commission; the secretary of elder 
+781 affairs; the assistant secretary for MassHealth; the commissioner of public health; the 
+782 commissioner of mental health; and 11 members to be appointed by the governor, 1 of whom 
+783 shall be a representative of the Massachusetts Health and Hospital Association, Inc., 1 of whom 
+784 shall be a representative of the Massachusetts League of Community Health Centers, Inc., 1 of 
+785 whom shall be a representative the Massachusetts Medical Society, 1 of whom shall be a 
+786 registered nurse licensed to practice in the commonwealth who practices in a patient care setting, 
+787 1 of whom shall be a representative of a labor organization representing health care workers, 1 of 
+38 of 64 
+788 whom shall be a behavioral health provider, 1 of whom shall be a long-term supports and 
+789 services provider, 1 of whom shall be a representative of Blue Cross and Blue Shield of 
+790 Massachusetts, Inc., 1 of whom shall be a representative of the Massachusetts Association of 
+791 Health Plans, Inc., 1 of whom shall be a representative of a specialty pediatric provider and 1 of 
+792 whom shall be a representative for consumers. Members appointed to the statewide advisory 
+793 committee shall have experience with and expertise in health care quality measurement. 
+794 (3) The statewide advisory committee shall meet quarterly to develop recommendations 
+795 for the core measure and non-core measures to be adopted in the standard quality measure set for 
+796 use in: (i) contracts between payers, including the commonwealth and carriers, and health care 
+797 providers, provider organizations and accountable care organizations, including the designation 
+798 of a set of core measures and a set of non-core measures; (ii) assigning tiers to health care 
+799 providers in the design of any health plan; (iii) consumer transparency websites and other 
+800 methods of providing consumer information; and (iv) monitoring systemwide performance. 
+801 (4) In developing its recommendations for the standard quality measure set, the statewide 
+802 advisory committee shall incorporate recognized quality and safety measures including, but not 
+803 limited to, measures used by the Centers for Medicare and Medicaid Services, the group 
+804 insurance commission, carriers and providers and provider organizations in the commonwealth 
+805 and other states, as well as other valid measures of health care provider performance and 
+806 outcomes, including patient-reported outcomes and functional status, patient experience, health 
+807 disparities and population health. The statewide advisory committee shall consider measures 
+808 applicable to primary care providers, specialists, hospitals, provider organizations, accountable 
+809 care organizations, oral health providers and other types of providers and measures applicable to 
+810 different patient populations. 
+39 of 64 
+811 (5) The statewide advisory committee shall, not later than January 1 in each even-
+812 numbered year, submit to the center its recommendations on the core measures and non-core 
+813 measures to be adopted, changed or updated by the center in the standard quality measure set, 
+814 along with a report in support of its recommendations. 
+815 SECTION 45. Section 15 of said chapter 12C, as so appearing, is hereby amended by 
+816 striking out, in line 4, the word “injury” and inserting in place thereof the following word:- harm. 
+817 SECTION 46. Said section 15 of said chapter 12C, as so appearing, is hereby further 
+818 amended by striking out the definition of “Board” and inserting in place thereof the following 3 
+819 definitions:- 
+820 “Agency”, any agency of the executive branch of the commonwealth, including, but not 
+821 limited to, any constitutional or other office, executive office, department, division, bureau, 
+822 board, commission or committee thereof, or any authority created by the general court to serve a 
+823 public purpose, having either statewide or local jurisdiction. 
+824 “Board”, the patient safety and medical errors reduction board. 
+825 “Healthcare-associated infection”, an infection that a patient acquires during the course of 
+826 receiving treatment for other conditions within a health care setting. 
+827 SECTION 47. Said section 15 of said chapter 12C, as so appearing, is hereby further 
+828 amended by inserting after the definition of “Patient safety” the following definition:- 
+829 “Patient safety information”, data and information related to patient safety, including 
+830 adverse events, incidents, medical errors or health care-associated infections, that is collected or 
+831 maintained by agencies. 
+40 of 64 
+832 SECTION 48. Said section 15 of said chapter 12C, as so appearing, is hereby further 
+833 amended by striking out subsection (f) and inserting in place thereof the following 3 
+834 subsections:- 
+835 (f) Notwithstanding any general or special law to the contrary, the Lehman center and 
+836 any agency, provider organization, department, division, commission, board, authority or other 
+837 public or quasi-public entity in the commonwealth that collects or maintains patient safety 
+838 information may transmit such information, including personal data as defined in section 1 of 
+839 chapter 66A, and shall transmit such information to the Lehman center upon request from the 
+840 Lehman center; provided, however, that transmission of such information shall be governed by 
+841 an agreement, which may be an interagency service agreement, between the party transmitting 
+842 the information and the Lehman center; provided further, that such agreement shall provide for 
+843 any safeguards necessary to protect the privacy and security of the information; and provided 
+844 further, that the transmission of such information shall be consistent with federal law. 
+845 (g) The Lehman center may adopt rules and regulations necessary to carry out the 
+846 purpose of this section. The Lehman center may contract with any federal, state or municipal 
+847 entity or other public institution or with any private individual, partnership, firm, corporation, 
+848 association or other entity to manage its affairs or carry out the purpose of this section. 
+849 (h) The Lehman center shall report annually to the joint committee on health care 
+850 financing regarding the progress made in improving patient safety and medical error reduction. 
+851 The Lehman center shall seek federal and foundation support to supplement state resources to 
+852 carry out the Lehman center’s patient safety and medical error reduction goals. 
+41 of 64 
+853 SECTION 49. Said chapter 12C is hereby further amended by striking out section 17, as 
+854 so appearing, and inserting in place thereof the following section:- 
+855 Section 17. The attorney general may review and analyze any information submitted to 
+856 the center by a provider, provider organization, significant equity investor, health care real estate 
+857 investment trust, management services organization or payer pursuant to sections 8, 9 and 10 and 
+858 to the health policy commission under section 8 of chapter 6D. The attorney general may require 
+859 that such entities produce documents, answer interrogatories and provide testimony under oath 
+860 related to health care costs and cost trends, factors that contribute to cost growth within the 
+861 commonwealth’s health care system and the relationship between provider costs and payer 
+862 premium rates. The attorney general shall keep confidential all nonpublic information and 
+863 documents obtained under this section and shall not disclose the information or documents to any 
+864 person without the consent of the entity that produced the information or documents; provided, 
+865 however that the attorney general may disclose such information or documents during: (i) the 
+866 annual hearing conducted under section 8 of chapter 6D; (ii) a rate hearing before the division of 
+867 insurance; or (iii) in a case brought by the attorney general, if the attorney general believes that 
+868 such disclosure will promote the health care cost containment goals of the commonwealth and 
+869 that the disclosure would be in the public interest after taking into account any privacy, trade 
+870 secret or anti-competitive considerations. The confidential information and documents shall not 
+871 be public records and shall be exempt from disclosure under clause Twenty-sixth of section 7 of 
+872 chapter 4 and section 10 of chapter 66. 
+873 SECTION 50. Section 10 of chapter 13 of the General Laws, as so appearing, is hereby 
+874 amended by striking out the last paragraph and inserting in place thereof the following 
+875 paragraph:- 
+42 of 64 
+876 The board shall adopt, and may amend or rescind, such rules and regulations as it deems 
+877 necessary to carry out this chapter; provided, however, that prior to adoption, amendment or 
+878 rescission, any rule or regulation shall be submitted to the commissioner of public health for 
+879 approval. The board may, subject to the approval of the commissioner of public health, appoint 
+880 appropriate staff, including an executive director, legal counsel and any such other assistants as 
+881 the board may require. The board may also make contracts and arrangements for the 
+882 performance of administrative and similar services required, or appropriate, in the performance 
+883 of the duties of the board. 
+884 SECTION 51. Said chapter 13 is hereby further amended by striking out section 10A, as 
+885 so appearing, and inserting in place thereof the following section:- 
+886 Section 10A. The commissioner of public health shall review and approve any rule or 
+887 regulation proposed by the board of registration in medicine pursuant to section 10. Such rule or 
+888 regulation shall be deemed disapproved unless approved within 30 days after submission to the 
+889 commissioner pursuant to said section 10. 
+890 SECTION 52. Section 9-609 of chapter 106 of the General Laws, as so appearing, is 
+891 hereby amended by adding the following subsection:- 
+892 (d) Notwithstanding subsection (a), in the case of a debtor that is a hospital licensed by 
+893 the department of public health under section 51 of chapter 111, and collateral that is a medical 
+894 device, a secured party shall send notice to the debtor and the department of public health 60 
+895 days prior to taking possession of the collateral, rendering equipment unusable or disposing of 
+896 the collateral on the debtor’s premises pursuant to subsection (a). For the purposes of this 
+43 of 64 
+897 subsection, “medical device” shall have the same meaning as that term is defined in section 1 of 
+898 chapter 111N. 
+899 SECTION 53. The first paragraph of section 25A of chapter 111 of the General Laws, as 
+900 so appearing, is hereby amended by striking out the first sentence and inserting in place thereof 
+901 the following sentence:- Under the direction of the office of health resource planning established 
+902 in section 22 of chapter 6D, the department shall establish and maintain, on a current basis, an 
+903 inventory of all health care resources and all other reasonably pertinent information concerning 
+904 such resources, in order to identify the location, distribution and nature of all such resources in 
+905 the commonwealth. 
+906 SECTION 54. Said section 25A of said chapter 111, as so appearing, is hereby further 
+907 amended by striking out, in lines 16 and 17, the words “in a designated office of the department” 
+908 and inserting in place thereof the following words:- as determined by the office of health 
+909 resource planning established in section 22 of chapter 6D. 
+910 SECTION 55. Said section 25A of said chapter 111, as so appearing, is hereby further 
+911 amended by striking out the fourth paragraph. 
+912 SECTION 56. Section 25B of said chapter 111, as so appearing, is hereby amended by 
+913 inserting after the definition of “Outpatient services” the following definition:- 
+914 “Party of record”, during the pendency of an application for a determination of need: (i) 
+915 an applicant for a determination of need; (ii) the attorney general; (iii) the center for health 
+916 information and analysis; (iv) the health policy commission; any government agency with 
+917 relevant oversight or licensure authority over the proposed project or components therein; or (v) 
+918 any 10 taxpayers of the commonwealth organized as a group. 
+44 of 64 
+919 SECTION 57. Section 25C of said chapter 111, as so appearing, is hereby amended by 
+920 striking out subsection (g) and inserting in place thereof the following subsection:- 
+921 (g) The department, in making any determination of need, shall encourage appropriate 
+922 allocation of private and public health care resources and the development of alternative or 
+923 substitute methods of delivering health care services so that adequate health care services will be 
+924 made reasonably available to every person within the commonwealth at the lowest reasonable 
+925 aggregate cost. The department, in making any determination of need, shall consider: (i) the state 
+926 health resource plan developed pursuant to section 22 of chapter 6D; (ii) the commonwealth’s 
+927 cost containment goals; (iii) the impacts on the applicant’s patients, including considerations of 
+928 health equity, the workforce of surrounding health care providers and on other residents of the 
+929 commonwealth; and (iv) any comments and relevant data from the center for health information 
+930 and analysis, the health policy commission including, but not limited to, any cost and market 
+931 impact review report submitted pursuant to subsection (l) of section 13 of chapter 6D and any 
+932 other state agency. The department may impose reasonable terms and conditions on the approval 
+933 of a determination of need as the department determines are necessary to achieve the purposes 
+934 and intent of this section. The department may also recognize the special needs and 
+935 circumstances of projects that: (i) are essential to the conduct of research in basic biomedical or 
+936 health care delivery areas or to the training of health care personnel; (ii) are unlikely to result in 
+937 any increase in the clinical bed capacity or outpatient load capacity of the facility; and (iii) are 
+938 unlikely to cause an increase in the total patient care charges of the facility to the public for 
+939 health care services, supplies and accommodations, as such charges shall be defined from time to 
+940 time in accordance with section 5 of chapter 409 of the acts of 1976. 
+45 of 64 
+941 SECTION 58. Said section 25C of said chapter 111, as so appearing, is hereby further 
+942 amended by inserting after the word “applicant”, in line 129, the following words:- by an entity 
+943 selected by the department from a list of 3 entities submitted by the applicant. 
+944 SECTION 59. Said section 25C of said chapter 111, as so appearing, is hereby further 
+945 amended by striking out subsection (i) and inserting in place thereof the following subsection:- 
+946 (i) Except in the case of an emergency situation determined by the department as 
+947 requiring immediate action to prevent further damage to the public health or to a health care 
+948 facility, the department shall not act upon an application for such determination unless: (i) the 
+949 application has been on file with the department for at least 30 days; (ii) the center for health 
+950 information and analysis, the health policy commission, the state and appropriate regional 
+951 comprehensive health planning agencies and, in the case of long-term care facilities only, the 
+952 department of elder affairs, or in the case of any facility providing inpatient services for 
+953 individuals with intellectual or developmental disabilities, the department of mental health and 
+954 the department of developmental services, respectively, have been provided copies of such 
+955 application and supporting documents and given reasonable opportunity to supply required 
+956 information and comment on such application; and (iii) a public hearing has been held on such 
+957 application when requested by the applicant, the state or appropriate regional comprehensive 
+958 health planning agency, any 10 taxpayers of the commonwealth and any other party of record. If, 
+959 in any filing period, an individual application is filed that would implicitly decide any other 
+960 application filed during such period, the department shall not act only upon an individual 
+961 application. 
+46 of 64 
+962 SECTION 60. Said section 25C of said chapter 111, as so appearing, is hereby further 
+963 amended by striking out subsection (j) and inserting in place thereof the following subsection:- 
+964 (j) The department shall approve or disapprove, in whole or in part, each such application 
+965 for a determination of need within 4 months after filing with the department; provided, however, 
+966 that the department may, on 1 occasion only, delay the action for up to 2 months after the 
+967 applicant has provided information which the department has reasonably requested; and provided 
+968 further, that the period for review of an application for which an independent cost-analysis is 
+969 required pursuant to subsection (h) shall be stayed until a completed independent cost-analysis is 
+970 received and accepted by the department. Any determination of need issued to a holder that is 
+971 subject to a cost and market impact review under section 13 of chapter 6D shall not go into effect 
+972 until a minimum of 30 days after the issuance of a final report under subsection (f) of said 
+973 section 13 of said chapter 6D. Any determination of need issued to a holder that is subject to a 
+974 performance improvement plan pursuant to section 10 of said chapter 6D shall not go into effect 
+975 until 30 days after a determination by the health policy commission that the holder is 
+976 implementing or has implemented said performance improvement plan; provided, however, that 
+977 the health policy commission may rescind its determination that the holder is implementing a 
+978 performance improvement plan at any time prior to successful completion of the performance 
+979 improvement plan. Applications remanded to the department by the health facilities appeals 
+980 board under section 25E shall be acted upon by the department within the same time limits 
+981 provided in this section for the department to approve or disapprove applications for a 
+982 determination of need. If an application has not been acted upon by the department within such 
+983 time limits, the applicant may, within a reasonable period of time, bring an action in the nature of 
+984 mandamus in the superior court to require the department to act upon the application. 
+47 of 64 
+985 SECTION 61. Said section 25C of said chapter 111, as so appearing, is hereby further 
+986 amended by adding the following subsection:- 
+987 (o) A party of record may review an application for determination of need for which it is 
+988 appropriately registered and provide written comment or specific recommendations for 
+989 consideration by the department, including written comment by a party of record as it relates to 
+990 any independent cost-analyses made pursuant to subsection (h). Whenever a party of record 
+991 submits written materials concerning an application for determination of need, the department 
+992 shall provide copies of such materials to all other parties of record. 
+993 SECTION 62. Section 25F of said chapter 111, as so appearing, is hereby amended by 
+994 inserting after the word “care”, in line 7, the following word:- financing. 
+995 SECTION 63. Section 51G of said chapter 111, as so appearing, is hereby further 
+996 amended by striking out paragraph (4) and inserting in place thereof the following paragraph:- 
+997 (4) Any hospital shall inform the department 90 days prior to the closing of the hospital 
+998 or the discontinuance of any essential health service provided therein. The department shall by 
+999 regulation define the words “essential health service” for the purposes of this section. The 
+1000 department shall, in the event that a hospital proposes to discontinue an essential health service 
+1001 or services, conduct a public hearing on the closure of said essential services or of the hospital, 
+1002 and the department may seek an analysis of the impact of the closure from the health policy 
+1003 commission. The department shall determine whether any such discontinued services are 
+1004 necessary for preserving access and health status in the hospital’s service area and shall require 
+1005 hospitals to submit a plan for assuring access to such necessary services following the hospital’s 
+1006 closure of the service and assure continuing access to such services in the event that the 
+48 of 64 
+1007 department determines that their closure will significantly reduce access to necessary services. 
+1008 The department shall conduct a public hearing prior to a determination on the closure of said 
+1009 essential services or of the hospital. No original license shall be granted to establish or maintain 
+1010 an acute-care hospital, as defined in section 25B, unless the applicant submits a plan, to be 
+1011 approved by the department, for the provision of community benefits, including the identification 
+1012 and provision of essential health services. In approving the plan, the department may take into 
+1013 account the applicant’s existing commitment to primary and preventive health care services and 
+1014 community contributions as well as the primary and preventive health care services and 
+1015 community contributions of the predecessor hospital. The department may waive this 
+1016 requirement, in whole or in part, at the request of the applicant that has provided or at the time 
+1017 the application is filed, is providing, substantial primary and preventive health care services and 
+1018 community contributions in its service area. 
+1019 SECTION 64. Said section 51G of said chapter 111, as so appearing, is hereby further 
+1020 amended by adding the following 2 paragraphs:- 
+1021 (7)(a) No original license shall be granted, or renewed, to establish or maintain an acute-
+1022 care hospital, as defined in section 25B, if the main campus of the acute-care hospital is leased 
+1023 from a health care real estate investment trust, as defined in section 1 of chapter 6D; provided, 
+1024 however, that any acute-care hospital that, as of April 1, 2024, is leasing its main campus from a 
+1025 health care real estate investment trust shall be exempt from the requirements of this subsection. 
+1026 An exempt acute-care hospital under this subsection shall maintain its exempt status after a 
+1027 transfer to any transferee and subsequent transferees. A transferee or subsequent transferee of an 
+1028 acute-care hospital that is exempt from the requirements of this subparagraph shall be issued a 
+1029 license if the transferee otherwise satisfies all other requirements for licensure under this chapter. 
+49 of 64 
+1030 For the purposes of this subsection, “main campus” shall mean the licensed premises within 
+1031 which the majority of inpatient beds are located. 
+1032 (b) No original license shall be granted, or renewed, to establish or maintain an acute-care 
+1033 hospital unless all documents related to any lease, master lease, sublease, license or any other 
+1034 agreement for the use, occupancy or utilization of the premises occupied by the acute-care 
+1035 hospital are disclosed to the department upon application for licensure. 
+1036 (8) No original license shall be granted, or renewed, to establish or maintain an acute-care 
+1037 hospital, as defined in section 25B, unless the applicant is in compliance with the reporting 
+1038 requirements established in sections 8, 9 and 10 of chapter 12C. 
+1039 SECTION 65. Section 51H of said chapter 111, as so appearing, is hereby amended by 
+1040 striking out the definition of “Facility” and inserting in place thereof the following definition:- 
+1041 “Facility”, a hospital, institution for the care of unwed mothers, clinic providing 
+1042 ambulatory surgery as defined in section 25B, limited service clinic licensed pursuant to section 
+1043 51J, office-based surgical center licensed pursuant to section 51N or urgent care center licensed 
+1044 pursuant to section 51O. 
+1045 SECTION 66. Said section 51H of said chapter 111, as so appearing, is hereby further 
+1046 amended by inserting after the definition of “Healthcare-associated infection” the following 
+1047 definition:- 
+1048 “Operational impairment event”, any action, or notice of impending action, including a 
+1049 notice of financial delinquency, concerning the repossession of medical equipment or supplies 
+1050 necessary for the provision of patient care. 
+50 of 64 
+1051 SECTION 67. Subsection (b) of said section 51H of said chapter 111, as so appearing, is 
+1052 hereby amended by adding the following paragraph:- 
+1053 An operational impairment event shall be reported by a facility not later than 1 calendar 
+1054 day after it occurs. Notwithstanding any general or special law to the contrary, no contract 
+1055 between a facility and a lessor of medical equipment shall authorize the repossession of medical 
+1056 equipment or supplies unless the lessor provides a notice of financial delinquency to the 
+1057 department not less than 60 days prior to repossession of any medical equipment or supplies 
+1058 necessary for the provision of patient care. Any provision of any contract or other document 
+1059 between a lessor of medical equipment and a facility which does not comply with this paragraph 
+1060 shall be void as against the public policy of the commonwealth. 
+1061 SECTION 68. Said chapter 111 is hereby further amended by inserting after section 51M 
+1062 the following 2 sections:- 
+1063 Section 51N. (a) As used in this section, the following words shall have the following 
+1064 meanings unless the context clearly requires otherwise: 
+1065 “Deep sedation”, a drug-induced depression of consciousness during which: (i) the 
+1066 patient cannot be easily awakened but responds purposefully following repeated painful 
+1067 stimulation; (ii) the patient’s ability to maintain independent ventilatory function may be 
+1068 impaired; (iii) the patient may require assistance in maintaining a patent airway and spontaneous 
+1069 ventilation may be inadequate; and (iv) the patient’s cardiovascular function is usually 
+1070 maintained without assistance. 
+1071 “General anesthesia”, a drug-induced depression of consciousness during which: (i) the 
+1072 patient is not able to be awakened, even by painful stimulation; (ii) the patient’s ability to 
+51 of 64 
+1073 maintain independent ventilatory function is often impaired; (iii) the patient, in many cases, often 
+1074 requires assistance in maintaining a patent airway and positive pressure ventilation may be 
+1075 required because of depressed spontaneous ventilation or drug-induced depression of 
+1076 neuromuscular function; and (iv) the patient’s cardiovascular function may be impaired. 
+1077 “Minimal sedation”, a drug-induced state during which: (i) patients respond normally to 
+1078 verbal commands; (ii) cognitive function and coordination may be impaired; and (iii) ventilatory 
+1079 and cardiovascular functions are unaffected. 
+1080 “Minor procedures”, (i) procedures that can be performed safely with a minimum of 
+1081 discomfort where the likelihood of complications requiring hospitalization is minimal; (ii) 
+1082 procedures performed with local or topical anesthesia; or (iii) liposuction with removal of less 
+1083 than 500cc of fat under un-supplemented local anesthesia. 
+1084 “Moderate sedation”, a drug-induced depression of consciousness during which: (i) the 
+1085 patient responds purposefully to verbal commands, either alone or accompanied by light tactile 
+1086 stimulation; (ii) no interventions are required to maintain a patent airway; (iii) spontaneous 
+1087 ventilation is adequate; and (iv) the patient’s cardiovascular function is usually maintained 
+1088 without assistance. 
+1089 “Office-based surgical center”, an office, group of offices, a facility or any portion 
+1090 thereof owned, leased or operated by 1 or more practitioners engaged in a solo or group practice, 
+1091 however organized, whether conducted for profit or not for profit, which is advertised, 
+1092 announced, established or maintained for the purpose of providing office-based surgical services; 
+1093 provided, however, that “office-based surgical center” shall not include: (i) a hospital licensed 
+1094 under section 51 or by the federal government; (ii) an ambulatory surgical center as defined 
+52 of 64 
+1095 pursuant to section 25B and licensed under said section 51; or (iii) a surgical center performing 
+1096 services in accordance with section 12M of chapter 112. 
+1097 “Office-based surgical services”, an ambulatory surgical or other invasive procedure 
+1098 requiring: (i) general anesthesia; (ii) moderate sedation; or (iii) deep sedation and any liposuction 
+1099 procedure, excluding minor procedures and procedures requiring minimal sedation, where such 
+1100 surgical or other invasive procedure or liposuction is performed by a practitioner at an office-
+1101 based surgical center. 
+1102 (b) The department shall establish rules, regulations and practice standards for the 
+1103 licensing of office-based surgical centers. In determining rules, regulations and practice 
+1104 standards necessary for licensure as an office-based surgical center, the department may, at its 
+1105 discretion, determine which regulations applicable to an ambulatory surgical center, as defined in 
+1106 section 25B, shall apply to an office-based surgical center. The department shall consult with the 
+1107 board of registration in medicine prior to promulgating regulations or establishing rules or 
+1108 practice standards pursuant to this section. 
+1109 (c) The department shall issue for a term of 2 years and renew for a like term, a license to 
+1110 maintain an office-based surgical center to an entity or organization that demonstrates to the 
+1111 department that it is responsible and suitable to maintain such a center. An office-based surgical 
+1112 center license shall list the specific locations on the premises where surgical services are 
+1113 provided. In the case of the transfer of ownership of an office-based surgical center, the 
+1114 application of the new owner for a license, when filed with the department on the date of transfer 
+1115 of ownership, shall have the effect of a license for a period of 3 months. 
+53 of 64 
+1116 (d) An office-based surgical center license shall be subject to suspension, revocation or 
+1117 refusal to issue or to renew for cause if, in its reasonable discretion, the department determines 
+1118 that the issuance of such license would be inconsistent with the best interests of the public health, 
+1119 welfare or safety. Nothing in this subsection shall limit the authority of the department to require 
+1120 a fee, impose a fine, conduct surveys and investigations or to suspend, revoke or refuse to renew 
+1121 a license issued pursuant to subsection (c). 
+1122 (e) Initial application and renewal fees for the license shall be established pursuant to 
+1123 section 3B of chapter 7. 
+1124 (f) The department may impose a fine of up to $10,000 on a person or entity that 
+1125 advertises, announces, establishes or maintains an office-based surgical center without a license 
+1126 granted by the department. The department may impose a fine of not more than $10,000 on a 
+1127 licensed office-based surgical center for violations of this section or any rule or regulation 
+1128 promulgated pursuant to this section. Each day during which a violation continues shall 
+1129 constitute a separate offense. The department may conduct surveys and investigations to enforce 
+1130 compliance with this section. 
+1131 (g) Notwithstanding any general or special law or rule to the contrary, the department 
+1132 may issue a 1-time provisional license to an applicant for an office-based surgical center licensed 
+1133 pursuant to this section if such office-based surgical center holds: (i) a current accreditation from 
+1134 the Accreditation Association for Ambulatory Health Care, American Association for 
+1135 Accreditation of Ambulatory Surgery Facilities, Inc., or the Joint Commission, or (ii) a current 
+1136 certification for participation in either Medicare or Medicaid. The department may approve such 
+1137 a provisional application upon a finding of responsibility and suitability and that the office-based 
+54 of 64 
+1138 surgical center meets all other licensure requirements as determined by the department. Such 
+1139 provisional license issued to an office-based surgical center shall not be extended or renewed. 
+1140 Section 51O. (a) As used in this section, the following words shall have the following 
+1141 meanings unless the context clearly requires otherwise: 
+1142 “Emergency services”, as defined in section 1 of chapter 6D. 
+1143 “Urgent care center”, a clinic owned or operated by an entity that is not corporately 
+1144 affiliated with a hospital licensed under section 51, however organized, whether conducted for 
+1145 profit or not for profit, that is advertised, announced, established or maintained for the purpose of 
+1146 providing urgent care services in an office or a group of offices, or any portion thereof, or an 
+1147 entity that is advertised, announced, established or maintained under a name that includes the 
+1148 words “urgent care” or that suggests that urgent care services are provided therein; provided, 
+1149 however, that an urgent care center shall not include: (i) a hospital licensed under said section 51 
+1150 or operated by the federal government or by the commonwealth; (ii) a clinic licensed under said 
+1151 section 51; (iii) a limited service clinic licensed under section 51J; or (iv) a community health 
+1152 center receiving a grant under 42 U.S.C. 254b. 
+1153 “Urgent care services”, a model of episodic care for the diagnosis, treatment, 
+1154 management or monitoring of acute and chronic disease or injury that is: (i) for the treatment of 
+1155 illness or injury that is immediate in nature but does not require emergency services; (ii) 
+1156 provided on a walk-in basis without a prior appointment; (iii) available to the general public 
+1157 during times of the day, weekends or holidays when primary care provider offices are not 
+1158 customarily open; and (iv) is not intended and should not be used for preventative or routine 
+1159 services. 
+55 of 64 
+1160 (b) The department shall establish rules, regulations, and practice standards for the 
+1161 licensing of urgent care centers. In determining regulations and practice standards necessary for 
+1162 licensure as an urgent care center, the department may, at its discretion determine which 
+1163 regulations applicable to a clinic licensed under section 51, shall apply to an urgent care center. 
+1164 (c) The department shall issue for a term of 2 years and renew for a like term, a license to 
+1165 maintain an urgent care center to an entity or organization that demonstrates to the department 
+1166 that it is responsible and suitable to maintain such an urgent care center. In the case of the 
+1167 transfer of ownership of an urgent care center, the application of the new owner for a license, 
+1168 when filed with the department on the date of transfer of ownership, shall have the effect of a 
+1169 license for a period of 3 months. 
+1170 (d) An urgent care center license shall be subject to suspension, revocation or refusal to 
+1171 issue or to renew for cause if, in its reasonable discretion, the department determines that the 
+1172 issuance of such license would be inconsistent with or opposed to the best interests of the public 
+1173 health, welfare or safety. Nothing in this subsection shall limit the authority of the department to 
+1174 require a fee, impose a fine, conduct surveys and investigations or to suspend, revoke or refuse to 
+1175 renew a license issued pursuant to subsection (c). 
+1176 (e) Initial application and renewal fees for the license shall be established pursuant to 
+1177 section 3B of chapter 7. 
+1178 (f) The department may impose a fine of up to $10,000 on a person or entity that 
+1179 advertises, announces, establishes or maintains an urgent care center without a license granted by 
+1180 the department. The department may impose a fine of not more than $10,000 on a licensed 
+1181 urgent care center for violations of this section or any rule or regulation promulgated pursuant to 
+56 of 64 
+1182 this section. Each day during which a violation continues shall constitute a separate offense. The 
+1183 department may conduct surveys and investigations to enforce compliance with this section. 
+1184 (g) Notwithstanding any general or special law or rule to the contrary, the department 
+1185 may issue a 1-time provisional license to an applicant for an urgent care center if such urgent 
+1186 care center holds: (i) a current accreditation from the Accreditation Association for Ambulatory 
+1187 Health Care, Urgent Care Association of America or the Joint Commission; or (ii) a current 
+1188 certification for participation in either Medicare or Medicaid. The department may approve such 
+1189 provisional application upon a finding of responsibility and suitability and that the urgent care 
+1190 center meets all other licensure requirements as determined by the department. Such provisional 
+1191 license issued to an urgent care center shall not be extended or renewed. 
+1192 SECTION 69. Section 218 of said chapter 111, as appearing in the 2022 Official Edition, 
+1193 is hereby amended by striking out, in line 28, the words “Maintenance Organizations” and 
+1194 inserting in place thereof the following word:- Plans. 
+1195 SECTION 70. Section 7 of chapter 111D of the General Laws, as so appearing, is hereby 
+1196 amended by striking out, in line 51, the word “three” and inserting in place thereof the following 
+1197 figure:- 5. 
+1198 SECTION 71. The sixth paragraph of section 2 of chapter 112 of the General Laws, as so 
+1199 appearing, is hereby amended by striking out the last sentence and inserting in place thereof the 
+1200 following sentence:- The renewal application shall be accompanied by a fee determined under 
+1201 the aforementioned provision and shall include the physician’s name, license number, home 
+1202 address, office address, specialties, the principal setting of their practice and whether they are an 
+1203 active or inactive practitioner. 
+57 of 64 
+1204 SECTION 72. Section 9C of chapter 118E of the General Laws, as so appearing, is 
+1205 hereby amended by striking out, in line 161, the words “committee on health care” and inserting 
+1206 in place thereof the following words:- joint committee on health care financing. 
+1207 SECTION 73. The fourth paragraph of section 5 of chapter 176A of the General Laws, as 
+1208 so appearing, is hereby amended by inserting after the fourth sentence the following sentence:- 
+1209 For the purposes of the review of rates of payment under this section, “not excessive” shall 
+1210 include considerations of affordability for consumers and purchasers of health insurance 
+1211 products; provided, however, that such review shall adhere to principles of solvency and 
+1212 actuarial soundness. 
+1213 SECTION 74. The second paragraph of section 6 of said chapter 176A, as so appearing, 
+1214 is hereby amended by adding the following sentence:- For the purposes of the review of rates of 
+1215 payment under this section, whether a contract is not excessive shall include considerations of 
+1216 affordability for consumers and purchasers of health insurance products; provided, however, that 
+1217 such review shall adhere to principles of solvency and actuarial soundness. 
+1218 SECTION 75. The third paragraph of section 10 of said chapter 176A, as so appearing, is 
+1219 hereby amended by inserting after the first sentence the following sentence:- For the purposes of 
+1220 the review of rates of payment under this section, whether a contract is not excessive shall 
+1221 include considerations of affordability for consumers and purchasers of health insurance 
+1222 products; provided, however, that such review shall adhere to principles of solvency and 
+1223 actuarial soundness. 
+1224 SECTION 76. The second paragraph of section 4 of chapter 176B of the General Laws, 
+1225 as so appearing, is hereby amended by inserting after the second sentence the following 
+58 of 64 
+1226 sentence:- For the purposes of the review of rates of payment under this section, whether an 
+1227 agreement is not excessive shall include considerations of affordability for consumers and 
+1228 purchasers of health insurance products; provided, however, that such review shall adhere to 
+1229 principles of solvency and actuarial soundness. 
+1230 SECTION 77. The first paragraph of section 16 of chapter 176G of the General Laws, as 
+1231 so appearing, is hereby amended by inserting after the second sentence the following sentence:- 
+1232 For the purposes of the review of rates of payment under this section, whether a contract is not 
+1233 excessive shall include considerations of affordability for consumers and purchasers of health 
+1234 insurance products; provided, however, that such review shall adhere to principles of solvency 
+1235 and actuarial soundness. 
+1236 SECTION 78. Subsection (c) of section 6 of chapter 176J of the General Laws, as so 
+1237 appearing, is hereby amended by inserting after the second sentence the following sentence:- For 
+1238 the purposes of the review of rates of payment under this section, whether the proposed changes 
+1239 to base rates are excessive shall include considerations of affordability for consumers and 
+1240 purchasers of health insurance products; provided, however, that such review shall adhere to 
+1241 principles of solvency and actuarial soundness. 
+1242 SECTION 79. The second paragraph of subsection (g) of section 7 of chapter 176K of the 
+1243 General Laws, as so appearing, is hereby amended by adding the following sentence:- For the 
+1244 purposes of the review of rates of payment under this section, whether rates are excessive shall 
+1245 include considerations of affordability for consumers and purchasers of health insurance 
+1246 products; provided, however, that such review shall adhere to principles of solvency and 
+1247 actuarial soundness. 
+59 of 64 
+1248 SECTION 80. There shall be a task force to: (i) study primary care access, delivery and 
+1249 payment in the commonwealth; (ii) develop and issue recommendations to stabilize and 
+1250 strengthen the primary care system and the increase of recruitment and retention in the primary 
+1251 care workforce; and (iii) increase the financial investment in and patient access to primary care 
+1252 across the commonwealth. 
+1253 (b) The task force shall consist of: the secretary of health and human services or a 
+1254 designee, who shall serve as co-chair; the executive director of the health policy commission or a 
+1255 designee, who shall serve as co-chair; the assistant secretary for MassHealth or a designee; the 
+1256 executive director of the center for health information and analysis or a designee; the 
+1257 commissioner of insurance or a designee; the chairs of the joint committee on health care 
+1258 financing or their designees; 1 member from the American Academy of Family Physicians Mass 
+1259 Chapter, Inc.; 1 member from the Massachusetts chapter of the American Academy of 
+1260 Pediatrics; 1 member from a rural health care practice with expertise in primary care; 1 member 
+1261 from Community Care Cooperative, Inc.; 1 member from the Massachusetts Medical Society 
+1262 with expertise in primary care; 1 member from the Massachusetts Coalition of Nurse 
+1263 Practitioners, Inc. with expertise in primary care or in delivering care in a community health 
+1264 center; 1 member from the Massachusetts Association of Physician Associates, Inc. with 
+1265 expertise in primary care; 1 member from the Massachusetts chapter of the National Association 
+1266 of Social Workers, Inc. with expertise in behavioral health in a primary care setting; 1 member 
+1267 from the Massachusetts League of Community Health Centers, Inc.; 1 member from the 
+1268 Massachusetts Health and Hospital Association, Inc.; 1 member from the Massachusetts 
+1269 Association of Health Plans, Inc.; 1 member from Blue Cross and Blue Shield of Massachusetts, 
+1270 Inc.; 1 member from the Associated Industries of Massachusetts, Inc.; 1 member from the 
+60 of 64 
+1271 Retailers Association of Massachusetts, Inc.; 1 member from Health Care For All, Inc.; 1 
+1272 member from the Massachusetts Chapter of the American College of Physicians; 1 member from 
+1273 the Massachusetts Primary Care Alliance for Patients; and 1 member from Massachusetts Health 
+1274 Quality Partners, Inc. 
+1275 (c) The task force shall develop recommendations to: (i) define primary care services, 
+1276 codes and providers; (ii) develop a standardized set of data reporting requirements for private 
+1277 and public health care payers, providers and provider organizations to enable the commonwealth 
+1278 and private and public health care payers to track payments for primary care services including, 
+1279 but not limited to, fee-for-service, prospective payments, value-based payments and grants to 
+1280 primary care providers, fees levied on a primary care provider by a provider organization or 
+1281 hospital system of which the primary care provider is affiliated and provider spending on 
+1282 primary care services; (iii) establish a primary care spending target for private and public health 
+1283 care payers that reflects the cost to deliver evidence-based, equitable and culturally competent 
+1284 primary care; (iv) propose payment models to increase private and public reimbursement for 
+1285 primary care services; (v) assess the impact of health plan design on health equity and patient 
+1286 access to primary care services; (vi) monitor and track the needs of and service delivery to 
+1287 residents of the commonwealth; and (vii) create short-term and long-term workforce 
+1288 development plans to increase the supply and distribution of and improve working conditions of 
+1289 primary care clinicians and other primary care workers. The task force may make additional 
+1290 recommendations and propose legislation necessary to carry out its recommendations. 
+1291 (d) The task force shall, in consultation with the center for health information and 
+1292 analysis, define the data required to satisfy the contents of this section. The center for health 
+1293 information and analysis shall adopt regulations to require providers and private and public 
+61 of 64 
+1294 health care payers to submit data or information necessary for the task force to fulfill its duties 
+1295 under this section. Any data collected shall be public and available through the Massachusetts 
+1296 Primary Care Dashboard maintained by the center and Massachusetts Health Quality Partners, 
+1297 Inc. 
+1298 (e) Not later than September 15, 2025, the task force shall issue its report of the findings 
+1299 and recommendations under clauses (i) and (ii) of subsection (c) with the clerks of the house of 
+1300 representatives and the senate, the house and senate committees on ways and means, the joint 
+1301 committee on health care financing, the center for health information and analysis, the health 
+1302 policy commission and the division of insurance. 
+1303 (f) Not later than December 15, 2025, the task force shall issue its report of the findings 
+1304 and recommendations under clause (iii) of subsection (c) with the clerks of the house of 
+1305 representatives and the senate, the house and senate committees on ways and means, the joint 
+1306 committee on health care financing, the center for health information and analysis, the health 
+1307 policy commission and the division of insurance. 
+1308 (g) Not later than March 15, 2026, the task force shall issue its report of the findings and 
+1309 recommendations under clauses (iv) and (v) of subsection (c) with the clerks of the house of 
+1310 representatives and the senate, the house and senate committees on ways and means, the joint 
+1311 committee on health care financing, the center for health information and analysis, the health 
+1312 policy commission and the division of insurance. 
+1313 (h) Not later than May 15, 2026, the task force shall issue its report of the findings and 
+1314 recommendations under clauses (vi) and (vii) of subsection (c) with the clerks of the house of 
+1315 representatives and the senate, the house and senate committees on ways and means, the joint 
+62 of 64 
+1316 committee on health care financing, the center for health information and analysis, the health 
+1317 policy commission and the division of insurance. 
+1318 SECTION 81. The assessments in section 6 of chapter 6D of the General Laws, as 
+1319 amended by section 14, and in section 7 of chapter 12C of the General Laws, as amended by 
+1320 section 38, shall apply to the budgets for the health policy commission and the center for health 
+1321 information and analysis, respectively, beginning in fiscal year 2026; provided, however, that 
+1322 each pharmaceutical manufacturing company and each pharmacy benefit manager shall make a 
+1323 preliminary payment to the commission on October 1, 2025 in an amount equal to 1/2 of the 
+1324 initial year’s total assessment, as determined by the commission and center, respectively, and 
+1325 thereafter shall pay, within 30 days of receiving notice, the balance of the total assessment for the 
+1326 initial year. 
+1327 SECTION 82. Notwithstanding any general or special law to the contrary, the office of 
+1328 health resource planning established in section 22 of chapter 6D of the General Laws shall 
+1329 submit a state health resource plan to the governor and the general court as required by said 
+1330 section 22 of said chapter 6D not later than January 1, 2027. 
+1331 SECTION 83. The department of public health, in consultation with the board of 
+1332 registration in medicine, shall promulgate regulations establishing the requirements for licensure 
+1333 as an office-based surgical center pursuant to section 51N of chapter 111 of the General Laws 
+1334 not later than October 1, 2025. 
+1335 SECTION 84. The department of public health, in consultation with the board of 
+1336 registration in medicine, shall promulgate regulations establishing the requirements for licensure 
+63 of 64 
+1337 as an urgent care center pursuant to section 51O of chapter 111 of the General Laws not later 
+1338 than October 1, 2025. 
+1339 SECTION 85. Notwithstanding any general or special law to the contrary, the department 
+1340 of public health may issue a 1-time provisional license for a period of not more than 1 year to an 
+1341 applicant for an initial office-based surgical center license pursuant to section 51N of chapter 111 
+1342 of the General Laws, which is not in full compliance with applicable requirements but the 
+1343 department finds it is in substantial compliance with such requirements and demonstrates 
+1344 potential for achieving full compliance within the provisional licensure period. A provisional 
+1345 license issued to an office-based surgical center shall not be extended or renewed. 
+1346 SECTION 86. Notwithstanding any general or special law to the contrary, the department 
+1347 of public health may issue a 1-time provisional license for a period of not more than 1 year to an 
+1348 applicant for an initial an urgent care center license pursuant to section 51O of chapter 111 of the 
+1349 General Laws, which is not in full compliance with applicable requirements but the department 
+1350 finds it is in substantial compliance with such requirements and demonstrates potential for 
+1351 achieving full compliance within the provisional licensure period. A provisional license issued to 
+1352 an urgent care center shall not be extended or renewed. 
+1353 SECTION 87. (a) Notwithstanding any general or special law to the contrary, members 
+1354 of the board of the health policy commission appointed pursuant to section 2 of chapter 6D of the 
+1355 General Laws and serving as of the effective date of this act, shall continue to serve until the 
+1356 expiration of the terms for which they were appointed or until June 30, 2025, whichever first 
+1357 occurs. 
+64 of 64 
+1358 (b) Any vacancy on the board that results from the resignation, removal or expiration of a 
+1359 board member’s term shall be filled in accordance with subsection (b) of section 2 of chapter 6D 
+1360 of the General Laws. 
+1361 (c) In making the original appointments to the health policy commission established in 
+1362 section 2 of chapter 6D of the General Laws, the governor shall appoint 2 members for a term of 
+1363 2 years, 2 members for a term of 3 years and 2 members for a term of 4 years. As each member’s 
+1364 term expires thereafter, their successor shall be appointed for a term of 5 years. The governor 
+1365 shall make all appointments not later than July 1, 2025. 
+1366 (d) In making the original appointments to the health policy commission established in 
+1367 section 2 of chapter 6D of the General Laws, the attorney general shall appoint 1 member for a 
+1368 term of 2 years, 1 member for a term of 3 years and 1 member for a term of 4 years. As each 
+1369 member’s term expires thereafter, their successor shall be appointed for a term of 5 years. The 
+1370 attorney general shall make all appointments not later than July 1, 2025. 
+1371 (e) The health policy commission may issue guidance to ensure the orderly transition of 
+1372 the board in accordance with this act. 
+1373 SECTION 88. Section 12 shall take effect on July 1, 2025.

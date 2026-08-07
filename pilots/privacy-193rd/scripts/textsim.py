@@ -1,0 +1,50 @@
+"""Shared text-similarity helpers for cross-bill comparisons.
+
+Used by 06_compile_atoms.py (identity basis of shared-proposition claims)
+and 07_links.py (text-identity links). Reads only cached official texts.
+"""
+
+import hashlib
+import json
+import re
+from pathlib import Path
+
+PILOT = Path(__file__).resolve().parent.parent
+API = "https://malegislature.gov/api"
+
+
+def bill_text(bn: str) -> str:
+    url = f"{API}/GeneralCourts/193/Documents/{bn}"
+    p = PILOT / "raw" / "cache" / (hashlib.sha1(url.encode()).hexdigest() + ".bin")
+    doc = json.loads(p.read_text(encoding="utf-8-sig"))
+    t = re.sub(r"<[^>]+>", " ", doc.get("DocumentText") or "")
+    return re.sub(r"\s+", " ", t).lower()
+
+
+def shingles(text: str, k: int = 8) -> set:
+    """Empty set for texts shorter than k words, so empty or trivial texts
+    can never be 'identical' to each other (review finding 7)."""
+    words = re.findall(r"[a-z0-9]+", text)
+    if len(words) < k:
+        return set()
+    return {" ".join(words[i : i + k]) for i in range(len(words) - k + 1)}
+
+
+def jaccard(a: set, b: set) -> float:
+    if not a or not b:
+        return 0.0
+    return len(a & b) / len(a | b)
+
+
+def full_text(bn: str):
+    """Best available official text: API DocumentText, else recovered PDF
+    text (data/pdf_texts/), else None (caller must record as unscanned)."""
+    t = bill_text(bn)
+    if len(t.strip()) >= 50:
+        return t
+    pdf = PILOT / "data" / "pdf_texts" / (bn + ".txt")
+    if pdf.exists():
+        t2 = re.sub(r"\s+", " ", pdf.read_text()).lower()
+        if len(t2.strip()) >= 50:
+            return t2
+    return None

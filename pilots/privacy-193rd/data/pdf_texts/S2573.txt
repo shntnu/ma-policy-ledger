@@ -1,0 +1,888 @@
+SENATE………………………………………..No. 2573 
+ 
+The Commonwealth of Massachusetts 
+ 
+ 
+ 
+COMMUNICATION 
+ 
+from 
+ 
+MASSACHUSETTS GAMING COMMISSION 
+ 
+SUBMITTING PROPOSED REGULATIONS FOR 
+ 
+RACING MEETING LICENSING 
+205 CMR 15.00 
+ 
+(under the provisions of section 9B of Chapter 128A 
+of the General Laws) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 25, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+January 22, 2024 
+ 
+VIA FIRST CLASS MAIL 
+and EMAIL: (Senate.clerk@ma.state.us) (michael.d.hurley@state.ma.us ) 
+ 
+The Honorable Michael D. Hurley 
+Senate Clerk 
+Office of the Senate Clerk 
+24 Beacon Street 
+Room 335- State House 
+Boston, MA 02133 
+ 
+Senate Clerk Hurley: 
+ 
+Pursuant to M.G.L. c. 128A, §9B, the Massachusetts Gaming Commission (“Commission”) 
+hereby files 205 CMR 15.00 – Racing Meeting Licensing. The proposed regulation would 
+govern applications for racing meeting licenses under G.L. c. 128A. The regulations sections 
+establish procedures for: the application’s requirements, the Commission’s evaluation of the 
+application and its decision, the suitability of new and existing licensees and potential qualifiers, 
+additional information and reporting requirements, and the withdrawal of an application. 
+Additional sections have been reserved for future rulemaking. 
+ 
+ These regulations are largely governed by M.G.L. c. 128A § 9. A public hearing was held 
+ regarding these proposed amendments on January 9, 2024. If you have any questions or need additional 
+ information, please feel free to reach me at judith.young@massgaming.gov or (617) 979-8426. 
+Thank you for your attention to this matter. 
+ 
+ 
+Respectfully submitted, 
+ 
+Massachusetts Gaming Commission 
+By: 
+ 
+ 
+Judith A. Young, Esq. 
+Associate General Counsel 
+ 
+ 
+Enclosures 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+1 
+ 
+ 
+205 CMR 15.00: RACING MEETING LICENSING 
+ 
+Section 15.01: Authority and Definitions 
+Section 15.02: Racing Meeting License Application 
+Section 15.03: Evaluation of Application and Decision 
+Section 15.04: Suitability of New and Existing Licensees, and Qualifiers 
+Section 15.05: Advance Deposit Wagering; Licensure, Review and Authorization (RESERVED) 
+Section 15.06: Licensing, Registration, and Fees for Owners, Trainers, Stable Employees, 
+Authorized Agents, Vendors and Racing Officials (RESERVED) 
+Section 15.07: Financial Payments, Outs, and Requests for Capital Improvement or 
+Reimbursement (RESERVED) 
+Section 15.08: Additional Information and Cooperation of Racing Meeting Applicants and 
+Licensees 
+Section 15.09: Withdrawal of Application For License To Hold Or Conduct A Racing Meeting 
+ 
+ 
+15.01 Authority and Definitions 
+ 
+(1) Authority. 205 CMR 15.00 is issued pursuant to G.L. c. 128A, § 9, and G.L. c. 128C, 
+§ 8. 
+(2) Definitions. As used in 205 CMR 15.00, the following words and phrases shall have 
+the following meanings, unless the context clearly requires otherwise. Words and 
+phrases not defined below shall have the meaning given to them in G.L. c. 128A, § 1 
+or G.L. c. 128C, § 1, 205 CMR 202.02, or 205 CMR 102.00, if any, unless the context 
+clearly requires otherwise. In the event of any conflict between those provisions, any 
+definition in G.L. c. 128A, § 1 shall be given priority, followed by G.L. c. 128C, § 1, 
+205 CMR 202.02, and 205 CMR 102.00, in that order, unless the context clearly 
+requires otherwise. 
+Applicant means an applicant for a racing meeting license. 
+Application means an application for a racing meeting license. 
+Application deadline means the first day of October of the calendar year preceding 
+the calendar year for which the application requests a license to be issued. 
+Authorized individual means, if the applicant is an individual, such individual; if two 
+or more individuals or a partnership, one of such individuals or by a member of such 
+partnership, as the case may be; if a trust, a trustee of such trust; and, if an association 
+or corporation, by the president or vice president thereof. 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+2 
+ 
+BED means a Business Entity Disclosure Form by an authorized individual as 
+described in 205 CMR 111.02: Business Entity Disclosure Form - Category 1 and 
+Category 2 Entity Applicants and Holding/Intermediary Companies. 
+License means a racing meeting license. 
+Licensee means a racing meeting licensee. A licensee shall be considered a licensee 
+through the full calendar year in which its license permits it to host racing meetings 
+regardless of the date of its last scheduled racing meeting. 
+Mass. Supp. means Massachusetts Supplemental Form as described in 205 CMR 
+111.04. 
+MJPHD means a Multi-jurisdictional Personal History Form as described in 205 
+CMR 111.03: Multi-jurisdictional Personal History Form. 
+Scoping survey means an Operator and Vendor Scope of Licensing – Initial Survey. 
+Racing meeting license means a license to conduct a live racing meeting. 
+Qualifier means a person whose qualification must be established in evaluating the 
+suitability of an applicant in accordance with the standards and criteria set forth in 
+M.G.L. c. 128A and 205 CMR 15.04. 
+15.02 Racing Meeting License Application 
+ 
+(1) Required Materials. An applicant must submit a fully executed original application to 
+the Commission on or before the application deadline. All application materials shall 
+be submitted in accordance with the instructions included in the relevant form or 
+online. The Commission shall have no obligation to accept or review an incomplete 
+application. Applicants shall, at a minimum, submit the following completed 
+materials as part of their application: 
+(a) If the applicant is not currently a licensee: 
+(i) a scoping survey; 
+(ii) For each designated (or, with the permission of the Bureau, 
+anticipated) entity qualifier: a BED; 
+(iii) For each designated (or, with the permission of the Bureau, 
+anticipated) individual qualifier: 
+(a) An MJPHD; and 
+(b) A Mass. Supp. 
+(b) A racing meeting license application form, in accordance with 205 CMR 15.02 
+and consistent with M.G.L. c. 128A and M.G.L. c. 128C, signed and sworn to 
+by an authorized individual; 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+3 
+ 
+(c) A $300 licensing fee pursuant to M.G.L. c. 128A, § 4; 
+(d) A certified check or bank draft, or electronic equivalent, payable to the 
+Commission, weekly in advance for the full amount of the license fee required 
+by G.L. c. 128A; 
+(e) A bond payable to the Commission in the amount of $125,000 with a surety or 
+sureties approved by the Commission conditioned upon the payment of all 
+sums which may become payable to the commission under this chapter. 
+(2) Sequence of submissions. An applicant who is not currently a licensee: 
+(a) may submit the scoping survey prior to and separately from any other required 
+materials; and 
+(b) may submit any BEDs, MJPHDs, and Mass. Supps. required by 205 CMR 
+15.02(1)(a)(ii)-(iii); 
+i. prior to and separately from the materials required under 205 CMR 
+15.02(1)(b)-(f); and 
+ii. Either for all qualifiers at once, or, with the permission of the Bureau, 
+on a per-qualifier basis. 
+(c) An applicant who submits any forms prior to and separately from other 
+application materials in accordance with 205 CMR 15.02(2)(a) or (b) must also 
+submit an attestation signed and sworn to that the applicant intends in good 
+faith to submit a fully executed original application on or before the application 
+deadline, and acknowledging that if the applicant fails to do so without good 
+cause, the Commission may charge the applicant for any administrative and 
+investigatory costs incurred in evaluating those application forms the applicant 
+did submit. Only one such attestation shall be required per application 
+regardless of the volume or nature of forms submitted early. 
+(3) Racing Meeting License Application Form requirements. 
+(a) For any applicant, the racing meeting license application form shall require the 
+following: 
+(i) The name of the applicant; 
+(ii) The post office address of the applicant, and if a corporation or 
+corporate entity, the name of the state under the laws of which it is 
+incorporated or formed, the location of its principal place of 
+business and the names and addresses of its directors and 
+stockholders, members, or directors; 
+(iii) The location of the racetrack where it is proposed to hold or 
+conduct such meeting; 
+(iv) An explanation of the ownership of the real property on which the 
+race track is proposed to be constructed or operated, and the 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+4 
+ 
+applicant’s rights to construct or operate the race track on said real 
+property; 
+(v) Documentation sufficient to demonstrate that the applicant has 
+received: 
+(a) municipal approval pursuant to M.G.L. c. 128A, § 13A; 
+and 
+(b) an affirmative county vote pursuant to M.G.L. c. 128A, § 
+14; 
+(vi) The calendar year in which the applicant anticipates conducting the 
+meeting, and the specific days on which it intends or anticipates 
+holding or conducting such a meeting; 
+(vii) The hours of each day between which it is intended to hold or 
+conduct racing at such meeting subject to the restrictions described 
+in M.G.L. c. 128A; 
+(viii) An attestation signed and sworn to that the applicant will comply, 
+in case such license be issued, with all applicable laws and with all 
+applicable rules and regulations prescribed by the Commission, 
+and that the applicant shall have an affirmative obligation to abide 
+by every statement made in the application to the Commission 
+should it be awarded a license; 
+(ix) An attestation signed and sworn to that the applicant will comply, 
+in case such license shall be issued, with all affirmative 
+representations, promises or inducements made to governing 
+bodies, government officials of the host and surrounding 
+communities or local organizations and any mitigation agreements, 
+formal or informal; and 
+(x) Such other information or certifications as the Commission may 
+require. 
+ 
+(b) For any applicant who proposes to hold a racing meeting at a race track where 
+the applicant has not previously held a racing meeting, the racing meeting 
+license application form shall also require the following: 
+(i) A summary of the project and racing facilities including a 
+description of the proposed financing and source(s) of capital; 
+(ii) Submission of feasibility, viability, economic impact/development 
+studies including projected revenues, purses, handles, tax 
+payments, attendance, and employment figures; 
+(iii) Submission of designs, traffic, and environmental impact studies, 
+including information relative to the safety and security of patrons, 
+employees, occupational licensees, and horses; 
+(iv) A detailed description of the race track that will be constructed and 
+an indication of the type of grounds the horses will be raced upon, 
+whether dirt, turf or synthetic, including a timeline for completion 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+5 
+ 
+and the name and qualifications of the entity or individual 
+overseeing construction; 
+(v) Information relative to the public interest and benefits associated 
+with the conduct of the proposed racing meeting including the 
+existence of, or the applicant’s plan to execute, a purse agreement 
+with a representative horsemen’s organization; any support or 
+opposition to the proposal has received from the host and nearby 
+communities; and the applicant’s plan to attract and employ a 
+diverse workforce in both construction and operational phases of 
+the proposal, including through use of vendors. 
+(vi) Information or a statement as to whether the applicant plans on 
+entering into a Project Labor Agreement(s); 
+(vii) Information relative to the proposed pari-mutuel wagering plan for 
+live racing, simulcasting, and advance account deposit wagering; 
+(viii) Information relative to the proposed responsible gaming initiatives 
+to be offered on the premises; 
+(ix) Information relative to the applicant’s plans to seek or not seek a 
+Category 2 Sports Wagering license; 
+(x) Any agreements, written or otherwise, that the applicant has made 
+or executed with racing governing bodies, the municipality where 
+the applicant proposes to hold racing meetings, other 
+municipalities, or any other entities; and 
+(xi) Such other information or certifications as the Commission may 
+require. 
+(c) For any applicant who is not currently a licensee, or who has not previously 
+been found durably or temporarily suitable in accordance with this 205 CMR 
+to hold a license, the racing meeting license application form shall also require 
+the following: 
+(xii) An attestation signed and sworn to that if the form described in 205 
+CMR 15.02(1)(a)(i) is not deemed administratively sufficient by 
+May 1, the applicant acknowledges the Commission may not have 
+adequate time to assess the applicant’s suitability, and that this may 
+result in denial of the application; 
+(xiii) An attestation signed and sworn to that if the forms described in 
+205 CMR 15.02(1)(a)(ii)-(iii) are not deemed administratively 
+sufficient by August 1, the applicant acknowledges the 
+Commission may not have adequate time to assess the applicant’s 
+suitability, and that this may result in denial of the application; and 
+(xiv) Such other information or certifications as the Commission may 
+require. 
+15.03 Evaluation of Application and Decision 
+ 
+(1) Pre-Application Consultation. The Commission or its designees may conduct one or 
+more consultation meetings or information sessions with an applicant or prospective 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+6 
+ 
+applicant to provide guidance on application procedures, including the requirements 
+of G.L. c. 128A or 128C, or 205 CMR 15.00. In addition, the Commission may use 
+other methods to respond to inquiries regarding the application process, such as 
+publishing responses to questions submitted by any applicant. 
+(2) Administrative Sufficiency Review. The Division of Licensing will review 
+application materials for administrative sufficiency as they are submitted. 
+(a) Administrative sufficiency review – how undertaken. 
+(i) When determining whether the application materials to be 
+reviewed at any stage are administratively sufficient, the Division 
+of Licensing shall review the forms and determine whether all 
+information or materials required to be provided in response to 
+each question or request have been submitted. 
+(ii) If any application materials to be reviewed in a stage are 
+determined to be insufficient: 
+(a) The Licensing Division shall notify the applicant in writing 
+by email or first-class mail. The notification shall specify 
+the deficiencies within the materials. 
+(b) Until the application deadline passes, the applicant shall 
+have the right to submit corrected materials to cure the 
+deficiencies. 
+(c) After the application deadline passes, the applicant must 
+request leave from the Commission or its designee to 
+submit corrected materials to cure the specified 
+deficiencies, and must submit any corrected materials 
+within the time allowed by the Commission or its designee. 
+(d) The Commission or its designee shall not grant leave to 
+submit proof of approvals required under G.L. c. 128A, 
+§§ 13A and 14. 
+(b) Positive determination of administrative sufficiency – significance. A positive 
+determination of administrative sufficiency shall not constitute a finding with 
+respect to the accuracy of the information submitted and shall not bar a request 
+for further information by the Commission, the Bureau or their agents and 
+employees with respect to the application. 
+(3) Review Procedures. In reviewing the merits of the application, the Commission may, 
+at such times and in such order as the Commission deems appropriate, take some or 
+all of the following actions: 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+7 
+ 
+(a) Refer the application, or any parts thereof, for advice and recommendations, to 
+any or all of the following: 
+(i) The Executive Director; 
+(ii) The Bureau; 
+(iii) Any office, agency, board, council, commission, authority, 
+department, instrumentality, or division of the commonwealth; 
+(iv) Commission staff; and 
+(v) Any consultant retained by the Commission to aid in the review of 
+the application; 
+(b) Retain, or authorize the Executive Director or the Executive Director's 
+designee to retain such professional consultants (including without limitation 
+financial and accounting experts, legal experts, racing experts, contractor 
+investigators, and other qualified professionals) as the Commission in its 
+discretion deems necessary and appropriate to review the request and make 
+recommendations; and 
+(c) Require or permit, in the Commission’s discretion, the applicant to provide 
+additional information and documents. 
+(4) Public Meetings Regarding Applications 
+(a) Pursuant to G.L. c. 128A, § 3, the Commission shall not issue a license without 
+holding at least one public meeting in the municipality where the applicant 
+proposes to hold a racing meeting. 
+(b) The Commission may conduct one or more other meetings to: 
+(i) receive public feedback on the application; 
+(ii) allow the applicant to make a presentation; and 
+(iii) allow the applicant to respond to questions or public comments. 
+(5) Evaluation of the Application by the Commission. Once an application is deemed 
+administratively sufficient, regardless of whether the application deadline has passed, 
+the Commission shall commence a substantive evaluation of its contents. The 
+Commission may utilize any technical or expert assistance it deems necessary to aid 
+in its review. 
+(a) The Commission shall analyze the factors and considerations set out in 205 
+CMR 15.01, and G.L. c. 128A, § 3(i) in no particular order, and giving any 
+particular weights, to any factor in order to make a determination as to whether 
+a license awarded to the applicant would benefit the Commonwealth. These 
+factors include but are not limited to: 
+(i) Whether the application meets the requirements of G.L. c. 128A; 
+(ii) Whether the applicant has adequately answered the questions in 
+the application; 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+8 
+ 
+(iii) Whether the application meets the factors set out in G.L. c. 128A, 
+§ 3(i): 
+(a) The applicant’s financial ability to successfully operate a 
+race track; 
+(b) The impact of the application on the maximization of state 
+revenues; 
+(c) The suitability of the racing facilities for operation at the 
+time of the year for which dates are assigned; 
+(d) The circumstance that large groups of spectators require 
+safe and convenient facilities; 
+(e) The interest of members of the public in racing competition 
+honestly managed and of good quality; 
+(f) The necessity of having and maintaining proper physical 
+facilities for racing meetings; and 
+(g) The economic interest and investments of those who in 
+good faith have provided and maintain such facilities; 
+(iv) Whether the Applicant is financially responsible, able to meet 
+obligations to the Commonwealth, has suitable and safe facilities 
+for the service of patrons, and is likely to conduct racing in 
+accordance with approved practices and in a manner consistent 
+with the public safety, health, morals, and welfare, including the 
+suitability of the Applicant and its leadership to hold or conduct a 
+racing meeting; 
+(v) The reputation for honest dealing, and the gaming, racing, or sports 
+wagering history of the Applicant and its qualifiers; 
+(vi) Whether granting the application would result in an undesirable 
+concentration of ownership of racing facilities within the 
+Commonwealth; 
+(vii) Whether the application would have an adverse impact upon the 
+integrity of the racing industry; 
+(viii) The applicant’s proposed measures related to responsible 
+wagering, including: 
+(a) The Applicant’s responsible wagering policies; 
+(b) The Applicant’s advertising and promotional plans; and 
+(c) The Applicant’s history of demonstrated commitment to 
+responsible wagering; 
+(ix) The Applicant’s willingness to foster racial, ethnic, and gender 
+diversity, equity, and inclusion, including: 
+(a) Within the applicant’s workforce; 
+(b) Through the applicant’s supplier spend; and 
+(c) In the applicant’s corporate structure; 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+9 
+ 
+(x) any other relevant considerations the Commission deems 
+appropriate, per M.G.L. c. 128A, § 2. 
+(b) The Commission shall deliberate on license applications in an adjudicatory 
+proceeding pursuant to 205 CMR 101.01: Hearings Before the Commission. 
+(6) Determinations on Applications. 
+(a) After evaluating an application in accordance with 205 CMR 15.03(5), the 
+Commission may: 
+(i) Award the applicant a license, subject to conditions in accordance 
+with G.L. c. 128A and 128C, and 205 CMR; or 
+(ii) Deny the application for any of the reasons set out in G.L. c. 128A 
+and 128C, and 205 CMR. 
+(b) The Commission shall not award a license without first having found the 
+applicant durably suitable in accordance with 205 CMR 15.04(1) within the 
+current or prior four calendar years, or having found the applicant temporarily 
+suitable in accordance with 205 CMR 15.04(2) within the last calendar year; 
+provided, the Commission may make either finding simultaneously with the 
+decision to award a license in accordance with 205 CMR 15.03(6)(a)(i). 
+(7) Provisions Applicable to All Licensing Determinations. Upon granting an application, 
+the Commission shall prepare and file its decision, and shall issue a statement of the 
+reasons for the grant, including specific findings of fact, and noting any conditions of 
+licensure imposed pursuant to G.L. c. 128A, or 128C. 
+(a) Upon denial of an application, the Commission shall prepare and file its 
+decision and, if requested by the applicant, shall further prepare and file a 
+statement of the reasons for the denial, including specific findings of fact. 
+(b) For purposes of 205 CMR and G.L. c. 128A, or 128C, the award of a Racing 
+Meeting License shall be deemed to have occurred immediately upon a 
+majority vote by the Commission to issue the license, unless otherwise 
+determined by the Commission. 
+(c) License conditions. 
+(i) All licenses shall be issued subject to the following conditions: 
+(a) That the licensee comply with all terms and conditions of 
+its license; 
+(b) That the licensee comply with G.L. c. 128A, c. 128C, and 
+all rules and regulations of the Commission; and 
+(c) That the licensee, and its qualifiers, not become, or be 
+found, unsuitable. 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+10 
+ 
+(ii) The Commission may impose any other appropriate condition on a 
+license. 
+ 
+15.04 Suitability of New and Existing Licensees, and Qualifiers 
+(1) Durable suitability determinations. 
+(a) An applicant or qualifier shall have the duty to establish its durable 
+suitability by clear and convincing evidence. 
+(b) No applicant shall be determined to be durably suitable in accordance with 
+205 CMR 15.04(1)(a) unless and until all qualifiers identified in 205 CMR 
+15.04(6) have been found by the Commission durably suitable in 
+accordance with 205 CMR 15.04(1)(a) within the current or prior four 
+calendar years. 
+(c) Investigation. Before the Commission may determine that an applicant or 
+qualifier is durably suitable in accordance with 205 CMR 15.04(1), the 
+Bureau shall conduct an investigation into the qualifications and suitability 
+of the applicant. At the completion of the Bureau’s investigation, it shall 
+submit a written report to the Commission, which will include 
+recommendations and findings of fact relative to the suitability of the 
+applicant or qualifier. 
+(d) The Commission shall make any finding of durable suitability in 
+accordance with 205 CMR 15.04(1) after an adjudicatory proceeding 
+pursuant to 205 CMR 101.00: M.G.L. c. 23K Adjudicatory Proceedings. 
+(e) After the proceedings under 205 CMR 15.04(1)(d), the Commission shall 
+issue a written determination of durable suitability as follows: 
+(i) Negative Determination. If the Commission finds that an applicant 
+or qualifier failed to meet its burden of demonstrating its durable 
+suitability, the Commission, in its sole discretion, shall either: 
+(a) issue a negative determination of suitability; or 
+(b) request that the applicant or qualifier submit a certification 
+in accordance with 205 CMR 15.04(2)(b) and, as 
+appropriate, that the Bureau conduct an investigation in 
+accordance with 205 CMR 15.04(2)(c), and thereafter 
+consider whether the applicant or qualifier is temporarily 
+suitable in accordance with 205 CMR 15.04(2). 
+(ii) Positive Determination. If the Commission finds that an applicant 
+or qualifier has met its burden of demonstrating its durable 
+suitability, the Commission shall issue a positive determination of 
+durable suitability which may include conditions and restrictions. 
+(2) Temporary suitability determinations. 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+11 
+ 
+(a) Notwithstanding any other provision of 205 CMR 15.04, the Commission, 
+in its sole discretion, may deem an applicant or qualifier temporarily 
+suitable, until the end of the calendar year in which the applicant proposes 
+to hold a racing meeting based on a certification pursuant to 205 CMR 
+15.04(2)(b) and an investigatory report pursuant to 205 CMR 15.04(2)(c). 
+(i) No applicant shall be determined to be temporarily suitable in 
+accordance with this 205 CMR 15.04(2)(a) unless and until all 
+qualifiers identified in 205 CMR 15.04(6) have been found durably 
+suitable in accordance with 205 CMR 15.04(1)(b) or temporarily 
+suitable in accordance with this 205 CMR 15.04(2)(a). 
+(ii) Any evaluation of whether an applicant or qualifier is temporarily 
+suitable shall take place in a public meeting, unless the applicant or 
+qualifier requests that the evaluation take place after an 
+adjudicatory proceeding held pursuant to 205 CMR 1.01. 
+(b) To be found temporarily suitable in accordance with 205 CMR 15.04(2), 
+the applicant or qualifier must certify: 
+(i) that it understands it may be denied a license or have a license 
+revoked if it has willfully, knowingly, recklessly, or intentionally 
+provided false or misleading information to the Commission; 
+(ii) that, under pains and penalties of perjury, to the best of its 
+reasonable knowledge and belief, it is suitable to hold a license 
+pursuant to G.L. c. 128A and 205 CMR 15.04; and 
+(iii) an applicant certifies, under pains and penalties of perjury, that to 
+the best of its reasonable knowledge and belief, all of its qualifiers 
+are also suitable to hold a license pursuant to G.L. c. 128A, and 
+205 CMR 15.04. 
+(c) Before the Commission may determine that an applicant or qualifier is 
+temporarily suitable in accordance with 205 CMR 15.04(2), the Bureau 
+shall conduct an investigation into the qualifications and suitability of the 
+applicant or qualifier. The investigation may be limited to a review of the 
+applicant or qualifier’s 205 CMR 15.04(2)(b) certification; an applicant’s 
+self-disclosed licensing and compliance history in other jurisdictions; self-
+disclosed open litigation involving an applicant; and an open-source check 
+concerning the applicant or, if a natural person, a qualifier. At the 
+completion of the Bureau’s investigation, it shall submit a written report to 
+the Commission. The Bureau’s report may be redacted consistent with the 
+Massachusetts Public Records Law, M.G.L. c. 66, and other sources of 
+law. 
+(d) After evaluating whether the applicant or qualifier is temporarily suitable 
+in accordance with 205 CMR 15.04(2)(d): 
+(i) If the Commission finds the applicant or qualifier temporarily 
+suitable: the Commission shall issue a written determination of 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+12 
+ 
+temporary suitability for the applicant or qualifier. The 
+determination may include conditions and restrictions. 
+(ii) Otherwise: the Commission may issue a negative determination of 
+suitability. 
+(3) In determining whether a person is suitable, the Commission shall evaluate and 
+consider the overall reputation of the person, including, without limitation, and on the 
+basis of a report from the Bureau, sworn attestations, or other information or evidence 
+available to the Commission: 
+(a) the person’s integrity, honesty, good character and reputation; 
+(b) the person’s financial stability, integrity, and background; 
+(c) whether the person has a history of compliance with racing or other 
+gaming or sports wagering requirements in other jurisdictions; 
+(d) whether the person, at the time of the request, is a defendant in litigation; 
+(e) whether the person is ineligible to hold a license under 205 CMR 15.04(4), 
+or M.G.L. c. 128A; 
+(f) whether the person has been convicted of a crime of moral turpitude; 
+(g) whether, and to what extent, the person has associated with members of 
+organized crime and other persons of disreputable character; 
+(h) whether the person has failed to demonstrate responsible business 
+practices in any jurisdiction; 
+(i) whether awarding a license to the applicant would have an adverse impact 
+upon the integrity of the racing industry; 
+(j) whether awarding a license to the applicant would have an adverse impact 
+on the interest of members of the public in racing competition honestly 
+managed and of good quality; and 
+(k) the extent to which the person have cooperated with the Bureau during the 
+review of the Racing Meeting License Application. 
+(4) The Commission shall determine that an applicant is unsuitable if the applicant or one 
+of its qualifiers: 
+(a) has knowingly made a false statement of a material fact to the 
+Commission or IEB; 
+(b) has had a license revoked by any governmental authority responsible for 
+regulation of racing or associated pari-mutuel wagering activities or 
+gaming or sports wagering activities; 
+(c) has been convicted of a felony or other crime involving embezzlement, 
+theft, fraud, perjury or a gambling-related offense; 
+(d) has not demonstrated to the satisfaction of the Commission financial 
+responsibility sufficient to adequately meet the requirements of the 
+proposed enterprise; 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+13 
+ 
+(e) has affiliates or close associates that would not qualify for a license, or 
+whose relationship with the applicant may pose an injurious threat to the 
+interests of the Commonwealth. 
+(5) Persons Required to be Qualified. The following persons shall be qualifiers for any 
+application: 
+(a) If the applicant is a corporation: 
+(i) Each officer; 
+(ii) Each inside director; 
+(iii) Any person owning, or having another beneficial or proprietary 
+interest in, 10% or more of the common stock of the applicant, or a 
+holding, intermediary or subsidiary company of such company; 
+and 
+(iv) In the judgment of the Division of Licensing after consultation 
+with the Bureau, any person with significant and substantial 
+responsibility for the applicant’s business under the jurisdiction of 
+the Commission, or having the power to exercise significant 
+influence over decisions concerning the applicant’s operations in 
+the Commonwealth. 
+(b) If the applicant is a limited liability corporation: 
+(i) Each member; 
+(i) Each transferee of a member’s interest; 
+(ii) Any other holder of a beneficial or proprietary interest of 10% or 
+more in the applicant; 
+(iii) Each manager; and 
+(iv) In the judgment of the Division of Licensing after consultation 
+with the Bureau, any person with significant and substantial 
+responsibility for the applicant’s business under the jurisdiction of 
+the Commission or having the power to exercise significant 
+influence over decisions concerning the prospective applicant’s 
+operations in the Commonwealth. 
+(c) If the applicant is a partnership: 
+(i) Each partner; 
+(ii) Any other holder of a beneficial or proprietary interest of 10% or 
+more in the applicant; and 
+(iii) In the judgment of the Division of Licensing after consultation 
+with the Bureau, any person with significant and substantial 
+responsibility for the applicant’s Business under the jurisdiction of 
+the Commission or having the power to exercise significant 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+14 
+ 
+influence over decisions concerning the applicant’s operations in 
+the Commonwealth. 
+(6) Other Qualifiers. The Commission may, in its sole discretion, require other persons 
+that have a business association of any kind with the applicant to undergo a qualifier 
+review and determination process. These persons may include, but are not limited to, 
+holding, intermediary or subsidiary companies of the applicant. 
+(7) Waivers. In addition to any other exception or exemption under 205 CMR 15.04, 
+upon written petition, the Commission may waive the requirement to be qualified as a 
+qualifier under 205 CMR 15.04(5)-(6) for: 
+(a) Institutional investors holding up to 15% of the stock of the applicant, or 
+holding, intermediary or subsidiary company thereof, upon a showing by the 
+person seeking the waiver that it purchased the securities for investment 
+purposes only and does not have any intention to influence or affect the affairs 
+or operations of the applicant or holding, intermediary or subsidiary company 
+thereof. Provided, however, any institutional investor granted a waiver which 
+subsequently determines to influence or affect the affairs or operations of the 
+applicant, or a holding, intermediary or subsidiary company thereof shall 
+provide not less than 30 days’ notice to the Commission of such intent and 
+shall file an application and may be subject to the licensing requirements of 
+205 CMR 15.00, 3.00 and 4.00 respectively before taking any action that may 
+influence or affect the affairs of the applicant or a holding, intermediary or 
+subsidiary company; or 
+(b) Any person who, in the opinion of the Bureau or the Commission, cannot 
+exercise control or provide direction to an applicant or a holding, intermediary 
+or subsidiary company thereof. 
+(8) Persons Deemed Suitable. 
+(a) Any person may be deemed durably suitable for purposes of M.G.L. c. 128A 
+and 205 CMR without an additional finding of suitability pursuant to CMR 
+15.04 if they were previously: 
+(i) qualified pursuant to M.G.L. c. 23K or 205 CMR 116.00; or 
+(ii) found suitable pursuant to 205 CMR 215.01(1). 
+(b) Any person may be deemed temporarily suitable for purposes of M.G.L. c. 
+128A and 205 CMR without an additional finding of suitability pursuant to 
+CMR 15.04 if they were previously found preliminarily suitable pursuant to 
+205 CMR 215.01(2). 
+(9) Qualification of New Qualifiers. No person requiring qualification pursuant to 205 
+CMR 15.04 may perform any duties or exercise any powers relating to the position 
+that said qualifier is seeking to assume for a licensee unless the person notifies the 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+15 
+ 
+Bureau in writing within 30 days of appointment to the position. Such notification 
+shall be accompanied by an applicable business entity or personal disclosure form, 
+specified by the Bureau. Following such notification and submission of the completed 
+form, the person may continue to perform duties and exercise powers relating to the 
+position pending qualification. 
+(a) A person with reason to believe that their new position with an applicant 
+or licensee may require qualification pursuant to 205 CMR 15.04 shall 
+notify the Bureau in writing within 30 days of appointment to the position. 
+Such notification shall be accompanied by a summary of the 
+responsibilities and/or features of the position. The Bureau shall determine 
+whether the person shall be designated a qualifier pursuant to 205 CMR 
+15.04(5) – (6) and shall notify the person of such designation in writing. 
+Within 30 days of designation as a qualifier, the person shall submit a 
+completed personal disclosure form. Following submission of the 
+completed form, the person may continue to perform duties and exercise 
+powers relating to the position pending qualification. 
+(b) The Bureau shall review the forms submitted by the new qualifier, as well 
+as such other information that the Bureau may request, and, upon 
+completion of its investigation, shall make a recommendation in 
+accordance with 205 CMR 15.04(1)(c) whether the new qualifier meets 
+the standards for suitability. 
+(c) Upon notification by the Bureau of a determination that reasonable cause 
+exists to believe the qualifier may not ultimately be found suitable, an 
+applicant shall promptly remove the qualifier from his or her position until 
+such time as the Commission makes its final determination on suitability. 
+(10) Internal Review of Determinations. An applicant or qualifier may request review 
+of any determination made by the Bureau in accordance with either 205 CMR 
+15.04(5)-(7) or 205 CMR 15.04(9) to the Commission, by filing a petition on a form 
+prescribed by the Commission. The Commission shall decide the question at a public 
+meeting on the matter at which it may allow representatives of the petitioner and 
+Bureau to testify. 
+(11) Unsuitable qualifiers. An unsuitable qualifier may not hold an interest in a license. 
+A licensee’s articles of organization or other document governing the sale or transfer 
+of securities or other interests shall contain provisions in a form approved by the 
+Commission stating that the sale, assignment, transfer, pledge or other disposition of 
+any security issued by it is conditional and shall be ineffective if disapproved by the 
+Commission. Further, a licensee shall have a mechanism approved by the 
+Commission in place by which it may effectuate divestiture or redemption of 
+securities, or a like process, in the event of a negative determination of suitability 
+being issued to a person required to be qualified. 
+(12) Transfers of interest in licenses and licensees. Prior to giving written approval to 
+a sale, transfer, or conveyance of a beneficial or legal interest in a license or licensee 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+16 
+ 
+in accordance with G.L. c. 128A, § 11C, the Commission must find the transferee 
+durably or temporarily suitable in accordance with 205 CMR 15.04 as though the 
+transferee was an applicant or qualifier for a new license. 
+REGULATORY AUTHORITY 
+M.G.L. c. 128A, §§ 2, 3(i), 5C; and M.G.L. c. 128C. 
+ 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+17 
+ 
+15.05: Advance Deposit Wagering; Licensure, Review and Authorization (RESERVED) 
+15.06: Licensing, Registration, and Fees for Owners, Trainers, Stable Employees, Authorized 
+Agents, Vendors and Racing Officials (RESERVED) 
+15.07: Financial Payments, Outs, and Requests for Capital Improvement or Reimbursement 
+(RESERVED) 
+ 
+ 
+REGULATORY AUTHORITY 
+M.G.L. c. 128A, §§ 2, 3(i), 5C; and M.G.L. c. 128C. 
+ 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+18 
+ 
+ 
+ 
+PAGE LEFT INTENTIONALLY BLANK 
+ 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+19 
+ 
+ 
+15.08: Additional Information and Cooperation of Racing Meeting Applicants and Licensees 
+ 
+(1) The Commission, the Bureau or their agents and employees may request additional 
+information and documents from an applicant or its qualifiers, or any other person 
+associated with the applicant whose licensure or registration is required under M.G.L. 
+c. 128A and 128C or 205 CMR, throughout the application review process. Failure by 
+the applicant, qualifier, or other person to timely submit the additional information as 
+requested by the Commission, the Bureau or their agents and employees may be 
+grounds for denial of the application. 
+(2) All applicants, licensees, registrants, qualifiers, or other person whose licensure or 
+registration is required under M.G.L. c. 128A and 128C, or 205 CMR shall comply 
+with all requests of the Commission, the Bureau and their agents and employees for 
+information and documents as authorized by M.G.L. c. 128A and 128C, and 205 
+CMR. 
+(3) Applicants, licensees, registrants, and qualifiers, and other persons shall respond 
+within ten days or within the time specified in an information request by the 
+Commission, the Bureau, and their agents and employees, under 15.08(1) and 
+15.08(2), to said information request. 
+(4) All applicants, licensees, registrants, qualifiers and other persons shall have a 
+continuing duty to provide all information and documents requested by the 
+Commission, Bureau, and their agents and employees and to cooperate in any 
+investigation or hearing conducted by the Commission, Bureau, and their agents and 
+employees, as authorized by M.G.L. c. 23K section 7. 
+(5) Once issued a positive determination of suitability, all licensees and qualifiers shall 
+have a continuing duty to maintain suitability in accordance with 205 CMR 
+15.04. Each licensee or qualifier shall have a continuing duty to notify and update the 
+Bureau, in writing, within ten days of the occurrence, unless an alternative filing time 
+is authorized by the executive director, or where applicable, after gaining knowledge 
+of the following: 
+(a) Any denial, suspension or revocation by a governmental authority in any 
+jurisdiction of a racing-, gaming, or sports-wagering-related license, 
+registration, certification, permit or approval held by or applied for by the 
+licensee or qualifier; 
+(b) Any discipline, including a fine or warning, related to racing, imposed upon the 
+licensee or qualifier by any governmental authority in any jurisdiction; 
+(c) Any fine related to racing assessed on any entity owned or operated by the 
+parent to the licensee by any governmental authority in any jurisdiction. 
+(d) Any arrest, indictment, charge or criminal conviction of any qualifier in any 
+jurisdiction; 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+20 
+ 
+(e) Any complaints, allegations, or notice of investigation thereof made or known 
+to be contemplated by a governmental authority against the racing meeting 
+licensee, qualifier, or any racing entity owned or operated by the parent to the 
+licensee, of which the licensee or qualifier is or should reasonably be aware, 
+involving conduct that if substantiated could reasonably lead to potential 
+revocation or suspension of the license or approval held by the licensee, 
+qualifier, or racing entity owned or operated by the parent to the licensee, in 
+that jurisdiction and/or imposition of a fine of $50,000 or greater; 
+(f) Any reports, complaints, allegations, or material legal proceedings made, 
+commenced, or known to be contemplated by a governmental authority against 
+the licensee or qualifier, of which the licensee or qualifier is or should 
+reasonably be aware, involving conduct that if substantiated could reasonably 
+lead to potential criminal charges including, but not limited to, allegations of 
+theft or embezzlement; 
+(g) Any information known or that should reasonably be known to the licensee or 
+qualifier, including by way of receipt of a subpoena, that the licensee or 
+qualifier is or may be the subject of a criminal investigation by a law 
+enforcement or regulatory agency; 
+(h) Any exclusion or barring of a qualifier from any casino, gaming establishment, 
+or gambling/gaming related entity, or race track in any jurisdiction; however, 
+this shall not include exclusions or barring of a qualifier which stem solely 
+from the interest in, or position they hold with, the licensee; 
+(i) The termination, suspension from employment, or other discipline of any 
+qualifier or racing employee licensed in accordance with 205 CMR; 
+(j) Any material pending legal proceedings required to be reported in accordance 
+with 17 CFR 229.103 - (Item 103) Legal proceedings: For purposes of 205 
+CMR 212.01(5)(j) the registrant referred to in 17 CFR 229.103 - (Item 103) 
+shall be both the licensee and the parent company of the licensee as determined 
+by the Bureau. Additionally, the licensee and each qualifier shall provide notice 
+of any pending legal proceeding which includes any allegation of fraudulent 
+conduct by the licensee or a qualifier, that may reasonably threaten the 
+economic viability of the licensee or a qualifier, or that alleges a pattern of 
+improper conduct by the licensee or a qualifier over a sustained period of time; 
+(k) Any significant financial event related to a licensee or entity qualifier. For 
+purposes of 205 CMR 15.08(5)(k), a significant financial event means a 
+merger, acquisition, consolidation, debt restructuring, material change in debt 
+rating by major credit rating agencies (US/International), legal entity change, 
+material ownership change, the assessment of a fine or penalty of $250,000 or 
+greater by the SEC or international equivalent, restatement of previously issued 
+financial statement(s), late filing of financial statement(s) with the SEC or 
+international equivalent, US or international equivalent bankruptcy petition, 
+default of financial debt covenants and receivership, disposal of a material 
+business segment or asset, or adverse action(s) taken by the IRS; 
+(l) Issuance of an “Adverse” or “Qualified” audit opinion, or the international 
+equivalent, by an independent accountant to the Racing Meeting Licensee or 
+qualifier; 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+21 
+ 
+(m) A change in accounting firm engaged to perform attestation and/or assurance 
+services for the licensee or qualifier; and 
+(n) Issuance of a delisting notice from a United States or international stock 
+exchange relative to the licensee or qualifier. 
+(6) If the Commission determines that an applicant, licensee, registrant, or qualifier has 
+knowingly withheld information, knowingly failed to provide information or 
+documents requested by the Commission, Bureau, or their agents and employees, 
+knowingly provided materially false or misleading information to the Commission, 
+the Bureau or their agents and employees, or knowingly failed to cooperate with any 
+investigation or hearing conducted by the Commission, Bureau, or their agents and 
+employees, the Commission may, with respect to such person: 
+(a) Find that person ineligible to hold a license or registration or be qualified in 
+connection with a license; 
+(b) Suspend the relevant license, registration or qualification; or 
+(c) Revoke the relevant license, registration or qualification. 
+ 
+ 
+ 
+ 
+205 CMR: MASSACHUSETTS GAMING COMMISSION 
+ 
+22 
+ 
+15.09 Withdrawal of Application For License To Hold Or Conduct A New Racing Meeting 
+(1) Except as provided in 205 CMR 15.09(2), a written notice of withdrawal of an 
+application may be filed by an applicant or qualifier at any time prior to final 
+Commission action thereon. 
+(2) Withdrawal requests submitted in accordance with 205 CMR 15.09(2) shall be 
+permitted without the need for Commission approval except that if a hearing on 
+suitability, temporary suitability, or an application has been requested by a party or 
+directed by the Bureau or Commission, no withdrawal will be allowed without 
+express Commission approval upon a finding of good cause: 
+(3) If the Commission agrees to grant withdrawal under 205 CMR 15.09(2), the 
+Commission may condition that withdrawal with appropriate terms it deems 
+necessary, including, but not limited to, a period of time within which the applicant or 
+qualifier may not re-apply. 
+(4) The provisions of 205 CMR 111.05(4) governing the surrender of credentials shall 
+govern the surrender of any credential issued under M.G.L. c. 128A and 128C, or the 
+sections of 205 CMR governing racing.

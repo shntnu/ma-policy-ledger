@@ -1,0 +1,1328 @@
+HOUSE . . . . . . . No. 4891 
+ 
+The Commonwealth of Massachusetts 
+______________________________________ 
+ 
+ 
+ 
+HOUSE OF REPRESENTATIVES, July 22, 2024. 
+ 
+The committee on Ways and Means, to whom was referred the Senate 
+Bill relative to pharmaceutical access, costs and transparency (Senate, No. 
+2520), reports recommending that the same ought to pass with 
+amendments striking all after the enacting clause and inserting in place 
+thereof the text contained in House document numbered 4891; and by 
+striking out the title and inserting in place thereof the following title: “ An 
+Act promoting access and affordability of prescription drugs.”. 
+ 
+ 
+For the committee, 
+ 
+AARON MICHLEWITZ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 of 58 
+HOUSE . . . . . . . . . . . . . . . No. 4891 
+Text of amendments, recommended by the committee on Ways and Means, to the Senate Bill 
+relative to pharmaceutical access, costs and transparency (Senate, No. 2520). July 22, 2024. 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+ By striking out all after the enacting clause and inserting in place thereof the following:– 
+ 
+1 SECTION 1. Section 1 of chapter 6D, as appearing in the 2022 Official Edition, is hereby 
+2 amended by striking out the definition of “Payer” and inserting in place thereof the following 
+3 definition:- 
+4 “Payer”, any entity, other than an individual, that pays providers for the provision of 
+5 health care services, including self-insured plans to the extent allowed under the federal 
+6 Employee Retirement Income Security Act of 1974. 
+7 SECTION 2. Said section 1 of said chapter 6D, as so appearing, is hereby further 
+8 amended by inserting after the definition of “Performance penalty” the following 2 definitions:- 
+9 “Pharmaceutical manufacturing company”, an entity engaged in the: (i) production, 
+10 preparation, propagation, compounding, conversion or processing of prescription drugs, directly 
+11 or indirectly, by extraction from substances of natural origin, independently by means of 
+12 chemical synthesis or by a combination of extraction and chemical synthesis; or (ii) packaging, 
+13 repackaging, labeling, relabeling or distribution of prescription drugs; provided, however, that 
+14 “pharmaceutical manufacturing company” shall not include a wholesale drug distributor licensed 
+2 of 58 
+15 under section 36B of chapter 112 or a retail pharmacist registered under section 39 of said 
+16 chapter 112. 
+17 “Pharmacy benefit manager”, as defined in section 1 of chapter 176Y. 
+18 SECTION 3. Said chapter 6D is hereby further amended by inserting after section 3 the 
+19 following section:- 
+20 Section 3A. (a) There is hereby established within the commission an office for 
+21 pharmaceutical policy and analysis, hereinafter referred to as the office. The office shall: (i) 
+22 analyze pharmaceutical spending data and information collected by the commission under this 
+23 chapter and other agencies of the commonwealth pursuant to subsection (b); (ii) produce reports 
+24 and analyses of issues related to the access, affordability of and spending on pharmaceutical 
+25 drugs in the commonwealth pursuant to subsection (c); (iii) analyze records related to 
+26 pharmaceutical pricing disclosed to the commission pursuant to section 8A and assist the 
+27 commission in identifying proposed supplemental rebates for eligible drugs under said section 
+28 8A; and (iv) advise the general court and state agencies on matters related to pharmaceutical 
+29 drug policy. 
+30 (b) The office shall analyze pharmaceutical spending data collected by the commission 
+31 and other agencies of the commonwealth, including pharmaceutical spending data collected by 
+32 the center under sections 8 to 10B, inclusive, of chapter 12C, and pharmaceutical spending data 
+33 available through publicly available sources. As part of its analysis, the office shall conduct an 
+34 annual survey of payers on pharmaceutical access and plan design, including tiering, cost-sharing 
+35 and other utilization management techniques employed by payers; provided, however, that any 
+3 of 58 
+36 confidential data shall not be a public record and shall be exempt from disclosure pursuant to 
+37 clause Twenty-sixth of section 7 of chapter 4 and section 10 of chapter 66. 
+38 (c)(1) The office shall produce an annual report on issues related to access, affordability 
+39 and spending on pharmaceutical drugs in the commonwealth and other reports as the office may 
+40 produce from time to time. The annual report shall address trends and underlying factors for 
+41 pharmaceutical drug spending, including an analysis of: (i) prices and utilization; (ii) drugs or 
+42 categories of drugs with the highest impact on spending; (iii) trends in patient out-of-pocket 
+43 spending; and (iv) access and affordability issues for patients with rare diseases and chronic 
+44 diseases; provided, that any analysis of a drug prescribed to treat a rare disease, or that is 
+45 otherwise designated as a first-in-class drug, shall be conducted pursuant to paragraph (3). The 
+46 report shall include any recommendations for strategies to mitigate pharmaceutical spending 
+47 growth, promote affordability and enhance pharmaceutical access. 
+48 (2) The annual report shall be based on factors, including, but not limited to: (i) drug 
+49 pricing; (ii) the impact of aggregate manufacturer rebates, discounts and other price concessions 
+50 on net drug pricing; (iii) patient cost-sharing such as deductibles, coinsurance, copayments or 
+51 similar charges paid by patients for drugs; (iv) the impacts of aggregate rebates, discounts and 
+52 other price concessions on such cost-sharing; and (v) the impacts of utilization management 
+53 techniques on pharmaceutical access employed by payers, including tiering, prior authorization 
+54 and step therapy. The annual report shall be informed by: (A) the office’s analysis of information 
+55 provided at the annual cost trends hearing by providers, provider organizations and payers; (B) 
+56 data collected by the center under sections 8 to 10B, inclusive, of chapter 12C; and (C) any other 
+57 information available to the commission that is necessary to fulfill its duties under this section, as 
+58 further defined in regulations promulgated by the commission. 
+4 of 58 
+59 (3) The office shall consult with the rare disease advisory council established pursuant to 
+60 section 241 of chapter 111, and other stakeholders as determined by the office, for any analysis 
+61 the office performs of a drug that is prescribed to treat a rare disease or is otherwise designated 
+62 as a first-in-class drug by the United States Food and Drug Administration’s Center for Drug 
+63 Evaluation and Research. Such analysis shall include: 
+64 (i) the disease treated by the drug; 
+65 (ii) the severity of disease treated by the drug; 
+66 (iii) the unmet medical need associated with the disease treated by the drug; 
+67 (iv) the impact of particular coverage, cost-sharing, tiering, utilization management, prior 
+68 authorization, medication therapy management or other utilization management policies on 
+69 access to the drug and on patients’ adherence to the treatment regimen prescribed or otherwise 
+70 recommended by their health care provider; 
+71 (v) an assessment of the benefits and risks of the drug for patients; 
+72 (vi) whether patients who need treatment from or a consultation with a rare disease 
+73 specialist or a specialist in the disease being treated by the first-in-class drug have adequate 
+74 access and, if not, what factors are causing the limited access; and 
+75 (vii) the demographic and the clinical description of patient populations. 
+76 (4) Annually, not later than September 1, the report shall be submitted to the chairs of the 
+77 house and senate committees on ways and means and the chairs of the joint committee on health 
+78 care financing and shall be published and made available to the public. 
+5 of 58 
+79 (d) The office shall analyze records related to pharmaceutical pricing disclosed to the 
+80 commission pursuant to section 8A and assist the commission in identifying proposed 
+81 supplemental rebates for eligible drugs under said section 8A. The office’s analysis of such 
+82 records shall consider: (i) the effectiveness of the drug in treating the conditions for which it is 
+83 prescribed; (ii) improvements to a patient’s health, quality of life or overall health outcomes; and 
+84 (iii) the likelihood that use of the drug will reduce the need for other medical care, including 
+85 hospitalization. 
+86 (e) The office may consult with external experts or other third-party entities when the 
+87 office lacks the specific scientific, medical or technical expertise necessary for the performance 
+88 of its responsibilities under this section; provided, however, that the commission shall disclose 
+89 when such external expert or third-party entity contributes to its analysis and reporting and the 
+90 identity of such external expert or third-party entity. 
+91 SECTION 4. Section 4 of said chapter 6D, as appearing in the 2022 Official Edition, is 
+92 hereby amended by striking out, in line 8, the word “manufacturers” and inserting in place 
+93 thereof the following words:- manufacturing companies, pharmacy benefit managers. 
+94 SECTION 5. Said chapter 6D is hereby further amended by striking out section 6, as so 
+95 appearing, and inserting in place thereof the following section:- 
+96 Section 6. (a) For the purposes of this section, “non-hospital provider organization” shall 
+97 mean a provider organization required to register under section 11 that is: (i) a non-hospital-
+98 based physician practice with not less than $500,000,000 in annual gross patient service revenue; 
+99 (ii) a clinical laboratory; (iii) an imaging facility; or (iv) a network of affiliated urgent care 
+100 centers. 
+6 of 58 
+101 (b) Each acute hospital, ambulatory surgical center, non-hospital provider organization, 
+102 pharmaceutical manufacturing company and pharmacy benefit manager shall pay to the 
+103 commonwealth an amount for the estimated expenses of the commission. 
+104 (c) The assessed amount for hospitals, ambulatory surgical centers and non-hospital 
+105 provider organizations shall be not less than 30 per cent nor more than 40 per cent of the amount 
+106 appropriated by the general court for the expenses of the commission minus amounts collected 
+107 from: (i) filing fees; (ii) fees and charges generated by the commission; and (iii) federal matching 
+108 revenues received for these expenses or received retroactively for expenses of predecessor 
+109 agencies; provided, that non-hospital provider organizations shall be assessed not less than 3 per 
+110 cent nor more than 8 per cent of the assessed amount for hospitals, ambulatory surgical centers 
+111 and non-hospital provider organizations. Each acute hospital, ambulatory surgical center and 
+112 non-hospital provider organization shall pay such assessed amount multiplied by the ratio of the 
+113 hospital’s, ambulatory surgical center’s or non-hospital provider organization’s gross patient 
+114 service revenues to the total gross patient service revenues of all such hospitals, ambulatory 
+115 surgical centers and non-hospital provider organizations. Each acute hospital, ambulatory 
+116 surgical center and non-hospital provider organization shall make a preliminary payment to the 
+117 commission on October 1 of each year in an amount equal to 1/2 of the previous year’s total 
+118 assessment. Thereafter, each hospital, ambulatory surgical center and non-hospital provider 
+119 organization shall pay, within 30 days’ notice from the commission, the balance of the total 
+120 assessment for the current year based upon its most current projected gross patient service 
+121 revenue. The commission shall subsequently adjust the assessment for any variation in actual and 
+122 estimated expenses of the commission and for changes in hospital, ambulatory surgical center 
+123 and non-hospital provider organization gross patient service revenue. Such estimated and actual 
+7 of 58 
+124 expenses shall include an amount equal to the cost of fringe benefits and indirect expenses, as 
+125 established by the comptroller under section 5D of chapter 29. In the event of late payment by 
+126 any such hospital, ambulatory surgical center or non-hospital provider organization, the treasurer 
+127 shall advance the amount of due and unpaid funds to the commission prior to the receipt of such 
+128 monies in anticipation of such revenues up to the amount authorized in the then current budget 
+129 attributable to such assessments and the commission shall reimburse the treasurer for such 
+130 advances upon receipt of such revenues. This section shall not apply to any state institution or to 
+131 any acute hospital which is operated by a city or town. 
+132 (d) The assessed amount for pharmaceutical manufacturing companies shall be not less 
+133 than 5 per cent nor more than 10 per cent of the amount appropriated by the general court for the 
+134 expenses of the commission minus amounts collected from: (i) filing fees; (ii) fees and charges 
+135 generated by the commission; and (iii) federal matching revenues received for these expenses or 
+136 received retroactively for expenses of predecessor agencies. Each pharmaceutical manufacturing 
+137 company shall pay such assessed amount multiplied by the ratio of MassHealth’s net spending 
+138 for the manufacturer’s prescription drugs based on the manufacturer labeler codes used in the 
+139 MassHealth rebate program to MassHealth’s total pharmacy spending. 
+140 (e) The assessed amount for pharmacy benefit managers shall be not less than 5 per cent 
+141 nor more than 10 per cent of the amount appropriated by the general court for the expenses of the 
+142 commission minus amounts collected from: (i) filing fees; (ii) fees and charges generated by the 
+143 commission; and (iii) federal matching revenues received for these expenses or received 
+144 retroactively for expenses of predecessor agencies. Each pharmacy benefit manager shall pay 
+145 such assessed amount multiplied by the ratio of the aggregate revenues of the pharmacy benefit 
+146 manager attributed to residents of the commonwealth for whom it manages pharmaceutical 
+8 of 58 
+147 benefits on behalf of carriers to the total of all such revenues generated by all pharmacy benefit 
+148 managers attributed to residents of the commonwealth for whom they manage pharmaceutical 
+149 benefits on behalf of carriers. 
+150 SECTION 6. Section 8 of said chapter 6D, as so appearing, is hereby amended by 
+151 inserting after the word “organization”, in lines 6 and 7, the following words:- , pharmacy benefit 
+152 manager, pharmaceutical manufacturing company. 
+153 SECTION 7. Said section 8 of said chapter 6D, as so appearing, is hereby further 
+154 amended by inserting after the word “organizations”, in line 15, the following words:- , 
+155 pharmacy benefit managers, pharmaceutical manufacturing companies. 
+156 SECTION 8. Said section 8 of said chapter 6D, as so appearing, is hereby further 
+157 amended by striking out, in lines 33 and 34, the words “and (xi) any witness identified by the 
+158 attorney general or the center” and inserting in place thereof the following words:- (xi) not less 
+159 than 2 representatives of the pharmacy benefit management industry; (xii) not less than 3 
+160 representatives of pharmaceutical manufacturing companies, 1 of whom shall be a representative 
+161 of a publicly traded company that manufactures specialty drugs, 1 of whom shall be a 
+162 representative of a company that manufacturers generic drugs and 1 of whom shall be a 
+163 representative of a company that has been in existence for fewer than 10 years; and (xiii) any 
+164 witness identified by the attorney general or the commission. 
+165 SECTION 9. Said section 8 of said chapter 6D, as so appearing, is hereby further 
+166 amended by striking out, in line 49, the first time it appears, the word “and”. 
+167 SECTION 10. Said section 8 of said chapter 6D, as so appearing, is hereby further 
+168 amended by inserting after the word “commission”, in line 60, the first time it appears, the 
+9 of 58 
+169 following words:- ; (iii) in the case of pharmacy benefit managers and pharmaceutical 
+170 manufacturing companies, testimony concerning factors underlying prescription drug costs and 
+171 price increases, the impact of aggregate manufacturer rebates, discounts and other price 
+172 concessions on net pricing; provided, however, that such testimony shall be suitable for public 
+173 release and not likely to compromise the financial, competitive or proprietary nature of any 
+174 information or data; and (iv) any other matters as determined by the commission. 
+175 SECTION 11. Subsection (g) of said section 8 of said chapter 6D, as so appearing, is 
+176 hereby amended by striking out the second sentence and inserting in place thereof the following 
+177 sentence:- The report shall be based on the commission’s analysis of information provided at the 
+178 hearings by witnesses, providers, provider organizations, carriers, pharmacy benefit managers 
+179 and pharmaceutical manufacturing companies, registration data collected pursuant to section 11, 
+180 data collected or analyzed by the center pursuant to sections 8 to 10B, inclusive, of chapter 12C 
+181 and any other available information, as defined in regulations promulgated by the commission, 
+182 that the commission considers necessary to fulfill its duties under this section. 
+183 SECTION 12. Section 9 of said chapter 6D, as so appearing, is hereby amended by 
+184 inserting after the word “organization”, in line 72, the following words:- , pharmacy benefit 
+185 manager, pharmaceutical manufacturing company. 
+186 SECTION 13. Said section 9 of said chapter 6D, as so appearing, is hereby further 
+187 amended by inserting after the word “organizations”, in line 82, the following words:- , 
+188 pharmacy benefit managers, pharmaceutical manufacturing companies. 
+189 SECTION 14. Said chapter 6D is hereby further amended by adding the following 
+190 section:- 
+10 of 58 
+191 Section 22. Every 2 years, the commission, in consultation with the center, the group 
+192 insurance commission, the office of Medicaid and the division of insurance, shall evaluate the 
+193 impact of section 17T of chapter 32A, section 10R of chapter 118E, section 47VV of chapter 
+194 175, section 8WW of chapter 176A, section 4WW of chapter 176B and section 4OO of chapter 
+195 176G on the effects of capping co-payments on health care costs, including premiums, 
+196 pharmaceutical spending, aggregate rebates, cost-sharing, drug treatment utilization and 
+197 adherence, incidence of related acute events and health equity. Biennially, not later than 
+198 November 30, the commission shall file a report of its findings with the clerks of the house of 
+199 representatives and senate, the chairs of the joint committee on public health, the chairs of the 
+200 joint committee on health care financing and the chairs of house and senate committees on ways 
+201 and means. 
+202 SECTION 15. Section 1 of chapter 12C of the General Laws, as appearing in the 2022 
+203 Official Edition, is hereby amended by inserting after the definition of “Dispersed service area” 
+204 the following definition:- 
+205 “Drug rebate”, any: (i) negotiated price concessions, whether described as a rebate or 
+206 otherwise, including, but not limited to, base price concessions, and reasonable estimates of any 
+207 price protection rebates and performance-based price concessions that may accrue, directly or 
+208 indirectly, to a carrier, pharmacy benefit manager or other party on a carrier’s behalf during a 
+209 carrier’s plan year from a pharmaceutical manufacturing company, dispensing pharmacy or other 
+210 party to the transaction based on the amounts the carrier received in the prior quarter or 
+211 reasonably expects to receive in the current quarter; and (ii) reasonable estimates of any price 
+212 concessions, fees and other administrative costs that are passed through or are reasonably 
+213 anticipated to be passed through to the carrier, pharmacy benefit manager or other party on the 
+11 of 58 
+214 carrier’s behalf and that serve to reduce the carrier’s prescription drug liabilities for the plan year 
+215 based on the amounts the carrier received in the prior quarter or reasonably expects to receive in 
+216 the current quarter. 
+217 SECTION 16. Said section 1 of said chapter 12C, as so appearing, is hereby further 
+218 amended by inserting after the definition of “Patient-centered medical home” the following 3 
+219 definitions:- 
+220 “Payer”, any entity, other than an individual, that pays providers for the provision of 
+221 health care services, including self-insured plans to the extent allowed under the federal 
+222 Employee Retirement Income Security Act of 1974. 
+223 “Pharmaceutical manufacturing company”, an entity engaged in the: (i) production, 
+224 preparation, propagation, compounding, conversion or processing of prescription drugs, directly 
+225 or indirectly, by extraction from substances of natural origin, independently by means of 
+226 chemical synthesis or by a combination of extraction and chemical synthesis; or (ii) packaging, 
+227 repackaging, labeling, relabeling or distribution of prescription drugs; provided, however, that 
+228 “pharmaceutical manufacturing company” shall not include a wholesale drug distributor licensed 
+229 under section 36B of chapter 112 or a retail pharmacist registered under section 39 of said 
+230 chapter 112. 
+231 “Pharmacy benefit manager”, as defined in section 1 of chapter 176Y. 
+232 SECTION 17. Said section 1 of said chapter 12C, as so appearing, is hereby further 
+233 amended by adding the following definition:- 
+12 of 58 
+234 “Wholesale acquisition cost”, the cost of a prescription drug as defined in 42 U.S.C. 
+235 section 1395w-3a(c)(6)(B). 
+236 SECTION 18. Section 3 of said chapter 12C, as so appearing, is hereby amended by 
+237 inserting after the word “organizations”, in lines 13 and 14, the following words:- , pharmacy 
+238 benefit managers, pharmaceutical manufacturing companies. 
+239 SECTION 19. Said section 3 of said chapter 12C, as so appearing, is hereby further 
+240 amended by inserting, after the word “provider”, in line 24, the following words:- , pharmacy 
+241 benefit manager, pharmaceutical manufacturing company. 
+242 SECTION 20. Section 5 of said chapter 12C, as so appearing, is hereby amended by 
+243 inserting after the word “organizations”, in line 11, the following words:- , pharmacy benefit 
+244 managers, pharmaceutical manufacturing companies. 
+245 SECTION 21. Said section 5 of said chapter 12C, as so appearing, is hereby further 
+246 amended by inserting after the word “providers”, in line 15, the following words:- , affected 
+247 pharmacy benefit managers, affected pharmaceutical manufacturing companies. 
+248 SECTION 22. Said chapter 12C is hereby further amended by striking out section 7, as so 
+249 appearing, and inserting in place thereof the following section:- 
+250 Section 7. (a) For the purposes of this section, “non-hospital provider organization” shall 
+251 mean a provider organization required to register under section 11 under chapter 6D that is: (i) a 
+252 non-hospital-based physician practice with not less than $500,000,000 in annual gross patient 
+253 service revenue; (ii) a clinical laboratory; (iii) an imaging facility; or (iv) a network of affiliated 
+254 urgent care centers. 
+13 of 58 
+255 (b) Each acute hospital, ambulatory surgical center and non-hospital provider 
+256 organization shall pay to the commonwealth an amount for the estimated expenses of the center 
+257 and for the other purposes described in this chapter which shall include any transfer made to the 
+258 Community Hospital Reinvestment Trust Fund established in section 2TTTT of chapter 29. 
+259 (c) The assessed amount for hospitals, ambulatory surgical centers and non-hospital 
+260 provider organizations shall be not less than 30 per cent nor more than 40 per cent of the amount 
+261 appropriated by the general court for the expenses of the center and for the other purposes 
+262 described in this chapter which shall include any transfer made to the Community Hospital 
+263 Reinvestment Trust Fund established in section 2TTTT of chapter 29 minus amounts collected 
+264 from: (i) filing fees; (ii) fees and charges generated by the center’s publication or dissemination 
+265 of reports and information; and (iii) federal matching revenues received for these expenses or 
+266 received retroactively for expenses of predecessor agencies; provided, that non-hospital provider 
+267 organizations shall be assessed not less than 3 per cent nor more than 8 per cent of the assessed 
+268 amount for hospitals, ambulatory surgical centers and non-hospital provider organizations. Each 
+269 acute hospital, ambulatory surgical center and non-hospital provider organization shall pay such 
+270 assessed amount multiplied by the ratio of the hospital’s, ambulatory surgical center’s or non-
+271 hospital provider organization’s gross patient service revenues to the total gross patient services 
+272 revenues of all such hospitals, ambulatory surgical centers and non-hospital provider 
+273 organizations. Each acute hospital, ambulatory surgical center and non-hospital provider 
+274 organization shall make a preliminary payment to the center on October 1 of each year in an 
+275 amount equal to 1/2 of the previous year’s total assessment. Thereafter, each hospital, 
+276 ambulatory surgical center and non-hospital provider organization shall pay, within 30 days’ 
+277 notice from the center, the balance of the total assessment for the current year based upon its 
+14 of 58 
+278 most current projected gross patient service revenue. The center shall subsequently adjust the 
+279 assessment for any variation in actual and estimated expenses of the center and for changes in 
+280 hospital, ambulatory surgical center and non-hospital provider organization gross patient service 
+281 revenue. Such estimated and actual expenses shall include an amount equal to the cost of fringe 
+282 benefits and indirect expenses, as established by the comptroller under section 5D of chapter 29. 
+283 In the event of late payment by any such hospital, ambulatory surgical center or non-hospital 
+284 provider organization, the treasurer shall advance the amount of due and unpaid funds to the 
+285 center prior to the receipt of such monies in anticipation of such revenues up to the amount 
+286 authorized in the then current budget attributable to such assessments and the center shall 
+287 reimburse the treasurer for such advances upon receipt of such revenues. This section shall not 
+288 apply to any state institution or to any acute hospital which is operated by a city or town. 
+289 (d) The assessed amount for pharmaceutical manufacturing companies shall be not less 
+290 than 5 per cent nor more than 10 per cent of the amount appropriated by the general court for the 
+291 expenses of the center minus amounts collected from: (i) filing fees; (ii) fees and charges 
+292 generated by the center’s publication or dissemination of reports and information; and (iii) 
+293 federal matching revenues received for these expenses or received retroactively for expenses of 
+294 predecessor agencies. Each pharmaceutical manufacturing company shall pay such assessed 
+295 amount multiplied by the ratio of MassHealth’s net spending for the manufacturer’s prescription 
+296 drugs based on the manufacturer labeler codes used in the MassHealth rebate program to 
+297 MassHealth’s total pharmacy spending. 
+298 (e) The assessed amount for pharmacy benefit managers shall be not less than 5 per cent 
+299 nor more than 10 per cent of the amount appropriated by the general court for the expenses of the 
+300 center minus amounts collected from: (i) filing fees; (ii) fees and charges generated by the 
+15 of 58 
+301 center’s publication or dissemination of reports and information; and (iii) federal matching 
+302 revenues received for these expenses or received retroactively for expenses of predecessor 
+303 agencies. Each pharmacy benefit manager shall pay such assessed amount multiplied by the ratio 
+304 of the aggregate revenues of the pharmacy benefit manager attributed to residents of the 
+305 commonwealth for whom it manages pharmaceutical benefits on behalf of carriers to the total of 
+306 all such revenues generated by all pharmacy benefit managers attributed to residents of the 
+307 commonwealth for whom they manage pharmaceutical benefits on behalf of carriers. 
+308 SECTION 23. Said chapter 12C is hereby further amended by inserting after section 10 
+309 the following 2 sections:- 
+310 Section 10A. The center shall promulgate regulations necessary to ensure the uniform 
+311 reporting of information from pharmacy benefit managers that enables the center to analyze: (i) 
+312 year-over-year changes in wholesale acquisition cost; (ii) year-over-year trends in formulary, 
+313 maximum allowable cost lists and cost-sharing design, including the establishment and 
+314 management of specialty product lists; (iii) aggregate information regarding discounts, 
+315 utilizations limits, rebates, manufacturer administrative fees and other financial incentives or 
+316 concessions related to pharmaceutical products or formulary programs; (iv) information 
+317 regarding the aggregate amount of payments made from a pharmacy benefit manager to 
+318 pharmacies owned or controlled by the pharmacy benefit manager, and the aggregate amount of 
+319 payments made from a pharmacy benefit manager to pharmacies that are not owned or controlled 
+320 by the pharmacy benefit manager; (v) data necessary for monitoring and enforcement of chapter 
+321 176Y and regulations promulgated thereof; and (vi) any other additional information deemed 
+322 reasonably necessary by the center as set forth in the center’s regulations. 
+16 of 58 
+323 Section 10B. (a) As used in this section, the following words shall, unless the context 
+324 clearly requires otherwise, have the following meanings: 
+325 “Cost to the commonwealth”, the cost incurred for outpatient prescription drugs by the 
+326 office of Medicaid and the group insurance commission. 
+327 “Substantial net increase”, an increase in the wholesale acquisition cost less rebates paid 
+328 to the state and payers in the commonwealth, of not less than 25 per cent in the immediate prior 
+329 calendar year. 
+330 (b)(1) Annually, not later than March 31, the center shall prepare a list of not more than 
+331 10 outpatient prescription drugs that the center determines: (i) are provided at a substantial cost 
+332 to the commonwealth considering the net cost of such drugs; and (ii) experienced a substantial 
+333 net increase. The list shall include outpatient prescription drugs from different therapeutic classes 
+334 and not more than 3 generic outpatient prescription drugs. 
+335 (2) Prior to publishing the annual list pursuant to paragraph (1), the center shall prepare a 
+336 preliminary list that includes outpatient prescription drugs that the center plans to include on 
+337 such annual list. The center shall make such preliminary list available for public comment for not 
+338 less than 30 days. During the public comment period, any manufacturer of an outpatient 
+339 prescription drug included on the preliminary list may produce documentation, as permitted by 
+340 federal law, to the center to establish that such drug did not experience a substantial net increase. 
+341 If such documentation establishes, to the satisfaction of the center, that a substantial net increase 
+342 did not occur, the center shall, not later than 15 days after the closing of the public comment 
+343 period, remove such drug from the preliminary list before publishing the annual list pursuant to 
+344 paragraph (1). 
+17 of 58 
+345 (c) The pharmaceutical manufacturing company that manufacturers a prescription drug 
+346 included on the annual list prepared by the center pursuant to paragraph (1) of subsection (b) 
+347 shall provide to the center the following: 
+348 (i) a written, narrative description, suitable for public release, of factors that caused the 
+349 increase in the wholesale acquisition cost of the listed prescription drug; and 
+350 (ii) aggregate, company-level research and development costs and such other capital 
+351 expenditures that the center deems relevant for the most recent calendar year for which final 
+352 audited data is available. 
+353 (d) The quality and types of information and data that a pharmaceutical manufacturing 
+354 company submits to the center pursuant to this section shall be consistent with the quality and 
+355 types of information and data that the pharmaceutical manufacturing company includes in: (i) 
+356 such pharmaceutical manufacturing company’s annual consolidated report on Securities and 
+357 Exchange Commission Form 10-K; or (ii) any other public disclosure. 
+358 (e) The center shall consult with pharmaceutical manufacturing companies to establish a 
+359 single, standardized form for reporting information and data pursuant to this section. The form 
+360 shall minimize the administrative burden and cost imposed on the center and pharmaceutical 
+361 manufacturing companies. 
+362 (f) The center shall compile an annual report based on the information that the center 
+363 receives pursuant to subsection (c). The center shall publish such report and the information 
+364 described in this section on the center’s website not later than October 1 of each year. 
+18 of 58 
+365 (g) Except as otherwise provided in this section, information and data submitted to the 
+366 center pursuant to this section shall not be a public record and shall be exempt from disclosure 
+367 pursuant to clause Twenty-sixth of section 7 of chapter 4 or section 10 of chapter 66. No such 
+368 information and data shall be disclosed in a manner that may: (i) compromise the financial, 
+369 competitive or proprietary nature of such information and data; or (ii) enable a third-party to 
+370 identify: (A) an individual drug, therapeutic class of drugs or pharmaceutical manufacturing 
+371 company; (B) the prices charged for any particular drug or therapeutic class of drugs; or (C) the 
+372 value of any rebate provided for any particular drug or class of drugs. 
+373 SECTION 24. Said chapter 12C is hereby further amended by striking out section 11, as 
+374 appearing in the 2022 Official Edition, and inserting in place thereof the following section:- 
+375 Section 11. The center shall ensure the timely reporting of information required under 
+376 sections 8 to 10B, inclusive. The center shall notify payers, providers, provider organizations, 
+377 pharmacy benefit managers and pharmaceutical manufacturing companies of any applicable 
+378 reporting deadlines. The center shall notify, in writing, a payer, provider, provider organization, 
+379 pharmacy benefit manager or pharmaceutical manufacturing company that has failed to meet a 
+380 reporting deadline of such failure and that failure to respond within 2 weeks of the receipt of the 
+381 notice may result in penalties. The center may assess a penalty against a payer, provider, 
+382 provider organization, pharmacy benefit manager or pharmaceutical manufacturing company that 
+383 fails, without just cause, to provide the requested information not later than 2 weeks following 
+384 receipt of the written notice required under this section, of not more than $25,000 per week for 
+385 each week of delay after the 2-week period following receipt of the notice. Amounts collected 
+386 under this section shall be deposited in the Healthcare Payment Reform Fund established in 
+387 section 100 of chapter 194 of the acts of 2011. 
+19 of 58 
+388 SECTION 25. Section 12 of said chapter 12C, as so appearing, is hereby amended by 
+389 striking out, in line 2, the words “8, 9 and 10” and inserting in place thereof the following 
+390 words:- 8 to 10B, inclusive. 
+391 SECTION 26. Subsection (a) of section 16 of said chapter 12C, as so appearing, is hereby 
+392 amended by striking out the first sentence and inserting in place thereof the following sentence:- 
+393 The center shall publish an annual report based on the information submitted pursuant to: (i) 
+394 sections 8 to 10B, inclusive, concerning health care provider, provider organization, pharmacy 
+395 benefit manager, pharmaceutical manufacturing company and private and public health care 
+396 payer costs and cost and price trends; (ii) section 13 of chapter 6D relative to market impact 
+397 reviews; and (iii) section 15 relative to quality data. 
+398 SECTION 27. Chapter 32A of the General Laws is hereby amended by inserting after 
+399 section 17S the following section:- 
+400 Section 17T. (a) As used in this section, the following words shall, unless the context 
+401 clearly requires otherwise, have the following meanings: 
+402 “Brand name drug”, a drug that is: (i) produced or distributed pursuant to an original new 
+403 drug application approved under 21 U.S.C. 355(c) except for: (A) any drug approved through an 
+404 application submitted under section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act that 
+405 is pharmaceutically equivalent, as that term is defined by the United States Food and Drug 
+406 Administration, to a drug approved under 21 U.S.C. 355(c); (B) an abbreviated new drug 
+407 application that was approved by the United States Secretary of Health and Human Services 
+408 under section 505(c) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 355(c), before the 
+409 date of the enactment of the federal Drug Price Competition and Patent Term Restoration Act of 
+20 of 58 
+410 1984, Public Law 98-417, 98 Stat. 1585; or (C) an authorized generic drug as defined in 42 
+411 C.F.R. 447.502; (ii) produced or distributed pursuant to a biologics license application approved 
+412 under 42 U.S.C. 262(a)(2)(C); or (iii) identified by the health benefit plan as a brand name drug 
+413 based on available data resources such as Medi-Span. 
+414 “Generic drug”, a retail drug that is: (i) marketed or distributed pursuant to an 
+415 abbreviated new drug application approved under 21 U.S.C. 355(j); (ii) an authorized generic 
+416 drug as defined in 42 C.F.R. 447.502; (iii) a drug that entered the market before January 1, 1962 
+417 and was not originally marketed under a new drug application; or (iv) identified by the health 
+418 benefit plan as a generic drug based on available data resources such as Medi-Span. 
+419 (b) The commission shall identify 1 generic drug and 1 brand name drug used to treat 
+420 each of the following chronic conditions: (i) diabetes; (ii) asthma; and (iii) the most prevalent 
+421 heart condition among its members. 
+422 (c) The commission shall identify insulin as the drug used to treat diabetes. In 
+423 determining the 1 generic drug and 1 brand name drug used to treat each chronic condition, the 
+424 commission shall consider whether the drug is: 
+425 (i) of clear benefit and strongly supported by clinical evidence; 
+426 (ii) likely to reduce hospitalizations or emergency department visits, reduce future 
+427 exacerbations of illness progression or improve quality of life; 
+428 (iii) cost effective for the commission and its members; 
+429 (iv) at low risk for overutilization, abuse, addiction, diversion or fraud; and 
+430 (v) one of the most widely utilized as a treatment for the chronic condition. 
+21 of 58 
+431 (d) The commission shall provide coverage for the brand name drugs and generic drugs 
+432 identified pursuant to subsection (b). Coverage for the identified generic drugs shall not be 
+433 subject to any cost-sharing, including co-payments and co-insurance, and shall not be subject to 
+434 any deductible. Coverage for identified brand name drugs shall not be subject to any deductible 
+435 or co-insurance and any co-payment shall not exceed $25 per 30-day supply. Coverage for 1 
+436 brand name insulin drug per dosage and type, including rapid-acting, short-acting, intermediate-
+437 acting, long-acting, ultra long-acting and premixed under this section shall not be subject to any 
+438 deductible or co-insurance and any co-payment shall not exceed $25 per 30-day supply. 
+439 (e) The commission shall implement a continuity of coverage policy to apply to members 
+440 that are new to the commission and that provides coverage for a 30-day fill of a United States 
+441 Food and Drug Administration-approved drug reimbursed through a pharmacy benefit that the 
+442 member has already been prescribed and on which the member is stable, upon documentation by 
+443 the member’s prescriber; provided, that the commission shall not apply any greater deductible, 
+444 coinsurance, copayments or out-of-pocket limits than would otherwise apply to other drugs 
+445 covered by the plan. 
+446 (f) The commission shall make changes in the drugs selected pursuant to this section not 
+447 more than annually. 
+448 (g) The commission shall make public the drugs selected pursuant to subsection (b). 
+449 SECTION 28. Chapter 94C of the General Laws is hereby amended by inserting after 
+450 section 21B the following section:- 
+451 Section 21C. (a) For the purposes of this section, the following words shall, unless the 
+452 context clearly requires otherwise, have the following meanings: 
+22 of 58 
+453 “Cost-sharing”, as defined in section 1 of chapter 176Y. 
+454 “Health benefit plan”, as defined in section 1 of chapter 176O. 
+455 “Pharmacy retail price”, the amount an individual would pay for a prescription drug at a 
+456 pharmacy if the individual purchased that prescription drug at that pharmacy without using a 
+457 health benefit plan or any other prescription medication benefit or discount. 
+458 (b) At the point of sale, a pharmacy shall charge an individual for a prescription drug the 
+459 lesser of: (i) the applicable cost-sharing amount; or (ii) the pharmacy retail price. 
+460 (c) A health benefit plan or carrier shall not require an insured to make a cost-sharing 
+461 payment for a prescription drug in an amount greater than that charged pursuant to subsection 
+462 (b). 
+463 (d) No contractual obligation as between a pharmacy benefit manager and a pharmacist 
+464 shall prohibit a pharmacist from complying with this section. 
+465 SECTION 29. Chapter 118E of the General Laws is hereby amended by inserting after 
+466 section 10Q the following section:- 
+467 Section 10R. (a) As used in this section, the following words shall, unless the context 
+468 clearly requires otherwise, have the following meanings: 
+469 “Brand name drug”, a drug that is: (i) produced or distributed pursuant to an original new 
+470 drug application approved under 21 U.S.C. 355(c) except for: (A) any drug approved through an 
+471 application submitted under section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act that 
+472 is pharmaceutically equivalent, as that term is defined by the United States Food and Drug 
+473 Administration, to a drug approved under 21 U.S.C. 355(c); (B) an abbreviated new drug 
+23 of 58 
+474 application that was approved by the United States Secretary of Health and Human Services 
+475 under section 505(c) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 355(c), before the 
+476 date of the enactment of the federal Drug Price Competition and Patent Term Restoration Act of 
+477 1984, Public Law 98-417, 98 Stat. 1585; or (C) an authorized generic drug as defined in 42 
+478 C.F.R. 447.502; (ii) produced or distributed pursuant to a biologics license application approved 
+479 under 42 U.S.C. 262(a)(2)(C); or (iii) identified by the health benefit plan as a brand name drug 
+480 based on available data resources such as Medi-Span. 
+481 “Generic drug”, a retail drug that is: (i) marketed or distributed pursuant to an 
+482 abbreviated new drug application approved under 21 U.S.C. 355(j); (ii) an authorized generic 
+483 drug as defined in 42 C.F.R. 447.502; (iii) a drug that entered the market before January 1, 1962 
+484 and was not originally marketed under a new drug application; or (iv) identified by the health 
+485 benefit plan as a generic drug based on available data resources such as Medi-Span. 
+486 (b) The division shall identify 1 generic drug and 1 brand name drug used to treat each of 
+487 the following chronic conditions: (i) diabetes; (ii) asthma; and (iii) the most prevalent heart 
+488 condition among its enrollees. 
+489 (c) The division shall identify insulin as the drug used to treat diabetes. In determining 
+490 the 1 generic drug and 1 brand name drug used to treat each chronic condition, the division shall 
+491 consider whether the drug is: 
+492 (i) of clear benefit and strongly supported by clinical evidence; 
+493 (ii) likely to reduce hospitalizations or emergency department visits, reduce future 
+494 exacerbations of illness progression or improve quality of life; 
+24 of 58 
+495 (iii) cost effective for the division and its enrollees; 
+496 (iv) at low risk for overutilization, abuse, addiction, diversion or fraud; and 
+497 (v) one of the most widely utilized as a treatment for the chronic condition. 
+498 (d) The division and its contracted health insurers, health plans, health maintenance 
+499 organizations, behavioral health management firms and third-party administrators under contract 
+500 to a Medicaid managed care organization or primary care clinician plan shall provide coverage 
+501 for the brand name drugs and generic drugs identified pursuant to subsection (b). Coverage for 
+502 the identified generic drugs shall not be subject to any cost-sharing, including co-payments and 
+503 co-insurance and shall not be subject to any deductible. Coverage for identified brand name 
+504 drugs shall not be subject to any deductible or co-insurance and any co-payment shall not exceed 
+505 $25 per 30-day supply. Coverage for 1 brand name insulin drug per dosage and type, including 
+506 rapid-acting, short-acting, intermediate-acting, long-acting, ultra long-acting and premixed under 
+507 this section shall not be subject to any deductible or co-insurance and any co-payment shall not 
+508 exceed $25 per 30-day supply. 
+509 (e) This provision shall not apply to health plans providing coverage in the senior care 
+510 options program to MassHealth-only members who are ages 65 and older. 
+511 (f) The division shall implement a continuity of coverage policy that apply to enrollees 
+512 that are new to the Medicaid program and that provides coverage for a 30-day fill of a United 
+513 States Food and Drug Administration-approved drug reimbursed through a pharmacy benefit that 
+514 the enrollee has already been prescribed and on which the enrollee is stable, upon documentation 
+515 by the enrollee’s prescriber; provided, that the division shall not apply any greater deductible, 
+25 of 58 
+516 coinsurance, copayments or out-of-pocket limits than would otherwise apply to other drugs 
+517 covered by the plan. 
+518 (g) The division shall make changes in the drugs selected pursuant to this section not 
+519 more than annually. 
+520 (h) The division shall make public the drugs selected pursuant to this subsection (b). 
+521 SECTION 30. Chapter 175 of the General Laws is hereby amended by inserting after 
+522 section 47UU, added by section 56 of chapter 28 of the acts of 2023, the following section:- 
+523 Section 47VV. (a) As used in this section, the following words shall, unless the context 
+524 clearly requires otherwise, have the following meanings: 
+525 “Brand name drug”, a drug that is: (i) produced or distributed pursuant to an original new 
+526 drug application approved under 21 U.S.C. 355(c) except for: (A) any drug approved through an 
+527 application submitted under section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act that 
+528 is pharmaceutically equivalent, as that term is defined by the United States Food and Drug 
+529 Administration, to a drug approved under 21 U.S.C. 355(c); (B) an abbreviated new drug 
+530 application that was approved by the United States Secretary of Health and Human Services 
+531 under section 505(c) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 355(c), before the 
+532 date of the enactment of the federal Drug Price Competition and Patent Term Restoration Act of 
+533 1984, Public Law 98-417, 98 Stat. 1585; or (C) an authorized generic drug as defined in 42 
+534 C.F.R. 447.502; (ii) produced or distributed pursuant to a biologics license application approved 
+535 under 42 U.S.C. 262(a)(2)(C); or (iii) identified by the health benefit plan as a brand name drug 
+536 based on available data resources such as Medi-Span. 
+26 of 58 
+537 “Generic drug”, a retail drug that is: (i) marketed or distributed pursuant to an 
+538 abbreviated new drug application approved under 21 U.S.C. 355(j); (ii) an authorized generic 
+539 drug as defined in 42 C.F.R. 447.502; (iii) a drug that entered the market before January 1, 1962 
+540 and was not originally marketed under a new drug application; or (iv) identified by the health 
+541 benefit plan as a generic drug based on available data resources such as Medi-Span. 
+542 (b) Any policy, contract, agreement, plan or certificate of insurance issued, delivered or 
+543 renewed within the commonwealth, which is considered credible coverage under section 1 of 
+544 chapter 111M, shall identify 1 generic drug and 1 brand name drug used to treat each of the 
+545 following chronic conditions: (i) diabetes; (ii) asthma; and (iii) the most prevalent heart 
+546 condition among its enrollees. 
+547 (c) The carrier shall identify insulin as the drug used to treat diabetes. In determining the 
+548 1 generic drug and 1 brand name drug used to treat each chronic condition, the carrier shall 
+549 consider whether the drug is: 
+550 (i) of clear benefit and strongly supported by clinical evidence; 
+551 (ii) likely to reduce hospitalizations or emergency department visits, reduce future 
+552 exacerbations of illness progression or improve quality of life; 
+553 (iii) cost effective for the carrier and its enrollees; 
+554 (iv) at low risk for overutilization, abuse, addiction, diversion or fraud; and 
+555 (v) one of the most widely utilized as a treatment for the chronic condition. 
+556 (d) Any such policy, contract, agreement, plan or certificate of insurance issued, 
+557 delivered or renewed within the commonwealth, which is considered credible coverage under 
+27 of 58 
+558 section 1 of chapter 111M, shall provide coverage for the brand name drugs and generic drugs 
+559 identified pursuant to paragraph (b). Coverage for the identified generic drugs shall not be 
+560 subject to any cost-sharing, including co-payments and co-insurance and shall not be subject to 
+561 any deductible. Coverage for identified brand name drugs shall not be subject to any deductible 
+562 or co-insurance and any co-payment shall not exceed $25 per 30-day supply. Coverage for 1 
+563 brand name insulin drug per dosage and type, including rapid-acting, short-acting, intermediate-
+564 acting, long-acting, ultra long-acting and premixed under this section shall not be subject to any 
+565 deductible or co-insurance and any co-payment shall not exceed $25 per 30-day supply. 
+566 (e) The carrier shall implement a continuity of coverage policy to apply to enrollees that 
+567 are new to the carrier and that provides coverage for a 30-day fill of a United States Food and 
+568 Drug Administration-approved drug reimbursed through a pharmacy benefit that the enrollee has 
+569 already been prescribed and on which the enrollee is stable, upon documentation by the 
+570 enrollee’s prescriber; provided, that a carrier shall not apply any greater deductible, coinsurance, 
+571 copayments or out-of-pocket limits than would otherwise apply to other drugs covered by the 
+572 plan. 
+573 (f) The carrier shall make changes in the drugs selected pursuant to this section not more 
+574 than annually. 
+575 (g) The carrier shall make public the drugs selected pursuant to subsection (b). 
+576 SECTION 31. Section 226 of said chapter 175 is hereby repealed. 
+577 SECTION 32. Chapter 176A of the General Laws is hereby amended by inserting after 
+578 section 8VV, added by section 58 of chapter 28 of the acts of 2023, the following section:- 
+28 of 58 
+579 Section 8WW. (a) As used in this section, the following words shall, unless the context 
+580 clearly requires otherwise, have the following meanings: 
+581 “Brand name drug”, a drug that is: (i) produced or distributed pursuant to an original new 
+582 drug application approved under 21 U.S.C. 355(c) except for: (A) any drug approved through an 
+583 application submitted under section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act that 
+584 is pharmaceutically equivalent, as that term is defined by the United States Food and Drug 
+585 Administration, to a drug approved under 21 U.S.C. 355(c); (B) an abbreviated new drug 
+586 application that was approved by the United States Secretary of Health and Human Services 
+587 under section 505(c) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 355(c), before the 
+588 date of the enactment of the federal Drug Price Competition and Patent Term Restoration Act of 
+589 1984, Public Law 98-417, 98 Stat. 1585; or (C) an authorized generic drug as defined in 42 
+590 C.F.R. 447.502; (ii) produced or distributed pursuant to a biologics license application approved 
+591 under 42 U.S.C. 262(a)(2)(C); or (iii) identified by the health benefit plan as a brand name drug 
+592 based on available data resources such as Medi-Span. 
+593 “Generic drug”, a retail drug that is: (i) marketed or distributed pursuant to an 
+594 abbreviated new drug application approved under 21 U.S.C. 355(j); (ii) an authorized generic 
+595 drug as defined in 42 C.F.R. 447.502; (iii) a drug that entered the market before January 1, 1962 
+596 and was not originally marketed under a new drug application; or (iv) identified by the health 
+597 benefit plan as a generic drug based on available data resources such as Medi-Span. 
+598 (b) Any contract between a subscriber and the corporation under an individual or group 
+599 hospital service plan that is delivered, issued or renewed within the commonwealth shall identify 
+29 of 58 
+600 1 generic drug and 1 brand name drug used to treat each of the following chronic conditions: (i) 
+601 diabetes; (ii) asthma; and (iii) the most prevalent heart condition among its enrollees. 
+602 (c) The carrier shall identify insulin as the drug used to treat diabetes. In determining the 
+603 1 generic drug and 1 brand name drug used to treat each chronic condition, the carrier shall 
+604 consider whether the drug is: 
+605 (i) of clear benefit and strongly supported by clinical evidence; 
+606 (ii) likely to reduce hospitalizations or emergency department visits, reduce future 
+607 exacerbations of illness progression or improve quality of life; 
+608 (iii) cost effective for the carrier and its enrollees; 
+609 (iv) at low risk for overutilization, abuse, addiction, diversion or fraud; and 
+610 (v) one of the most widely utilized as a treatment for the chronic condition. 
+611 (d) Any contract between a subscriber and the corporation under an individual or group 
+612 hospital service plan that is delivered, issued or renewed within the commonwealth shall provide 
+613 coverage for the brand name drugs and generic drugs identified pursuant to subsection (b). 
+614 Coverage for the identified generic drugs shall not be subject to any cost-sharing, including co-
+615 payments and co-insurance and shall not be subject to any deductible. Coverage for identified 
+616 brand name drugs shall not be subject to any deductible or co-insurance and any co-payment 
+617 shall not exceed $25 per 30-day supply. Coverage for 1 brand name insulin drug per dosage and 
+618 type, including rapid-acting, short-acting, intermediate-acting, long-acting, ultra long-acting and 
+619 premixed under this section shall not be subject to any deductible or co-insurance and any co-
+620 payment shall not exceed $25 per 30-day supply. 
+30 of 58 
+621 (e) The carrier shall implement a continuity of coverage policy to apply to enrollees that 
+622 are new to the plan and that provides coverage for a 30-day fill of a United States Food and Drug 
+623 Administration-approved drug reimbursed through a pharmacy benefit that the enrollee has 
+624 already been prescribed and on which the enrollee is stable, upon documentation by the 
+625 enrollee’s prescriber; provided, that a carrier shall not apply any greater deductible, coinsurance, 
+626 copayments or out-of-pocket limits than would otherwise apply to other drugs covered by the 
+627 plan. 
+628 (f) The carrier shall make changes in the drugs selected pursuant to this section not more 
+629 than annually. 
+630 (g) The carrier shall make public the drugs selected pursuant to subsection (b). 
+631 SECTION 33. Chapter 176B of the General Laws is hereby amended by inserting after 
+632 section 4VV, added by section 59 of chapter 28 of the acts of 2023, the following section:- 
+633 Section 4WW. (a) As used in this section, the following words shall, unless the context 
+634 clearly requires otherwise, have the following meanings: 
+635 “Brand name drug”, a drug that is: (i) produced or distributed pursuant to an original new 
+636 drug application approved under 21 U.S.C. 355(c) except for: (A) any drug approved through an 
+637 application submitted under section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act that 
+638 is pharmaceutically equivalent, as that term is defined by the United States Food and Drug 
+639 Administration, to a drug approved under 21 U.S.C. 355(c); (B) an abbreviated new drug 
+640 application that was approved by the United States Secretary of Health and Human Services 
+641 under section 505(c) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 355(c), before the 
+642 date of the enactment of the federal Drug Price Competition and Patent Term Restoration Act of 
+31 of 58 
+643 1984, Public Law 98-417, 98 Stat. 1585; or (C) an authorized generic drug as defined in 42 
+644 C.F.R. 447.502; (ii) produced or distributed pursuant to a biologics license application approved 
+645 under 42 U.S.C. 262(a)(2)(C); or (iii) identified by the health benefit plan as a brand name drug 
+646 based on available data resources such as Medi-Span. 
+647 “Generic drug”, a retail drug that is: (i) marketed or distributed pursuant to an 
+648 abbreviated new drug application approved under 21 U.S.C. 355(j); (ii) an authorized generic 
+649 drug as defined in 42 C.F.R. 447.502; (iii) a drug that entered the market before January 1, 1962 
+650 and was not originally marketed under a new drug application; or (iv) identified by the health 
+651 benefit plan as a generic drug based on available data resources such as Medi-Span. 
+652 (b) A subscription certificate under an individual or group medical service agreement 
+653 delivered, issued or renewed within the commonwealth shall identify 1 generic drug and 1 brand 
+654 name drug used to treat each of the following chronic conditions: (i) diabetes; (ii) asthma; and 
+655 (iii) the most prevalent heart condition among its enrollees. 
+656 (c) The carrier shall identify insulin as the drug used to treat diabetes. In determining the 
+657 1 generic drug and 1 brand name drug used to treat each chronic condition, the carrier shall 
+658 consider whether the drug is: 
+659 (i) of clear benefit and strongly supported by clinical evidence; 
+660 (ii) likely to reduce hospitalizations or emergency department visits, reduce future 
+661 exacerbations of illness progression or improve quality of life; 
+662 (iii) cost effective for the carrier and its enrollees; 
+663 (iv) at low risk for overutilization, abuse, addiction, diversion or fraud; and 
+32 of 58 
+664 (v) one of the most widely utilized as a treatment for the chronic condition. 
+665 (d) A subscription certificate under an individual or group medical service agreement 
+666 delivered, issued or renewed within the commonwealth shall provide coverage for the brand 
+667 name drugs and generic drugs identified pursuant to subsection (b). Coverage for the identified 
+668 generic drugs shall not be subject to any cost-sharing, including co-payments and co-insurance 
+669 and shall not be subject to any deductible. Coverage for identified brand name drugs shall not be 
+670 subject to any deductible or co-insurance and any co-payment shall not exceed $25 per 30-day 
+671 supply. Coverage for 1 brand name insulin drug per dosage and type, including rapid-acting, 
+672 short-acting, intermediate-acting, long-acting, ultra long-acting and premixed under this section 
+673 shall not be subject to any deductible or co-insurance and any co-payment shall not exceed $25 
+674 per 30-day supply. 
+675 (e) The carrier shall implement a continuity of coverage policy to apply to enrollees that 
+676 are new to the plan and that provides coverage for a 30-day fill of a United States Food and Drug 
+677 Administration-approved drug reimbursed through a pharmacy benefit that the enrollee has 
+678 already been prescribed and on which the enrollee is stable, upon documentation by the 
+679 enrollee’s prescriber; provided, that a carrier shall not apply any greater deductible, coinsurance, 
+680 copayments or out-of-pocket limits than would otherwise apply to other drugs covered by the 
+681 plan. 
+682 (f) The carrier shall make changes in the drugs selected pursuant to this section not more 
+683 than annually. 
+684 (g) The carrier shall make public the drugs selected pursuant to subsection (b). 
+33 of 58 
+685 SECTION 34. Chapter 176G of the General Laws is hereby amended by inserting after 
+686 section 4NN, added by section 60 of chapter 28 of the acts of 2023, the following section:- 
+687 Section 4OO. (a) As used in this section, the following words shall, unless the context 
+688 clearly requires otherwise, have the following meanings: 
+689 “Brand name drug”, a drug that is: (i) produced or distributed pursuant to an original new 
+690 drug application approved under 21 U.S.C. 355(c) except for: (A) any drug approved through an 
+691 application submitted under section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act that 
+692 is pharmaceutically equivalent, as that term is defined by the United States Food and Drug 
+693 Administration, to a drug approved under 21 U.S.C. 355(c); (B) an abbreviated new drug 
+694 application that was approved by the United States Secretary of Health and Human Services 
+695 under section 505(c) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 355(c), before the 
+696 date of the enactment of the federal Drug Price Competition and Patent Term Restoration Act of 
+697 1984, Public Law 98-417, 98 Stat. 1585; or (C) an authorized generic drug as defined in 42 
+698 C.F.R. 447.502; (ii) produced or distributed pursuant to a biologics license application approved 
+699 under 42 U.S.C. 262(a)(2)(C); or (iii) identified by the health benefit plan as a brand name drug 
+700 based on available data resources such as Medi-Span. 
+701 “Generic drug”, a retail drug that is: (i) marketed or distributed pursuant to an 
+702 abbreviated new drug application approved under 21 U.S.C. 355(j); (ii) an authorized generic 
+703 drug as defined in 42 C.F.R. 447.502; (iii) a drug that entered the market before January 1, 1962 
+704 and was not originally marketed under a new drug application; or (iv) identified by the health 
+705 benefit plan as a generic drug based on available data resources such as Medi-Span. 
+34 of 58 
+706 (b) An individual group health maintenance contract that is issued or renewed within or 
+707 without the commonwealth shall identify 1 generic drug and 1 brand name drug used to treat 
+708 each of the following chronic conditions: (i) diabetes; (ii) asthma; and (iii) the most prevalent 
+709 heart condition among its enrollees. 
+710 (c) The carrier shall identify insulin as the drug used to treat diabetes. In determining the 
+711 1 generic drug and 1 brand name drug used to treat each chronic condition, the carrier shall 
+712 consider whether the drug is: 
+713 (i) of clear benefit and strongly supported by clinical evidence to be cost-effective; 
+714 (ii) likely to reduce hospitalizations or emergency department visits, reduce future 
+715 exacerbations of illness progression or improve quality of life; 
+716 (iii) cost effective for the carrier and its enrollees; 
+717 (iv) at low risk for overutilization, abuse, addiction, diversion or fraud; and 
+718 (v) one of the most widely utilized as a treatment for the chronic condition. 
+719 (d) An individual group health maintenance contract that is issued or renewed within or 
+720 without the commonwealth shall provide coverage for the brand name drugs and generic drugs 
+721 identified pursuant to subsection (b). Coverage for the identified generic drugs shall not be 
+722 subject to any cost-sharing, including co-payments and co-insurance and shall not be subject to 
+723 any deductible. Coverage for identified brand name drugs shall not be subject to any deductible 
+724 or co-insurance and any co-payment shall not exceed $25 per 30-day supply. Coverage for 1 
+725 brand name insulin drug per dosage and type, including rapid-acting, short-acting, intermediate-
+35 of 58 
+726 acting, long-acting, ultra long-acting and premixed under this section shall not be subject to any 
+727 deductible or co-insurance and any co-payment shall not exceed $25 per 30-day supply. 
+728 (e) The carrier shall implement a continuity of coverage policy to apply to enrollees that 
+729 are new to the plan and that provides coverage for a 30-day fill of a United States Food and Drug 
+730 Administration-approved drug reimbursed through a pharmacy benefit that the enrollee has 
+731 already been prescribed and on which the enrollee is stable, upon documentation by the 
+732 enrollee’s prescriber; provided, that a carrier shall not apply any greater deductible, coinsurance, 
+733 copayments or out-of-pocket limits than would otherwise apply to other drugs covered by the 
+734 plan. 
+735 (f) The carrier shall make changes in the drugs selected pursuant to this section not more 
+736 than annually. 
+737 (g) The carrier shall make public the drugs selected pursuant to subsection (b). 
+738 SECTION 35. Chapter 176O of the General Laws is hereby amended by adding the 
+739 following 2 sections:- 
+740 Section 30. (a) On an annual basis, each carrier shall report to the division the drugs 
+741 selected to be provided with no or limited cost-sharing under section 47VV of chapter 175, 
+742 section 8WW of chapter 176A, section 4WW of chapter 176B and section 4OO of chapter 176G. 
+743 The commissioner shall review the drugs to verify that the selected drugs meet the criteria 
+744 identified in those sections. Should a selected drug be deemed by the commissioner to not meet 
+745 the criteria, the commissioner may require a different drug to be selected. The commissioner 
+746 shall disclose the list of drugs selected by each entity annually on the division’s website. 
+36 of 58 
+747 Section 31. (a) As used in this section, the following words shall, unless the context 
+748 clearly requires otherwise, have the following meanings: 
+749 “Cost-sharing”, as defined in section 1 of chapter 176Y. 
+750 “Estimated rebate”, any: (i) negotiated price concessions, whether described as a rebate 
+751 or otherwise, including, but not limited to, base price concessions, and reasonable estimates of 
+752 any price protection rebates and performance-based price concessions that may accrue, directly 
+753 or indirectly, to a carrier, pharmacy benefit manager or other party on a carrier’s behalf during a 
+754 carrier’s plan year from a pharmaceutical manufacturing company, dispensing pharmacy or other 
+755 party to the transaction based on the amounts the carrier received in the prior quarter or 
+756 reasonably expects to receive in the current quarter; and (ii) reasonable estimates of any price 
+757 concessions, fees and other administrative costs that are passed through, or are reasonably 
+758 anticipated to be passed through to the carrier, pharmacy benefit manager or other party on the 
+759 carrier’s behalf and that serve to reduce the carrier’s prescription drug liabilities for the plan year 
+760 based on the amounts the carrier received in the prior quarter or reasonably expects to receive in 
+761 the current quarter. 
+762 “Pharmacy benefit manager”, as defined in section 1 of chapter 176Y. 
+763 “Price protection rebate”, a negotiated price concession that accrues directly or indirectly 
+764 to the carrier, or other party on behalf of the carrier, including a pharmacy benefit manager, in 
+765 the event of an increase in the wholesale acquisition cost of a drug that is greater than a specified 
+766 threshold. 
+767 (b) A carrier, or any pharmacy benefit manager, shall make available to an insured at 
+768 least 80 per cent of the estimated rebates received by such carrier, or any pharmacy benefit 
+37 of 58 
+769 manager, by reducing the amount of defined cost-sharing that the carrier would otherwise charge 
+770 at the point of sale, except that the reduction amount shall not result in a credit at the point of 
+771 sale. Neither the insured nor the carrier shall be responsible for any difference between the 
+772 estimated rebate amount and the actual rebate amount the carrier receives; provided, that such 
+773 estimates were calculated in good faith. 
+774 (c) Nothing in this section shall preclude a pharmacy benefit manager from decreasing an 
+775 insured’s defined cost-sharing by an amount greater than that required under subsection (b). 
+776 (d) Annually, not later than April 1, a carrier shall file with the division a report in the 
+777 manner and form determined by the commissioner demonstrating the manner in which the carrier 
+778 has complied with this section. If the commissioner determines that a carrier has not complied 
+779 with 1 or more requirements of this section, the commissioner shall notify the carrier of such 
+780 noncompliance and a date by which the carrier must demonstrate compliance. If the carrier does 
+781 not come into compliance by such date, the division shall impose a fine not to exceed $5,000 for 
+782 each day during which such noncompliance continues. 
+783 (e) In implementing the requirements of this section, the division shall only regulate a 
+784 carrier or pharmacy benefit manager to the extent permissible under applicable law. 
+785 (f) A pharmacy benefit manager, its agent or any third-party administrator shall not 
+786 publish or otherwise disclose information regarding the actual amount of rebates a carrier 
+787 receives on a specific product or therapeutic class of products, manufacturer or pharmacy-
+788 specific basis. Such information shall be considered to be a trade secret and confidential 
+789 commercial information, shall not be a public record as defined by clause Twenty-sixth of 
+790 section 7 of chapter 4 or section 10 of chapter 66, and shall not be disclosed directly or 
+38 of 58 
+791 indirectly, or in a manner that would allow for the identification of an individual product, 
+792 therapeutic class of products or manufacturer, or in a manner that would have the potential to 
+793 compromise the financial, competitive or proprietary nature of the information. A pharmacy 
+794 benefit manager shall impose the confidentiality protections and requirements of this section on 
+795 any agent or third-party administrator that performs health care or administrative services on 
+796 behalf of the pharmacy benefit manager that may receive or have access to rebate related 
+797 information. 
+798 SECTION 36. The General Laws are hereby amended by inserting after chapter 176X 
+799 the following chapter:- 
+800 CHAPTER 176Y 
+801 LICENSURE AND REGULATION OF PHARMACY BENEFIT MANAGERS 
+802 Section 1. As used in this chapter, unless the context clearly requires otherwise, the 
+803 following words shall have the following meanings: 
+804 “Carrier”, as defined in section 1 of chapter 176O. 
+805 “Clean claim”, a claim that has no defect or impropriety, including a lack of any required 
+806 substantiating documentation, or other circumstance requiring special treatment that prevents 
+807 timely payment from being made on the claim. 
+808 “Commissioner”, the commissioner of the division of insurance. 
+39 of 58 
+809 “Cost-sharing”, any copayment, coinsurance, deductible or any other amount owed by an 
+810 insured under the terms of the insured’s health benefit plan, or as required by a pharmacy benefit 
+811 manager. 
+812 “Division”, the division of insurance. 
+813 “Health benefit plan”, as defined in section 1 of chapter 176O. 
+814 “Independent pharmacy”, a pharmacy registered under section 39 of chapter 112 that is 
+815 under common ownership with not more than 5 other pharmacies. 
+816 “Insured”, as defined in section 1 of chapter 176O. 
+817 “Mail-order pharmacy”, a pharmacy whose primary business is to receive prescriptions 
+818 by mail, telefax or through electronic submissions and to dispense medication to insureds 
+819 through the use of the United States mail or other common or contract carrier services. 
+820 “Net price”, a price for a prescription drug that takes into account all rebates received or 
+821 expected to be received in connection with the dispensing or administration of the prescription 
+822 drug. 
+823 “Pharmacy”, a facility under the direction or supervision of a registered pharmacist 
+824 authorized to dispense controlled substances under the supervision of a pharmacist registered in 
+825 the commonwealth under section 39 of chapter 112. 
+826 “Pharmacy benefit management services”, services performed by a pharmacy benefit 
+827 manager, including: (i) negotiating the price of prescription drugs, including negotiating and 
+828 contracting for direct or indirect rebates, discounts or other price concessions; (ii) managing any 
+829 aspects of a prescription drug benefit, including, but not limited to, formulary administration, 
+40 of 58 
+830 mail and specialty drug pharmacy services, clinical, safety and adherence programs for pharmacy 
+831 service, the processing and payment of claims for prescription drugs, arranging alternative access 
+832 to or funding for prescription drugs, the performance of drug utilization review, the processing of 
+833 drug prior authorization requests, the adjudication of appeals or grievances related to the 
+834 prescription drug benefit, contracting with network pharmacies, controlling the cost of covered 
+835 prescription drugs and managing or providing data relating to the prescription drug benefit or the 
+836 provision of services related thereto; (iii) performance of any administrative, managerial, 
+837 clinical, pricing, financial, reimbursement, data administration or reporting or billing service 
+838 related to a health benefit plan’s prescription drug benefit; and (iv) such other services as the 
+839 division may define in regulation. 
+840 “Pharmacy benefit manager”, a person, business or other entity that, pursuant to a 
+841 contract or under an employment relationship with a carrier, a self-insurance plan or other third-
+842 party administrator, either directly or through an intermediary, performs pharmacy benefit 
+843 management services; provided, that “pharmacy benefit manager” shall include a health benefit 
+844 plan sponsor that does not contract with a pharmacy benefit manager and manages its own 
+845 prescription drug benefits unless specifically exempted by the division. 
+846 “Pharmacy benefit manager network”, a network of pharmacies or pharmacists that are 
+847 offered an agreement or contract to provide pharmacy services for a pharmacy benefit manager 
+848 or health benefit plan. 
+849 “Rebate”, any: (i) negotiated price concessions, whether described as a rebate or 
+850 otherwise, including, but not limited to, base price concessions and reasonable estimates of any 
+851 price protection rebates and performance-based price concessions that may accrue, directly or 
+41 of 58 
+852 indirectly, to a carrier, pharmacy benefit manager or other party on a carrier’s behalf during a 
+853 carrier’s plan year from a pharmaceutical manufacturing company, dispensing pharmacy or other 
+854 party to the transaction based on the amounts the carrier received in the prior quarter or 
+855 reasonably expects to receive in the current quarter; and (ii) reasonable estimates of any price 
+856 concessions, fees and other administrative costs that are passed through, or are reasonably 
+857 anticipated to be passed through to the carrier, pharmacy benefit manager or other party on the 
+858 carrier’s behalf, and that serve to reduce the carrier’s prescription drug liabilities for the plan 
+859 year based on the amounts the carrier received in the prior quarter or reasonably expects to 
+860 receive in the current quarter. 
+861 “Spread pricing”, model of prescription drug pricing in which the pharmacy benefits 
+862 manager charges a health benefit plan a contracted price for prescription drugs, and the 
+863 contracted price for the prescription drugs differs from the amount the pharmacy benefits 
+864 manager directly or indirectly pays the pharmacy. 
+865 “Third-party administrator”, any person that directly or indirectly solicits or effects 
+866 coverage of, underwrites, collects charges or premiums from, arranges alternative access to or 
+867 funding for prescription drugs, or adjusts or settles claims on behalf of residents of the 
+868 commonwealth or residents of another state from offices in this commonwealth, in connection 
+869 with health insurance coverage. 
+870 Section 2. (a) No person, business or other entity shall establish or operate as a pharmacy 
+871 benefit manager without obtaining a license from the division pursuant to this section. A license 
+872 shall be granted only when the division is satisfied that the entity possesses the necessary 
+873 organization, background expertise and financial integrity to supply the services sought to be 
+42 of 58 
+874 offered. A pharmacy benefit manager license shall be valid for a period of 3 years and shall be 
+875 renewable for additional 3-year periods. The commissioner shall charge application and renewal 
+876 fees in the amount of $25,000. A license granted pursuant to this section and any rights or 
+877 interests therein shall not be transferable. 
+878 (b) The division shall develop an application for licensure that includes at least the 
+879 following information: (i) the name of the applicant or pharmacy benefit manager; (ii) the 
+880 address and contact telephone number for the applicant or pharmacy benefit manager; (iii) the 
+881 name and address of the agent of the applicant or pharmacy benefit manager for service of 
+882 process in the commonwealth; and (iv) the name and address of each person with management or 
+883 control over the applicant or pharmacy benefit manager. 
+884 (c)(1) The division may suspend, revoke or place on probation a pharmacy benefit 
+885 manager license if: (i) the pharmacy benefit manager has engaged in fraudulent activity that is 
+886 found by a court of law to be a violation of state or federal law; (ii) the division receives 
+887 consumer complaints that justify an action under this chapter to protect the safety and interests of 
+888 consumers; (iii) the pharmacy benefit manager fails to pay an application fee for the license; (iv) 
+889 the pharmacy benefit manager fails to comply with a requirement set forth in this chapter; or (v) 
+890 the pharmacy benefit manager fails to comply with reporting requirements of the center for 
+891 health information and analysis under section 10A of chapter 12C. 
+892 (2) The division shall provide written notice to the pharmacy benefit manager and advise 
+893 in writing of the reason for any suspension, revocation or placement on probation of a pharmacy 
+894 benefit manager license under this chapter. The pharmacy benefit manager may make written 
+895 demand upon the division within 30 days of receipt of such notification for a hearing before the 
+43 of 58 
+896 division to determine the reasonableness of the division’s action. The hearing shall be held 
+897 pursuant to chapter 30A. The division shall not suspend or cancel a license unless the division 
+898 has first afforded the pharmacy benefit manager an opportunity for a hearing pursuant to said 
+899 chapter 30A. 
+900 (d) If a person, business or other entity performs the functions of a pharmacy benefit 
+901 manager in violation of this chapter, the person, business or other entity shall be subject to a fine 
+902 of not less than $5,000 per day for each day that the person, business or other entity is found by 
+903 the division to be in violation. 
+904 (e) A pharmacy benefit manager that violates this chapter or any rule or regulation 
+905 promulgated pursuant to this chapter shall be subject to a fine of not less than $5,000 for each 
+906 violation. 
+907 Section 3. (a)(1) A pharmacy benefit manager shall have a duty to perform pharmacy 
+908 benefit management services with care, skill, prudence, diligence and professionalism. Such duty 
+909 shall extend to both the insured and the health plan for whom the pharmacy benefit manager is 
+910 performing pharmacy benefit management services. 
+911 (2) A pharmacy benefit manager interacting with an insured shall have the same duty to 
+912 an insured as the health plan for whom it is performing pharmacy benefit services. 
+913 (b) A pharmacy benefit manager shall have a duty of good faith and fair dealing with all 
+914 parties with which it interacts in the performance of pharmacy benefit management services. 
+915 Section 4. (a) A pharmacy benefit manager shall provide a reasonably adequate and 
+916 accessible pharmacy benefit manager network for the provision of prescription drugs, which 
+44 of 58 
+917 shall provide for convenient patient access to pharmacies within a reasonable distance from a 
+918 patient’s residence. 
+919 (b) A pharmacy benefit manager shall not deny a pharmacy the opportunity to participate 
+920 in a pharmacy benefit manager network at preferred participation status if the pharmacy is 
+921 willing to accept the terms and conditions that the pharmacy benefit manager has established for 
+922 other pharmacies as a condition of preferred network participation status. 
+923 (c) A mail-order pharmacy shall not be included in the calculations for determining 
+924 pharmacy benefit manager network adequacy. 
+925 Section 5. (a) After adjudication of a clean claim for payment made by a pharmacy, a 
+926 pharmacy benefit manager shall not retroactively reduce payment on the claim, either directly or 
+927 indirectly, through an aggregated effective rate, direct or indirect remuneration, quality assurance 
+928 program or otherwise, except if the claim: (i) is found not to be a clean claim during the course 
+929 of a routine audit performed pursuant to an agreement between the pharmacy benefit manager 
+930 and the pharmacy; or (ii) was submitted as a result of fraud, waste, abuse or other intentional 
+931 misconduct. 
+932 (b) When a pharmacy adjudicates a claim, the reimbursement amount provided to the 
+933 pharmacy by the pharmacy benefit manager shall constitute a final reimbursement amount; 
+934 provided, however, that nothing in this section shall be construed to prohibit any retroactive 
+935 increase in payment to a pharmacy pursuant to a contract between the pharmacy benefit manager 
+936 or a pharmacy. 
+937 (c) No pharmacy benefit manager shall charge or collect from an insured any cost-sharing 
+938 amount that exceeds the total contracted amount by the pharmacy for which the pharmacy is 
+45 of 58 
+939 paid. If an insured pays a copayment, the pharmacy shall retain the adjudicated costs and the 
+940 pharmacy benefit manager shall not reduce or recoup the adjudicated cost. 
+941 Section 6. (a) As used in this section the following words shall, unless the context clearly 
+942 requires otherwise, have the following meanings: 
+943 “Generically equivalent drug”, a drug that is pharmaceutically and therapeutically 
+944 equivalent to the drug prescribed. 
+945 “Maximum allowable cost list”, a listing of drugs or other methodology used by a 
+946 pharmacy benefit manager, directly or indirectly, to set the maximum allowable payment to a 
+947 pharmacy for a generic drug. 
+948 “National Drug Code”, the numerical code assigned to a prescription drug by the United 
+949 States Food and Drug Administration. 
+950 “Pharmacy acquisition cost”, the net amount a pharmacy paid for a pharmaceutical 
+951 product. 
+952 “Pharmacy benefit manager affiliate”, a pharmacy that directly or indirectly, through 1 or 
+953 more intermediaries, owns or controls, is owned or controlled by or is under common ownership 
+954 or control with a pharmacy benefits manager. 
+955 (b) A drug shall not be placed on a maximum allowable cost list unless: 
+956 (i) the drug is a generically equivalent drug, it is listed as therapeutically equivalent and 
+957 pharmaceutically equivalent A or B rated in the United States Food and Drug Administration's 
+958 most recent version of the Orange Book or Green Book, it has an NR or NA rating by Medi-Span 
+959 or Gold Standard, or it has a similar rating by a nationally recognized reference; 
+46 of 58 
+960 (ii) the drug is in stock and available for purchase by each pharmacy in the pharmacy 
+961 benefit manager’s network from wholesale drug distributors licensed under section 36B of 
+962 chapter 112; and 
+963 (iii) the drug is not obsolete. 
+964 (c) A pharmacy benefit manager shall: 
+965 (i) provide access to its maximum allowable cost list to each pharmacy in the pharmacy 
+966 benefit manager’s network that is subject to the maximum allowable cost list; 
+967 (ii) update its maximum allowable cost list on a timely basis, but not less than once every 
+968 7 calendar days; 
+969 (iii) provide a process for each pharmacy subject to the maximum allowable cost list to 
+970 receive prompt notification of an update to the maximum allowable cost list; and 
+971 (iv) provide a reasonable internal grievance process consistent with subsection (d) to 
+972 allow pharmacies to challenge a maximum allowable cost list as not compliant with this section, 
+973 and to challenge reimbursements made under a maximum allowable cost list for a specific drug 
+974 or drugs that are below the pharmacy acquisition cost. 
+975 (d)(1) A pharmacy benefit manager shall maintain a formal internal grievance process for 
+976 pharmacies, and such formal internal grievance process shall provide for adequate consideration 
+977 and timely resolution of grievances. A pharmacy benefit manager’s internal grievance process 
+978 shall include the following: (i) a dedicated telephone number, email address and website for the 
+979 purpose of submitting a grievance; (ii) the ability to submit a grievance directly to the pharmacy 
+47 of 58 
+980 benefit manager regarding the pharmacy benefits plan or program; and (iii) the ability to file a 
+981 grievance within not less than 30 business days of the qualifying event. 
+982 (2) The pharmacy benefit manager shall respond to a grievance within 30 business days 
+983 of receipt of the grievance. If the pharmacy benefit manager determines as a result of the internal 
+984 grievance process that the pharmacy benefit manager’s challenged conduct was not compliant 
+985 with this section, the pharmacy benefit manager shall: (i) provide the pharmacy with the National 
+986 Drug Code upon which the maximum allowable cost was based; (ii) reprocess the claim; (iii) 
+987 reimburse the pharmacy in an amount that is not less than the pharmacy acquisition cost; and (iv) 
+988 to the extent practicable, reprocess claims submitted by similarly situated pharmacies and 
+989 reimburse said pharmacies an amount that is not less than the pharmacy acquisition cost. 
+990 (3) If the pharmacy benefit manager determines as a result of the internal grievance 
+991 process that the pharmacy benefit manager’s challenged conduct was compliant with this section, 
+992 the pharmacy benefit manager shall: (i) provide the pharmacy with the National Drug Code upon 
+993 which the maximum allowable cost was based and the name of any wholesale drug distributors 
+994 licensed under section 36B of chapter 112 that have the drug currently in stock at a price below 
+995 the maximum allowable cost; or (ii) if the National Drug Code provided by the pharmacy benefit 
+996 manager is not available at a price below the pharmacy acquisition cost from the wholesale drug 
+997 distributor from whom the pharmacy purchases the majority of its prescription drugs for resale, 
+998 then the pharmacy benefit manager shall adjust the maximum allowable cost as listed on the 
+999 maximum allowable cost list above the challenging pharmacy's pharmacy acquisition cost, and 
+1000 permit the pharmacy to reverse and rebill each claim affected by the inability to procure the drug 
+1001 at a cost that is equal to or less than the challenged maximum allowable cost. 
+48 of 58 
+1002 (e) A pharmacy benefit manager shall not reimburse an independent pharmacy an amount 
+1003 less than the amount that the pharmacy benefit manager reimburses a pharmacy benefit manager 
+1004 affiliate for providing the same pharmacist services. The reimbursement amount shall be 
+1005 calculated on a per unit basis using the same Medi-Span generic product identifier or First 
+1006 DataBank generic code number. 
+1007 (f) A violation of this section shall constitute an unfair or deceptive act or practice under 
+1008 chapter 93A. 
+1009 Section 7. (a) No pharmacy benefit manager or carrier may, either directly or indirectly 
+1010 through an intermediary, agent or affiliate, engage in spread pricing. A pharmacy benefit 
+1011 manager or carrier that violates this section shall be subject to the surcharge under section 8. A 
+1012 carrier shall be jointly responsible to pay the surcharge amount for violations of this section by 
+1013 its contracted pharmacy benefit manager. 
+1014 (b) A pharmacy benefit manager shall report to the commissioner on a quarterly basis, for 
+1015 each health benefit plan with which it contracts, the data required to be collected by the center 
+1016 for health information and analysis pursuant to section 10A of chapter 12C. 
+1017 Section 8. (a) A pharmacy benefit manager or carrier shall be subject to a surcharge 
+1018 payable to the division equal to 10 per cent of the aggregate dollar amount of reimbursements 
+1019 paid by the pharmacy benefit manager or carrier to pharmacies in the previous contract year for 
+1020 prescription drugs in the commonwealth if the pharmacy benefit manager or carrier: (i) engages 
+1021 in spread pricing; or (ii) imposes point-of-sale fees or retroactive fees. 
+49 of 58 
+1022 (b) A pharmacy benefit manager or carrier subject to enforcement action by the division 
+1023 for a violation of this section shall, upon the filing of a written request with the division, be 
+1024 afforded an adjudicatory hearing pursuant to chapter 30A. 
+1025 Section 9. (a) When calculating an insured’s contribution to any applicable cost-sharing 
+1026 requirement, a carrier shall include any cost-sharing amounts paid by the insured or on behalf of 
+1027 the insured by another person. If under federal law, application of this requirement would result 
+1028 in health savings account ineligibility under section 223 of the federal Internal Revenue Code, 
+1029 this requirement shall apply for health savings account-qualified high deductible health plans 
+1030 with respect to the deductible of such a plan after the insured has satisfied the minimum 
+1031 deductible under section 223 of the federal Internal Revenue Code, except for with respect to 
+1032 items or services that are preventive care pursuant to section 223(c)(2)(C) of the federal Internal 
+1033 Revenue Code, in which case the requirements of this paragraph shall apply regardless of 
+1034 whether the minimum deductible under section 223 has been satisfied. 
+1035 (b) A carrier, pharmacy benefit manager or third-party administrator shall not directly or 
+1036 indirectly set, alter, implement or condition the terms of health benefit plan coverage, including 
+1037 the benefit design, based in part or entirely on information about the availability or amount of 
+1038 financial or product assistance available for a prescription drug. 
+1039 (c) The division may promulgate such rules and regulations as it may deem necessary to 
+1040 implement this section. 
+1041 Section 10. (a)(1) A pharmacy benefit manager shall conduct an audit of the records of a 
+1042 pharmacy with which it contracts. 
+50 of 58 
+1043 (2) The contract between a pharmacy and a pharmacy benefit manager shall identify and 
+1044 describe the audit procedures in detail. 
+1045 (3) With the exception of an investigative fraud audit, the auditor shall give the pharmacy 
+1046 written notice not less than 2 weeks prior to conducting the initial on-site audit for each audit 
+1047 cycle. 
+1048 (4) A pharmacy benefit manager shall not audit claims beyond 2 years prior to the date of 
+1049 audit. 
+1050 (5) The auditor shall not interfere with the delivery of pharmacist services to a patient and 
+1051 shall make a reasonable effort to minimize the inconvenience and disruption to the pharmacy 
+1052 operations during the audit process. 
+1053 (6) Any audit that involves clinical or professional judgment shall be conducted by, or in 
+1054 consultation with, a licensed pharmacist from any state. 
+1055 (7) A finding of an overpayment or underpayment shall be based on the actual 
+1056 overpayment or underpayment. A statistically sound calculation for overpayment or 
+1057 underpayment may be used to determine recoupment as part of a settlement as agreed to by the 
+1058 pharmacy. 
+1059 (8) The auditor shall audit each pharmacy under the same standards and parameters with 
+1060 which they audit other similarly situated pharmacies. 
+1061 (9) An audit shall not be initiated or scheduled during the first 5 calendar days of any 
+1062 month for any pharmacy that averages more than 600 prescriptions per week without the 
+1063 pharmacy’s consent. 
+51 of 58 
+1064 (10) A preliminary audit report shall be delivered to the pharmacy not later than 30 days 
+1065 after the conclusion of the audit. 
+1066 (11) The preliminary audit report shall be signed and shall include the signature of any 
+1067 pharmacist participating in the audit. 
+1068 (12) A pharmacy benefit manager shall not withhold payment to a pharmacy for 
+1069 reimbursement claims as a means to recoup money until after the final internal disposition of an 
+1070 audit, including the appeals process, as provided in subsection (b), unless fraud or 
+1071 misrepresentation is reasonably suspected or the discrepant amount exceeds $15,000. 
+1072 (13) The auditor shall provide a copy of the final audit report to the pharmacy and plan 
+1073 sponsor within 30 days following the pharmacy’s receipt of the signed preliminary audit report 
+1074 or the completion of the appeals process, as provided in subsection (b), whichever is later. 
+1075 (14) No auditing company or agent shall receive payment based upon a percentage of the 
+1076 amount recovered or other financial incentive tied to the findings of the audit. 
+1077 (b)(1) Each auditor shall establish an appeal process under which a pharmacy may appeal 
+1078 findings in a preliminary audit. 
+1079 (2) To appeal a finding, a pharmacy may use the records of a hospital, physician or other 
+1080 authorized prescriber to validate the record with respect to orders or refills of prescription drugs 
+1081 or devices. 
+1082 (3) A pharmacy shall have 30 days to appeal any discrepancy found during the 
+1083 preliminary audit. 
+52 of 58 
+1084 (4) The National Council for Prescription Drug Programs or any other recognized 
+1085 national industry standard shall be used to evaluate claims submission and product size disputes. 
+1086 (5) If an audit results in the identification of any clerical or record-keeping errors in a 
+1087 required document or record, the pharmacy shall not be subject to recoupment of funds by the 
+1088 pharmacy benefit manager; provided, that the pharmacy may provide proof that the patient 
+1089 received the medication billed to the plan via patient signature logs or other acceptable methods, 
+1090 unless there is financial harm to the plan or errors that exceed the normal course of business. 
+1091 (c) This section shall not apply to any audit or investigation of a pharmacy that involves 
+1092 potential fraud, willful misrepresentation or abuse, including, but not limited to, investigative 
+1093 audits or any other statutory or regulatory provision which authorizes investigations relating to 
+1094 insurance fraud. 
+1095 (d) This section shall not apply to a public health care payer, as defined in section 1 of 
+1096 chapter 12C. 
+1097 (e) The commissioner shall promulgate regulations to enforce this section. 
+1098 Section 11. (a) The commissioner may make an examination of the affairs of a pharmacy 
+1099 benefit manager when the commissioner deems prudent, but not less than once every 3 years. 
+1100 The focus of the examination shall be to ensure that a pharmacy benefit manager is able to meet 
+1101 its responsibilities under contracts with carriers. The examination shall be conducted in 
+1102 accordance with subsection (6) of section 4 of chapter 175. 
+53 of 58 
+1103 (b) The commissioner, a deputy or an examiner may conduct an on-site examination of 
+1104 each pharmacy benefit manager in the commonwealth to thoroughly inspect and examine its 
+1105 affairs. 
+1106 (c) The charge for each such examination shall be determined annually in accordance 
+1107 with subsection (6) of section 4 of chapter 175. 
+1108 (d) Not later than 60 days following completion of the examination, the examiner in 
+1109 charge shall file with the commissioner a verified written report of examination under oath. 
+1110 Upon receipt of the verified report, the commissioner shall transmit the report to the pharmacy 
+1111 benefit manager examined with a notice that shall afford the pharmacy benefit manager 
+1112 examined a reasonable opportunity of not more than 30 days to make a written submission or 
+1113 rebuttal with respect to any matters contained in the examination report. Not later than 30 days 
+1114 after the end of the period allowed for the receipt of written submissions or rebuttals, the 
+1115 commissioner shall consider and review the reports together with any written submissions or 
+1116 rebuttals and any relevant portions of the examiner’s work papers and enter an order: 
+1117 (i) adopting the examination report as filed with modifications or corrections and, if the 
+1118 examination report reveals that the pharmacy benefit manager is operating in violation of this 
+1119 section or any regulation or prior order of the commissioner, the commissioner may order the 
+1120 pharmacy benefit manager to take any action the commissioner considers necessary and 
+1121 appropriate to cure such violation; 
+1122 (ii) rejecting the examination report with directions to the examiners to reopen the 
+1123 examination for the purposes of obtaining additional data, documentation or information and re-
+1124 filing pursuant to the above provisions; or 
+54 of 58 
+1125 (iii) calling for an investigatory hearing with no less than 20 days’ notice to the pharmacy 
+1126 benefit manager for purposes of obtaining additional documentation, data, information and 
+1127 testimony. 
+1128 (e) Notwithstanding any general or special law to the contrary, including clause Twenty-
+1129 sixth of section 7 of chapter 4 and section 10 of chapter 66, the records of any such examination 
+1130 and the information contained in the records, reports or books of any pharmacy benefit manager 
+1131 examined pursuant to this section shall be confidential and open only to the inspection of the 
+1132 commissioner, or the examiners and assistants. Access to such confidential material may be 
+1133 granted by the commissioner to law enforcement officials of the commonwealth or any other 
+1134 state or agency of the federal government at any time, so long as the agency or office receiving 
+1135 the information agrees in writing to keep such material confidential. Nothing herein shall be 
+1136 construed to prohibit the required production of such records and information contained in the 
+1137 reports of such company or organization before any court of the commonwealth or any master or 
+1138 auditor appointed by any such court, in any criminal or civil proceeding, affecting such 
+1139 pharmacy benefit manager, its officers, partners, directors or employees. The final report of any 
+1140 such audit, examination or any other inspection by or on behalf of the division of insurance shall 
+1141 be a public record. 
+1142 Section 12. A pharmacy benefit manager shall be required to submit to periodic audits by 
+1143 a licensed carrier if the pharmacy benefit manager has entered into a contract with the carrier to 
+1144 provide pharmacy benefits to the carrier or its members. The commissioner shall direct or 
+1145 provide specifications for such audits. 
+55 of 58 
+1146 Section 13. (a) A contract between a pharmacy benefit manager and a pharmacy shall not 
+1147 include any provision that prohibits, restricts or limits a pharmacy or its employed pharmacists’ 
+1148 ability to provide an insured with information on the amount of the insured’s cost-sharing for 
+1149 such insured’s prescription drug and the clinical efficacy of a more affordable alternative drug if 
+1150 one is available. No contract shall penalize a pharmacy or an individual pharmacist for disclosing 
+1151 such information to an insured or for dispensing to an insured a more affordable alternative 
+1152 prescription drug if one is available. 
+1153 (b) A pharmacy benefit manager shall not charge a pharmacy a fee related to the 
+1154 adjudication of a claim unless such fee is set out in a contract between the pharmacy benefit 
+1155 manager and the pharmacist or contracting agent or pharmacy, including, but not limited to, a fee 
+1156 for: (i) the receipt and processing of a pharmacy claim; (ii) the development or management of 
+1157 claims processing services in a pharmacy benefit manager network; or (iii) participation in a 
+1158 pharmacy benefit manager network. 
+1159 (c) A contract between a pharmacy benefit manager and a pharmacy shall not include any 
+1160 provision that prohibits, restricts or limits disclosure of information to the division deemed 
+1161 necessary by the division to ensure a pharmacy benefit manager’s compliance with the 
+1162 requirements under this section or section 21C of chapter 94C. 
+1163 SECTION 37. Sections 131 and 226 of chapter 139 of the acts of 2012 are hereby 
+1164 repealed. 
+1165 SECTION 38. (a) Notwithstanding any general or special law to the contrary, the office 
+1166 of pharmaceutical policy and analysis, in consultation with the office of Medicaid, shall conduct 
+1167 an analysis and issue a report on the future of cell and gene therapy in the commonwealth with 
+56 of 58 
+1168 the objective of addressing anticipated barriers to access that may exist with respect to such 
+1169 treatments for patients covered by MassHealth programs and other vulnerable populations. The 
+1170 analysis shall be focused on cell and gene therapy products, hereinafter referred to as products, 
+1171 that are expected to come to market in the United States by the year 2035. The analysis and 
+1172 report shall include, but not be limited to: 
+1173 (i) a projection of the estimated total number of products that are expected to come to 
+1174 market in the United States; 
+1175 (ii) information on the diseases and conditions such products will be approved to treat, 
+1176 including the total estimated number of impacted individuals in the commonwealth and the total 
+1177 number of impacted individuals enrolled in MassHealth; 
+1178 (iii) an assessment of anticipated costs of coverage and existing reimbursement 
+1179 frameworks and methodologies that may be employed by MassHealth for the products to the 
+1180 extent the products are purchased by health care facilities for administration to MassHealth 
+1181 beneficiaries during inpatient hospital stays; 
+1182 (iv) an assessment of whether the reimbursement frameworks and methodologies 
+1183 identified pursuant to clause (iii) would lead to barriers to access to the products in light of the 
+1184 projected costs to the health care system associated with the utilization of the products, and 
+1185 whether such barriers to access, if any, would disproportionately impact MassHealth 
+1186 beneficiaries or other vulnerable populations, including population groups that may be more 
+1187 likely to have adverse health outcomes due to experience with historic disparities or 
+1188 discrimination; and 
+57 of 58 
+1189 (v) an assessment of whether the current health care facility infrastructure necessary for 
+1190 the administration of the products is adequate to ensure equitable access for patients in need of 
+1191 treatment with the products. 
+1192 (b) To the extent that the analysis identifies any barriers to access to the products, the 
+1193 office of pharmaceutical policy and analysis and the office of Medicaid shall analyze and report 
+1194 on the reasons for such barriers and shall propose corrective policy solutions. If any identified 
+1195 barriers are the result of or otherwise related to current MassHealth reimbursement 
+1196 methodologies for the products, the report shall propose modifications designed to eliminate 
+1197 such barriers to such methodologies to the extent authorized under federal law. 
+1198 (c) In conducting the analysis and producing the report required by this section, the health 
+1199 office of pharmaceutical policy and analysis and the office of Medicaid shall consult with the 
+1200 Massachusetts Biotechnology Council, Inc., the Massachusetts Health and Hospital Association, 
+1201 Inc., the Conference of Boston Teaching Hospitals, Inc., the Massachusetts Association of 
+1202 Health Plans, Inc., Blue Cross and Blue Shield of Massachusetts, Inc. and the rare disease 
+1203 advisory council established pursuant to section 241 of chapter 111. 
+1204 (d) The report shall be made available electronically on the commission’s website and 
+1205 shall be filed with the secretary of administration and finance, the clerks of the house of 
+1206 representatives and the senate, the house and senate committees on ways and means and the joint 
+1207 committee on health care financing by not later than July 31, 2025. 
+1208 SECTION 39. Section 17T of chapter 32A of the General Laws, inserted by section 27; 
+1209 section 10R of chapter 118E of the General Laws, inserted by section 29; section 47VV of 175 of 
+1210 the General Laws, inserted by section 30; section 8WW of 176A of the General Laws, inserted 
+58 of 58 
+1211 by section 32; section 4WW of 176B of the General Laws, inserted by section 33; and section 
+1212 4OO of chapter 176G of the General Laws, inserted by section 34, shall apply with respect to 
+1213 health benefit plans that are entered into, amended, extended or renewed on or after August 1, 
+1214 2025. 
+1215 SECTION 40. The center shall prepare the list required pursuant to section 10B of 
+1216 chapter 12C, inserted by section 23, not later than March 31, 2026. 
+1217 SECTION 41. Section 31 of chapter 176O of the General Laws, inserted by section 35, 
+1218 shall take effect on April 1, 2025. All carriers shall file the first annual report required by 
+1219 subsection (d) of said section 31 of said chapter 176O of the General Laws not later than April 1, 
+1220 2026. 
+1221 SECTION 42. All entities performing pharmacy benefit management services shall be 
+1222 licensed by the division of health insurance as pharmacy benefit managers pursuant to section 2 
+1223 of chapter 176Y of the General Laws, inserted by section 36, not later than January 1, 2025. 
+1224 SECTION 43. Sections 7 to 9, inclusive, of chapter 176Y, inserted by section 36, shall 
+1225 apply with respect to health benefit plans that are entered into, amended, extended or renewed on 
+1226 or after August 1, 2025.; and 
+1227 by striking out the title and inserting in place thereof the following title: “An Act 
+1228 promoting access and affordability of prescription drugs.”.

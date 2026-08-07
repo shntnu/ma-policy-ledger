@@ -1,0 +1,58 @@
+S17 | EX-PROGRAM-INCIDENT | redaction proviso for sensitive personal info incident to the Senate rules' committee-testimony publication scheme
+S18 | EX-PROGRAM-INCIDENT | same testimony-redaction proviso incident to proposed Joint Rules' hearing-publication scheme
+S19 | EX-PROGRAM-INCIDENT | same testimony-redaction proviso incident to proposed Senate Rules' hearing-publication scheme
+S20 | EX-PROGRAM-INCIDENT | same testimony-redaction proviso incident to proposed Joint Rules' hearing-publication scheme
+S21 | EX-PROGRAM-INCIDENT | same testimony-redaction proviso incident to adopted Joint Rules' hearing-publication scheme
+S24 | IN-CORE | FY23 supplemental budget vehicle carrying the remote-notarization rewrite including the notary personal-info use/sale ban; carrier in the P-291 family (H1525/S943 filed parents, enacted via H58/2023 c.2 s.33 per data/enacted_adjudication.csv)
+S24 | MECHANISMS | s.19 (new G.L. c.222 s.29): notary may not use, sell, or transfer personal information identifying a remotely-located individual, witness, or named person obtained under c.222 s.28, except enumerated purposes (P-291); s.19 (new c.222 s.28) AV-recording retention/access limits are EX-PROGRAM-INCIDENT per the 2023 c.2 adjudication rows
+S92 | EX-PROGRAM-INCIDENT | confidentiality of records acquired by child fatality review teams, incident to the review-board program
+S325 | EX-PROGRAM-INCIDENT | non-public-record clause on abuse-investigation information exchanged in the school-employee screening program the bill creates
+S379 | EX-PROGRAM-INCIDENT | confidentiality of licensure-applicant litigation/financial information incident to long-term care oversight program
+S471 | EX-FALSEPOS | proprietary submitter information in packaging program; business records, not personal data
+S612 | EX-FALSEPOS | trade-secret/confidential commercial information exemption; business records
+S624 | EX-PROGRAM-INCIDENT | employer-return confidentiality incident to the retirement-savings program the bill creates
+S632 | EX-FALSEPOS | confidentiality of board voting records in executive session; governance records, not personal data
+S653 | EX-PROGRAM-INCIDENT | conference-session confidentiality incident to the foreclosure prevention program the bill creates
+S675 | EX-FALSEPOS | trade-secret/commercial-financial exemption for climate bank applicants; business records
+S732 | EX-FALSEPOS | trade-secret/confidential commercial information exemption in pharma transparency reporting; business records
+S909 | EX-ADJACENT | address nondisclosure to a parent in family-court records; family-law procedure/impoundment
+S923 | EX-ADJACENT | UCCJEA sealing of identifying information in custody pleadings; family-law procedure
+S1002 | EX-ADJACENT | sealed vacatur petitions/hearings for trafficking survivors; court-record sealing as criminal-record remedy
+S1026 | EX-ADJACENT | family-court record nondisclosure to a parent; family-law procedure/impoundment
+S1040 | EX-PROGRAM-INCIDENT | non-public-record clause on information exchanged in the sexual-abuse hiring-screening program the bill creates
+S1045 | EX-PROGRAM-INCIDENT | confidentiality of statements in prison restorative-justice program, incident to the program
+S1076 | EX-PROGRAM-INCIDENT | non-public-record clause on abuser notices to authorities, incident to the animal-abuser pet-ownership restriction scheme
+S1114 | EX-PROGRAM-INCIDENT | confidentiality/retention clause on abortion consent forms incident to the consent procedure; no standalone data-handling rule
+S1127 | EX-ADJACENT | duplicate of S1026; family-court record nondisclosure, family-law procedure
+S1142 | EX-PROGRAM-INCIDENT | same notice-to-authorities non-public-record clause as S1076, incident to animal-protection enforcement scheme
+S1166 | EX-PROGRAM-INCIDENT | employer confidentiality of DV-leave information, incident to the leave benefit program
+S1400 | EX-PROGRAM-INCIDENT | MassHealth data confidentiality incident to the prevention and wellness trust fund evaluation
+S1472 | EX-PROGRAM-INCIDENT | employer confidentiality of home-healthcare-worker leave information, incident to the leave benefit program
+S1481 | EX-PROGRAM-INCIDENT | nondisclosure of pretrial treatment-program assessment statements, incident to the treatment program
+S1511 | EX-PROGRAM-INCIDENT | mental-health-treatment confidentiality clause incident to segregated-confinement treatment requirements
+S1538 | EX-PROGRAM-INCIDENT | facility confidentiality of employee-leave information, incident to workplace-violence prevention/leave program
+S1539 | EX-PROGRAM-INCIDENT | employer confidentiality of employee-leave information, incident to workplace-violence prevention/leave program (companion of S1538)
+S1546 | EX-PROGRAM-INCIDENT | confidentiality of preliminary-inquiry records incident to the correctional-officer standards commission the bill creates
+S1985 | EX-FALSEPOS | financial information in contractor applications not a public record; business records
+S2064 | EX-ADJACENT | extends public records law to Governor/Legislature; government transparency, hit is an existing veterans'-records carve-out
+S2147 | EX-PROGRAM-INCIDENT | confidentiality of information collected by the green-jobs authority, incident to the program it creates
+S2337 | EX-PROGRAM-INCIDENT | confidentiality of servicemember names/addresses/deployment locations incident to the charity registration program the bill creates
+S2400 | EX-PROGRAM-INCIDENT | Senate FY24 GAA vehicle; hits are the recurring early-ed data-sharing/benefit-administration provisos, epidemiological-surveillance line items, and privacy-compliance boilerplate already adjudicated at 2023 c.28 in data/enacted_adjudication.csv; does NOT carry the c.6A s.109 demographic-data provision (P-297/P-298, which rode H4040)
+S2460 | EX-PROGRAM-INCIDENT | non-public-record clause on financial-exploitation reports/records, incident to the reporting-and-hold program the bill creates
+S2479 | EX-PROGRAM-INCIDENT | duplicate of S1166; contract-worker DV-leave confidentiality incident to leave benefit program
+S2520 | EX-FALSEPOS | trade-secret/confidential commercial information exemption in drug-cost transparency; business records
+S2527 | EX-PROGRAM-INCIDENT | confidential resident interviews incident to assisted-living inspection/oversight program
+S2540 | EX-FALSEPOS | retirement-board procedural rules; boilerplate cross-reference to existing privacy/confidentiality regulations, no new rule
+S2754 | EX-ADJACENT | UCCJEA identifying-information sealing (same text as S923); family-law procedure
+S2800 | EX-PROGRAM-INCIDENT | Senate FY25 GAA vehicle; hits are the same recurring program-administration provisos plus the tuition-equity information-protection clause, all adjudicated EX-PROGRAM-INCIDENT at 2024 c.140 in data/enacted_adjudication.csv
+S2824 | EX-FALSEPOS | Gaming Commission racing rules; "surveillance" is physical security observation of horses, non-domain sense
+S2888 | IN-CORE | FY24 supplemental budget vehicle carrying the TNC trip-level data reporting and confidentiality rewrite of c.159A1/2 s.12; carrier in the P-303/P-304 family (enacted via H4799, 2024 c.206 s.15 outside section)
+S2888 | MECHANISMS | s.14 (replacing G.L. c.159A1/2 s.12, subsec.(a)-(b)): mandatory trip-level data reporting to the DPU division incl. driver universally-unique identifier and driver city/town of residence (P-303 family variant, pre-geolocation drafting); s.14 (new s.12(d)): sharing only of de-identified trip-level data under confidential data-sharing agreements with listed agencies, shared data not a public record and nondisclosure beyond agreement parties (P-304 family variant)
+S2889 | EX-PROGRAM-INCIDENT | long-term care omnibus (redraft line of S379); licensure-applicant information confidentiality incident to oversight/licensure program
+S2891 | IN-CORE | FY24 supplemental budget redraft of S2888 carrying the same TNC trip-data rewrite; carrier in the P-303/P-304 family (enacted via H4799, 2024 c.206 s.15)
+S2891 | MECHANISMS | s.15 (replacing G.L. c.159A1/2 s.12): trip-level data reporting mandate incl. driver UUID and residence (P-303 family variant); s.15 (new s.12(d)): de-identified sharing under confidential data-sharing agreements only, shared data not a public record (P-304 family variant)
+S2900 | EX-PROGRAM-INCIDENT | long-term care omnibus redraft of S2889; same licensure-application confidentiality clauses incident to the program
+S2949 | EX-PROGRAM-INCIDENT | home-rule act; transfer-fee returns not public records, incident to the local fee program
+S2961 | EX-ADJACENT | UCCJEA identifying-information sealing (same text as S923/S2754); family-law procedure
+S2997 | EX-FALSEPOS | money-transmitter examination/financial records confidentiality; business/examination records
+S3012 | EX-FALSEPOS | pharma access/cost redraft; confidential payer/manufacturer data exemption, business records

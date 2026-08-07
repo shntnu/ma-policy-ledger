@@ -1,0 +1,495 @@
+1 of 21 
+HOUSE . . . . . . . . . . . . . . . No. 4259 
+ 
+ 
+The Commonwealth of Massachusetts 
+—————— 
+ 
+INITIATIVE PETITION OF CHARLES DEWEY ELLISON, III AND 
+OTHERS. 
+ 
+ 
+ 
+ OFFICE OF THE SECRETARY. 
+ 
+ BOSTON, JANUARY 10, 2024. 
+ 
+Steven T. James 
+Clerk of the House of Representatives 
+State House 
+Boston, Massachusetts 02133 
+ 
+Sir: — I herewith transmit to you, in accordance with the requirements of Article 
+XLVIII of the Amendments to the Constitution an “Initiative Petition for a Law 
+Establishing that App-Based Drivers are not Employees, and Network Companies 
+are not Employers, for Certain Purposes of the General Laws,” signed by ten 
+qualified voters and filed with this department on or before December 6, 2023, 
+together with additional signatures of qualified voters in the number of 92,555, 
+being a sufficient number to comply with the Provisions of said Article. 
+ 
+ Sincerely, 
+ 
+WILLIAM FRANCIS GALVIN 
+Secretary of the Commonwealth. 
+ 
+ 
+ 
+ 
+ 
+ 
+AN INITIATIVE PETITION. 
+ 
+ Pursuant to Article XLVIII of the Amendments to the Constitution of the 
+Commonwealth, as amended, the undersigned qualified voters of the 
+Commonwealth, ten in number at least, hereby petition for the enactment into law 
+of the following measure: 
+ 
+2 of 21 
+ FILED ON: 1/25/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4259 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act establishing that app-based drivers are not employees, and network companies are not 
+employers, for certain purposes of the General Laws. 
+ 
+ Be it enacted by the People, and by their authority, as follows: 
+ 
+1 SECTION 1. Section 148B of chapter 149 of the General Laws is hereby amended by 
+2 inserting after subsection (e) the following subsection: 
+3 (f) Notwithstanding subsection (a), for the purpose of this chapter and chapter 151, an 
+4 app-based driver, as defined in chapter 159AA, shall not be an employee under those chapters. 
+5 SECTION 2. Section 6 of chapter 151A of the General Laws is hereby amended by 
+6 inserting after subsection (x) the following subsection: 
+7 (y) Service performed by an app-based driver, as defined in chapter 159AA. 
+8 SECTION 3 Subsection (4) of section 1 of chapter 152 of the General Laws is hereby 
+9 amended by striking out the words "and (g)" and inserting in place thereof the following words:- 
+10 (g) a person who is an app-based driver, as defined in chapter 159AA, and (h) 
+11 SECTION 4. The General Laws are hereby amended by inserting after chapter 159Al/2 
+12 the following chapter: 
+3 of 21 
+13 Chapter 159AA 
+14 Section 1. Title. This chapter shall be known as the "Relationship Between Network 
+15 Companies and App-Based Drivers Act." 
+16 Section 2. Purpose. The purpose of this chapter is to define and regulate the relationship 
+17 between network companies and app-based drivers. The chapter requires network companies to 
+18 provide app-based drivers with minimum compensation, healthcare stipends, earned paid sick 
+19 time, and occupational accident insurance that will operate uniformly throughout the 
+20 commonwealth, while protecting app-based drivers' freedom and flexibility to choose when, how 
+21 long, how often, and for whom they work. 
+22 Section 3. App-Based Driver Contractual Requirements. (a) The requirements in this 
+23 section and sections 5 through 8 of this chapter are incorporated into every contract made, 
+24 modified, or renewed on or after the effective date of this chapter between an app-based driver 
+25 and a network company with regard to delivery services or transportation services. Such 
+26 contracts may contain supplemental terms that are in addition to those required by this chapter. 
+27 (b) A network company shall not terminate a contract with an app-based driver, 
+28 except on grounds specified in the contract or as is required by law. 
+29 (c) A contract between a network company and an app-based driver shall provide 
+30 app-based drivers whose contracts are terminated by the network company the opportunity to 
+31 appeal such termination with the network company. 
+32 (d) A network company shall not, unless based upon a bona fide occupational 
+33 qualification or public or app-based driver safety need, refuse to contract with or terminate the 
+4 of 21 
+34 contract of an app-based driver based upon race, color, age, religious creed, national origin, sex, 
+35 gender identity, genetic information, ancestry, active military personnel, status as a veteran, 
+36 pregnancy or a condition related to said pregnancy including, but not limited to, lactation or the 
+37 need to express breast milk for a nursing child, or the handicap of a qualified handicapped person 
+38 or sexual orientation, which shall not include persons whose sexual orientation involves minor 
+39 children as the sex object. 
+40 (e) Nothing in this chapter applies to any contract in existence before the effective 
+41 date of this chapter. 
+42 Section 4. Definitions. For the purposes of this chapter, the following words shall have 
+43 the following meanings: 
+44 "App-based driver", a person who is a DNC courier, a TNC driver, or both, who has a 
+45 contract with a network company, and for whom the following requirements are met: 
+46 (a) the network company does not unilaterally prescribe specific dates, times of day, 
+47 or a minimum number of hours during which the app-based driver must be logged into the 
+48 network company's online-enabled application or platform; 
+49 (b) the network company may not terminate the contract of the app-based driver for 
+50 not accepting a specific transportation service or delivery service request except where refusal 
+51 constitutes a violation of governing federal, state, or local laws or regulations; 
+52 (c) the network company does not restrict the app-based driver from performing 
+53 services through other network companies except while performing services through the network 
+54 company's online-enabled application or platform; and 
+5 of 21 
+55 (d) the network company does not contractually restrict the app-based driver from 
+56 working in any other lawful occupation or business. 
+57 "Average ACA contribution", 82 per cent of the dollar amount of the average monthly 
+58 Health Connector premium. 
+59 "Average hourly earnings", an app-based driver's earnings during the 365 days 
+60 immediately prior to the day that earned paid sick time is used, divided by the total hours of 
+61 engaged time worked by the app-based driver on that network company's online-enabled 
+62 application or platform during that period. 
+63 "Average monthly Health Connector premium", the dollar amount published pursuant to 
+64 subsection (f) of section 6 of this chapter. 
+65 "Contract", a written agreement, which may be electronic, between an app-based driver 
+66 and a network company. 
+67 "Delivery Network Company" or "DNC", a business entity that (a) maintains an online-
+68 enabled application or platform used to facilitate delivery services within 
+69 the Commonwealth and (b) maintains a record of the amount of engaged time and 
+70 engaged miles accumulated by DNC couriers. 
+71 "Delivery Network Company Courier" or "DNC courier", a person who provides delivery 
+72 services through a DNC's online-enabled application or platform. 
+73 "Delivery services", the fulfillment of a delivery request, meaning the pickup from any 
+74 location in the Commonwealth of any item or items and the delivery of the items using a private 
+75 passenger motor vehicle, bicycle, electric bicycle, motorized bicycle, scooter, motorized scooter, 
+6 of 21 
+76 walking, public transportation, or other similar means of transportation, to a location selected by 
+77 the customer located within 50 miles of the pickup location. A delivery request may include 
+78 more than I, but not more than 30, distinct orders placed by different customers. Delivery 
+79 services may include the selection, collection, or purchase of items by a DNC courier, as well as 
+80 other tasks incident to a delivery. Delivery services do hot include assistance with residential 
+81 moving services. 
+82 "Earnings", all amounts, including incentives and bonuses, remitted to an app-based 
+83 driver by a network company, provided that the amount does not include toll fees, cleaning fees, 
+84 airport fees, or other customer pass-throughs. Amounts remitted are net of service fees or similar 
+85 fees charged to the app-based driver by the network company. Amounts remitted do not include 
+86 tips or gratuities. 
+87 "Earnings period", a recurring period of time, set by the network company, not to exceed 
+88 14 consecutive calendar days. 
+89 "Engaged miles", all miles traveled during engaged time in a private passenger motor 
+90 vehicle that is not owned, leased, or rented by the network company, or any of its affiliates. 
+91 Network companies may exclude miles if doing so is reasonably necessary to remedy or prevent 
+92 fraudulent use of the network company's online-enabled application or platform. 
+93 "Engaged time", (a) subject to the conditions set forth in subsection (b) in this definition, 
+94 the period of time, as recorded in a network company's online-enabled application or platform, 
+95 from when a app-based driver accepts a request for delivery or transportation services to when 
+96 the driver fulfills that request. For requests that are scheduled in advance and for which the app- 
+97 based driver accepts the request but is not immediately en route to fulfill that request, a driver 
+7 of 21 
+98 shall only be considered engaged on a network company's platform when the app-based driver is 
+99 en route to fulfill that scheduled request, regardless of when the app-based driver accepted the 
+100 request. 
+101 (b) Engaged time shall not include (1) any time spent performing delivery or 
+102 transportation services after the request has been cancelled by the customer; or (2) any time spent 
+103 on a request for delivery or transportation services where the app-based driver abandons 
+104 performance of the service prior to completion. Network companies may also exclude time if 
+105 doing so is reasonably necessary to remedy or prevent fraudulent use of the network company's 
+106 online-enabled application or platform. 
+107 "Health Connector", the Commonwealth Health Insurance Connector Authority 
+108 established by chapter 58 of the acts of 2006 and section 2 of chapter 176Q of the Massachusetts 
+109 General Laws. 
+110 "Minimum wage", the state mandated minimum wage for all industries as provided by 
+111 section 1 of chapter 151 of the Massachusetts General Laws. 
+112 "Net earnings", all earnings received by an app-based driver in an earnings period. 
+113 "Net earnings floor", means the amount determined under subsection (c) of Section 5 of 
+114 this chapter, against which an app-based driver's net earnings are compared. 
+115 "Network company", a business entity operating as: 
+116 (a) a delivery network company; 
+117 (b) a transportation network company; or 
+8 of 21 
+118 (c) both. 
+119 "Person", shall have the same definition as provided in clause twenty-third of section 7 
+120 of chapter 4 of the Massachusetts General Laws. 
+121 "Private passenger motor vehicle," any passenger vehicle which has a vehicle weight 
+122 rating or curb weight of 6,000 lbs. or less as per manufacturer's description of said vehicle or is a 
+123 sport utility vehicle, passenger van, or pickup truck. 
+124 "Qualifying health plan", a health insurance plan in which the app-based driver is the 
+125 subscriber, that is not paid for in full or in part by any current or former employer, and that is not 
+126 a Medicare or Medicaid plan. 
+127 "Quarter", each of the following 4 time periods: (a) January 1 through March 31; (b) 
+128 April 1 through June 30; (c) July I through September 30; (d) October 1 through December 31. 
+129 "Transportation network company" or "TNC", has the same meaning as provided in 
+130 section I of chapter 159Al/2 of the Massachusetts General Laws. 
+131 "Transportation network company driver" or "TNC driver", a Transportation network 
+132 driver, as defined in section I of chapter 159Al/2 of the Massachusetts General Laws, that 
+133 provides transportation services, or a person operating a livery vehicle as defined in 540 CMR 
+134 2.00 on a TNC's digital network, as defined in section 1 of chapter 159Al/2. 
+135 "Transportation services", the provision of transportation facilitated by the digital 
+136 network, as defined in section 1 of chapter 159Al/2 of the Massachusetts General Laws, of a 
+137 TNC for which the pickup of the passenger occurs in the Commonwealth. 
+138 Section 5: Guaranteed Earnings Floor. 
+9 of 21 
+139 (a) A network company shall ensure that for each earnings period, an app-based 
+140 driver is compensated at not less than the net earnings floor as set forth in this section. The net 
+141 earnings floor establishes a guaranteed minimum level of compensation for app-based drivers 
+142 that cannot be reduced. In no way does the net earnings floor prohibit app-based drivers from 
+143 earning a higher level of compensation. 
+144 (b) For each earnings period, a network company shall compare an app-based driver's 
+145 net earnings against the net earnings floor for that app-based driver during the earnings period. In 
+146 the event that the app-based driver's net earnings in the earnings period are less than the net 
+147 earnings floor for that earnings period, the network company shall include an additional sum 
+148 accounting for the difference in the app-based driver's earnings no later than during the next 
+149 earnings period. 
+150 (c) For all earnings periods, the net earnings floor shall be the sum of: 
+151 (i) The product of 120 per cent of the minimum wage and the number of hours of 
+152 engaged time during that earnings period. 
+153 (ii) (A) The product of the per-mile compensation for vehicle expenses set forth in 
+154 this clause and the total number of engaged miles traveled during that earnings period. 
+155 (B) After the effective date of this chapter and for the 2025 calendar year, the per-mile 
+156 compensation for vehicle expenses shall be 28 cents per engaged mile. For calendar years after 
+157 2025, the amount per engaged mile shall be adjusted pursuant to the following subsection (d). 
+158 (d) For calendar years following 2025, the executive office of labor and workforce 
+159 development shall adjust the per-mile compensation amount under subsection (c) annually to 
+10 of 21 
+160 reflect the percentage increase, if any, in the state minimum wage that is set to take effect that 
+161 calendar year. The executive office of labor and workforce development shall calculate and 
+162 publish the adjustments required by this subsection no later than November 30 of the year prior 
+163 to the increase taking effect. The adjusted compensation rates shall take effect on the later of 
+164 January 1 or the sixty-first day following publication. If the executive office of labor and 
+165 workforce development does not publish an increase as required by this subsection, no increase 
+166 in the compensation amounts shall occur. 
+167 (e) Nothing in this section shall be interpreted to require a network company to 
+168 provide a particular amount of compensation to an app-based driver for any given transportation 
+169 or delivery request, as long as the app-based driver's net earnings for each earnings period equals 
+170 or exceeds that app-based driver's net earnings floor for that earnings period as set forth in 
+171 subsection (b) of this section. 
+172 Section 6. Healthcare Stipend. 
+173 (a) Consistent with the average contributions required under the federal Patient 
+174 Protection and Affordable Care Act, Pub. L. 111-148 (March 23, 2010), a network company 
+175 shall provide a quarterly healthcare stipend to app-based drivers who meet the conditions set 
+176 forth in this section. An app-based driver that averages the following amounts of engaged time 
+177 per week on a network company's platform during a quarter that commences on or after January 
+178 1, 2025 shall receive the following stipends from that network company: 
+179 (1) For an average of 25 hours or more per week of engaged time in the quarter, a 
+180 payment greater than or equal to 100 per cent of the average ACA contribution for the applicable 
+181 average monthly Health Connector premium for each month in the quarter. 
+11 of 21 
+182 (2) For an average of at least 15 but less than 25 hours per week of engaged time in 
+183 the quarter, a payment greater than or equal to 50 per cent of the average ACA contribution for 
+184 the applicable average monthly Health Connector premium for each month in the quarter. 
+185 (b) At the end of each earnings period, a network company shall provide to each app-
+186 based driver the following information: 
+187 (1) The total number of hours of engaged time the app-based driver recorded in the 
+188 network company's online-enabled application or platform during that earnings period. 
+189 (2) The number of hours of engaged time the app-based driver has recorded in the 
+190 network company's online-enabled application or platform during the current quarter up.to that 
+191 point. 
+192 (c) The Health Connector may adopt or amend regulations as it deems appropriate to 
+193 implement this section, including to permit app-based drivers receiving stipends pursuant to this 
+194 section to enroll in health plans offered through the Health Connector. 
+195 (d)(l) As a condition of providing the healthcare stipend set forth in subsection (a), a 
+196 network company may require an app-based driver to submit proof of current enrollment in a 
+197 qualifying health plan as of the last day of the quarter for which the stipend would be provided. 
+198 Proof of current enrollment may include, but is not limited to, health insurance membership or 
+199 identification cards, evidence of coverage and disclosure forms from the health plan, or claim 
+200 forms and other documents necessary to submit claims. 
+201 (2) An app-based driver shall have not less than 15 calendar days from the end of the 
+202 quarter to provide proof of enrollment as set forth in paragraph (I) of this subsection. 
+12 of 21 
+203 (3) A network company shall provide a healthcare stipend due for a quarter under 
+204 subsection (a) within I 5 days of the end of the quarter or within 15 days of the app-based driver's 
+205 submission of proof of enrollment as set forth in paragraph (1) of this subsection, whichever is 
+206 later. 
+207 (e) Nothing in this section shall be interpreted to prevent an app-based driver from 
+208 receiving a healthcare stipend from more than one network company for the same quarter. 
+209 (f)(l) On or before 14 days following the effective date of this section, and on or before 
+210 each September 1 thereafter, the Health Connector shall publish the average statewide monthly 
+211 premium paid, or anticipated to be paid, by an individual for the following calendar year for a 
+212 Health Connector bronze tier health insurance plan, or any future successor equivalent plan. 
+213 (2) When computing the average as required by paragraph (1) of this subsection, the 
+214 Health Connector shall divide the total monthly premium paid, or anticipated to be paid, by all 
+215 enrollees in an individual Health Connector bronze tier health insurance plan, or any future 
+216 successor equivalent plan, by the total number of individuals in the commonwealth who are 
+217 enrolled in, or anticipated to be enrolled in, such plans. 
+218 (g) This section shall become inoperative in the event that the United States or the 
+219 commonwealth implements a single-payer universal healthcare system or substantially similar 
+220 system that expands coverage to the recipients of stipends under this section. 
+221 Section 7. Paid Sick Time. Network companies shall provide app-based drivers with 
+222 earned paid sick time as set forth in this section. 
+13 of 21 
+223 (a) "Earned paid sick time", is the time provided by a network company to an app-
+224 based driver as calculated under subsection (c) of this section. For each hour of earned paid sick 
+225 time used by an app-based driver, the network company shall compensate the app-based driver at 
+226 a rate equal to the greater of the following: 
+227 (I) The app-based driver's average hourly earnings, as defined in section 4 of this chapter; 
+228 or 
+229 (2) 120 per cent of the minimum wage. 
+230 (b) An app-based driver shall only use earned paid sick time for the same reasons set 
+231 forth for employees in paragraph (I) through paragraph (4) of subsection (c) of section 148C of 
+232 chapter 149 of the Massachusetts General Laws. 
+233 (c) A network company shall provide a minimum of one hour of earned paid sick 
+234 time for every 30 hours of engaged time recorded on or after the effective date of this section by 
+235 an app-based driver in the network company's online-enabled application or platform. App-based 
+236 drivers shall be entitled to first use accrued earned paid sick time upon recording 90 hours of 
+237 engaged time on the network company's online-enabled application or platform. From that day 
+238 forward, an app- based driver may use earned sick time as it accrues. A contract between a 
+239 network company and an app-based driver may require the app-based driver to use earned paid 
+240 sick time in increments of up to 4 hours. 
+241 (d) App-based drivers may carry over up to 40 hours of unused earned paid sick time 
+242 to the next calendar year, but are not entitled to use more than 40 hours in one calendar year. 
+243 Network companies shall not be required to pay out unused earned paid sick time. If an app-
+244 based driver does not record any engaged time in a network company's online-enabled 
+14 of 21 
+245 application or platform for 365 or more consecutive days or the app-based driver's contract with 
+246 a network company is terminated, any unused earned paid sick time accrued up to that point with 
+247 that network company shall no longer be valid or recognized. 
+248 (e) A network company may require certification when an app-based driver makes a 
+249 request to use more than 24 hours of earned paid sick time in a 72-hour period or when 
+250 reasonably necessary to prevent fraud. Any reasonable documentation signed by a health care 
+251 provider indicating the need for earned paid sick time taken shall be deemed acceptable 
+252 certification for absences. Nothing in this section shall be construed to require an app-based 
+253 driver to provide as certification any information from a health care provider that would be in 
+254 violation of federal law. 
+255 Section 8. Occupational Accident Insurance. 
+256 (a) For the purposes of this section, the following words shall have the following 
+257 meanings:- 
+258 (1) "Average weekly earnings", the app-based driver's total earnings from all network 
+259 companies during the 28 days prior to the accident divided by four. 
+260 (2) "Online", the time when an app-based driver is utilizing a network company's 
+261 online- enabled application or platform and can receive requests for transportation services or 
+262 delivery services from the network company or during engaged time. 
+263 (3) "Maximum weekly compensation rate", has the same meaning as provided in 
+264 section 1 of chapter 152 of the Massachusetts General Laws. 
+15 of 21 
+265 (4) "Minimum weekly compensation rate", has the same meaning as provided in 
+266 section 1 of chapter 152 of the Massachusetts General Laws. 
+267 (b) Each network company, within 240 days of the effective date of this chapter, shall 
+268 purchase occupational accident insurance, as described in this section, for all app-based drivers 
+269 who provide transportation or delivery services through the network company's online-enabled 
+270 application or platform. 
+271 (c) Each network company shall file with the division of insurance, no later than 30 
+272 days after the commencement of a new policy year, a copy of the policy it has purchased for 
+273 DNC couriers and TNC drivers, respectively. The division of insurance shall be treated by the 
+274 insurer as a certificate holder for purposes of receiving notice of cancellation of the policy. 
+275 (d) The occupational accident insurance policy required under subsection (b) shall 
+276 cover medical expenses and lost income resulting from injuries suffered while the app-based 
+277 driver is online with a network company's online-enabled application or platform. Policies shall 
+278 at a minimum include a total combined single limit of $1,000,000 per accident and provide for 
+279 payment of benefits to a covered individual as follows: 
+280 (1) Coverage for medical expenses incurred, up to at least $1,000,000 and for up to 
+281 156 weeks following the injury; 
+282 (2) Continuous total disability payments, temporary total disability payments, and 
+283 partial disability payments for injuries that occur while the app-based driver is online equal to 66 
+284 per cent of the app-based driver's average weekly earnings as of the date of injury but not more 
+285 than the maximum weekly compensation rate, unless the average weekly earnings of the app-
+286 based driver is less than the minimum weekly compensation rate, in which case the weekly 
+16 of 21 
+287 compensation shall be equal to the app-based driver's average weekly earnings. Payments under 
+288 this paragraph shall be made for up to the first 156 weeks following the injury; 
+289 (3) For the benefit of spouses, children, or other dependents of app-based drivers, 
+290 accidental death insurance in the amount equal to 66 per cent of the app-based driver's average 
+291 weekly earnings as of the date of injury but not more than the maximum weekly compensation 
+292 rate, unless the average weekly earnings of the app-based driver is less than the minimum weekly 
+293 compensation rate, in which case the weekly compensation shall be equal to the app-based 
+294 driver's average weekly earnings, times 156 weeks for injuries suffered by an app-based driver 
+295 while the app-based driver is online with the network company's online-enabled application or 
+296 platform that result in death; and 
+297 (4) When injuries suffered by an app-based driver while the app-based driver is 
+298 online result in death, an amount to pay for reasonable burial expenses not to exceed eight times 
+299 the maximum weekly compensation rate. 
+300 (e) Occupational accident insurance under subsection (d) of this section shall not be 
+301 required to cover an accident that occurs while online but outside of engaged time where the 
+302 injured app- based driver is in engaged time on one or more other network company platforms or 
+303 where the app-based driver is engaged in personal activities. If an accident is covered by 
+304 occupational accident insurance maintained by more than one network company, the insurer of 
+305 the network company against whom a claim is filed is entitled to contribution for the pro-rata 
+306 share of coverage attributable to one or more other network companies up to the coverages and 
+307 limits in subsection (d). 
+17 of 21 
+308 (f) Any benefits provided t an app-based driver under this section shall be 
+309 considered amounts payable under an app-based driver's compensation law or disability benefit 
+310 for the purpose of determining amounts payable under any insurance provided under section 
+311 113L of chapter 175 of the Massachusetts General Laws or for personal injury protection, as 
+312 defined in section 34A of chapter 90 of the Massachusetts General Laws. 
+313 SECTION 5 
+314 This act shall take effect on the later of January 1, 2025, or as provided in Article 48 of 
+315 the Amendments to the Massachusetts Constitution, as amended. 
+ 
+ 
+18 of 21 
+FIRST TEN SIGNERS 
+NAME RESIDENCE CITY OR TOWN 
+Charles Dewey Ellison, III 195 West Canton Street, # 2 Boston 
+Abigail Kennedy Horrigan 114 Eastern Avenue Woburn 
+Brian Gitschier 58 East Springfield Street, # 2 Boston 
+Daniel A. Svirsky 248 School Street Watertown 
+Sean A. Rogers 9 Atkins Street, # 1 Boston 
+Caitlin Donovan 16 Fox Run Road Dover 
+Brendan M. Joyce 79 Breakneck Road Sturbridge 
+Troy B. McHenry 402 Ashmont Street, # 1 Boston 
+Kimberly Ann Ahern 15 Pond Street Boston 
+Christina M. Ellis-Hibbett 563 Ashmont Street Boston 
+ 
+ 
+19 of 21 
+CERTIFICATE OF THE ATTORNEY GENERAL. 
+ 
+ 
+September 6, 2023 
+ 
+ 
+ 
+Honorable William Francis Galvin 
+Secretary of the Commonwealth 
+One Ashburton Place, Room 1705 
+Boston, Massachusetts 02108 
+ 
+Re: Initiative Petition No. 23-31: Initiative Petition for A Law Establishing that 
+App-Based Drivers are not Employees, and Network Companies are not 
+Employers, for Certain Purposes of the General Laws – Version H 
+ 
+Dear Secretary Galvin: 
+ 
+In accordance with the provisions of Article 48 of the Amendments to the 
+Massachusetts Constitution, I have reviewed the above-referenced initiative 
+petition, which was submitted to me on or before the first Wednesday of August 
+of this year. 
+ 
+I hereby certify that this measure is in proper form for submission to the people; 
+that the measure is not, either affirmatively or negatively, substantially the same 
+as any measure which has been qualified for submission or submitted to the 
+people at either of the two preceding biennial state elections; and that it contains 
+only subjects that are related or are mutually dependent and which are not 
+excluded from the initiative process pursuant to Article 48, the Initiative, Part 2, 
+Section 2. 
+ 
+In accordance with Article 48, I enclose a fair, concise summary of the measure. 
+ 
+ 
+Sincerely, 
+ 
+ANDREA JOY CAMPBELL, 
+Attorney General. 
+ 
+ 
+ 
+Enclosure 
+ 
+20 of 21 
+Summary of 23-31. 
+ 
+This proposed law would specify that rideshare and delivery drivers who accept requests 
+through an online-enabled application are not “employees” for purposes of certain Massachusetts 
+laws regarding workplace conditions, minimum wages, unemployment insurance, and workers’ 
+compensation. This proposed law would also specify that rideshare and delivery companies are 
+not “employers” for purposes of those laws. This proposed law would also specify alternative 
+minimum compensation and benefits for rideshare and delivery drivers. 
+The proposed law would apply to drivers for rideshare and delivery companies who use 
+digital applications and who are (1) not required to work specific days or hours; (2) not required 
+to accept specific requests; (3) not restricted from working with multiple rideshare or delivery 
+companies; and (4) not restricted from working in any other lawful occupation or business. 
+The proposed law would require rideshare and delivery companies to provide drivers with 
+a guaranteed amount of minimum compensation, equal to 120 percent of the Massachusetts 
+minimum wage, for time spent completing requests for transportation or delivery, plus a per-mile 
+amount for each mile driven in a privately-owned vehicle while completing a request. The per-
+mile amount would start at 28 cents and be adjusted yearly to increase by any percentage increase 
+made to the Massachusetts minimum wage. The minimum compensation calculation would 
+exclude time spent by a driver between completing one request and accepting another request. A 
+driver whose earnings, not including tips and gratuities, fall below the minimum compensation 
+amount would be paid the difference to be brought up to the minimum compensation amount. 
+The proposed law would require rideshare and delivery companies to provide some drivers 
+with a healthcare stipend. Drivers who average 25 hours or more per week completing requests for 
+21 of 21 
+transportation or delivery services with a company would receive a full stipend for an average 
+individual plan offered through the Health Connector, and drivers who average between 15 and 25 
+hours per week completing requests for transportation or delivery services with a company would 
+receive a 50 percent stipend. 
+The proposed law would require rideshare and delivery companies to provide drivers with 
+a minimum of one hour of paid sick time for every 30 hours spent completing requests for 
+transportation or delivery services with that company. 
+The proposed law would require rideshare and delivery companies to purchase accident 
+insurance to provide some disability and medical benefits for drivers who are injured or killed 
+while online with the company’s application or platform. 
+The proposed law would prohibit rideshare and delivery companies from terminating the 
+contract of a driver, or refusing to contract with a driver, based on race, sex, sexual orientation, or 
+other protected characteristics unless based upon a bona fide occupational qualification or a safety 
+need. Companies would be required to provide a driver who is terminated with an opportunity to 
+appeal the termination with the network company. 
+The proposed law would take effect on January 1, 2025.

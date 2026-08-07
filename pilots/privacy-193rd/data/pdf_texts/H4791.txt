@@ -1,0 +1,396 @@
+1 of 16 
+HOUSE . . . . . . . No. 4791 
+ 
+The Commonwealth of Massachusetts 
+______________________________________ 
+ 
+ HOUSE OF REPRESENTATIVES, June 25, 2024. 
+ 
+The committee on Ways and Means, to whom was referred the Bill 
+relative to municipal tax lien procedures and protections for property 
+owners in the Commonwealth (House, No. 4624), reports recommending 
+that the same ought to pass with an amendment substituting therefor the 
+accompanying bill (House, No. 4791). 
+ 
+For the committee, 
+ 
+AARON MICHLEWITZ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 of 16 
+ FILED ON: 6/25/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4791 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act relative to municipal tax lien procedures and protections for property owners in the 
+Commonwealth. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1 SECTION 1. Section 1 of chapter 60 of the General Laws, as appearing in the 2022 
+2 Official Edition, is hereby amended by inserting after the definition of “Collector” the following 
+3 definition:- 
+4 “Excess equity”, any remaining surplus amount above the taxes, interest, fees and 
+5 charges of keeping, as reflected in the tax title account balance as of the date of the foreclosure 
+6 judgment and the fees, expenses, charges and costs actually and reasonably incurred in selling or 
+7 appraising the property in accordance with section 64A following a final judgment of 
+8 foreclosure. Where the property is sold in accordance with section 64A, the excess equity shall 
+9 be determined by deducting from the gross sale proceeds the tax title balance as of the date of the 
+10 foreclosure judgment, any unpaid property tax, assessments for unpaid water and sewer charges 
+11 and property insurance accruing from the date of foreclosure and any documented post-judgment 
+12 costs incurred by the judgment holder from the maintenance, notice and sale of the property, 
+13 including, but not limited to, broker and real estate agent fees or commissions, listing fees, 
+3 of 16 
+14 marketing and advertising costs, legal fees, litigation fees and costs, closing costs, transfer fees, 
+15 auctioneer fees, notice to property owner, appraisal fees and costs, publication costs, emergency 
+16 demolition, environmental and other fees, charges or costs directly related to the marketing and 
+17 sale of the property. Where the property is retained by the judgment holder in accordance with 
+18 said section 64A, the excess equity shall be determined by deducting the tax title account balance 
+19 as of the date of the foreclosure judgment and any documented post-judgment costs of appraisal 
+20 incurred by the judgment holder from the appraised highest and best use value of the property as 
+21 of the date of the final judgment of foreclosure. 
+22 SECTION 2. Subsection (c) of section 2C of said chapter 60, as so appearing, is hereby 
+23 amended by striking out paragraph (9) and inserting in place thereof the following paragraph:- 
+24 (9) A purchaser owning any tax receivable shall give notice to a taxpayer and to the 
+25 appropriate municipality, within 12 business days of purchasing said tax receivable. The notice 
+26 shall have the name, address, telephone number and preferred method of communication with 
+27 said purchaser and any service agent acting on behalf of said purchaser. Whenever the purchaser 
+28 or the service agent of such tax receivables shall change, the new purchaser or service agent shall 
+29 provide the notice required herein within 12 business days of the effective date of such change. 
+30 Where the land is class one, residential property, as defined in section 2A of chapter 59, such 
+31 notice shall: (i) be mailed by certified mail and addressed to the taxpayer at their last known 
+32 residence and usual place of abode, or place of business; (ii) be posted upon the class one, 
+33 residential property; (iii) be posted in a convenient and public place; and (v) include a uniform 
+34 notice prepared by the commissioner of revenue, in language understandable by a least 
+35 sophisticated consumer, together with a notice in the 7 most common languages in the 
+4 of 16 
+36 commonwealth that this notice affects important legal rights and should be translated 
+37 immediately, and such notice shall state: 
+38 (i) that a complaint to foreclose the tax title may be filed on or after a specific date; 
+39 (ii) that the tax title has been sold to a purchaser of tax receivables; 
+40 (iii) why the property was taken, and that the owner may redeem the property up until the 
+41 property is foreclosed by a judgment issued on a proceeding before the land court; 
+42 (iv) the components of the amount as of the date of the notice, subject to accumulating 
+43 taxes, fees and charges, required to redeem the property and the procedure for redemption; 
+44 (v) that if a complaint to foreclose the tax title is filed and the owner does not respond by 
+45 filing an answer, the court may enter an order defaulting the owner; 
+46 (vi) that if a complaint to foreclose the tax title is filed, the owner may respond by filing 
+47 an answer that requests that the court set the terms by which the owner may redeem the property; 
+48 (vii) that if the property is not redeemed, the purchaser is entitled to receive a judgment 
+49 from the land court that transfers title to the property to the town or purchaser and permanently 
+50 eliminates any title rights the owner has in the property; and 
+51 (viii) that following a foreclosure of the property, the former owner shall be entitled to 
+52 any excess equity in the property, pursuant to section 64A. 
+53 SECTION 3. Said chapter 60 is hereby further amended by striking out section 16 and 
+54 inserting in place thereof the following section:- 
+5 of 16 
+55 Section 16. The collector shall, before selling the land of a resident or non-resident, 
+56 distraining the goods of any person, or arresting them for the tax, serve on the person a statement 
+57 of the amount thereof with a demand for its payment. If 2 or more parcels of land are assessed in 
+58 the name of a resident or non-resident, the statement of the aggregate amount of the taxes 
+59 thereon may be made in 1 demand. Such demand may also include taxes due on account of 
+60 tangible personal property and any motor vehicle excise tax. If the heirs of a deceased person, 
+61 co-partners or 2 or more persons are jointly assessed, service need be made on only 1 of them. 
+62 Such demand for the tax upon land may be made upon the person occupying the same on 
+63 January 1 of the year in which the tax is assessed. No demand need be made on a mortgagee, 
+64 unless the mortgagee has given notice under section 38, in which case no demand need be made 
+65 on the owner or occupant. Demand shall be made by the collector by mailing the same to the 
+66 taxpayer by certified mail that is addressed to them at their last known residence and usual place 
+67 of abode, or place of business, or to the address best known by the collector, and failure to 
+68 receive the same shall not invalidate a tax or any proceedings for the enforcement or collection 
+69 of the same; provided, that if the land is class one, residential property, as defined in section 2A 
+70 of chapter 59, the demand shall include a uniform notice prepared by the department of revenue, 
+71 in language understandable by a least sophisticated consumer, together with a notice in the 7 
+72 most common languages in the commonwealth that this notice affects important legal rights and 
+73 should be translated immediately, and providing clear notice that the non-payment of property 
+74 taxes can result in the taking of the property and that the property owner may be eligible for 
+75 exemptions, abatements and tax deferrals and other assistance, and should contact the collector 
+76 of taxes office, together with the address, telephone number, email address, if available, and 
+77 internet address for further information. 
+6 of 16 
+78 SECTION 4. Section 25 of said chapter 60, as appearing in the 2022 Official Edition, is 
+79 hereby amended by adding the following sentence:- The notice posted shall be prepared by the 
+80 department of revenue, in language understandable by a least sophisticated consumer, together 
+81 with a notice in the 7 most common languages in the commonwealth that this notice affects 
+82 important legal rights and should be translated immediately. 
+83 SECTION 5. Section 52 of said chapter 60, as so appearing, is hereby amended by 
+84 inserting after the third sentence the following 2 sentences:- Where the land is class one, 
+85 residential property, as defined in section 2A of chapter 59, such notice shall: (i) be mailed by 
+86 certified mail and addressed to the taxpayer at their last known residence and usual place of 
+87 abode, or place of business; (ii) be posted upon the class one, residential property; (iii) be posted 
+88 in a convenient and public place; and (iv) include a uniform notice prepared by the department of 
+89 revenue, in language understandable by a least sophisticated consumer, together with a notice in 
+90 the 7 most common languages in the commonwealth, that this notice affects important legal 
+91 rights and should be translated immediately. The notice shall state that the treasurer intends to 
+92 sell the tax title to the owner’s property, that the non-payment of property taxes may result in the 
+93 loss of the property, and that the property owner may be eligible for exemptions, abatements, and 
+94 tax deferrals and other assistance, and should contact the office of the collector of taxes, together 
+95 with the telephone number, email address, if available, and internet address for further 
+96 information. 
+97 SECTION 6. Section 53 of said chapter 60, as so appearing, is hereby amended by 
+98 inserting, in line 7, after the word “forty”, the following words:- ; provided, that where the land 
+99 is class one, residential property, as defined in section 2A of chapter 59, such notice shall be 
+100 mailed by certified mail and addressed to the taxpayer at their last known residence and usual 
+7 of 16 
+101 place of abode or place of business; and such notice shall be posted upon the class one, 
+102 residential property and published on the town or city website, any properties not class one, 
+103 residential. 
+104 SECTION 7. Said section 53 of said chapter 60, as so appearing, is hereby further 
+105 amended by adding the following sentence:- The notice posted shall be prepared by the 
+106 department of revenue, in language understandable by a least sophisticated consumer, together 
+107 with a notice in the 7 most common languages in the commonwealth, that this notice affects 
+108 important legal rights and should be translated immediately. 
+109 SECTION 8. Said section 53 of said chapter 60, as so appearing, is hereby further 
+110 amended by adding the following paragraph:- 
+111 Where the land is class one, residential property, as defined in section 2A of chapter 59, 
+112 all notices sent pursuant to this section shall include a uniform notice prepared by the department 
+113 of revenue, together with a notice in the 7 most common languages in the commonwealth that 
+114 this notice affects important legal rights and should be translated immediately. Such notice shall 
+115 state in language understandable by a least sophisticated consumer: 
+116 (i) what taxes or other municipal costs remain unpaid; 
+117 (ii) the taxpayer’s right to redeem full ownership of the property, and the components of 
+118 the amount required to redeem the property; 
+119 (iii) that a complaint to foreclose the tax title may be filed on or after a specific date; 
+120 (iv) that the tax title may be sold to a purchaser of tax receivables; 
+8 of 16 
+121 (v) that if a complaint to foreclose the tax title is filed and the owner does not respond by 
+122 filing an answer, the court may enter an order defaulting the owner; 
+123 (vi) that if a complaint to foreclose the tax title is filed, the owner may respond by filing 
+124 an answer that requests that the court set the terms by which the owner may redeem the property; 
+125 (vii) that if the property is not redeemed, the town or purchaser is entitled to receive a 
+126 judgment from the land court that transfers title of the property to the town or purchaser and 
+127 permanently eliminates any title rights the owner has in the property; and 
+128 (viii) that following a foreclosure of the property, the former owner shall be entitled to 
+129 any excess equity in the property, pursuant to section 64A. 
+130 SECTION 9. Section 62A of said chapter 60, as so appearing, is hereby amended by 
+131 striking out, in line 4, the figure “5” and inserting in place thereof the following figure:- 10. 
+132 SECTION 10. Said section 62A of said chapter 60, as so appearing, is hereby further 
+133 amended by striking out, in line 12, the figure “25” and inserting in place thereof the following 
+134 figure:- 10. 
+135 SECTION 11. Said chapter 60 is hereby further amended by striking out section 64 and 
+136 inserting in place thereof the following 2 sections:- 
+137 Section 64. The land court shall have exclusive jurisdiction of the foreclosure of all rights 
+138 of redemption from titles conveyed by a tax collector’s deed or a taking of land for taxes, in a 
+139 proceeding provided for in sections 65 to 75, inclusive. The title conveyed by a tax collector’s 
+140 deed or by a taking of land for taxes shall be absolute after foreclosure of the right of redemption 
+141 by judgment of the land court as provided in this chapter; provided, however, that the entry by 
+9 of 16 
+142 the land court of a judgment of foreclosure of the right of redemption shall not impair or limit the 
+143 right of the owner of the land at the time of foreclosure, and of those holding an interest in the 
+144 land at the time of foreclosure, and their heirs, successors and assigns, to receive any excess 
+145 equity and subject to the requirements of section 64A. Any sale or retention of property by a 
+146 municipality or other foreclosing entity pursuant to this chapter, shall be subject to the duties and 
+147 requirements set forth in said section 64A. 
+148 Section 64A. (a) This section shall apply to every sale or retention of property by a 
+149 municipality or a purchaser of tax receivables following a final judgment of the land court 
+150 foreclosing the right of redemption. Within 14 days of entry of judgment foreclosing the right of 
+151 redemption becoming final, with either no appeal having been taken within the applicable time 
+152 limit, or any appeal taken having resulted in the entry of judgment pursuant to the rescript of the 
+153 supreme judicial court or appeals court, the judgment holder shall elect either to: (i) retain 
+154 possession of the property; or (ii) sell the property. The judgment holder shall notify the former 
+155 owners of the property and all others known to hold the right of redemption in the property at the 
+156 time judgment entered of the petitioner’s election by mailing notice of the judgment holder’s 
+157 election and the rights and procedures for claiming excess equity set forth in this section, by 
+158 certified mail, to their last known address or place of business. 
+159 (b) If selling the property, the judgment holder shall market the property for sale within 
+160 120 days of the final judgment of the land court, unless a later date is agreed to by the judgment 
+161 holder and any party entitled to claim excess equity under this section. If, after 12 months from 
+162 the date the property was marketed for sale, the foreclosed property has not sold, the judgment 
+163 holder may sell the foreclosed property to the highest bidder by public auction. If the property is 
+164 to be retained, rather than sold, the judgment holder shall have the property appraised, as set 
+10 of 16 
+165 forth in this section, within 120 days of the final judgment of the land court, unless a later date is 
+166 agreed to by the judgment holder and any party entitled to claim excess equity under this section. 
+167 (c)(1) Where a property is retained rather than sold by the judgment holder, the judgment 
+168 holder shall have the property appraised for its highest and best use. The appraisal shall be 
+169 performed by a licensed appraiser in the commonwealth. The appraised highest and best use 
+170 value of the property as of the date of the final judgment of foreclosure shall be used to establish 
+171 the amount of excess equity above the taxes, interest, fees, and charges of keeping accrued 
+172 before foreclosure, as well as any post-foreclosure charges permitted under this chapter. Such 
+173 excess equity shall be paid to any party who makes a valid claim for excess equity as set forth in 
+174 this section. 
+175 (2) A property shall not be considered retained by a judgment holder that has elected to 
+176 sell the property and who, in good faith, has tried to sell a foreclosed property without success, 
+177 pursuant to the requirements set forth in this section. When the property has not been sold within 
+178 1 year of being marketed for sale, the judgment holder shall notify any party entitled to claim 
+179 excess equity of their intention to continue the sale to another date and not to retain the property. 
+180 Such notice shall be mailed, by certified mail, to any party entitled to claim excess equity, or 
+181 their successors in interest, to their last known address or place of business. In each successive 
+182 year after the first attempt at sale, the judgment holder shall use reasonable best efforts to market 
+183 the property for sale. If no sale is completed within 5 years from the date of the attempted first 
+184 sale of said property, the property is considered retained and the excess equity shall be 
+185 determined in accordance with the appraisal provisions set forth in this section. 
+11 of 16 
+186 (d)(1) Upon a sale or appraisal of the property, the judgment holder shall prepare a 
+187 written itemized accounting setting forth, as appropriate, the disposition of the proceeds arising 
+188 from the sale, including without limitation the sale price, legal fees, marketing fees, auctioneer 
+189 fees, advertising costs, appraisal fees and any excess equity due to any party entitled to claim 
+190 excess equity, or their successors in interest, as set forth in this section. Such written itemized 
+191 accounting shall be mailed by certified mail, to the former owners’ last known address or place 
+192 of business, or to the former owners’ personal representative, within 30 days of the sale of the 
+193 property, or within 30 days of receipt of the appraisal of the property where it is retained rather 
+194 than sold, as set forth in this section. The judgment holder shall pay the former owners or their 
+195 personal representative the amount of the excess equity as set forth in the itemized accounting 
+196 within 60 days following the sale or retention of the property. Where there are multiple former 
+197 owners or multiple personal representatives, or a combination thereof, the judgment holder shall 
+198 pay excess equity to each former owner or personal representative in proportion to their 
+199 ownership interest in the property at the time of the judgment of foreclosure. Liability of the 
+200 judgment holder to pay excess equity to any other claimants ceases upon disbursement of the 
+201 excess equity amount paid to the former owner or their personal representative under the terms 
+202 of this paragraph. 
+203 (2) Any excess equity shall be held in escrow by the judgment holder in a segregated 
+204 interest-bearing account in which all excess equity funds from all foreclosures are deposited and 
+205 separately accounted for on the books and records of the municipality until such time as it is paid 
+206 to a former owner or their personal representative. 
+207 (3) Excess equity plus any accrued interest shall be paid to the claimants within 90 days 
+208 of the receipt of the written claim, unless a different time is agreed to by the claimant and 
+12 of 16 
+209 judgment holder, or unless a dispute arises and such dispute is brought before the superior court, 
+210 in which case any excess equity plus accrued interest shall continue to be held in such segregated 
+211 interest-bearing account and paid only in accordance with the court’s order. 
+212 (e) If a dispute arises between or among the judgment holder and any former owners or 
+213 their personal representative, including, but not limited to disputes regarding the valuation of the 
+214 property, the sale process, the amount of excess equity, its distribution, or any other aspect of this 
+215 section, any such party may seek a determination of the dispute by filing a written complaint in 
+216 the superior court. Any such complaint shall be filed within 12 months of the date of the notice 
+217 of written itemized accounting following sale or appraisal of the property, pursuant to this 
+218 section. Process shall issue and service be made in accordance with the Massachusetts Rules of 
+219 Civil Procedure. All matters pertaining to the litigation shall be heard by the superior court 
+220 department. 
+221 (f) A former owner or other previous holder of the right of redemption of property, or 
+222 their successors in interest, whose right of redemption was foreclosed upon by a final judgment 
+223 of foreclosure entered on or after May 25, 2023, but before the date of the passage of this act, 
+224 may file a written complaint in the superior court for the return of excess equity in accordance 
+225 with this section, within 12 months of the date of the passage of this act. No claim for the return 
+226 of excess equity may be asserted by any party where a land court judgment of foreclosure was 
+227 entered, and not appealed, on or before May 24, 2023. 
+228 SECTION 12. Said chapter 60 is hereby further amended by striking out section 69A and 
+229 inserting in place thereof the following section:- 
+13 of 16 
+230 Section 69A. (a) The land court may, in its discretion, grant a motion to vacate a decree 
+231 of foreclosure brought by any interested person other than the petitioner under section 65 within 
+232 1 year after the final entry of the decree only if: (i) the property has not been sold to an innocent 
+233 purchaser for value; or (ii) no claim for excess equity has been paid pursuant to section 64A, 
+234 unless in either case the court makes appropriate equitable orders to protect the rights of the 
+235 purchaser of the property or the payor of the excess equity. If said foreclosure petition was filed 
+236 for an unoccupied or abandoned building as set forth in sections 1 and 81A, or there has been a 
+237 certification pursuant to section 81B that the redemption amount as determined pursuant to 
+238 section 62 exceeds the assessed value of the parcel, no petition to vacate a decree of foreclosure 
+239 entered under section 69 and no proceedings at law or equity for reversing or modifying such a 
+240 decree shall be commenced by any person other than the petitioner except within 90 calendar 
+241 days after the final entry of the decree, or within 1 year of the final entry of the decree, if the 
+242 decree was entered prior to the effective date of this section. For any decree relating to a property 
+243 for which record title stands in the name of a deceased person or person under guardianship or 
+244 conservatorship, a petition may be maintained for reversal or modification of such decree up to 1 
+245 year from the date of decree. 
+246 (b) No motion to vacate a decree of foreclosure and no proceeding at law or in equity for 
+247 reversing or modifying such a decree shall be commenced by any person other than the petitioner 
+248 under section 65 after 1 year, except upon a showing that the moving party’s due process rights 
+249 have been violated. 
+250 (c) If a decree of foreclosure is vacated pursuant to this section, all rights and obligations 
+251 set forth in section 64A shall be suspended, and any proceedings instituted in the superior court 
+252 regarding excess equity shall be dismissed. 
+14 of 16 
+253 SECTION 13. Section 75 of said chapter 60, as appearing in the 2022 Official Edition, is 
+254 hereby amended by adding the following sentence:- The notices shall be prepared by the 
+255 department of revenue, in language understandable by a least sophisticated consumer, together 
+256 with a notice in the 7 most common languages in the commonwealth, that this notice affects 
+257 important legal rights and should be translated immediately. 
+258 SECTION 14. The second paragraph of section 77B of said chapter 60, as so appearing, 
+259 is hereby amended by inserting, after the second sentence, the following sentence:- The notice 
+260 shall also include the affirmative statement that the custodian shall, following a completed sale, 
+261 provide to such owner a written notice containing an itemized accounting of the disposition of 
+262 the proceeds arising from the sale, including the sale price, legal fees, auctioneer fees and 
+263 advertising costs, other fees, and any excess equity due to the owner, within 30 days after the 
+264 receipt of such funds. 
+265 SECTION 15. Said section 77B of said chapter 60, as so appearing, is hereby further 
+266 amended by inserting, in line 36, after the word “law” the following words:- , so long as the 
+267 accounting provisions of this section and section 64A are satisfied. 
+268 SECTION 16. Said section 77B of said chapter 60, as so appearing, is hereby further 
+269 amended by striking out paragraph (4). 
+270 SECTION 17. (a) There is hereby established a special commission to conduct a 
+271 comprehensive study relative to current law and practice around the collection of delinquent 
+272 property tax revenue by cities and towns in the commonwealth. 
+273 (b) The commission shall consist of the chairs of the joint committee on revenue or their 
+274 designees, who shall serve as co-chairs of the commission; the commissioner of the department 
+15 of 16 
+275 of revenue or a designee; the chief justice of the land court or a designee; the chief justice of the 
+276 superior court or a designee; 1 member who shall be appointed by the president of the senate; 1 
+277 member who shall be appointed by the speaker of the house of representatives; 1 member who 
+278 shall be appointed by the house minority leader; 1 member who shall be appointed by the senate 
+279 minority leader; 1 member who shall be appointed by the governor; a representative of the office 
+280 of the attorney general; a representative of the Massachusetts Municipal Association, Inc.; a 
+281 representative of the Massachusetts Collectors and Treasurers Association, Inc.; a representative 
+282 of third-party purchasers of tax-receivables; and a representative on property owners’ rights. 
+283 (b) The commission shall file a report that shall include, but not be limited to: 
+284 (i) an examination and assessment of the current local property tax collection processes, 
+285 including property owner notification and communication, property tax deferral options, or 
+286 exemptions that exist for special classes, third-party investor and any subsequent foreclosure 
+287 proceedings; 
+288 (ii) an examination of the role of purchasers of tax receivables, including third-party 
+289 purchasers of tax receivables, on the collection of delinquent property tax revenue, and any 
+290 recommended changes to said practice; 
+291 (iii) recommended changes to the current statutory interest rate for delinquent property 
+292 taxes, if any, and the effect said changes would have on municipal operations and finances; 
+293 (iv) an examination of the revenue impact on cities and towns from former owners 
+294 seeking to recover lost equity to which they may be entitled following the United States Supreme 
+295 Court ruling in Tyler v. Hennepin County; 
+16 of 16 
+296 (v) recommended changes to the statute of limitations for such claims, if any; 
+297 (vi) the collection and analysis of data, which may include the number of foreclosures of 
+298 properties following a tax taking which resulted in the loss of excess equity by former property 
+299 owners for the 3 years preceding the Supreme Court ruling in Tyler v. Hennepin County; 
+300 (vii) best practices in other states; and 
+301 (viii) any other recommendations that the commission finds to be in the interest of 
+302 property owners and municipalities in the commonwealth. 
+303 (c) The commission shall file its final report and its recommendations for legislation with 
+304 the clerks of the house of representatives and the senate, the joint committee on revenue, and the 
+305 house and senate committee on ways and means, not later than December 31, 2025. 
+306 SECTION 18. To uphold the language access and inclusion notice requirements, pursuant 
+307 to sections 2 to 5, inclusive, and sections 7, 8 and 14, the department of revenue shall evaluate 
+308 every 10 years the 7 most common languages of the commonwealth utilizing the most recent 
+309 data from the decennial federal census. The department shall update and prepare notices in 
+310 language understandable by a least sophisticated consumer and the 7 most common languages in 
+311 the commonwealth, as established by the most recent census data. 
+312 SECTION 19. The department of revenue shall prepare the notices required by this act in 
+313 language understandable by a least sophisticated consumer consistent with the standard for 
+314 evaluating truth and deception under the federal Fair Debt Collection Practices Act, 15 U.S.C. 
+315 Section 1692 et seq., as summarized in Jeter v. Credit Bureau, Inc., 760 F.2d 1168 (11th Cir. 
+316 1985).

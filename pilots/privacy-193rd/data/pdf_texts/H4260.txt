@@ -1,0 +1,222 @@
+Corrected line numbers 
+1 of 7 
+HOUSE . . . . . . . . . . . . . . . No. 4260 
+ 
+ 
+The Commonwealth of Massachusetts 
+—————— 
+ 
+INITIATIVE PETITION OF CHARLES DEWEY ELLISON, III AND 
+OTHERS. 
+ 
+ 
+ 
+ OFFICE OF THE SECRETARY. 
+ 
+ BOSTON, JANUARY 16, 2024. 
+ 
+Steven T. James 
+Clerk of the House of Representatives 
+State House 
+Boston, Massachusetts 02133 
+ 
+ 
+Sir: — I herewith transmit to you, in accordance with the requirements of 
+Article XLVIII of the Amendments to the Constitution an initiative petition for 
+“A Law Establishing that App-Based Drivers are not Employees, and Network 
+Companies are not Employers, for Certain Purposes of the General Laws,” 
+signed by ten qualified voters and filed with this department on or before 
+December 6, 2023, together with additional signatures of qualified voters in the 
+number of 90,112, being a sufficient number to comply with the Provisions of 
+said Article. 
+ 
+ 
+ Sincerely, 
+ 
+WILLIAM FRANCIS GALVIN 
+Secretary of the Commonwealth. 
+ 
+ 
+ 
+ 
+ 
+ 
+AN INITIATIVE PETITION. 
+ 
+ Pursuant to Article XLVIII of the Amendments to the Constitution of the 
+Commonwealth, as amended, the undersigned qualified voters of the 
+Commonwealth, ten in number at least, hereby petition for the enactment into 
+law of the following measure: 
+ 
+ Corrected line numbers 
+2 of 7 
+ 
+ FILED ON: 1/18/2024 
+HOUSE . . . . . . . . . . . . . . . No. 4260 
+ 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act Establishing that App-Based Drivers Are Not Employees, and Network Companies Are Not Employers, for 
+Certain Purposes of the General Laws. 
+ 
+ Be it enacted by the People, and by their authority, as follows: 
+ 
+1 SECTION 1. The purpose of this Act is to clarify that app-based drivers are not employees, and network 
+2 companies are not employers, for certain purposes of the General Laws, guaranteeing app-based drivers the freedom 
+3 and flexibility to choose when, where, how, and for whom they work. 
+4 SECTION 2. Section 148B of chapter 149 of the General Laws is hereby amended by inserting after 
+5 subsection (e) the following subsection: 
+6 (f) Notwithstanding subsection (a), for the purpose of this chapter and chapter 151, an app-based driver, as 
+7 defined in chapter 159AA, shall not be an employee under those chapters. 
+8 SECTION 3. Section 6 of chapter 151A of the General Laws is hereby amended by inserting after 
+9 subsection (x) the following subsection: (y) Service performed by an app-based driver, as defined in chapter 159AA. 
+10 SECTION 4. Subsection (4) of section 1 of chapter 152 of the General Laws is hereby amended by striking 
+11 out the words "and (g)" and inserting in place thereof the following words:- (g) a person who is an app-based driver, 
+12 as defined in chapter 159AA, and (h) 
+13 SECTION 5. The General Laws are hereby amended by inserting after chapter 159Al/2 the following 
+14 chapter: 
+15 Chapter 159AA 
+16 Section 1. Title. This chapter shall be known as the "App-Based Drivers Classification Act." 
+17 Section 2. Definitions. For the purposes of this chapter, the following words shall have the following 
+18 meanings: 
+ Corrected line numbers 
+3 of 7 
+19 "App-based driver" a person who is a DNC courier, a TNC driver, or both, who has a contract with a 
+20 network company, and for whom the following requirements are met 
+21 (a) the network company does not unilaterally prescribe specific dates, times of day, or a minimum number 
+22 of hours during which the app-based driver must be logged into the network company's online-enabled application 
+23 or platform; 
+24 (b) the network company may not terminate the contract of the app-based driver for not accepting a 
+25 specific transportation service or delivery service request except where refusal constitutes a violation of governing 
+26 federal, state, or local laws or regulations; 
+27 (c) the network company does not restrict the app-based driver from performing services through 
+28 other network companies except while performing services through the network company's online-enabled 
+29 application or platform; and 
+30 (d) the network company does not contractually restrict the app-based driver from working in any 
+31 other lawful occupation or business. 
+32 "Contract", a written agreement, which may be electronic, between an app-based driver and a network 
+33 company. 
+34 "Delivery network company" or "DNC", a business entity that maintains an online-enabled application or 
+35 platform used to facilitate delivery services within the Commonwealth. 
+36 "Delivery network company courier" or "DNC courier", a person who provides delivery services through a 
+37 DNC's online-enabled application or platform. 
+38 "Delivery services", the fulfillment of a delivery request, meaning the pickup from any location in the 
+39 Commonwealth of any item or items and the delivery of the items using a private passenger motor vehicle, bicycle, 
+40 electric bicycle, motorized bicycle, scooter, motorized scooter, walking, public transportation, or other similar 
+41 means of transportation, to a location selected by the customer located within 50 miles of the pickup location. A 
+42 delivery request may include more than 1, but not more than 30, distinct orders placed by different customers. 
+43 Delivery services may include the selection, collection, or purchase of items by a DNC courier, as well as other 
+44 tasks incident to a delivery. Delivery services do not include assistance with residential moving services. 
+45 "Network company", a business entity operating as: 
+46 (a) a delivery network company; 
+ Corrected line numbers 
+4 of 7 
+47 (b) a transportation network company; or 
+48 (c) both. 
+49 "Person", shall have the same definition as provided in clause twenty-third of section 7 of chapter 4 of the 
+50 Massachusetts General Laws. 
+51 "Private passenger motor vehicle", any passenger vehicle which has a vehicle weight rating or curb weight 
+52 of 6,000 lbs. or less as per manufacturer's description of said vehicle or is a sport utility vehicle, passenger van, or 
+53 pickup truck. 
+54 "Transportation network company" or "TNC", shall have the same meaning as provided in section 1 of 
+55 chapter 159Al/2 of the Massachusetts General Laws. 
+56 "Transportation network company driver" or "TNC driver", a Transportation network driver, as defined in 
+57 section 1 of chapter 159A1/2 of the Massachusetts General Laws, that provides transportation services, or a person 
+58 operating a livery vehicle as defined in 540 CMR 2.00 on a TNC's digital network, as defined in section 1 of chapter 
+59 159A1/2. 
+60 "Transportation services", the provision of transportation facilitated by the digital network, as defined in 
+61 section 1 of chapter 159A1/2 of the Massachusetts General Laws, of a TNC for which the pickup of the passenger 
+62 occurs in the Commonwealth. 
+63 SECTION 6. This act shall take effect as provided in Article 48 of the Amendments to the Massachusetts 
+64 Constitution, as amended. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Corrected line numbers 
+5 of 7 
+FIRST TEN SIGNERS 
+NAME RESIDENCE CITY OR TOWN 
+Charles Dewey Ellison, III 195 West Canton Street, # 2 Boston 
+Abigail Kennedy Horrigan 114 Eastern Avenue Woburn 
+Brian Gitschier 58 East Springfield Street, # 2 Boston 
+Daniel A. Svirsky 248 School Street Watertown 
+Sean A. Rogers 9 Atkins Street, # 1 Boston 
+Caitlin Donovan 16 Fox Run Road Dover 
+Brendan M. Joyce 79 Breakneck Road Sturbridge 
+Troy B. McHenry 402 Ashmont Street, # 1 Boston 
+Kimberly Ann Ahern 15 Pond Street Boston 
+Christina M. Ellis-Hibbett 563 Ashmont Street Boston 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Corrected line numbers 
+6 of 7 
+CERTIFICATE OF THE ATTORNEY GENERAL. 
+ 
+Honorable William Francis Galvin 
+Secretary of the Commonwealth 
+One Ashburton Place, Room 1705 
+Boston, Massachusetts 02108 
+ 
+RE: Initiative Petition No. 23-32: Initiative Petition for A Law Establishing 
+that App-Based Drivers are not Employees, and Network Companies are not 
+Employers, for Certain Purposes of the General Laws – Version I 
+ 
+Dear Secretary Galvin: 
+ 
+In accordance with the provisions of Article 48 of the Amendments to 
+the Massachusetts Constitution, I have reviewed the above-referenced 
+initiative petition, which was submitted to me on or before the first Wednesday 
+of August of this year. 
+ 
+I hereby certify that this measure is in proper form for submission to 
+the people; that the measure is not, either affirmatively or negatively, 
+substantially the same as any measure which has been qualified for submission 
+or submitted to the people at either of the two preceding biennial state 
+elections; and that it contains only subjects that are related or are mutually 
+dependent and which are not excluded from the initiative process pursuant to 
+Article 48, the Initiative, Part 2, Section 2. 
+ 
+In accordance with Article 48, I enclose a fair, concise summary of the 
+measure. 
+ 
+ Sincerely, 
+ 
+ 
+ Andrea Joy Campbell 
+ 
+Enclosure 
+ Corrected line numbers 
+7 of 7 
+Summary of 23-32. 
+This proposed law would specify that rideshare and delivery drivers who accept 
+requests through an online-enabled application are not “employees” for purposes of 
+certain Massachusetts laws regarding workplace conditions, minimum wages, 
+unemployment insurance, and workers’ compensation. This proposed law would also 
+specify that rideshare and delivery companies are not “employers” for purposes of those 
+laws. 
+The proposed law would apply to drivers for rideshare and delivery companies 
+who use digital applications and who are (1) not required to work specific days or hours; 
+(2) not required to accept specific requests; (3) not restricted from working with multiple 
+rideshare or delivery companies; and (4) not restricted from working in any other lawful 
+occupation or business.

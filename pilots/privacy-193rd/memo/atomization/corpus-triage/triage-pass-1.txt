@@ -1,0 +1,68 @@
+H46 | EX-PROGRAM-INCIDENT | "right to privacy of rider information" is one bare item in a paratransit riders' bill of rights the bill creates; no data-handling mechanism (closest call in chunk)
+H134 | EX-PROGRAM-INCIDENT | "maintain the privacy of clients served" is a duty incident to the family resource center network the bill establishes
+H145 | EX-FALSEPOS | "privacy" in the physical sense (own room in family shelter)
+H164 | EX-FALSEPOS | foster-care bill of rights; "personal space and privacy" is bodily/physical privacy
+H165 | EX-PROGRAM-INCIDENT | PII-free fair-hearing reporting and child fatality review-team confidentiality, both incident to programs the bill creates (mortality-review analog)
+H166 | EX-PROGRAM-INCIDENT | "data shall not include personally identifiable information" clause incident to the substance-exposed-newborn reporting program
+H174 | EX-PROGRAM-INCIDENT | c.19C DPPC overhaul; public-records carve-out (s.15), PII-minimization rulemaking (s.16(i)), and registry confidentiality (ss.80-84) are all incident to the abuse investigation/registry program (borderline: s.15 is a disclosure restriction over an existing government record class)
+H194 | EX-FALSEPOS | "privacy rules" and "body boundaries" in a school curriculum mandate
+H201 | EX-PROGRAM-INCIDENT | supporter access-scope and confidentiality duty (f)(1)-(2) is incident to the supported decision-making agreement the bill creates (borderline: handling duty on a private party)
+H211 | EX-FALSEPOS | "reasonable expectation of privacy in personal property in public spaces" is physical, not data handling
+H212 | EX-FALSEPOS | "privacy screen" in a restroom-fixture mandate
+H219 | IN-CORE | filing's primary subject IS a personal-data system: a state-established centralized shared client data bank of nonprofit service-provider client personal data, with consent-based disclosure and c.66A protection duties
+H219 | MECHANISMS | SECTION 1 (new c.6A s.16DD): s.16DD(d) EOHHS establishes and implements the shared client data bank (centralized repository, standardized application, client ID card); s.16DD(e) client written informed consent required before the data bank provides client personal data to member nonprofits, plus affirmative duty to protect client information under c.66A and other state/federal personal-data law; s.16DD(a) definition excludes all data-bank client information from the public-records definition (c.4 s.7 cl.26); s.16DD(c) conditions state grant/loan/contract eligibility on data-bank membership (compelled participation of the data holders)
+H235 | EX-FALSEPOS | "genetic information" appears only in a nondiscrimination class list
+H291 | EX-FALSEPOS | robocall/telephone-solicitation conduct regulation; "HIPPA Privacy Rule" appears only in an exemption cross-reference
+H331 | IN-CORE | c.93B s.4(c)(14) restricts manufacturer collection of dealer retail-customer information to enumerated purposes and bars sharing/sale/transfer to third parties, plus a data-breach indemnification duty
+H331 | MECHANISMS | SECTION 1 (new c.93B s.4(c)(14)): purpose limitation - unfair practice for a manufacturer/distributor/franchisor rep to require a dealer's customer lists, service files, or retail-customer information except for five enumerated purposes (sale/delivery, incentive validation, reasonable marketing, warranty substantiation, safety/recall/legal obligations); disclosure restriction - manufacturer/distributor shall not share, sell, or transfer dealer-sourced customer information to other dealers or third parties absent originating-dealer agreement or franchise termination; breach-liability allocation - mandatory indemnification of the dealer by the manufacturer/distributor/third party with electronic access to consumer or customer data for actual or alleged data security breaches and unlawful use, expressly including costs of disclosing security breaches to customers, and covering access, storage, maintenance, use, sharing, disclosure, and retention
+H352 | EX-PROGRAM-INCIDENT | fingerprint/biometric submission clause incident to the occupational therapy licensure compact the bill adopts
+H426 | EX-PROGRAM-INCIDENT | student/staff privacy and cybersecurity design requirements incident to the emergency-response communication system the bill creates
+H454 | EX-PROGRAM-INCIDENT | anonymized/no-PII publication clause incident to the education data reporting the bill mandates
+H481 | EX-PROGRAM-INCIDENT | generic student-privacy compliance clause incident to the school-choice program reporting
+H517 | EX-FALSEPOS | "surveillance technology" named only as an ineligible use of grant funds
+H560 | EX-FALSEPOS | "surveillance systems" appears as a media-literacy curriculum topic
+H604 | EX-PROGRAM-INCIDENT | c.93H personal-information carve-out from publication is incident to the aggregate immunization-data reporting the bill creates
+H608 | EX-PROGRAM-INCIDENT | "enhance its data privacy protection measures" is a discretionary clause incident to the consolidated charter waitlist system the bill creates
+H611 | EX-ADJACENT | mandates video surveillance systems in schools; physical/video surveillance with no personal-data handling rule
+H615 | EX-FALSEPOS | "privacy" means cubicle curtains between nursing-home beds
+H622 | EX-FALSEPOS | "right to privacy" in boilerplate dignity language for the Elder Advocate's mandate
+H637 | IN-CORE | c.111 s.72CC(f) is a disclosure restriction on a record class (resident sexual orientation, gender identity/transition, intersex, and HIV status PII) held by long-term care facilities, with an affirmative minimization duty
+H637 | MECHANISMS | SECTION 1 (new c.111 s.72CC): s.72CC(f) prohibits a long-term care facility from disclosing personal identifying information regarding a resident's (1) sexual orientation, (2) transgender/non-binary status, (3) gender transition status, (4) intersex status, (5) HIV status unless required by state or federal law; s.72CC(f) second sentence imposes an affirmative duty to take appropriate steps to minimize inadvertent or accidental disclosure to other residents, visitors, and staff, with a staff-performance-of-duties exception (need-to-know limit); s.72CC(e) record-content mandate - resident records including admission records must record the resident's gender and chosen name and pronouns as indicated by the resident; s.72CC(k) DPH regulations with civil penalties/administrative action enforcing the section (attaches to the duty per grain limit)
+H649 | EX-FALSEPOS | "respect home care consumer privacy" is a framing clause in a worker-safety standards mandate
+H651 | EX-FALSEPOS | "privacy and dignity" means single-occupancy room conversion
+H695 | EX-ADJACENT | mandates 24-hour video surveillance of ballot drop boxes; the 22-month retention floor is evidence preservation for election integrity, not a personal-data protection rule
+H718 | EX-FALSEPOS | "privacy screens" as a reimbursable polling-place cost
+H739 | EX-FALSEPOS | "surveillance" in the epidemiological disease-surveillance sense
+H845 | EX-FALSEPOS | "surveillance" of mosquito populations
+H929 | EX-ADJACENT | ATM physical-security mandate; camera recordings and 30-day preservation are incident to premises security with no personal-data rule
+H945 | EX-FALSEPOS | "privacy" in a trade-secret/confidential-business-information balancing clause for drug pricing filings
+H960 | EX-FALSEPOS | "data privacy breaches" appears only in an enumerated list of commercial insurance lines
+H961 | EX-FALSEPOS | "genetic information" appears only in a nondiscrimination class list
+H962 | EX-FALSEPOS | "data privacy breaches" in a cyber-coverage definition for the insolvency fund
+H973 | EX-PROGRAM-INCIDENT | the minimum-necessary personal-information disclosure permission in B(d) is incident to the Death Master File matching and beneficiary-location duty the bill creates
+H1039 | EX-FALSEPOS | "genetic testing" as a covered diagnostic benefit
+H1083 | EX-PROGRAM-INCIDENT | need-to-know access limit on borrower personal information incident to the foreclosure-alternatives program the bill creates
+H1098 | EX-FALSEPOS | "geographic location data" means territorial/ZIP-code rating factors in an insurance rate study, not location privacy
+H1099 | EX-PROGRAM-INCIDENT | anti-surveillance clause is NLRA-style protection of concerted activity, and the c.159A1/2 s.12 trip-data reporting, de-identification, and confidential data-sharing rules are incident to the labor board and reporting regime the bill creates
+H1112 | EX-FALSEPOS | "biometrics" added to the UCC list of authentication elements in a payment-order security procedure; no data-handling rule
+H1115 | EX-FALSEPOS | "genetic testing" as a breast-cancer risk factor in a coverage mandate
+H1158 | EX-PROGRAM-INCIDENT | de-identification, redaction, and data-sharing-agreement clauses incident to the TNC/DNC trip-data reporting regime the bill creates
+H1161 | EX-PROGRAM-INCIDENT | "protecting data privacy" is a study topic for the sickle cell registry the bill contemplates
+H1165 | EX-PROGRAM-INCIDENT | c.12C s.15(e) confidentiality and s.15(f) interagency c.66A personal-data transmission authority are incident to the Betsy Lehman Center patient-safety program
+H1185 | EX-FALSEPOS | "privacy" in a trade-secret/anticompetitive balancing clause for health-market filings
+H1197 | EX-FALSEPOS | genetic sequencing as a covered medical service
+H1211 | EX-PROGRAM-INCIDENT | PII rules of the coordinated licensure information system are incident to the nurse licensure compact (codebook names the nurse-compact data system as excluded)
+H1250 | EX-FALSEPOS | "comply with applicable privacy law" boilerplate on health-equity dashboards
+H1251 | EX-PROGRAM-INCIDENT | same coordinated licensure information system clauses incident to the nursing licensure compact
+H1262 | EX-FALSEPOS | FERPA compliance boilerplate on financial-aid data use
+H1264 | EX-FALSEPOS | FERPA cross-reference authorizing data transfer for an AP-exam analysis
+H1280 | EX-FALSEPOS | FERPA cross-reference authorizing data transfer for an AP/college-credit analysis
+H1286 | EX-FALSEPOS | FERPA cross-reference authorizing data transfer for a dual-enrollment analysis
+H1294 | EX-FALSEPOS | "require no personal information except name and signature" on a financial-aid opt-out form; a form-content rule, not a data-handling rule
+H1295 | EX-FALSEPOS | "genetic information" appears only in a protected-class list
+H1340 | EX-FALSEPOS | "privacy rights" appears only in a list of tenant protections preserved on conversion
+H1403 | EX-ADJACENT | balances a defendant's privacy interest against public access to clerk-magistrate hearings; court-record transparency, not personal-data handling
+H1421 | EX-ADJACENT | expands c.272 s.99 wiretap definitions and designated offenses; real-time interception authority
+H1438 | IN-CORE | restricts disclosure of personal information held in government record systems (RMV files, CORI, court information) to federal agencies, with a probable-cause warrant standard and a public-records PII carve-out
+H1438 | MECHANISMS | SECTION 1 (new c.6 s.167A(j)): bars the department from disclosing to or letting any federal agency access RMV files, data, or information for civil immigration enforcement, with disclosure about an identified individual allowed only on a judge-signed probable cause warrant; same clause authorizes the AG to sue to quash, modify, or contest a noncompliant demand (enforcement attaches to the duty); SECTIONS 2-3 (c.6 s.172(a)(1) and s.172(a)(30)): CORI shall not be accessed or disclosed for any non-criminal-justice purpose, including civil enforcement duties; SECTION 5 (new c.147 s.63(b)): AG consent forms are public records except that the interview subject's name, address, phone number, and other personal identifying information shall not be a public record; SECTION 5 (new c.147 s.63(d)): court officers, clerks, probation, trial court personnel, and prosecutors may give federal agents information about persons in matters before the court only in the same manner and to the same extent as it is lawfully available to the general public, and shall not otherwise notify federal agents of individuals' presence; SECTION 6 (c.258B s.3(x)): court may enter orders maintaining limited disclosure of victims'/witnesses' immigration-status information
+H1439 | EX-PROGRAM-INCIDENT | "data portals without personally identifiable information" clause incident to the Justice Reinvestment Oversight Board reporting the bill restructures

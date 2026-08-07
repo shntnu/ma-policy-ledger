@@ -1,0 +1,851 @@
+FILED ON: 11/15/2023 
+HOUSE . . . . . . . . . . . . . . . No. 4193 
+House bill No. 4178, as amended and passed to be engrossed by the House. November 15, 2023. 
+ 
+The Commonwealth of Massachusetts 
+ 
+_______________ 
+In the One Hundred and Ninety-Third General Court 
+(2023-2024) 
+_______________ 
+ 
+An Act to improve quality and oversight of long-term care. 
+ 
+ Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority 
+of the same, as follows: 
+ 
+1 SECTION 1. Chapter 10 of the General Laws is hereby amended by inserting after 
+2 section 35SSS the following section:- 
+3 SECTION 35TTT. (a) There shall be established and set up on the books of the 
+4 commonwealth a separate fund known as the Long-Term Care Workforce and Capital Fund. The 
+5 fund shall be administered by the secretary of health and human services in consultation with the 
+6 advisory committee established pursuant to subsection (c). The secretary may use amounts 
+7 credited to the fund to pay for: (i) the administration of the capital loan program pursuant to 
+8 subsection (e); and (ii) the workforce training programs pursuant to subsection (d), including the: 
+9 (A) program costs, tuition, books and fees related to the cost of education and training for 
+10 participants in the programs; (B) costs related to obtaining an applicable license, including, but 
+11 not limited to, examination and licensing fees; (C) stipends for program participants; and (D) 
+12 stipends for childcare and transportation for program participants. 
+1 of 35 
+13 (b) The fund shall consist of: (i) any revenues or other financing sources directed to the 
+14 fund by appropriation; (ii) 50 per cent of any amount recovered by the commonwealth and 
+15 credited thereto in connection with civil actions brought pursuant to section 72K of chapter 111; 
+16 (iii) bond revenues or other money authorized by the general court and specifically designated to 
+17 be credited to the fund; (iv) any income derived from the investment of amounts credited to the 
+18 fund or repayment of loans from the fund; (v) funds from public or private sources, including, 
+19 but not limited to, gifts, federal or private grants, donations, rebates and settlements received by 
+20 the commonwealth that are specifically designated to be credited to the fund; and (vi) all other 
+21 amounts credited or transferred into the fund from any other source. The executive office of 
+22 health and human services shall seek to maximize fund revenues through federal money, 
+23 matching funds and grants. Any unexpended balances in the fund at the end of the fiscal year 
+24 shall not revert to the General Fund and shall be available for expenditures in subsequent fiscal 
+25 years. Any fiscal year-end balance in the fund shall be excluded from the calculation of the 
+26 consolidated net surplus pursuant to section 5C of chapter 29. The fund shall not be subject to 
+27 appropriation. 
+28 (c) There shall be an advisory committee that shall consist of the following members: the 
+29 assistant secretary for MassHealth, or their designee, who shall serve as chair; the secretary of 
+30 labor and workforce development, or their designee; the commissioner of public health, or their 
+31 designee; and 2 persons to be appointed by the governor, 1 of whom shall be a representative of 
+32 the Massachusetts Senior Care Association, Inc. and 1 of whom shall be a representative of 
+33 Local 1199 Service Employees International Union. 
+2 of 35 
+34 (d) The secretary of health and human services, in consultation with the advisory 
+35 committee, shall establish, and the executive office of health and human services shall 
+36 administer, workforce training grant programs to: 
+37 (i) train new certified nurses’ aides to work in licensed long-term care facilities; 
+38 (ii) advance the skills of certified nurses’ aides, home health aides, homemakers and 
+39 other entry-level workers in long-term care facilities to improve quality of care and improve 
+40 worker access to and participation in a career pathway to become a licensed practical nurse; and 
+41 (iii) provide long-term care supervisory and leadership training, which shall consist of 
+42 evidence-based supervisory training for the purposes of improving staff satisfaction, retaining 
+43 staff and reducing staff turnover. 
+44 (e) The secretary of health and human services, in consultation with the advisory 
+45 committee, shall establish a no interest or forgivable capital loan program for skilled nursing 
+46 facilities to: 
+47 (i) support the development of specialized care units, including, but not limited to: (A) 
+48 infectious disease isolation; (B) dementia special care; (C) degenerative neurological units; (D) 
+49 geriatric psychiatry; (E) traumatic brain injury; (F) in-house dialysis treatment; (G) behavioral 
+50 health and substance use disorder; and (H) bariatric patient care; 
+51 (ii) enable facilities to offset the costs of pay-go capital; and 
+52 (iii) support innovative projects, including, but not limited to: (A) converting of sections 
+53 within skilled nursing facilities into affordable housing, veterans housing or assisted living units 
+54 to accommodate individual needs of residents; (B) converting multi-bed rooms to single 
+3 of 35 
+55 occupancy to enhance privacy and dignity; and (C) establishing voluntary skilled nursing facility 
+56 reconfigurations, including, but not limited to, providing financial incentives to reduce capacity 
+57 and balance supply and demand based on regional needs. 
+58 (f) Annually, not later than December 1, the secretary of health and human services shall 
+59 report on the activities of the fund to the clerks of the house of representatives and the senate and 
+60 to the house and senate committees on ways and means. The report shall include: (i) an 
+61 accounting of expenditures made from the fund with a description of the authorized purpose of 
+62 each expenditure; (ii) an accounting of amounts credited to the fund; and (iii) any unexpended 
+63 balance remaining in the fund. 
+64 SECTION 2. Chapter 111 of the General Laws is hereby amended by striking out section 
+65 71 and inserting in place thereof the following section:- 
+66 Section 71. (a) For purposes of this section and sections 71A½ to 73, inclusive, the 
+67 following words shall, unless the context clearly requires otherwise, have the following 
+68 meanings: 
+69 “Applicant”, any person who applies to the department for a license to establish or 
+70 maintain and operate a long-term care facility. 
+71 “Charitable home for the aged”, any institution, however named, conducted for charitable 
+72 purposes and maintained for the purpose of providing a retirement home for elderly persons and 
+73 which may provide nursing care within the home for its residents. 
+74 “Cohorting”, the practice of grouping patients who: (i) are colonized or infected with the 
+75 same organism in order to confine their care to 1 area and prevent contact with other patients; or 
+4 of 35 
+76 (ii) are not colonized or infected with the same organism in order to confine their care to 1 area 
+77 and prevent contact with other patients. 
+78 “Convalescent or nursing home”, any institution, however named, including a skilled 
+79 nursing facility, whether conducted for profit or not for profit, which is advertised, announced or 
+80 maintained for the express or implied purpose of caring for 4 or more persons admitted thereto 
+81 for the purpose of nursing or convalescent care. 
+82 “Correct by date”, the date by which a licensee shall remedy or correct any violation 
+83 discovered after an inspection by the department pursuant to section 72E. 
+84 “Endemic level”, the usual level of a given disease in a geographic area. 
+85 “Intermediate care facility for persons with an intellectual disability”, any institution, 
+86 however named, that: (i) is conducted for charity or not for profit; (ii) is advertised, announced or 
+87 maintained for the purpose of providing rehabilitative services and active treatment to persons 
+88 with an intellectual disability or persons with related conditions, as defined in regulations 
+89 promulgated pursuant to Title XIX of the federal Social Security Act, Public Law 89-97; (iii) is 
+90 not both owned and operated by a state agency; and (iv) makes application to the department for 
+91 a license for the purpose of participating in the federal program established by said Title XIX. 
+92 “Isolating”, the process of separating persons colonized or infected with a communicable 
+93 disease from those who are not colonized or infected with a communicable disease. 
+94 “License”, an initial or renewal license issued by the department and which permits the 
+95 licensee to establish or maintain and operate a long-term care facility. 
+5 of 35 
+96 “Licensee”, a person permitted to establish or maintain and operate a long-term care 
+97 facility through a license. 
+98 “Long-term care facility”, a charitable home for the aged, convalescent or nursing home, 
+99 skilled nursing facility, intermediate care facility for persons with an intellectual disability or rest 
+100 home. 
+101 “Long-term care services”, include: (i) long-term resident, nursing, convalescent or 
+102 rehabilitative care; (ii) supervision and care incident to old age for ambulatory persons; or (iii) 
+103 retirement home care for elderly persons. 
+104 “Management company”, an organization engaged by a licensee to manage the operations 
+105 at a long-term care facility. 
+106 “Outbreak”, any unusual occurrence of disease or any disease above endemic levels. 
+107 “Owner”, any person with an ownership interest of not less than 5 per cent, or with a 
+108 controlling interest in an applicant, licensee, potential transferee or the real property on which a 
+109 long-term care facility is located. 
+110 “Person”, an individual, trust, partnership, association, corporation or other form of 
+111 business association. 
+112 “Potential transferee”, a person who submits to the department a notice of intent to 
+113 acquire the facility operations of a currently operating long-term care facility. 
+114 “Religious and recreational activities”, any religious, social or recreational activity that is 
+115 consistent with the resident’s preferences and choosing, regardless of whether the activity is 
+116 coordinated, offered, provided or sponsored by facility staff or by an outside activities provider. 
+6 of 35 
+117 “Resident”, an individual who resides in a long-term care facility. 
+118 “Rest home”, any institution, however named, which is advertised, announced or 
+119 maintained for the express or implied purpose of providing care incident to old age to 4 or more 
+120 persons who are ambulatory and who do not require a specific level of nursing care or other 
+121 medically related services on a routine basis. 
+122 “Skilled nursing facility”, any institution, however named, whether conducted for profit 
+123 or not for profit, which is certified by the federal Centers for Medicare and Medicaid Services for 
+124 the purpose of providing continuous skilled nursing care and rehabilitative services for 4 or more 
+125 persons. 
+126 “Small house nursing home”, 1 or more units of a convalescent or nursing home designed 
+127 and modeled as a residential home including a central living space, kitchen, dining area, living 
+128 area and outdoor space. 
+129 “Transfer of facility operations”, a transfer of the operations of a long-term care facility 
+130 from a licensee to a potential transferee. 
+131 (b)(1) The department shall issue for a term of 2 years, and shall renew for like terms, a 
+132 license, subject to the restrictions in this section, to each applicant the department deems 
+133 responsible and suitable to establish or maintain and operate a long-term care facility and which 
+134 meets all other requirements for long-term care facility licensure pursuant to this chapter. A 
+135 license issued pursuant to this section shall not be transferable or assignable and shall be issued 
+136 only for the premises named in the application. 
+7 of 35 
+137 (2) Each long-term care facility shall be subject to not less than 1 periodic, resident-
+138 centered inspection per year for the purpose of gathering information about the quality of 
+139 services furnished in the long-term care facility to determine compliance with applicable state 
+140 and federal requirements. 
+141 (3) The department may, when public necessity and convenience require, or to prevent 
+142 undue hardship to an applicant or licensee, pursuant to such rules and regulations as it may 
+143 adopt, grant a temporary provisional or probationary license pursuant to this section; provided, 
+144 however, that no such license shall be for a term exceeding 1 year. 
+145 (4) The fee for a license to establish or maintain and operate a long-term care facility 
+146 shall be determined annually by the secretary of administration and finance pursuant to section 
+147 3B of chapter 7. 
+148 (c) The department shall not issue a license to establish or maintain an intermediate care 
+149 facility for persons with an intellectual disability unless the department determines that there is a 
+150 need for such a facility at the designated location; provided, however, that in the case of a facility 
+151 previously licensed as an intermediate care facility for persons with an intellectual disability in 
+152 which there is a change in ownership or transfer of operations, no such determination shall be 
+153 required; and provided further, that in the case of a facility previously licensed as an intermediate 
+154 care facility for persons with an intellectual disability in which there is a change in location, such 
+155 determination shall be limited to consideration of the suitability of the new location. 
+156 (d)(1) In the case of the transfer of facility operations of a long-term care facility, a 
+157 potential transferee shall submit a notice of intent to acquire to the department not less than 90 
+158 days prior to the proposed transfer date. The notice of intent to acquire shall be on a form 
+8 of 35 
+159 supplied by the department and shall be deemed complete upon submission of all information the 
+160 department requires on said form. The potential transferee shall be deemed responsible and 
+161 suitable upon the expiration of the 90-day period, or upon the expiration of said period as 
+162 extended, if the department fails to notify said potential transferee in writing of its decision 
+163 within the 90-day period or within the expiration of the extension period, whichever is 
+164 applicable. 
+165 (2) A potential transferee shall, concurrently with the submission of an intent to acquire, 
+166 provide notice to the current staff of the facility, and to any labor organization that represents the 
+167 facility’s staff at the time the notice of intent to acquire is submitted, of the potential transferee’s 
+168 plans to retain or not retain the facility staff and to recognize and bargain with any labor 
+169 organizations currently representing the facility staff. 
+170 (3) Upon determination by the department that a potential transferee is responsible and 
+171 suitable for licensure, the potential transferee may file an application for a license. In the case of 
+172 a potential transfer of facility operations, the filing of an application for a license shall have the 
+173 effect of a temporary provisional or probationary license until the department takes final action 
+174 on such application. 
+175 (4) Upon an approved transfer of facility operations, the department shall not reduce the 
+176 number of beds it originally approved in granting a license, unless a reduction in the number of 
+177 beds is in the interest of public health, welfare or safety. 
+178 (e) Every applicant for a license shall provide on or with its application, and every 
+179 potential transferee shall provide on or with its notice of intent to acquire, a sworn statement of 
+180 the names and addresses of any owner of the applicant or the potential transferee. 
+9 of 35 
+181 (f) No license shall be issued to an applicant or potential transferee prior to a 
+182 determination by the department that the applicant or potential transferee is responsible and 
+183 suitable pursuant to subsection (g). 
+184 (g) For the purposes of this section, the department’s determination of responsibility and 
+185 suitability shall include, but shall not be limited to, the following factors: 
+186 (1) the criminal history of the applicant or the potential transferee, including its respective 
+187 owners and management companies, and, to the extent possible, the civil litigation history of the 
+188 applicant or potential transferee, including its respective owners and contracted management 
+189 companies, including litigation related to the operation of a long-term care facility, such as 
+190 quality of care, safety of residents or staff, employment and labor issues, fraud, unfair or 
+191 deceptive business practices and landlord-tenant issues; provided, that such criminal and civil 
+192 litigation history may include pending or other court proceedings in the commonwealth and in 
+193 any other state or federal jurisdiction. Any information related to criminal or civil litigation 
+194 obtained by the department pursuant to this section shall be confidential and exempt from 
+195 disclosure under clause Twenty-sixth of section 7 of chapter 4 and chapter 66; 
+196 (2) the financial capacity of the applicant or potential transferee, including its respective 
+197 owners and management companies, to establish or maintain and operate a long-term care 
+198 facility; provided, that financial capacity may include, but shall not be limited to, recorded liens 
+199 or unpaid fees or taxes in the commonwealth or in other states; 
+200 (3) the history of the applicant or potential transferee, including its respective owners and 
+201 management companies, in providing quality long-term care in the commonwealth as measured 
+10 of 35 
+202 by compliance with applicable quality measures, statutes and regulations governing the operation 
+203 of long-term care facilities; and 
+204 (4) the history of the applicant or potential transferee, including its respective owners and 
+205 management companies, in providing quality long-term care in states other than the 
+206 commonwealth, if any, as measured by compliance with the applicable quality measures, statutes 
+207 and regulations governing the operation of long-term care facilities in said states. 
+208 (h)(1) If the department determines that an applicant or potential transferee is not 
+209 responsible and suitable, the department’s determination shall take effect on the date of the 
+210 department’s notice to the applicant or potential transferee. In such cases and upon the filing of a 
+211 written request, the department shall afford the applicant or potential transferee an adjudicatory 
+212 hearing pursuant to chapter 30A. 
+213 (2) During the pendency of an adjudicatory hearing, the applicant or potential transferee 
+214 shall not operate the facility as a licensee, nor, without prior approval of the department, manage 
+215 such facility. 
+216 (i) Each applicant, potential transferee and licensee shall maintain current records of all 
+217 information provided to the department. After the applicant, potential transferee or licensee 
+218 becomes aware of any change related to information it has provided or is required to provide to 
+219 the department, such person shall submit to the department written notice of the change as soon 
+220 as practicable and without unreasonable delay; provided, that any change in financial status shall 
+221 be provided to the department and shall include, but shall not be limited to, filing for bankruptcy, 
+222 any default under a lending agreement or under a lease, the appointment of a receiver or the 
+11 of 35 
+223 recording of any lien. Failure to provide timely notice of such change shall be subject to the 
+224 remedies or sanctions available to the department pursuant to this chapter. 
+225 (j) An applicant, potential transferee or licensee and its respective owners and 
+226 management companies shall comply with all applicable federal, state and local laws, rules and 
+227 regulations. 
+228 (k)(1) Prior to entering into a contract with a management company, an applicant, 
+229 potential transferee or licensee shall notify and receive a determination from the department that 
+230 the management company is responsible and suitable to manage a long-term care facility. 
+231 (2) In its notification to the department and to inform the department’s review, the 
+232 applicant, potential transferee or licensee shall provide the proposed management company’s 
+233 name, contact information and any other information on the proposed management company and 
+234 its personnel that may be reasonably requested by the department, including, but not limited to, 
+235 information required pursuant to subsection (g). Upon a determination by the department that the 
+236 proposed management company is responsible and suitable to manage a long-term care facility, 
+237 the applicant, potential transferee or licensee may engage said company to manage the long-term 
+238 care facility. 
+239 (3) The applicant, potential transferee or licensee shall memorialize any such engagement 
+240 in a written agreement with the management company. Such written agreement shall include a 
+241 requirement that the management company and its personnel comply with all applicable federal, 
+242 state and local laws, regulations and rules. Promptly after the effective date of any such 
+243 agreement, the applicant, potential transferee or licensee shall provide to the department a copy 
+244 of the valid, fully executed agreement. Any payment terms included in the agreement shall be 
+12 of 35 
+245 confidential and exempt from disclosure under clause Twenty-sixth of section 7 of chapter 4 and 
+246 chapter 66. 
+247 (4) If the department determines that a management company is not responsible and 
+248 suitable, the department’s determination shall take effect on the date of the department’s notice 
+249 to the applicant, potential transferee or licensee. In such cases and upon the filing of a written 
+250 request, the department shall afford the applicant, potential transferee, licensee or management 
+251 company an adjudicatory hearing pursuant to chapter 30A. 
+252 (l) The department shall not reduce the number of beds it originally approved in granting 
+253 a license for a convalescent or nursing home or rest home upon the transfer of facility operations 
+254 of said convalescent or nursing home or rest home from 1 licensee to another, unless a reduction 
+255 in the number of beds is in the interest of public health, welfare or safety. 
+256 (m)(1) The department shall not issue a license unless the applicant first submits to the 
+257 department, with respect to each building occupied by residents: (i) a certificate of inspection of 
+258 the egresses, the means of preventing the spread of fire and apparatus for extinguishing fire, 
+259 issued by an inspector of the office of public safety and inspections within the division of 
+260 professional licensure; and (ii) a certificate of inspection issued by the head of the local fire 
+261 department certifying compliance with local ordinances; provided, however, that for 
+262 convalescent or nursing homes, the division of health care quality within the department shall 
+263 have sole authority to inspect and issue a certificate required pursuant to clause (i) of this 
+264 paragraph. 
+265 (2) Any applicant who is aggrieved, on the basis of a written disapproval of a certificate 
+266 of inspection by the head of the local fire department or by the office of public safety and 
+13 of 35 
+267 inspections of the division of professional licensure, may, within 30 days from such disapproval, 
+268 appeal in writing to the division of professional licensure. Failure to either approve or disapprove 
+269 within 30 days after a written request by an applicant shall be deemed a disapproval. With 
+270 respect to certificates of inspection issued to convalescent or nursing homes by the division of 
+271 health care quality within the department, an applicant may, within 30 days from disapproval of 
+272 a certificate of inspection, appeal in writing to the department. Failure to either approve or 
+273 disapprove within 30 days after a written request by an applicant shall be deemed a disapproval. 
+274 (3) If the division of professional licensure or, where applicable, the department approves 
+275 the issuance of a certificate of inspection after an appeal, the certificate shall be issued by the 
+276 issuing agency. If the division of professional licensure or, where applicable, the department 
+277 does not approve the issuance of a certificate of inspection, the applicant may appeal to the 
+278 superior court. Failure of said division or said department to either approve or disapprove the 
+279 issuance of a certificate of inspection within 30 days after receipt of an appeal shall be deemed a 
+280 disapproval. The department shall not issue a license until issuance of an approved certificate of 
+281 inspection, as required pursuant to paragraph (1). 
+282 (4) Nothing in this section or in sections 72 or 73 shall be construed to supersede or 
+283 otherwise affect any laws, ordinances, by-laws, rules or regulations relating to building, zoning, 
+284 registration or maintenance of a long-term care facility. 
+285 (n)(1) For cause, the department may limit, restrict, suspend or revoke a license. 
+286 (2) Grounds for cause on which the department may take action pursuant to paragraph (1) 
+287 shall include: (i) substantial or sustained failure or inability to provide adequate care to residents; 
+288 (ii) substantial or sustained failure to maintain compliance with applicable statutes, rules and 
+14 of 35 
+289 regulations; or (iii) the lack of financial capacity to maintain and operate a long-term care 
+290 facility. 
+291 (3) The limits or restrictions the department may impose on a licensee include requiring a 
+292 facility to limit new admissions. 
+293 (4) Suspension of a license may include suspending the license during a pending license 
+294 revocation action or suspending the license to permit the licensee a period of time, not less than 
+295 60 days, to terminate operations, and discharge and transfer all residents, if applicable. 
+296 (5) With respect to an order by the department to limit, restrict or suspend a license, 
+297 within 7 days of receipt of the written order, the licensee may file a written request with the 
+298 department for an adjudicatory proceeding pursuant to chapter 30A. 
+299 (6) Upon a written request by a licensee who is aggrieved by the revocation or limitation 
+300 of a license or by an applicant who is aggrieved by the refusal of the department to renew a 
+301 license, the licensee or applicant so aggrieved shall have all the rights provided in chapter 30A 
+302 with respect to adjudicatory proceedings. In no case shall the revocation of such a license take 
+303 effect in less than 30 days after written notification by the department to the licensee. 
+304 (o) In the case of the new construction of, or major addition, alteration or repair to, any 
+305 long-term care facility, preliminary and final architectural plans and specifications shall be 
+306 submitted to a qualified person designated by the commissioner. Written approval of the final 
+307 architectural plans and specifications shall be obtained from said person prior to said new 
+308 construction or major addition, alteration or repair. 
+15 of 35 
+309 (p) Notwithstanding any of the other provisions of this section, the department shall not 
+310 issue a license to establish or maintain and operate a long-term care facility to an applicant who 
+311 applies to the department for said license to establish or maintain and operate a convalescent or 
+312 nursing home unless the applicant for such license submits to the department a certificate that 
+313 each building to be occupied by residents of such convalescent or nursing home meets the 
+314 construction standards of the state building code, and is of at least type 1–B fireproof 
+315 construction; provided, however, that this subsection shall not apply in the instance of a transfer 
+316 of facility operations of a convalescent or nursing home whose license has not been revoked as 
+317 of the time of such transfer; and provided, further, that a public medical institution as defined in 
+318 section 8 of chapter 118E, which meets the construction standards as defined herein, shall not be 
+319 denied a license as a long-term care facility pursuant to this section because it was not of new 
+320 construction and designed for the purpose of operating a long-term care facility at the time of 
+321 application for a license to operate a long-term care facility. An intermediate care facility for 
+322 persons with an intellectual disability shall be required to meet the construction standards 
+323 established for such facilities by Title XIX of the Social Security Act, Public Law 89-97 and any 
+324 regulations promulgated pursuant thereto, and by regulations promulgated by the department. 
+325 (q) The department shall notify the secretary of elder affairs of the pendency of any 
+326 proceeding, public hearing or action to be taken pursuant to this section relating to any 
+327 convalescent or nursing home, rest home or charitable home for the aged. The department shall 
+328 notify the commissioner of the department of developmental services of the pendency of any 
+329 proceeding, public hearing or action to be taken pursuant to this section relating to any 
+330 intermediate care facility for persons with an intellectual disability. 
+16 of 35 
+331 SECTION 3. Said chapter 111 is hereby further amended by striking out section 72 and 
+332 inserting in place thereof the following section:- 
+333 Section 72. (a)(1) The department shall classify long-term care facilities and shall, after a 
+334 public hearing, promulgate rules and regulations for the conduct of such facilities. Rules and 
+335 regulations for long-term care facilities shall include, but not be limited to, minimum 
+336 requirements for medical and nursing care, the keeping of proper medical and nursing records, 
+337 uniform requirements for the handling of patient funds, minimum requirements relative to the 
+338 prevention and reparation of lost or damaged patient possessions, including personal clothing 
+339 and minimum requirements relative to facility sanitation. 
+340 (2) Regulations for intermediate care facilities for persons with an intellectual disability 
+341 shall, in addition to the requirements pursuant to paragraph (1), include minimum requirements 
+342 for social services, psychological services and other services appropriate for the care of persons 
+343 with an intellectual disability and shall limit the size of such facilities to not more than 15 beds. 
+344 (3) The department in promulgating rules and regulations for long-term care facilities 
+345 shall consider the ability of long-term care facilities to provide service under rates set pursuant to 
+346 section 13C of chapter 118E. No such rule or regulation shall apply to a long-term care facility 
+347 licensed at the time of promulgation of such rule or regulation, or a long-term care facility being 
+348 constructed at the time of such promulgation under plans approved by the department, unless 
+349 such rule or regulation has a direct and material relation to patient diet, cleanliness, nursing care 
+350 or health, or to habilitative services and active treatment for persons with an intellectual 
+351 disability or persons with related conditions; provided, however, that nothing herein contained 
+17 of 35 
+352 shall be interpreted to prevent the department from adopting or interpreting rules and regulations 
+353 more favorable toward existing long-term care facilities. 
+354 (b)(1) The department or its agents and the board of health or its agents of the city or 
+355 town wherein any portion of such long-term care facility is located may visit and inspect such 
+356 institution at any time; provided, that a board of health or its agents conducting an inspection of a 
+357 long-term care facility located within its city or town shall notify the department of the results of 
+358 any inspection conducted pursuant to this paragraph. 
+359 (2) Any person making an inspection pursuant to paragraph (1) shall record in writing 
+360 every violation of the applicable rules and regulations of the department that they discover 
+361 during the course of their inspection. Every record of inspection shall be treated as a public 
+362 record except to such extent the record or a portion thereof is expressly exempt from such 
+363 treatment pursuant to clause Twenty-sixth of section 7 of chapter 4. A record of inspection 
+364 containing violations shall be made public by the department at the same time that a written plan 
+365 of correction is submitted. If a written plan of correction is not submitted within the allowable 
+366 time, said violations shall be made public at the expiration of the allowable time. Inspections 
+367 hereunder shall be unannounced and made at such intervals as the department shall specify in its 
+368 rules and regulations; provided, that, each long-term care facility shall be subject to not less than 
+369 1 periodic, resident-centered inspection per year pursuant to subsection (b) of section 71. A visit 
+370 made to a facility for the purpose of providing consultation shall not be considered to be an 
+371 inspection. 
+372 (c) The superior court shall have jurisdiction in equity to enforce the rules and regulations 
+373 promulgated pursuant to this section. 
+18 of 35 
+374 (d)(1) The department shall promulgate regulations for the operation of small house 
+375 nursing homes. Newly constructed small house nursing homes shall house no more than 14 
+376 individuals per unit, in resident rooms that accommodate not more than 1 resident per room; 
+377 provided, however, that if a resident requests to share a room with another resident to 
+378 accommodate a spouse, partner, family member or friend, such resident room shall have 
+379 sufficient space and equipment, as established by the department, for 2 residents; provided, 
+380 further, that determinations to grant such requests shall be determined based on space and 
+381 availability of rooms. All resident rooms shall contain a full private and accessible bathroom. 
+382 (2) The department shall promulgate regulations for construction and physical plant 
+383 standards for small house nursing homes that shall consider environmental standards and 
+384 sustainability. 
+385 (3) The department may promulgate regulations for small house nursing homes for a 
+386 staffing model that: (i) allows for a universal worker approach to resident care that is organized 
+387 to support and empower all staff to respond to the needs and desires of residents, including, but 
+388 not limited to, cooking and meal preparation, without exceeding the lawful scope of practice of 
+389 said employee; and (ii) provides for consistent staff in each small house nursing home. 
+390 (4) The regulations promulgated pursuant to this subsection shall ensure the convalescent 
+391 or nursing home meets the requirements necessary to be eligible to participate in both the 
+392 Medicare and Medicaid programs. 
+393 SECTION 4. Said chapter 111 is hereby further amended by striking out section 72E and 
+394 inserting in place thereof the following section:- 
+19 of 35 
+395 Section 72E. (a) The department shall, after every inspection by its agent pursuant to 
+396 section 72, provide the licensee of the inspected long-term care facility notice in writing of every 
+397 violation of the applicable statutes, rules and regulations found during said inspection. With 
+398 respect to the date by which the licensee shall remedy or correct each violation, the department 
+399 in such notice shall specify a reasonable time, not more than 60 days after receipt, by which time 
+400 the licensee shall remedy or correct each violation cited or, in the case of any violation which in 
+401 the opinion of the department is not reasonably capable of correction within 60 days, the 
+402 department shall require only that the licensee submit a written plan for the timely correction of 
+403 the violation in a reasonable manner. The department may modify any nonconforming plan upon 
+404 notice, in writing, to the licensee. 
+405 (b) Failure to remedy or correct a cited violation by the correct by date shall be cause to 
+406 pursue or impose the remedies or sanctions available to the department pursuant to this chapter, 
+407 unless the licensee demonstrates to the satisfaction of the department or a court, where 
+408 applicable, that such failure was not due to any neglect of its duty and occurred despite an 
+409 attempt in good faith to make correction by the correct by date. An aggrieved licensee may 
+410 pursue the remedies available to it pursuant to chapter 30A. 
+411 (c) If the department determines the licensee failed to maintain substantial or sustained 
+412 compliance with applicable state and federal laws, rules and regulations, in addition to imposing 
+413 any of the other remedies or sanctions available to it, the department may require the licensee to 
+414 engage, at the licensee’s own expense, a temporary manager to assist the licensee with bringing 
+415 the facility into substantial compliance and with sustaining such compliance. Such temporary 
+416 manager shall be subject to the department’s approval; provided, that such approval shall not be 
+417 unreasonably withheld. Any such engagement of a temporary manager shall be for a period of 
+20 of 35 
+418 not less than 3 months and shall be pursuant to a written agreement between the licensee and the 
+419 management company. A copy of said agreement shall be provided by the licensee to the 
+420 department promptly after execution. Any payment terms included in the agreement shall be 
+421 confidential and exempt from disclosure pursuant to clause Twenty-sixth of section 7 of chapter 
+422 4 and chapter 66. 
+423 (d) Nothing in this section shall be construed to prohibit the department from enforcing a 
+424 statute, rule or regulation, administratively or in court, without first affording formal opportunity 
+425 to make correction pursuant to this section, where, in the opinion of the department, the violation 
+426 of such statute, rule or regulation jeopardizes the health or safety of residents or the public or 
+427 seriously limits the capacity of a licensee to provide adequate care, or where the violation of such 
+428 statute, rule or regulation is the second such violation occurring during a period of 12 full 
+429 months. 
+430 SECTION 5. Section 72K of said chapter 111, as appearing in the 2022 Official Edition, 
+431 is hereby amended by striking out subsection (b) and inserting in place thereof the following 2 
+432 subsections:- 
+433 (b) The attorney general may file a civil action against a person who: (i) commits abuse, 
+434 mistreatment or neglect of a patient or resident; (ii) misappropriates patient or resident property; 
+435 or (iii) wantonly or recklessly permits or causes another to commit abuse, mistreatment or 
+436 neglect of a patient or resident or misappropriate patient or resident property. The civil penalty 
+437 for such abuse, mistreatment, neglect or misappropriation shall not exceed: $25,000 if no bodily 
+438 injury results; $50,000 if bodily injury results; $100,000 if sexual assault or serious bodily injury 
+439 results; and $250,000 if death results. Section 60B of chapter 231 shall not apply to an action 
+21 of 35 
+440 brought by the attorney general pursuant to this section. Nothing in this section shall preclude the 
+441 filing of any action brought by the attorney general or a private party pursuant to chapter 93A or 
+442 any action by the department pursuant to this chapter. The comptroller shall deposit not less than 
+443 50 per cent of any amount secured by the attorney general as a result of a civil action brought 
+444 pursuant to this section into the Long-Term Care Workforce and Capital Fund established in 
+445 section 35TTT of chapter 10. 
+446 (c) Notwithstanding section 5 of chapter 260, the attorney general may file a civil action 
+447 within 4 years next after an offense is committed. 
+448 SECTION 5A. Said chapter 111 is hereby further amended by inserting after section 
+449 72W, the following section:- 
+450 Section 72W½. (a) For the purposes of this section the following words shall, unless the 
+451 context clearly requires otherwise, have the following meanings: 
+452 “Certified medication aide,” an employee of a long-term care facility that satisfies 
+453 eligibility criteria established by the department and that has successfully completed the required 
+454 training and competency testing developed by the department to administer medications to 
+455 residents of long-term care facilities. 
+456 “Medication”, any non-narcotic, prescription or non-prescription drug that may be 
+457 administered via oral, sublingual, buccal, inhalation, spray on oral mucosa, topical, nasal, ocular, 
+458 or otic route. 
+459 (b) The department shall create a program for the certification, training and oversight of 
+460 certified medication aides who shall be authorized to administer medications to residents of long-
+22 of 35 
+461 term care facilities. Certified medication aides shall be supervised by a licensed practical nurse, a 
+462 licensed registered nurse, a licensed advanced practice registered nurse or a licensed physician, 
+463 and shall be evaluated by their supervisor regularly, but not less than once every 6 months. 
+464 (c) The department, in consultation with the board of registration in nursing, shall 
+465 develop and approve training curricula, competency evaluation procedures and standards for 
+466 qualifications of applicants for certification; provided, that such standards shall include the 
+467 completion of not less than 60 hours of training on the proper administration of medication. 
+468 (d) The department shall establish regulations that include (i) provisions for continuing 
+469 education requirements, (ii) requirements for re-certification on a biennial basis, and (iii) fees for 
+470 the issuance of certifications. 
+471 (e) The department shall allow for the creation of apprenticeship programs for resident 
+472 care assistants and certified nurses’ aides to become certified medication aides. 
+473 (f) Nothing in this section shall be construed to authorize certified medication aides to 
+474 engage in prescriptive practice. 
+475 (g) The department shall promulgate rules and regulations to carry out the provisions of 
+476 this section. 
+477 SECTION 6. Said chapter 111 is hereby further amended by inserting after section 72BB 
+478 the following 4 sections:- 
+479 Section 72CC. (a) The department shall require long-term care facilities to develop an 
+480 outbreak response plan which shall be customized to the long-term care facility. Each long-term 
+481 care facility’s plan shall include, but shall not be limited to: 
+23 of 35 
+482 (1) a protocol for isolating and cohorting infected and at-risk patients in the event of an 
+483 outbreak of a contagious disease until the cessation of the outbreak; 
+484 (2) clear policies for the notification of residents, residents’ families, visitors and staff in 
+485 the event of an outbreak of a contagious disease at a long-term care facility; 
+486 (3) information on the availability of laboratory testing, protocols for screening visitors 
+487 and staff for the presence of a communicable disease, protocols to require infected staff to not 
+488 present at the long-term care facility for work duties and processes for implementing evidence-
+489 based outbreak response measures; 
+490 (4) policies to conduct routine monitoring of residents and staff to quickly identify signs 
+491 of a communicable disease that could develop into an outbreak; 
+492 (5) policies for reporting outbreaks to public health officials, including the chief 
+493 executive officer or the chief administrative officer of the municipality in which the facility is 
+494 located, in accordance with applicable laws and regulations; and 
+495 (6) policies to meet staffing, training and long-term care facility demands during an 
+496 infectious disease outbreak and to successfully implement the outbreak response plan. 
+497 (b) The department shall verify that the outbreak response plans submitted by long-term 
+498 care facilities are in compliance with the requirements of subsection (a). 
+499 (c)(1) Every long-term care facility shall review the outbreak response plan it submitted 
+500 to the department pursuant to subsection (a) on an annual basis. 
+501 (2) If a long-term care facility makes any material changes to its outbreak response plan, 
+502 the facility shall submit to the department an updated outbreak response plan within 30 days. The 
+24 of 35 
+503 department shall, upon receiving an updated outbreak response plan, verify that the plan is in 
+504 compliance with the requirements of subsection (a). 
+505 (d) The department shall promulgate regulations necessary to implement this section. 
+506 Section 72DD. (a) The division of health care facility licensure and certification shall 
+507 establish and implement a process and program for providing training and education to staff of 
+508 long-term care facilities licensed by the department pursuant to section 71. The training and 
+509 education program may include, but shall not be limited to: (i) infection prevention and control; 
+510 (ii) development, implementation, adherence and review of comprehensive resident care plans; 
+511 (iii) falls prevention; (iv) procedures to ensure timely notification of changes in a resident’s 
+512 condition to the resident’s primary care physician; (v) prevention of abuse and neglect; (vi) 
+513 development and implementation of a program to ensure staff safety; and (vii) review of the 
+514 inspection process established in section 72. 
+515 (b) The training and education program shall be interactive and shall include, but shall 
+516 not be limited to: (i) an annual training for long-term care facility supervisory and leadership 
+517 staff on the licensure and certification process, including, but not limited to, the department’s 
+518 interpretation of the general laws and relevant changes or additions to applicable rules, 
+519 regulations, procedures and policies concerning the licensure and certification process for long-
+520 term care facilities; and a (ii) biannual training of staff of long-term care facilities on the most 
+521 frequently cited deficiencies, identified deficiency trends, both state and federal, and best 
+522 practices to ensure resident quality of care. 
+523 (c) The department may consult with industry trade associations before issuing or 
+524 promulgating guidance, regulations, interpretations, program letters, memoranda or any other 
+25 of 35 
+525 materials used in inspector training for the inspection of long-term care facilities pursuant to 
+526 section 72. 
+527 Section 72EE. (a) The department shall promulgate regulations to encourage and enable 
+528 residents of a long-term care facility to engage in in-person, face-to-face, verbal or auditory-
+529 based contact, communications and religious and recreational activities with others to the extent 
+530 that in-person contact, communication or activities are not prohibited, restricted or limited by 
+531 federal or state statute, rule or regulation. Said regulations shall include specific protocols and 
+532 procedures to provide for residents of the facility who have disabilities that impede their ability 
+533 to communicate, including, but not limited to, residents who are blind, deaf, have Alzheimer’s 
+534 disease or other dementias and developmental disabilities. 
+535 (b) The department may distribute federal civil monetary penalty funds, subject to 
+536 approval by the federal Centers for Medicare and Medicaid Services, and any other available 
+537 federal and state funds, upon request, to facilities for communicative technologies and 
+538 accessories pursuant to this section. 
+539 Section 72FF. (a) The department, in consultation with the center for health information 
+540 and analysis, the division of medical assistance, the executive office of elder affairs and the 
+541 health policy commission, shall annually conduct an examination and report on cost trends and 
+542 financial performance among skilled nursing facilities. The information shall be analyzed on an 
+543 institution-specific and industry-wide basis. The examination shall aggregate information 
+544 collected on multiple skilled nursing facilities that are owned and operated by a single owner. 
+545 (b) The examination and report shall include, but shall not be limited to collection and 
+546 analysis of: (i) gross and net patient service revenues; (ii) other sources of operating and non-
+26 of 35 
+547 operating revenue; (iii) trends in relative price, payer mix, case mix, utilization and length of 
+548 stay; (iv) affiliations with other health care providers, including, but not limited to, preferred 
+549 clinical relationships and partnerships; (v) categories of costs, including, but not limited to, 
+550 general and administrative costs, nursing and other labor costs and salaries, building costs, 
+551 capital costs and other operating costs; (vi) total spending on direct patient care as a percent of 
+552 total operating expenses; (vii) operating and total margin; (viii) occupancy rates and total 
+553 resident population; and (ix) any other relevant measures of financial performance and service 
+554 delivery the department deems necessary; provided, that these measures shall distinguish long-
+555 term residents from short-stay residents where possible. 
+556 (c) Annually, not later than December 1, the report and any policy recommendations shall 
+557 be filed with the clerks of the house of representatives and the senate, the house and senate 
+558 committees on ways and means and the joint committee on elder affairs. 
+559 (d) The department shall utilize ownership information submitted as part of the long-term 
+560 care facility licensure determination process pursuant to section 71 to determine affiliations 
+561 between skilled nursing facilities and other health care providers as required. 
+562 SECTION 7. Said chapter 111 is hereby further amended by striking out section 73 and 
+563 inserting in place thereof the following section:- 
+564 Section 73. (a) Whoever advertises, announces, establishes or maintains, or is concerned 
+565 in establishing or maintaining, a long-term care facility, or otherwise is engaged in any such 
+566 business without a license granted pursuant to section 71, or whoever being licensed pursuant to 
+567 said section 71 violates any provision of sections 71 to 73, inclusive, shall for a first offense be 
+27 of 35 
+568 punished by a fine of not more than $1,000, and for a subsequent offense by a fine of not more 
+569 than $2,000 or by imprisonment for not more than 2 years. 
+570 (b) Whoever violates any rule or regulation promulgated pursuant to sections 71, 72 and 
+571 72C shall be punished by a fine, not to exceed $500. If any person violates any such rule or 
+572 regulation by allowing a condition to exist which may be corrected or remedied, the department 
+573 shall order such person, in writing, to correct or remedy such condition. If such person fails or 
+574 refuses to comply with such order by the correct by date, each day after the correct by date 
+575 during which such failure or refusal to comply continues shall constitute a separate offense. A 
+576 failure to pay the fine imposed by this section shall be a violation of this subsection. 
+577 SECTION 8. Section 25 of chapter 118E of the General Laws, as appearing in the 2022 
+578 Official Edition, is hereby amended by inserting after the word “provided.”, in line 61, the 
+579 following 2 sentences:- In the case of an incompetent applicant or member that requires long-
+580 term care services, the division shall authorize a deduction from the applicant or member’s 
+581 income for guardianship fees and related expenses when the appointment of a guardian is 
+582 essential to enable an incompetent applicant or member to gain access or consent to medical 
+583 treatment. The division shall authorize a deduction for the reasonable costs, as approved by the 
+584 probate and family court, associated with: (i) the appointment of a guardian; (ii) the guardian’s 
+585 services during the application process; and (iii) the guardian’s services during the 
+586 redetermination process; provided, however, that said deduction shall not exceed, in any case, 
+587 $1,500. 
+588 SECTION 9. Said chapter 118E is hereby further amended by adding the following 2 
+589 sections:- 
+28 of 35 
+590 Section 83. To establish Medicaid rates for skilled nursing facilities licensed pursuant to 
+591 section 71 of chapter 111, the division of medical assistance shall use as base year costs for rate 
+592 determination purposes the reported costs of the calendar year not more than 2 years prior to the 
+593 current rate year. 
+594 Section 84. (a) The division of medical assistance shall establish a skilled nursing facility 
+595 rate add-on program for bariatric patient care and a rate add-on program for 1-on-1 staffing of at-
+596 risk residents requiring 24-hour monitoring and supervision for their safety and the safety of 
+597 other residents and staff. The division of medical assistance shall identify at-risk resident 
+598 populations to include in the rate add-on program for 1-on-1 staffing which shall include, but not 
+599 be limited to, residents that: (i) have demonstrated suicidal ideation; (ii) have demonstrated 
+600 aggressive behavior toward other residents or staff; (iii) have demonstrated exit-seeking 
+601 behavior; or (vi) are registered sex offenders. The rate add-ons for said program shall be 
+602 sufficient to defray the cost of employing the required staff to conduct the 24-hour monitoring 
+603 and supervision of the at-risk residents. 
+604 (b) The division of medical assistance may develop an add-on to rate of payment for 
+605 skilled nursing facilities that develop small house nursing homes and meet criteria established by 
+606 the executive office. 
+607 SECTION 10. Subsection (c) of section 25 of chapter 176O of the General Laws, as 
+608 appearing in the 2022 Official Edition, is hereby amended by inserting after the second sentence 
+609 the following sentence:- The division shall develop and implement a uniform prior authorization 
+610 form for the admission of patients from an acute care hospital to a post-acute care facility or 
+29 of 35 
+611 transitioned to a home health agency certified by the federal Centers for Medicare and Medicaid 
+612 Services for covered post-acute care services. 
+613 SECTION 11. (a) For the purposes of this section, the following words shall have the 
+614 following meanings unless the context clearly requires otherwise: 
+615 “Enrollee”, as defined in section 8A of chapter 118E of the General Laws; provided, that 
+616 “enrollee” shall include “insured” as defined in section 1 of chapter 176O of the General Laws. 
+617 “Payer”, the group insurance commission under chapter 32A of the General Laws, the 
+618 division of medical assistance under chapter 118E of the General Laws, insurance companies 
+619 organized under chapter 175 of the General Laws, non-profit hospital service corporations 
+620 organized under chapter 176A of the General Laws, medical service corporations organized 
+621 under chapter 176B of the General Laws, health maintenance organizations organized under 
+622 chapter 176G of the General Laws and preferred provider organizations organized under chapter 
+623 176I of the General Laws, or a utilization review organization acting under contract with the 
+624 aforementioned entities. 
+625 “Post-acute care facility or agency”, any: (i) facility licensed under chapter 111 of the 
+626 General Laws to provide inpatient post-acute care services, including, but not limited to skilled 
+627 nursing facilities, long-term care hospitals, intermediate care facilities, or rehabilitation facilities; 
+628 or (ii) a home health agency certified by the federal Centers for Medicare and Medicaid Services. 
+629 (b) Notwithstanding any general or special law to the contrary, all payers shall approve or 
+630 deny a request for prior authorization for admission to a post-acute care facility or transition to a 
+631 post-acute care agency for any inpatient of an acute care hospital requiring covered post-acute 
+632 care services by the next business day following receipt by the payer of all necessary information 
+30 of 35 
+633 to establish medical necessity of the requested service. If the calendar day immediately following 
+634 the date of submission of the completed request is not a payer’s business day, and the payer 
+635 cannot otherwise make a determination by the next calendar day, and the receiving post-acute 
+636 care facility or agency is both open to new admissions and has indicated that said facility or 
+637 agency will accept the enrollee, then prior authorization shall be waived; provided, that the payer 
+638 shall provide coverage and may begin its concurrent review of the admission on the next 
+639 business day; provided further, that the payer shall not retrospectively deny coverage for services 
+640 to an enrollee admitted to a post-acute care facility or transitioned to a post-acute care agency 
+641 after a waiver of prior authorization pursuant to this section unless the claim was a result of 
+642 fraud, waste or abuse. An adverse determination of a prior authorization request pursuant to this 
+643 section may be appealed by an enrollee or the enrollee’s provider and such appeal, in the case of 
+644 an enrollee of a commercial payer, shall be subject to the expedited grievance process pursuant 
+645 to clause (iv) of subsection (b) of section 13 of chapter 176O of the General Laws. An enrollee 
+646 of an insurance program of the division of medical assistance or the enrollee’s provider may 
+647 request an expedited appeal of an adverse determination of a prior authorization request. Nothing 
+648 in this section shall be construed to require a payer to reimburse for services that are not a 
+649 covered benefit. 
+650 (c) In the case of non-emergency transportation between an acute care hospital and a 
+651 post-acute care facility, payers shall approve or deny a request for prior authorization according 
+652 to the same process provided pursuant to subsection (b); provided, that once authorization has 
+653 been granted, said authorization shall be valid for not less than 7 calendar days following 
+654 approval. 
+31 of 35 
+655 (d) The division of insurance and the division of medical assistance shall issue sub-
+656 regulatory guidance to effectuate the purposes of this subsection. 
+657 SECTION 12. (a) There shall be a task force to study and propose recommendations to 
+658 address acute care hospital throughput challenges and the impact of persistent delays in 
+659 discharging patients from acute to post-acute care settings. The task force shall examine: (i) 
+660 hospital discharge planning and case management practices; (ii) payer administrative barriers to 
+661 discharge; (iii) legal and regulatory barriers to discharge; (iv) efforts to increase public 
+662 awareness of health care proxies and the importance of designating a health care agent; (v) post-
+663 acute care capacity constraints and additional opportunities to provide financial incentives to 
+664 increase capacity; (vi) administrative day rates and the cost to hospitals of discharge delays; (vii) 
+665 enhanced hospital case management practices and reimbursement for wraparound services; (viii) 
+666 the adequacy of post-acute care facility insurance networks and the establishment of an out-of-
+667 network rate for post-acute care facilities; (ix) expanding MassHealth Limited coverage to 
+668 include post-acute and long-term care services; (x) the effectiveness of interagency coordination 
+669 to resolve complex case discharges; (xi) the adequacy of reimbursement rates of MassHealth and 
+670 commercial carriers for nonemergency medical transportation; (xii) opportunities to expand 
+671 coverage and reimbursement for services delivered by mobile integrated health programs 
+672 certified by the department of public health and by participating providers in the federal Centers 
+673 for Medicare and Medicaid Services acute hospital care at home program; (xiii) alternative 
+674 transportation options for patients being discharged and transferred to post-acute care facilities or 
+675 home health agencies; and (xiv) the adequacy of state resources and infrastructure to place 
+676 complex case discharges in appropriate post-acute care settings, including, but not limited to, 
+677 patients with dementia diagnoses, geriatric patients with psychiatric diagnoses, patients with 
+32 of 35 
+678 behavioral health diagnoses, patients with substance use disorder diagnoses, justice-involved 
+679 patients, and patients who have been unable to find an appropriate placement for post-acute care 
+680 for 6 months or longer. 
+681 (b) The task force shall consist of: the secretary of health and human services, or a 
+682 designee, who shall serve as chair; the assistant secretary for MassHealth, or a designee; the 
+683 commissioner of mental health, or a designee; the attorney general, or a designee; the 
+684 commissioner of correction, or a designee; 1 sheriff appointed by the Massachusetts Sheriffs’ 
+685 Association, Inc.; 1 member representing the division of the probate and family court department 
+686 of the trial court to be appointed by the chief justice of said division; and 10 members to be 
+687 appointed by the chair, 1 of whom shall be a representative of the Massachusetts Hospital 
+688 Association, Inc., 1 of whom shall be a representative of the Massachusetts Senior Care 
+689 Association, Inc., 1 of whom shall be a representative of the Home Care Alliance of 
+690 Massachusetts, Inc., 1 of whom shall be a representative of the Massachusetts Academy of Elder 
+691 Law Attorneys, 1 of whom shall be a representative from the Massachusetts Ambulance 
+692 Association, Incorporated, 1 of whom shall be a representative from the Massachusetts 
+693 Association of Health Plans, Inc., 1 of whom shall be a representative from Blue Cross and Blue 
+694 Shield of Massachusetts, Inc., 1 of whom shall be a representative from an academic medical 
+695 center located in Worcester county, 1 of whom shall be a representative of an acute care hospital 
+696 located in Suffolk county and 1 of whom shall be a representative from an acute care hospital 
+697 designated by the health policy commission as an independent community hospital for the 
+698 purposes of 105 CMR 100.715(B)(2)(b). 
+699 (c) Not later than July 31, 2024, the task force shall submit its report, including its 
+700 recommendations or any proposed legislation necessary to carry out its recommendations, to the 
+33 of 35 
+701 clerks of the house of representatives and the senate, the house and senate committees on ways 
+702 and means and the joint committee on health care financing. 
+703 SECTION 13. The division of medical assistance shall study the cost and feasibility of 
+704 changes to the eligibility requirements for Medicaid long-term care services with the goal of 
+705 reducing the time applicants spend at acute care hospitals awaiting long-term care eligibility 
+706 determinations. The study shall consider: (i) improvements to the eligibility determination 
+707 process; (ii) establishing a rebuttable presumption of eligibility; (iii) guaranteeing payment for 
+708 long-term care services for up to 1 year regardless of eligibility status; and (iv) expanding the 
+709 undue hardship waiver criteria. The division of medical assistance shall seek input from the 
+710 Massachusetts Senior Care Association, Inc., the Massachusetts Academy of Elder Law 
+711 Attorneys and other interested stakeholders. The division of medical assistance shall submit a 
+712 report with the results of its study and policy recommendations to the clerks of the house of 
+713 representatives and the senate and the house and senate committees on ways and means, not later 
+714 than 180 days after the effective date of this act. 
+715 SECTION 13A. (a) There shall be a task force to evaluate the governance and regulatory 
+716 structure of rest homes in the commonwealth. The task force shall include, but shall not be 
+717 limited to, an examination of the following: (i) the licensing, regulatory, and reporting structure 
+718 for rest homes; (ii) an inventory of licensed rest homes and licensed rest home beds; (iii) the 
+719 location and service areas of existing rest homes; (iv) a review of rest home closures since 2015; 
+720 (v) a review of the recommendations implemented from the nursing facility task force report 
+721 issued pursuant to section 91 of chapter 41 of the acts of 2019; (vi) the feasibility of receiving 
+722 federal reimbursement for rest home expenses; and (vii) a review of the current rate structure for 
+723 rest homes compared to the actual cost of care to residents. 
+34 of 35 
+724 (b) The task force shall consist of the secretary of health and human services, or their 
+725 designee, who shall serve as chair; the secretary of elder affairs, or their designee; the 
+726 commissioner of public health, or their designee; the assistant secretary for MassHealth, or their 
+727 designee; the commissioner of the department of mental health, or their designee; the 
+728 commissioner of the department of transitional assistance, or their designee; the chairs of the 
+729 joint committee on elder affairs, or their designees; 1 person to be appointed by the minority 
+730 leader of the house of representatives; 1 person to be appointed by the minority leader of the 
+731 senate; and 5 members to be appointed by the governor, 1 of whom shall be a representative 
+732 from the Massachusetts Association of Residential Care Homes, Inc., 1 of whom shall be a 
+733 representative of LeadingAge Massachusetts, Inc., 1 of whom shall be a representative of 
+734 Massachusetts Senior Action Council, Inc., 1 of whom shall have direct care giver experience, 
+735 and 1 of whom shall have experience in health care administration and finance. 
+736 (c) The task force shall submit a report of its findings, including any recommendations or 
+737 proposed legislation necessary to carry out its recommendations, to the clerks of the house of 
+738 representatives and the senate and to the house and senate committees on ways and means, not 
+739 later than April 1, 2025. 
+740 SECTION 14. (a) The health policy commission shall conduct an analysis and issue a 
+741 report on the impact of the Medicare shared savings program and participating Medicare 
+742 accountable care organizations, hereinafter referred to as Medicare ACOs, on the financial 
+743 viability of long-term care facilities in the commonwealth and continued access to long-term care 
+744 facility services for Medicare patients. The analysis shall include, but not be limited to, an 
+745 examination of the following: 
+35 of 35 
+746 (i) the impact of Medicare ACOs on clinical eligibility decisions related to initial long-
+747 term care facility placement and patient length of stay for Medicare ACO beneficiaries compared 
+748 to Medicare fee-for-service beneficiaries, including an analysis of the impact of length of stay on 
+749 quality outcomes including readmissions, functional status and patient experience; 
+750 (ii) the amount of payments Medicare ACOs have received from the federal government 
+751 from capitated, shared savings or other related initiatives and how those payments have been 
+752 utilized, or not, to enhance patient care and outcomes in long-term care facilities; 
+753 (iii) Medicare ACO practices related to patient care utilization controls and the financial 
+754 and quality care impact of these controls on beneficiaries in the acute and post-acute care system; 
+755 and 
+756 (iv) Medicare ACOs long-term care network adequacy. 
+757 (b) The health policy commission shall submit the report to the clerks of the house of 
+758 representatives and the senate, the house and senate committees on ways and means, the joint 
+759 committee on health care financing and the joint committee on elder affairs not later than 
+760 December 31, 2024. 
+761 SECTION 15. Notwithstanding any general or special law to the contrary, the division of 
+762 insurance shall develop the uniform prior authorization form for admission to a post-acute care 
+763 facility or transition to a home health agency for any inpatient of an acute care hospital requiring 
+764 covered post-acute care services pursuant to section 25 of chapter 176O of the General Laws, as 
+765 amended by section 10, not later than 90 days after the effective date of this act. The division of 
+766 insurance shall develop said uniform prior authorization form in consultation with the division of 
+767 medical assistance. The division of medical assistance, or any entity acting for the division of 
+36 of 35 
+768 medical assistance under contract, shall accept the uniform prior authorization form as sufficient 
+769 to request prior authorization for the requested service. All acute care hospitals shall use the 
+770 uniform prior authorization form to request prior authorization for coverage of post-acute care 
+771 services at a post-acute care facility or home health agency, and all payers, as defined in section 
+772 11, or entities acting for a payer under contract shall accept such form as sufficient to request 
+773 prior authorization for the requested service, not later than 30 days after the form has been 
+774 developed by the division of insurance. 
+775 SECTION 16. (a) For the purposes of this section, the terms “licensee” and “management 
+776 company” shall have the meanings as defined in section 71 of chapter 111 of the General Laws, 
+777 as amended by section 2. 
+778 (b) Pursuant to section 71 of chapter 111 of the General Laws, as amended by section 2, a 
+779 licensee who has entered into a contract with a management company prior to the effective date 
+780 of this act shall provide the department of public health with the necessary documentation and 
+781 materials for a determination by the department of the responsibility and suitability as described 
+782 in subsection (g) of said section 71 of said chapter 111 of the management company, prior to any 
+783 issuance of a renewed license; provided, however, that the department shall give a licensee 
+784 reasonable time to provide the department with the necessary documents and materials if the 
+785 licensee’s renewal date is within 90 days of the effective date of this act. A licensee’s failure to 
+786 comply with this section shall subject the licensee to the penalties established in section 73 of 
+787 said chapter 111, as amended by section 7. 
+37 of 35 
+788 SECTION 17. Pursuant to section 72CC of chapter 111 of the General Laws, as inserted 
+789 by section 6, each long-term care facility shall submit its outbreak response plan to the 
+790 department of public health not later than 180 days after the effective date of this act. 
+791 SECTION 18. The initial report required by section 72FF of chapter 111 of the General 
+792 Laws, as inserted by section 6, shall be filed with the clerks of the house of representatives and 
+793 the senate, the house and senate committees on ways and means and the joint committee on elder 
+794 affairs not later than 6 months after the effective date of this act. 
+795 SECTION 19. Section 11 is hereby repealed. 
+796 SECTION 20. Section 19 shall take effect 2 years after the effective date of this act. 
+797 SECTION 21. Section 83 of chapter 118E of the General Laws, as inserted by section 9, 
+798 shall take effect on October 1, 2025.

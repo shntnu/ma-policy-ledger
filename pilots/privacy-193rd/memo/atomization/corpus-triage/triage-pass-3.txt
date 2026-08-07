@@ -1,0 +1,74 @@
+H3336 | IN-CORE | school bus camera bill with data-handling regime: vendor RMV data access limits, security/encryption/audit duties, image destruction deadlines, municipal ownership and vendor use ban on recordings
+H3336 | MECHANISMS | new G.L. c.90 s.14C: (c)(1) vendor access to RMV owner data limited to enforcement purpose, security protocol, semiannual background checks, encrypted transmission, annual independent audit; retention paragraph (2): non-violation footage destroyed in 30 days, violation records destroyed 1 year after final disposition, annual destruction attestation to secretary of state, recordings property of municipality, vendor use for any other purpose banned
+H3375 | IN-CORE | school bus camera authorization with the standard c.90J-style surveillance-data regime (capture limits, 48h destruction, disclosure/sale ban, public-record exemption)
+H3375 | MECHANISMS | new chapter s.8(a) capture only on violation + destruction within 48h of final disposition; s.8(b) non-discoverability absent court order; s.8(c) photos/personal identifying info not a public record; s.8(e) city/vendor may not use, disclose, sell, or permit access to camera data except to process violations
+H3379 | EX-PROGRAM-INCIDENT | yellow-dot program bill; personal-info misuse penalty is incident to the program it creates
+H3393 | IN-CORE | statewide automated road safety camera act; ch.90J s.8 is a surveillance-technology data rule set on identifiable photo data
+H3393 | MECHANISMS | SECTION 1 (c.4 s.7 cl.26(w)) public-record exemption for camera photos/personal identifying info; new c.90J s.8(a) capture only on violation + 48h destruction after disposition; s.8(b) non-discoverability/non-admissibility absent court order; s.8(c) not public record; s.8(d) no frontal photos, no operator/passenger identification; s.8(e) use/disclosure/sale/access ban on camera data beyond violation processing
+H3428 | EX-FALSEPOS | transportation-funding task force; "privacy" is a task-force seat for a privacy advocacy org, no data rule
+H3597 | IN-CORE | just-cause employment bill whose s.105E contains workplace electronic monitoring limits, notice duties, and employee data access/correction rights
+H3597 | MECHANISMS | new c.149 s.105E: (i) monitoring-data use restrictions for discipline/discharge (practical-necessity + least-invasive test, independent-auditor filing, ban on relying on biometric/in-home/personal-device/geofencing data); (i) pre-monitoring notice regime incl. vendors, dates/times, right-to-access notice; (j) accuracy duty, employee right to copy work-speed data every 7 days, supplementation and correction rights with employer investigation/adjustment duties; definitions of biometric data/technology, electronic monitoring, work speed data, geofencing (s.105E(a))
+H3601 | EX-PROGRAM-INCIDENT | overdose location-mapping program; HIPAA clause and PII-exclusion on public database are incident to the reporting program it creates
+H3614 | EX-PROGRAM-INCIDENT | Parkinson's registry advisory bill; privacy/confidentiality of registry data incident to the program (codebook names Parkinson's registry as program-incident)
+H3629 | EX-PROGRAM-INCIDENT | prescription monitoring program information-sharing tweak; privacy-rules reference incident to the existing PMP program
+H3637 | IN-CORE | fusion-center bill whose provisions are data-handling rules on criminal intelligence systems (collection limits, dissemination logs, retention/purge, subject access, private right of action), not mere oversight mechanics
+H3637 | MECHANISMS | c.66A amendments: SECTIONS 1-4 definitions (fusion center, criminal intelligence information/system, personal data, protected information); new s.2A annual internal data audits per database (users, access levels, data quantities, sources); new s.2B IG access and biennial compliance report; new s.2C(a) ban on tracking/collecting/maintaining/disseminating protected information absent criminal nexus, (b)(1)-(5) accuracy vetting, written dissemination authorization + 5-yr logs, 5-yr file review with destruction of unreliable data, (b)(6) private right of action with liquidated damages ($2,000 or $200/day) and fees; new s.2D independent audit of suspicious activity reports with purge of noncompliant records; new s.2E privacy-oversight-committee transparency and public training manuals; new s.2F subject access to personal data in criminal intelligence systems
+H3673 | EX-FALSEPOS | EV charging station siting; "surveillance" is physical security video at stations, no data rule
+H3777 | EX-PROGRAM-INCIDENT | eviction-protection bill; notice-to-quit PII confidentiality is incident to the new state reporting requirement it creates
+H3786 | EX-FALSEPOS | "geolocation" is a pretrial GPS monitoring device tampering offense; criminal procedure, no data-handling rule
+H3870 | EX-PROGRAM-INCIDENT | protection-and-advocacy system designation; PII-removal clause incident to the program
+H3897 | EX-PROGRAM-INCIDENT | weapon conveyance program; ban on collecting participants' personal info is incident to the program it creates
+H3917 | EX-FALSEPOS | blockchain BBLLC governance; "security breach" is system integrity of the blockchain, not personal-data breach duties
+H3943 | EX-FALSEPOS | deaf-child language assessment; FERPA-compliance reference only
+H3980 | EX-PROGRAM-INCIDENT | firearms omnibus; sole hit is a de-identified public dashboard clause incident to firearms-data reporting
+H4101 | EX-PROGRAM-INCIDENT | local public health system bill; published-data-excludes-PII clause incident to the program
+H4102 | EX-ADJACENT | consumer-contract transparency (explain changes to ToS/privacy policy); no rule on collection/use/disclosure of personal data
+H4103 | EX-ADJACENT | robotic-device/drone regime with no personal-data handling rule; matches H4832 lineage precedent (physical-surveillance boundary)
+H4152 | EX-FALSEPOS | veterans' services modernization; "privacy requirements" compliance reference in skills-data compilation
+H4166 | IN-CORE | Cambridge home-rule automated enforcement with the same surveillance-camera data regime (capture limit, 48h destruction, disclosure/sale ban, public-record exemption)
+H4166 | MECHANISMS | s.8-equivalent: (a) capture only on violation + destruction within 48h of final disposition; (c) photos/PII not a public record; (e) city/manufacturer/vendor use/disclosure/sale/access ban beyond violation processing
+H4265 | EX-FALSEPOS | AP exam credit policy; FERPA reference only
+H4269 | EX-PROGRAM-INCIDENT | financial-aid form bill; data-minimization clause (name/signature only) incident to the form program
+H4287 | IN-CORE | Salem home-rule automated speed enforcement with the same surveillance-camera data regime
+H4287 | MECHANISMS | s.8: (a) capture only on violation + destruction within 48h of final disposition; (c) photos/PII not public record; use-limitation subsections (d)-(e) on camera operation and data
+H4320 | EX-PROGRAM-INCIDENT | justice reinvestment oversight board; de-identified data portals incident to the oversight program
+H4392 | EX-PROGRAM-INCIDENT | substance-exposed newborns reporting; no-PII clause incident to the program
+H4393 | EX-PROGRAM-INCIDENT | disabled-persons protection commission overhaul; record confidentiality and PII-minimization clauses (ss.15-16, 82-86) incident to the investigation/registry program
+H4397 | EX-FALSEPOS | changing stations; "privacy screen" is physical
+H4486 | EX-FALSEPOS | PFAS bill; "surveillance" is occupational health surveillance program
+H4505 | EX-PROGRAM-INCIDENT | law-enforcement/victim communication pilot; no-PII report clause incident to the pilot
+H4520 | EX-PROGRAM-INCIDENT | civil service modernization; commission protective-order power over sensitive info incident to hearing procedure
+H4521 | EX-FALSEPOS | college-in-high-school; FERPA reference only
+H4566 | EX-PROGRAM-INCIDENT | midwifery access bill; privacy-protective pregnancy-loss data collection incident to the program
+H4567 | EX-PROGRAM-INCIDENT | Parkinson's registry bill; coding/de-identification system incident to the registry (codebook-named program-incident)
+H4597 | EX-FALSEPOS | medical decision-making; "right to privacy" appears in a liability shield for clinician inquiries
+H4620 | EX-PROGRAM-INCIDENT | health market review omnibus; interagency patient-safety data transmission under c.66A safeguards incident to the oversight program
+H4653 | EX-PROGRAM-INCIDENT | redraft of H4620; same interagency data-sharing clause incident to market oversight
+H4654 | EX-PROGRAM-INCIDENT | overdose mapping redraft; no-PII reporting clause incident to the mapping program
+H4672 | EX-ADJACENT | parentage equality; genetic-testing limits are family-law parentage procedure, expressly excluded
+H4677 | EX-FALSEPOS | downtown economic growth; "genetic information" in an anti-discrimination enumeration
+H4681 | EX-PROGRAM-INCIDENT | special education bill; anonymized/no-PII publication clause incident to reporting program
+H4710 | EX-FALSEPOS | home-improvement program; "geolocational" is permit-completion photo verification
+H4833 | EX-ADJACENT | immigration-enforcement cooperation limits (Safe Communities-style); consent-form PII clause and federal info-sharing limits incident to the enforcement-conduct regime
+H4924 | EX-PROGRAM-INCIDENT | supported decision-making framework; personal-info access clauses incident to the agreement framework it creates
+H4949 | EX-PROGRAM-INCIDENT | supported decision-making redraft; same incidental clauses
+H4989 | EX-ADJACENT | erroneous-conviction relief; expungement/sealing is criminal-record remedy (matches H1787 cannabis-sealing exclusion)
+S23 | IN-CORE | supplemental appropriations vehicle carrying the remote-notarization overhaul including the notary personal-information use/sale ban (the P-291 mechanism, cf. 2023 c.2 s.33)
+S23 | MECHANISMS | SECTION 30 (new c.222 s.29): notary shall not use, sell, offer for sale, or transfer personal information obtained from remote notarization identifying principals, witnesses, or named persons, with four narrow exceptions; ancillary program-incident pieces (new c.222 s.28(f) 10-yr audio-visual recording retention, s.28(g) access limited to parties/title insurer/subpoena) attach to the same remote-notary regime
+S68 | EX-FALSEPOS | foster-child bill of rights; "privacy" is personal space/possessions (physical), no data rule
+S96 | EX-PROGRAM-INCIDENT | Senate companion of H4393; confidentiality/PII clauses incident to disabled-persons protection program
+S101 | EX-PROGRAM-INCIDENT | families/children in need of assistance; client-privacy clause incident to the services network
+S105 | EX-FALSEPOS | sudden unexplained pediatric death; "genetic testing" is a bereavement service, no data rule
+S109 | EX-PROGRAM-INCIDENT | supported decision-making companion; incidental personal-info access clauses
+S116 | EX-FALSEPOS | child eye care; "surveillance" is a public-health vision surveillance registry sense
+S124 | EX-PROGRAM-INCIDENT | child welfare protections; no-PII fair-hearing reporting incident to DCF program
+S129 | EX-PROGRAM-INCIDENT | medication-assisted treatment; no-PII data clause incident to the program
+S151 | IN-CORE | dealer franchise bill whose para (14) restricts manufacturer acquisition and bans sharing/sale/transfer of dealer customer personal data (sale-of-data mechanism, cf. trigger-lead precedent)
+S151 | MECHANISMS | c.93B s.4(c) new para (14): manufacturer/distributor may not require dealer customer lists/service files/retail-customer info except five enumerated purposes; ban on sharing, selling, or transferring customer information to other dealers/third parties without originating dealer consent; mandatory indemnification of dealer for data security breaches or unlawful use of customer data by manufacturer/distributor/third parties
+S187 | EX-PROGRAM-INCIDENT | occupational therapy licensure compact; biometric fingerprint submission and compact data system incident to the compact
+S223 | EX-FALSEPOS | school health bill; "surveillance" is COVID pooled surveillance testing
+S249 | EX-PROGRAM-INCIDENT | special education equity; anonymized/no-PII publication clause incident to reporting program
+S276 | EX-PROGRAM-INCIDENT | SAVE Students anonymous reporting program; FERPA-compliance clause incident to the program
+S300 | EX-FALSEPOS | school safety grants; surveillance tech merely listed as ineligible grant use, no data rule
+S314 | EX-FALSEPOS | child abuse-prevention education; "privacy rules" are body-boundary curriculum content
+S321 | EX-PROGRAM-INCIDENT | charter school transparency; waitlist data-privacy-measures clause incident to the enrollment/transparency program

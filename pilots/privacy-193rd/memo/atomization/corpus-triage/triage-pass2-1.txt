@@ -1,0 +1,62 @@
+All 57 verdicts below. Full texts were read for H57, H582, H1105, H1317, H3548, and the four budget bills (H1, H2, H3900, H3901 grep-scanned in full).
+
+H1 | EX-PROGRAM-INCIDENT | FY24 GAA; data-sharing/privacy-compliance provisos incident to funded programs; "surveillance" hits are epidemiological line items
+H2 | EX-PROGRAM-INCIDENT | FY25 GAA; same proviso pattern (early-ed data sharing, boilerplate privacy-compliance), no in-domain outside section found
+H50 | EX-FALSEPOS | election-returns committee report quoting an existing ballot-law summary's nondisclosure language; not proposed legislation
+H53 | EX-FALSEPOS | same committee-report residue; nondisclosure text is quoted law summary, no proposed change
+H57 | IN-CORE | FY23 supplemental carrying the remote-online-notarization article incl. the notary personal-information use/sale prohibition (became 2023 c.2 s.33 / P-291)
+H57 | MECHANISMS | prohibition on notary use, sale, or transfer of personal information obtained in remote notarization identifying signers/witnesses, with enumerated exceptions - inserted G.L. c.222 s.29 (bill text lines 673-677); RON identity-verification via personal/biometric data (lines 377-381) is the program itself, not a census mechanism
+H138 | EX-PROGRAM-INCIDENT | disability-abuse registry the bill creates; registry-records nondisclosure clause is incident
+H162 | EX-PROGRAM-INCIDENT | child fatality review teams; team-records confidentiality incident to review program
+H300 | EX-PROGRAM-INCIDENT | dentist diversion program; participant-records confidentiality incident to program
+H434 | EX-PROGRAM-INCIDENT | school employee-screening scheme; not-public-record clause incident to screening program
+H582 | IN-CORE | primary object is protecting an existing personal health record class: medical immunization-exemption certifications made confidential, nondisclosable outside school health program, inadmissible without parental consent
+H582 | MECHANISMS | disclosure restriction on medical certifications (confidential, no disclosure outside school health program, inadmissible absent written parental consent) plus use restriction (certifications may not be used against physician's rating/standing) - Section 1, rewritten G.L. c.76 s.15
+H648 | EX-FALSEPOS | long-term-care licensure; confidentiality covers applicant facilities' litigation/financial records - firm data
+H794 | EX-FALSEPOS | plastics reporting; trade-secret/proprietary business-data confidentiality
+H934 | EX-FALSEPOS | PBM reform; manufacturer/product-level commercial data nondisclosure
+H942 | EX-PROGRAM-INCIDENT | foreclosure-prevention conference program; session-information confidentiality incident
+H949 | EX-FALSEPOS | homeowners' insurance; insurer methodology data confidential - firm data
+H956 | EX-FALSEPOS | debt-management licensee report confidentiality - firm examination records
+H975 | EX-FALSEPOS | public bank; board voting-record confidentiality, governance not personal data
+H978 | EX-FALSEPOS | healthcare affordability; trade-secret/commercial-information nondisclosure
+H996 | EX-PROGRAM-INCIDENT | state retirement program the act creates; employer-return confidentiality incident
+H998 | EX-PROGRAM-INCIDENT | duplicate of H996; same incident employer-return confidentiality
+H1105 | EX-FALSEPOS | uniform confidentiality for banking-commissioner licensees (debt collectors/loan servicers); examination-privilege over firm records, read in full
+H1176 | EX-FALSEPOS | pharma transparency; trade-secret/commercial-data nondisclosure
+H1201 | EX-FALSEPOS | drug-price transparency; manufacturer data not public record - firm data
+H1215 | EX-FALSEPOS | PBM examination records confidential - firm examination privilege
+H1317 | EX-PROGRAM-INCIDENT | RAFT codification bill (read in full); renter-name not-public-records clause incident to the benefit program
+H1374 | EX-PROGRAM-INCIDENT | companion RAFT bill; same incident tenant-name clause
+H1457 | EX-ADJACENT | probate/family-court procedure; court-ordered record restriction vs a parent, family-law impoundment
+H1599 | EX-PROGRAM-INCIDENT | abortion-access act; consent-form confidentiality incident to the consent procedure it establishes
+H1684 | EX-PROGRAM-INCIDENT | community corrections; pretrial-assessment statement nondisclosure incident to treatment program
+H1701 | EX-ADJACENT | trafficking-survivor petition sealing; court-record sealing as criminal-record remedy
+H1703 | EX-PROGRAM-INCIDENT | animal-abuser conviction-notice scheme; not-public-record clause incident to notification program
+H1718 | EX-PROGRAM-INCIDENT | companion of H1703; same incident notice-nondisclosure clause
+H1782 | EX-ADJACENT | family-law custody procedure; address nondisclosure to parent is impoundment practice
+H1821 | EX-PROGRAM-INCIDENT | prison restorative-justice program; participant-statement confidentiality incident
+H1919 | EX-PROGRAM-INCIDENT | DV-leave entitlement; employer confidentiality of leave information incident to leave program
+H2024 | EX-FALSEPOS | House Rules document; "genetic information" appears in internal anti-harassment protected-class list
+H2128 | EX-PROGRAM-INCIDENT | home-healthcare-worker leave program; leave-information confidentiality incident
+H2266 | EX-PROGRAM-INCIDENT | Prevention and Wellness Trust Fund; MassHealth data-confidentiality clause incident to evaluation program
+H2311 | EX-PROGRAM-INCIDENT | voluntary firearm-disavowal program the bill creates; list nondisclosure incident (not an existing licensee-record class)
+H2330 | EX-PROGRAM-INCIDENT | workplace-violence-prevention leave; employee leave-information confidentiality incident
+H2363 | EX-PROGRAM-INCIDENT | large-capacity-device declaration scheme; declarant name/address confidentiality incident
+H2381 | EX-PROGRAM-INCIDENT | facility-version companion of H2330; same incident leave-confidentiality clause
+H2418 | EX-PROGRAM-INCIDENT | overdose-fatality daily-log scheme the bill creates; log nondisclosure incident
+H2700 | EX-FALSEPOS | assessors' small-business list confidentiality - business/tax administration data
+H2713 | EX-PROGRAM-INCIDENT | Charlemont home-rule local tax; return nondisclosure incident to local program
+H2788 | EX-PROGRAM-INCIDENT | local-option mansion fee; filing nondisclosure incident to local fee program
+H2915 | EX-PROGRAM-INCIDENT | Chatham home-rule transfer fee; return nondisclosure incident to local program
+H2995 | EX-FALSEPOS | public construction bidding; bidder financial information - firm data
+H3500 | EX-PROGRAM-INCIDENT | military-charity registration/transparency scheme; servicemember name/address/deployment confidentiality incident
+H3508 | EX-PROGRAM-INCIDENT | burn-pit registry confidentiality; codebook names this family explicitly as program-incident
+H3548 | IN-CORE | Michlewitz further-amendment text of the FY23 supplemental carrying the same RON article incl. the notary personal-information restriction (H58/2023 c.2 lineage)
+H3548 | MECHANISMS | prohibition on notary use, sale, or transfer of personal information obtained in remote notarization, with enumerated exceptions - inserted G.L. c.222 s.29 (amendment text lines 740-744); RON identity-verification via personal/biometric data (lines 457-461) is the program itself
+H3630 | EX-PROGRAM-INCIDENT | maternal mortality/morbidity review committee; review-data confidentiality is the codebook's named mortality-review exclusion
+H3774 | EX-FALSEPOS | climate bank; trade-secret/commercial-financial nondisclosure - firm data
+H3900 | EX-PROGRAM-INCIDENT | House Ways and Means FY24 budget; only program provisos, epidemiological surveillance line items, and boilerplate privacy-compliance clauses (full-text scan)
+H3901 | EX-PROGRAM-INCIDENT | House-passed FY24 budget; adds a review-records nondisclosure clause (mortality-review-type outside section) and data-center physical-security biometric definition, all program-incident or falsepos (full-text scan)
+H3913 | EX-PROGRAM-INCIDENT | missing-persons initiative; department information nondisclosure incident to the program it creates
+H3929 | EX-FALSEPOS | redraft of H648 long-term-care oversight; same applicant-facility litigation/financial confidentiality - firm data

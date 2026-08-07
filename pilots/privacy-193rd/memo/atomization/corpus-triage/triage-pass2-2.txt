@@ -1,0 +1,61 @@
+H4002 | EX-PROGRAM-INCIDENT | communications-record nondisclosure incident to the transit safety office the bill creates
+H4124 | EX-PROGRAM-INCIDENT | exploitation-report records nondisclosure incident to the senior financial-exploitation reporting program
+H4135 | EX-ADJACENT | ERPO petition court-record confidentiality (protective-order law); biometric = trigger-lock device; c.66 s.10B edits are conforming renumbering/DCJIS-transmission carve-out only
+H4138 | IN-CORE | Affordable Homes Act carries the eviction-record sealing regime with PII nondisclosure (P-295/P-296 lineage; enacted via H4977/2024 c.150 ss.28,52)
+H4138 | MECHANISMS | eviction-record sealing with petition right (SECTION 47, new c.239 s.15(a)-(d)); PII of parties remains sealed on limited-purpose release, no commercial release (SECTION 47, c.239 s.15(d)); "no record" answer right and CRA/consumer-report inquiry duties with AG warning enforcement (SECTION 47, c.239 s.15 consumer-report provisions)
+H4139 | EX-ADJACENT | redraft of H4135; same ERPO court-record confidentiality and conforming firearm-record edits
+H4151 | EX-PROGRAM-INCIDENT | fee/exemption records nondisclosure incident to the home-rule Nantucket transfer-fee program
+H4167 | EX-PROGRAM-INCIDENT | CDC-worker list consumer-PII proviso; recurring program-administration proviso (cf. data/enacted_adjudication.csv 2023 c.77 s.5)
+H4171 | EX-PROGRAM-INCIDENT | same CDC-worker list proviso as H4167 (2023 c.77 s.5 adjudication)
+H4172 | EX-FALSEPOS | "genetic information" as discharge-upgrade antidiscrimination criterion (cf. 2024 c.178 s.136 adjudication)
+H4178 | EX-PROGRAM-INCIDENT | oversight-record confidentiality incident to long-term-care regulatory program; "privacy and dignity" is physical privacy
+H4193 | EX-PROGRAM-INCIDENT | redraft of H4178; same incident clauses
+H4204 | EX-PROGRAM-INCIDENT | same CDC-worker list proviso as H4167 (2023 c.77 s.5 adjudication)
+H4253 | EX-PROGRAM-INCIDENT | anti-surveillance unfair-labor-practice clause incident to the TND bargaining regime (cf. 2024 c.252 adjudication row)
+H4255 | EX-PROGRAM-INCIDENT | participant-PII nondisclosure incident to the psychedelics licensing/regulation program
+H4256 | EX-FALSEPOS | "genetic information" in app-based-driver antidiscrimination list
+H4258 | EX-FALSEPOS | "genetic information" in app-based-driver antidiscrimination list
+H4259 | EX-FALSEPOS | "genetic information" in app-based-driver antidiscrimination list
+H4391 | EX-PROGRAM-INCIDENT | records confidentiality incident to child fatality review teams (mortality-review precedent in codebook)
+H4496 | EX-PROGRAM-INCIDENT | confidential data-sharing-agreement proviso in supplemental budget; recurring program-administration proviso; no SFI section present
+H4517 | EX-FALSEPOS | study order; terms appear only in recited petition titles (underlying bills adjudicated separately)
+H4537 | EX-FALSEPOS | study order; "privacy" in recited nursing-home dignity petition title
+H4570 | EX-FALSEPOS | study order; terms in recited petition titles of studied privacy bills
+H4600 | EX-PROGRAM-INCIDENT | FY25 GAA House version; recurring GAA provisos (EEC/DPH data sharing, lottery, tuition-equity) all adjudicated in data/enacted_adjudication.csv 2024 c.140 rows
+H4601 | EX-PROGRAM-INCIDENT | FY25 GAA version; same recurring provisos as 2024 c.140 adjudication
+H4643 | EX-PROGRAM-INCIDENT | patient-safety data transmission incident to market-review/Lehman center program (2024 c.343 s.48 adjudication); other hits business-record confidentiality
+H4661 | EX-PROGRAM-INCIDENT | burn-pit registry confidentiality and family-advocacy sharing protocol (2024 c.178 ss.139/147 adjudication); genetic term is falsepos
+H4671 | EX-PROGRAM-INCIDENT | redraft of H4661; same burn-pit registry and 51A-sharing clauses
+H4680 | EX-FALSEPOS | study order; "patient privacy" in recited petition title
+H4707 | EX-FALSEPOS | Affordable Homes Act redraft; sealing provision absent (no PII/seal text); hits are "privacy rights" tenant-protection boilerplate
+H4712 | EX-FALSEPOS | committee-matters order; "privacy" in recited petition title
+H4726 | EX-FALSEPOS | Affordable Homes Act redraft; sealing provision absent; "privacy rights" boilerplate only
+H4739 | EX-FALSEPOS | study order; "surveillance" is epidemiological cancer surveillance
+H4743 | EX-PROGRAM-INCIDENT | PII-excluded reporting clause incident to SUD treatment/licensure program
+H4750 | EX-ADJACENT | genetic-testing limits on challenging parentage; family-law procedure, plus birth-record mechanics
+H4758 | EX-PROGRAM-INCIDENT | redraft of H4743; PII-excluded reporting and program-record confidentiality incident to SUD/licensure program
+H4772 | EX-FALSEPOS | "data privacy breaches" as insurance coverage-line description in insolvency-fund definitions
+H4773 | EX-PROGRAM-INCIDENT | DPH pregnancy-loss data collection with privacy safeguard incident to midwifery/perinatal program
+H4785 | EX-PROGRAM-INCIDENT | redraft; same DPH data-collection safeguard clause
+H4790 | EX-PROGRAM-INCIDENT | confidential data-sharing-agreement proviso in supplemental budget; recurring program-administration proviso
+H4800 | EX-PROGRAM-INCIDENT | FY25 GAA enacted vehicle (2024 c.140); all hits are recurring GAA provisos adjudicated row-level in data/enacted_adjudication.csv 2024 c.140
+H4804 | EX-FALSEPOS | "biometric scans"/camera surveillance in data-center physical-security feature definition (cf. 2024 c.238 s.214 falsepos row)
+H4840 | EX-FALSEPOS | licensee financial-statement/examination-record confidentiality; business records, not personal data
+H4891 | EX-FALSEPOS | payer/manufacturer confidential business data exemptions in drug-pricing oversight
+H4910 | EX-FALSEPOS | redraft of H4891; same business-record confidentiality clauses
+H4970 | EX-ADJACENT | redraft of H4750; parentage genetic-testing limits, family-law procedure
+H4976 | EX-PROGRAM-INCIDENT | HERO redraft; burn-pit registry confidentiality and family-advocacy sharing (2024 c.178 adjudication); genetic term falsepos
+H4999 | EX-PROGRAM-INCIDENT | redraft; DPH pregnancy-loss data-collection safeguard clause
+H5033 | EX-PROGRAM-INCIDENT | long-term care redraft; oversight-record confidentiality incident; physical privacy falsepos
+H5049 | IN-CORE | FY24 closeout supplemental version carrying the SFI personal-info withholding expansion (P-294; enacted via H5077/2024 c.248 s.27); DESE/BSEA sharing provisos are program-incident (c.248 ss.17-18 rows)
+H5049 | MECHANISMS | expands info the ethics commission withholds from public SFI copies to personal email, personal/home telephone, and family-member name and home address (SECTION 70, amending c.268B s.3)
+H5050 | EX-PROGRAM-INCIDENT | confidential data-sharing-agreement proviso only; no SFI section in this version
+H5100 | EX-PROGRAM-INCIDENT | econ-dev omnibus (became 2024 c.238); hits are Parkinson's registry, nurse-compact data system, and data-center security definition, all adjudicated in data/enacted_adjudication.csv 2024 c.238 rows
+H5110 | EX-PROGRAM-INCIDENT | DOER communication; PII-treatment clause in building-energy reporting regulations, incident to the reporting program (H3217 precedent)
+H5132 | IN-CORE | further amendment to the closeout supplemental carrying the SFI withholding expansion (P-294; enacted as 2024 c.248 s.27)
+H5132 | MECHANISMS | expands ethics-commission withholding from public SFI copies to personal email, personal/home telephone, and family-member name and home address (SECTION 27, amending c.268B s.3)
+H5143 | EX-PROGRAM-INCIDENT | program-participation record nondisclosure incident to recovery-coach/dental diversion licensure program
+H5154 | IN-CORE | House redraft of S2884 bus-lane enforcement; primary subject includes the automated bus-camera data regime (enacted 2024 c.363, P-299..P-302)
+H5154 | MECHANISMS | public-records exemption for photographs/PII collected under new c.90K (SECTION 1, c.4 s.7 cl.26(w); c.90K s.5(b)); litigation limits - non-discoverability/non-admissibility of camera evidence absent court order (SECTION 3, c.90K s.5(a)); ban on using photographs to identify operator/passengers/contents plus redaction duty (SECTION 3, c.90K s.5(c)); confidentiality and no use/disclosure/sale of camera data by enforcing authorities and vendors (SECTION 3, c.90K s.5(d)); violations kept off driving record/insurance surcharge (SECTION 3, c.90K s.2(f))
+H5159 | EX-PROGRAM-INCIDENT | market-review redraft; patient-safety data transmission incident to Lehman center program (2024 c.343 s.48 adjudication)
+S4 | EX-PROGRAM-INCIDENT | Senate FY25 GAA version; recurring GAA provisos adjudicated in data/enacted_adjudication.csv 2024 c.140 rows

@@ -1,0 +1,75 @@
+All 62 triaged. Verdicts follow.
+
+S1510 | EX-PROGRAM-INCIDENT | Safe Communities Act; primary object is police/ICE cooperation limits, PII public-record carve-outs (s.2 new c.147 s.63(c),(f)) are incident to the procedures the bill creates
+S1535 | EX-PROGRAM-INCIDENT | medical parole; PII-exclusion clause on program reporting only
+S1541 | EX-PROGRAM-INCIDENT | visitation rights bill; excessive-visitor-info collection ban incident to the visitation regime
+S1547 | EX-PROGRAM-INCIDENT | parole review; PII-exclusion clause on program reporting only
+S1548 | EX-PROGRAM-INCIDENT | corrections inspector general; confidentiality handling of investigation records incident to the office it creates
+S1576 | EX-FALSEPOS | resolve creating a DV commission; "electronic monitoring center" is a named official on the member list
+S1756 | EX-FALSEPOS | climate fund annual report; "privacy laws" mentioned as reporting exception
+S1952 | EX-FALSEPOS | long-term care staffing; "client/consumer privacy" respected in worker-safety standards, no data rule
+S1963 | EX-ADJACENT | public-records/transparency bill (government transparency domain); testimony-redaction clause incidental
+S1978 | EX-FALSEPOS | gender-neutral bathrooms; "privacy walls" building-code sense
+S1980 | EX-PROGRAM-INCIDENT | psychology interjurisdictional compact; PII/data-system clauses incident to the licensure compact (codebook lists compacts)
+S1990 | EX-PROGRAM-INCIDENT | language access; report-privacy clause incident to the program
+S2055 | EX-ADJACENT | state auditor access to agency databases; government audit/transparency authority, PII mentioned as content of audited systems
+S2061 | EX-FALSEPOS | legislative workplace equality; "share personal information" as whistleblower right, genetic info in nondiscrimination list
+S2073 | EX-FALSEPOS | food resources office; "personal data" in boilerplate agency-powers list
+S2078 | EX-PROGRAM-INCIDENT | home energy ratings; c.66A minimization clause incident to the scorecard program (H3217 precedent)
+S2109 | EX-PROGRAM-INCIDENT | Gateway Cities retrofit program; owner/tenant PII nondisclosure incident to program evaluation
+S2118 | EX-FALSEPOS | gas safety; "surveillance" of pipe leaks
+S2144 | EX-PROGRAM-INCIDENT | building energy benchmarking; owner/tenant PII nondisclosure incident to the disclosure program (H3217 precedent)
+S2236 | EX-PROGRAM-INCIDENT | peer-to-peer car sharing; single record-security clause (s.10(c)) incident to the insurance/recordkeeping regime
+S2250 | IN-CORE | entire bill governs private investigators' access to and use of RMV personal-data systems, including a facial-recognition access ban
+S2250 | MECHANISMS | SECTION 1 (c.90 s.30A: adds PIs to authorized RMV computer-data users); SECTION 2 (c.147 s.30 new paras 12-13: prohibition on use of RMV data inconsistent with c.147 s.22; prohibition on accessing the RMV facial recognition system); SECTION 3 (mandatory license revocation for violating paras 12-13)
+S2255 | EX-FALSEPOS | transportation funding task force; privacy-advocate seat only
+S2257 | EX-PROGRAM-INCIDENT | autonomous vehicles; AV telemetry capture/18-month retention and privacy-protective rulemaking duties incident to the AV testing/deployment program the bill creates
+S2275 | IN-CORE | school-bus stop-arm camera chapter with dedicated camera-data rules; same mechanism class as the bus-camera family already in census via S2884/2024 c.363 (P-299..P-302)
+S2275 | MECHANISMS | SECTION 1, new c.90J: s.8(a) photos only on violation + destruction within 48 hours of disposition; s.8(b) non-discoverability/non-admissibility without court order; s.8(c) photographs and PII exempt from public records (c.4 s.7 cl.26/c.66); s.8(e) ban on use/disclosure/sale/access to camera data by municipality or vendor except violation processing
+S2434 | EX-PROGRAM-INCIDENT | protection-and-advocacy designation; PII-removal clause on records incident to the P&A system
+S2483 | EX-ADJACENT | robotic-device regulation (weaponization ban, warrant-to-deploy s.122E(i)); matches H4832 census precedent "robotic-device regulation; no personal-data handling rule"
+S2489 | EX-FALSEPOS | veterans' benefits modernization; "privacy requirements" compliance mention in skills-compilation clause
+S2492 | EX-FALSEPOS | drug pricing transparency; "privacy" weighed among trade-secret considerations, manufacturer data not personal data
+S2499 | EX-FALSEPOS | same pharmaceutical transparency text as S2492; same non-domain sense
+S2578 | EX-FALSEPOS | lead poisoning; "public health surveillance" epidemiological sense
+S2584 | EX-PROGRAM-INCIDENT | firearm-reform omnibus; do-not-sell-list confidentiality/destruction (s.131Z(b),(f)) and hospitalization-record transmission limits are incident to the registry and background-check programs the bill creates
+S2600 | IN-CORE | Summer's Law; new bus-lane/bus-stop camera chapter 90K carries the bus-camera data-rules mechanism already in the census (S2884, enacted 2024 c.363, P-299..P-302)
+S2600 | MECHANISMS | SECTION 6 (c.4 s.7 cl.26 new subclause (w): camera photographs/PII public-record exemption); SECTION 8, new c.90K s.5: (a) non-discoverability/non-admissibility without court order; (b) camera data not a public record; (c) ban on using photos to identify operator/passengers/contents + mandatory redaction; (d) confidentiality duty on enforcing authority and vendors, no use/disclosure/sale/access except violation processing
+S2604 | EX. none — correction: see next line
+S2604 | IN-CORE | LGBTQI long-term care bill of rights (redraft of S381/H637); s.72CC(f) is a disclosure restriction on facilities as data holders over resident SOGI/HIV information (enacted 2024 c.197 s.17 dropped this clause, so the c.197 EX-ADJACENT adjudication does not control)
+S2604 | MECHANISMS | SECTION 1, new c.111 s.72CC(f): ban on facility disclosure of a resident's sexual orientation, transgender/non-binary status, transition status, intersex status, or HIV status, plus duty to minimize inadvertent disclosure to residents/visitors/staff; (rest of bill is anti-discrimination/dignity, out of domain)
+S2605 | EX-PROGRAM-INCIDENT | paid family leave; redaction of personal identifiers in published hearing decisions, incident to program adjudication
+S2640 | EX-PROGRAM-INCIDENT | sickle cell care; registry-with-consent/data-privacy recommendations incident to the program (registry precedent)
+S2683 | EX-FALSEPOS | Alzheimer's; BRFSS "surveillance system" epidemiological sense
+S2703 | IN-CORE | Senate redraft in the NDII census family (H1745/S1012/S1139 -> H4115 -> H4241 -> H4744 -> 2024 c.118); carries the NDII distribution offense
+S2703 | MECHANISMS | SECTION 6 (c.265 s.43A(b)(2): NDII criminal distribution offense incl. digitization/deepfakes, intent + reckless-disregard elements; (b)(3) consent-to-create is not consent-to-distribute; (b)(5) court-record confidentiality of visual material, P-280 analog; (b)(6) exemption list; (c) repeat-offender penalty); SECTIONS 1-3, 7 minor-sexting diversion (c.18C s.15, c.119 s.54B, c.272 s.29D - excluded conduct per codebook); SECTION 4 coercive-control definition (excluded conduct)
+S2710 | IN-CORE | further Senate redraft of S2703 in the same NDII census family; same NDII mechanism plus c.258E coercive-control and a technology-harms commission
+S2710 | MECHANISMS | SECTION 7 (c.265 s.43A(b)(2) NDII distribution offense incl. digitization; (b)(3) consent scope; (b)(5) court-record confidentiality, P-280 analog; (c) repeat-offender penalty); SECTIONS 1-3, 8 sexting diversion (excluded conduct); SECTIONS 4-5 coercive control (excluded); SECTION 10 special commission on impersonation/deepfakes/text-message privacy (study only)
+S2803 | EX-PROGRAM-INCIDENT | foster care bill of rights; SOGI-confidentiality and own-record-access items are incident to the DCF program regime, remainder is dignity/care rights
+S2804 | EX-PROGRAM-INCIDENT | child welfare; PII-free reporting clause on fair-hearing statistics
+S2807 | EX-PROGRAM-INCIDENT | special education; anonymized reporting clause on program data
+S2817 | EX-FALSEPOS | veterans HERO act; "genetic information" in a nondiscrimination category list
+S2826 | EX-FALSEPOS | same HERO act text; same non-domain sense
+S2834 | IN-CORE | Senate version of the Affordable Homes Act carrying the full eviction-record sealing regime already in the census (HOMES family H1690/S956/H4356; enacted via H4977/2024 c.150 ss.28,52; P-295/P-296)
+S2834 | MECHANISMS | new c.239 s.16: (b)-(e) petition-based sealing of no-fault/nonpayment/fault eviction court records; (f) PII of parties remains sealed on any research release, no commercial release; (i) consumer-reporting-agency ban on reporting/scoring sealed eviction records + private action + AG enforcement; (j) "no record" answer right on housing/credit applications; SECTION 26 (c.93 s.52(a)(7): sealed eviction records excluded from consumer reports)
+S2850 | IN-CORE | later Senate redraft of the Affordable Homes Act; same eviction-sealing regime as S2834 (same census family P-295/P-296)
+S2850 | MECHANISMS | same as S2834: new c.239 s.16 sealing petitions (b)-(e), PII sealing on release (f), CRA use/reporting ban (i), screening-application notice (j); c.93 s.52(a) CRA exclusion amendment
+S2856 | EX-FALSEPOS | economic-leadership predecessor draft; both personal_information hits are the junk-fee ticket-pricing provision (disclosure before collecting billing info), consumer-protection not data-handling
+S2865 | EX-PROGRAM-INCIDENT | SAPHE 2.0; PII-exclusion on published public-health data, incident to the reporting system
+S2866 | EX-PROGRAM-INCIDENT | Nurse Licensure Compact standalone; codebook names the nurse-compact data system as program-incident (2024 c.238 s.229 precedent)
+S2867 | EX-FALSEPOS | Mass Makers economic bill; "genetic information" in nondiscrimination list
+S2869 | EX-PROGRAM-INCIDENT | Senate economic-leadership omnibus (counterpart of enacted 2024 c.238); no data-primary provision - matches mirror the enacted row-level adjudication: public-health de-identification and Parkinson's-registry/nurse-compact clauses (program-incident), robotics warrant clause (EX-ADJACENT per H4832), ticket-fee personal-info mention and data-center security (EX-FALSEPOS)
+S2871 | EX-PROGRAM-INCIDENT | health care market review; CHIA/center acquisition of patient data from public entities is incident to the cost-analysis program
+S2879 | EX-PROGRAM-INCIDENT | sickle cell redraft, same registry-recommendation text as S2640
+S2881 | EX-PROGRAM-INCIDENT | health care market review redraft, same CHIA data-collection text as S2871
+S2898 | EX-FALSEPOS | harm reduction; "surveillance" means drug-checking equipment
+S2899 | EX-PROGRAM-INCIDENT | perinatal care; privacy-protective pregnancy-loss data collection clause incident to the program
+S2906 | EX-ADJACENT | parentage equality redraft; genetic testing in parentage adjudication is family-law procedure per codebook exclusion
+S2912 | EX-ADJACENT | later parentage redraft, same family-law exclusion
+S2921 | EX-FALSEPOS | harm reduction redraft, same drug-checking "surveillance" sense
+S2928 | EX-PROGRAM-INCIDENT | perinatal care redraft, same data-collection clause as S2899
+S2968 | EX-PROGRAM-INCIDENT | FY24 supplemental budget; DESE/BSEA student-data-sharing authorization incident to special-ed appeals administration
+S2974 | EX-PROGRAM-INCIDENT | later supplemental budget redraft, same DESE/BSEA sharing clause
+S3003 | EX-FALSEPOS | insurer insolvency fund; "data privacy breaches" describes cyber-insurance coverage lines, no data-handling rule
+
+Note on the stray line above: "S2604 | EX..." was a typo artifact; the operative verdict for S2604 is the IN-CORE line that follows it.
