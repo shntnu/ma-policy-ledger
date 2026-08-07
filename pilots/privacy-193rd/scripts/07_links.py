@@ -85,7 +85,8 @@ KINSHIPS = [
      "correct inaccurate personal information processed about the individual",
      f"{K}/family-comprehensive-mdppa.md; {K}/family-mipsa-internet.md"),
     ("P-274", "P-276", "Export/portability right: MDPPA export vs GDPR-style portability",
-     "export covered data... in a portable, machine-readable format",
+     "export to the individual or directly to another entity the covered data of the "
+     "individual ... a portable, structured, interoperable, and machine-readable format",
      "in a structured, commonly used and machine-readable format",
      f"{K}/family-comprehensive-mdppa.md; {K}/family-mipsa-internet.md"),
     ("P-012", "P-034", "Opt-out of transfers/targeted ads: MDPPA vs MIPSA sale/ads opt-out with universal signal",
@@ -201,7 +202,9 @@ KINSHIPS = [
      f"{K}/family-driver-commercial.md; {K}/family-mipsa-internet.md"),
     ("P-226", "P-266", "Interpersonal disclosure restrictions: doxing civil action vs NDII criminal offense (boundary-revision pairing)",
      "the person disseminated the personal information with the malicious intent to cause, aid, encourage or facilitate the harassment",
-     "distributes visual material ... of another identifiable person ... nude or partially nude ... without consent (2024 c.118 s.6)",
+     "whoever knowingly distributes visual material depicting another person, either "
+     "identifiable in the visual material or identified by the distributing person "
+     "... nude, partially nude or engaged in sexual conduct",
      f"{K}/family-driver-commercial.md; data/link_targets.json"),
     ("P-238", "P-211", "Retention limits: ad-network 24-month vs tolling 120-day (same mechanism family, different targets)",
      "for duration of a maximum of twenty-four months from the time of collection",

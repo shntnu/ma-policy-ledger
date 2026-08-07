@@ -94,24 +94,47 @@ for (bill, pid), quote in sorted(_atoms.QUOTES.items()):
         check(False, f"QUOTES: {e}")
         continue
     check(not miss, f"QUOTES[{bill},{pid}] is not verbatim from {bill}: {miss}")
-# and the same over what actually reaches the reviewer
+# and the same over what actually reaches the reviewer.
+# Identity rows name a bill-proposition pair, so the excerpt is checked against
+# that bill. Kinship rows name bare propositions; before this the loop skipped
+# them, leaving 80 of 248 excerpt sides untested while the memo and codebook
+# claimed every queue excerpt was checked - and two of the skipped excerpts
+# were analyst paraphrase. A kinship excerpt is checked against the
+# proposition's carrier bills and must be verbatim from at least one of them.
 _QROW = _re.compile(r"^(P-\d+):([HS]\d+)$")
+_carriers = {}
+for _r in bp:
+    _carriers.setdefault(_r["prop_id"], []).append(_r["bill"])
 for r in queue:
     if r["item_type"] not in ("proposition_kinship", "proposition_identity"):
         continue
     for side, excerpt in (("a", r["excerpt_a"]), ("b", r["excerpt_b"])):
         m = _QROW.match(r[side])
-        if not m:
-            continue  # kinship rows name propositions, not bill-proposition pairs
-        bill = m.group(2)
-        try:
-            miss = verbatim.missing_fragments(bill, excerpt)
-        except ValueError as e:
-            check(False, f"queue excerpt: {e}")
+        if m:
+            bills = [m.group(2)]
+        elif _re.fullmatch(r"P-\d+", r[side]):
+            bills = sorted(_carriers.get(r[side], []))
+            check(bool(bills), f"queue {r[side]} has carrier bills to quote from")
+        else:
+            check(False, f"queue row side {side} is not a proposition or pair: {r[side]!r}")
             continue
-        check(not miss,
+        best, quotable = None, False
+        for bill in bills:
+            try:
+                miss = verbatim.missing_fragments(bill, excerpt)
+            except ValueError:
+                continue  # this carrier has no recoverable text; try the next
+            quotable = True
+            if best is None or len(miss) < len(best[1]):
+                best = (bill, miss)
+            if not miss:
+                break
+        if not quotable:
+            check(False, f"queue excerpt_{side} ({r[side]}): no carrier has recoverable text")
+            continue
+        check(best is not None and not best[1],
               f"queue {r['item_type']} excerpt_{side} ({r[side]}) is not verbatim "
-              f"from {bill}: {miss}")
+              f"from any carrier (closest {best[0]}: {best[1]})")
 
 # links are real edges (non-empty endpoints)
 check(all(r["source"] and r["target"] for r in links), "all links have non-empty endpoints")
