@@ -97,16 +97,21 @@ r = subprocess.run([sys.executable, "05c_link_targets.py"], cwd=PILOT / "scripts
                    env=env, capture_output=True, text=True)
 check(r.returncode == 0, f"05c runs offline from committed cache ({r.stderr.strip().splitlines()[-1] if r.stderr else 'no stderr'})")
 
-# determinism: rerunning 06/07/08 must not change outputs
+# determinism: every generated table must be re-derivable from the committed
+# cache. A table that is snapshotted but whose producer is not rerun here is
+# only checked for self-consistency, so a hand edit that has already been
+# propagated downstream survives a green suite; text_scan.csv and
+# histories.json were in exactly that position.
 snap = {}
 for name in ("bill_propositions.csv", "links.csv", "verification_queue.csv",
              "proposition_fates.csv", "bill_fates.csv", "corpus_scan.csv",
              "census.csv", "sessionlaw_scan.csv", "enacted_probe.csv",
              "enacted_adjudication.csv", "study_order_status.csv",
-             "propositions.csv", "acts_index.csv", "acts_index_sources.csv"):
+             "propositions.csv", "acts_index.csv", "acts_index_sources.csv",
+             "text_scan.csv", "histories.json"):
     snap[name] = (DATA / name).read_bytes()
-for script in ("03b_acts_index.py", "03_sessionlaws.py",
-               "01b_full_corpus_screen.py", "04_inclusion.py",
+for script in ("02_textscan.py", "03b_acts_index.py", "03_sessionlaws.py",
+               "01b_full_corpus_screen.py", "04_inclusion.py", "05_histories.py",
                "06_compile_atoms.py", "07_links.py", "08_fates.py"):
     subprocess.run([sys.executable, script], cwd=PILOT / "scripts",
                    check=True, capture_output=True)
